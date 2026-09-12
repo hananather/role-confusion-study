@@ -83,6 +83,6 @@ original workspace layout or external model assets. The
 archive; inclusion of a script does not establish a fresh-install model rerun.
 
 I preserve frozen prompts, fixtures, raw generations and source packets as
-research data. The portable verification commands in [README.md](README.md)
+research data. The portable verification commands in [REPRODUCING.md](REPRODUCING.md)
 check saved records without model inference. New summaries and navigation are
 packaging; they do not alter the underlying experimental evidence.

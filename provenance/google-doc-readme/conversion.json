@@ -1,0 +1,29 @@
+{
+  "document_url": "https://docs.google.com/document/d/1TLSxlahSmb6FD6uMXVcJpR8a8gyn6xIJvX3adARmJQI/edit?tab=t.0",
+  "title": "MTS12",
+  "tab_id": "t.0",
+  "revision_id": "ANLCKQksjsYLy5BjCP5IM-NK4GKmltb3QGDCNU_feX-sH7Dc_1DjYetWPLehG6QZipplyPNWgjDq7ANnXueafTL2aiWNm20MvWAfAZdjnw",
+  "captured_at": "2026-09-12T07:10:28.853672+00:00",
+  "source": "Google Drive connector native Google Docs readback",
+  "scope": "Full document tab, including the section labeled Working notes. I preserve text and order; this does not mark draft notes as accepted conclusions.",
+  "formatting_changes": [
+    "I map Google Docs headings, emphasis, hyperlinks and lists to Markdown.",
+    "I map page breaks and soft line breaks to continuous Markdown spacing.",
+    "I retain role words but omit Google Docs font and ink styling.",
+    "I escape Markdown and HTML punctuation without changing rendered text."
+  ],
+  "checks": {
+    "rendered_text_matches_source_after_whitespace_normalization": true,
+    "source_paragraphs": 92,
+    "headings": 11,
+    "ordered_method_steps": 6,
+    "hyperlinks": 6,
+    "hyperlink_targets_and_order_preserved": true,
+    "images": 0,
+    "tables": 0
+  },
+  "source_json_sha256": "3e7420ca11de99916728c84b56d4ba522e7e10de4a944084fcf2eed52828e599",
+  "readme_sha256": "e54cae96665c1815966f15086ef092332933e4a7279c4b0482d5ccac082af8bf",
+  "original_readme_preserved_as": "REPOSITORY.md",
+  "google_doc_modified": false
+}

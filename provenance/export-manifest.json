@@ -75,15 +75,15 @@
       "archive_path": null,
       "category": "review packaging",
       "modified": false,
-      "sha256": "a22645892edcd52ddf0eb7a2b11a26a53d483997cda98b16ab0abd96f3e0e811",
-      "bytes": 4684
+      "bytes": 5361,
+      "sha256": "79a552f5dcf8ce4b4970aa06dd6770b70af0163af345b66d10d9172285a3583e"
     },
     "README.md": {
       "archive_path": null,
-      "category": "review packaging",
+      "category": "Google Doc README conversion",
       "modified": false,
-      "sha256": "e2048244ca51d2481d8cdfd928e90e79caf9b56b050e3da3833d5d82fb5c18fb",
-      "bytes": 4111
+      "bytes": 22837,
+      "sha256": "e54cae96665c1815966f15086ef092332933e4a7279c4b0482d5ccac082af8bf"
     },
     "REVIEW.md": {
       "archive_path": null,
@@ -97162,15 +97162,15 @@
       "archive_path": null,
       "category": "review packaging",
       "modified": false,
-      "sha256": "e76a0749b4eace2d190fcabe59e7e40e493a7e52c6ec3fa68b3f38793d8168b0",
-      "bytes": 815
+      "bytes": 886,
+      "sha256": "a0ddb0dc06458dc166adb1cb956025d81fdeb939a03d28d88c2d575367e66617"
     },
     "EXPERIMENTS.md": {
       "archive_path": null,
       "category": "review packaging",
       "modified": false,
-      "sha256": "9a72066ff1652cb45cc2377a9277ca9d3ee206edbf8576fe29d8ceec9b697ddd",
-      "bytes": 16275
+      "bytes": 16285,
+      "sha256": "348f46dfcd8d825bb042ba3567d65b0672898ed4e3abff323f444eb502296e5f"
     },
     "REPORT.md": {
       "archive_path": null,
@@ -97199,11 +97199,39 @@
       "modified": false,
       "sha256": "b9f4f0c304b4ee67de8619c7e6243daf067703187b8582982043b4baa3bf24a5",
       "bytes": 5654
+    },
+    "REPOSITORY.md": {
+      "archive_path": null,
+      "category": "review packaging",
+      "modified": false,
+      "bytes": 4111,
+      "sha256": "e2048244ca51d2481d8cdfd928e90e79caf9b56b050e3da3833d5d82fb5c18fb"
+    },
+    "provenance/google-doc-readme/document.json": {
+      "archive_path": null,
+      "category": "Google Doc README conversion",
+      "modified": false,
+      "bytes": 440603,
+      "sha256": "3e7420ca11de99916728c84b56d4ba522e7e10de4a944084fcf2eed52828e599"
+    },
+    "provenance/google-doc-readme/document-text.txt": {
+      "archive_path": null,
+      "category": "Google Doc README conversion",
+      "modified": false,
+      "bytes": 22273,
+      "sha256": "89f5986f4b4c8edf1c5911f2b1f2e6f1146ccc2ac7c989611dba48255943afce"
+    },
+    "provenance/google-doc-readme/conversion.json": {
+      "archive_path": null,
+      "category": "Google Doc README conversion",
+      "modified": false,
+      "bytes": 1437,
+      "sha256": "2a3af787b6d40deef011cd22fbed5ff563fa6f581b142d5af987d8b5cc1a37cc"
     }
   },
   "manifest_scope": "All review-package files except this manifest itself; the Git commit identifies the manifest. Git internals and interpreter caches are excluded.",
-  "file_count_excluding_manifest": 12126,
-  "bytes_excluding_manifest": 1527291111,
+  "file_count_excluding_manifest": 12130,
+  "bytes_excluding_manifest": 1527779019,
   "source_repository_commit": "cd9c9b30b6f342c7033ebd55d252176a94ef3666",
   "expansion": {
     "captured_at": "2026-09-12T06:51:11.706263+00:00",
@@ -97388,5 +97416,5 @@
       "private application and provider-operation records outside selected scientific trees"
     ]
   },
-  "updated_at": "2026-09-12T06:59:19.364327+00:00"
+  "updated_at": "2026-09-12T07:11:00.474171+00:00"
 }

@@ -1,7 +1,7 @@
 # My review snapshot
 
-I keep the current reading route in [README.md](README.md), the findings in
-[REPORT.md](REPORT.md), and each experiment's status in
+I keep the current reading route in [REPOSITORY.md](REPOSITORY.md), the current document in
+[README.md](README.md), the earlier evidence review in [REPORT.md](REPORT.md), and each experiment's status in
 [EXPERIMENTS.md](EXPERIMENTS.md). This is the initial private review package
 prepared on September 12, 2026.
 

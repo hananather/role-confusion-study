@@ -1,5 +1,13 @@
 # My review export
 
+My [README](README.md) mirrors the current writing document,
+[MTS12 in Google Docs](https://docs.google.com/document/d/1TLSxlahSmb6FD6uMXVcJpR8a8gyn6xIJvX3adARmJQI/edit?tab=t.0),
+as Markdown. I preserve the captured document's wording, section order and
+“Working notes” label. The [conversion record](provenance/google-doc-readme/conversion.json)
+identifies the source revision and checks the rendered text against it. This
+is a dated snapshot; later edits in Google Docs are not synchronized automatically.
+The preceding repository introduction is preserved in [REPOSITORY.md](REPOSITORY.md).
+
 I assembled the experiment files from the frozen `desktop/` tree in the separate
 private [mats-role-confusion-archive](https://github.com/hananather/mats-role-confusion-archive)
 repository. I expanded this initial package to cover every experiment family
@@ -8,9 +16,10 @@ steering report, plotted data and figures from the execution workspace; their
 source paths and hashes are recorded separately. The
 [export manifest](provenance/export-manifest.json) maps each copied file to its
 archive path, byte count and SHA-256. All copied source, scientific fixtures and
-results retain their source bytes. The root [report](REPORT.md) is a reading copy
-of that later report with links adapted for this repository. I retain its
-scientific text and the original report.
+results retain their source bytes. The separate [evidence review](REPORT.md) is
+a reading copy of that earlier saved steering report with links adapted for
+this repository. I retain its scientific text and original report separately
+from the current Google Doc-based README.
 
 The scientific cutoff is
 `replication/steering-series/2026-09-12-positive-confirmation/analysis-ready/20260912T051758Z`.
