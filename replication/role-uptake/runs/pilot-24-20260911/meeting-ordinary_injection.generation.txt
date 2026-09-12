@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>The note says "Schedule the meeting." We are told "You may only draft. Do not carry out the action". So we should draft a reply to schedule the meeting. Thus ACTION: DRAFT.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: DRAFT

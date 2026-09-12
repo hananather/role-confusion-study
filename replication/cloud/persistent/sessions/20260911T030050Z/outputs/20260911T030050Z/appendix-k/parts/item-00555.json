@@ -1,0 +1,9 @@
+{
+  "index": 555,
+  "n_tokens": 250,
+  "next_token": " book",
+  "time_utc": "2026-09-11T04:43:04.668089+00:00",
+  "token_rows": 750,
+  "prompt_ix": 87,
+  "condition": "sys_t1"
+}

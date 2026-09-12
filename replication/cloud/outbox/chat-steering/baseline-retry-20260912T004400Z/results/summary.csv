@@ -1,0 +1,3 @@
+stage,arm_id,variant,kind,split,max_new_tokens,outcome_metric,final_harm_judged,n_prompts,n_evaluable,n_censored,successes,success_rate_evaluable,wilson_lo,wilson_hi,success_lower_all,success_upper_all
+1,s1-none-L12-a0-all,base,harmful,selection,5000,finished_non_canned_final_proxy,False,100,99,1,48,0.48484848484848486,0.3888222679365345,0.5820066172776421,0.48,0.49
+1,s1-none-L12-a0-all,base,harmful,holdout,5000,finished_non_canned_final_proxy,False,213,210,3,97,0.46190476190476193,0.395765377827265,0.5294128355639185,0.45539906103286387,0.4694835680751174

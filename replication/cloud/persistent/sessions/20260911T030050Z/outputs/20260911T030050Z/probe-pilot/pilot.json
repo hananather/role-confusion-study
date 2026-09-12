@@ -1,0 +1,8 @@
+{
+  "forward_sec_per_batch_pilot": 11.17,
+  "full_batches": 40,
+  "forward_full_projected_s": 447,
+  "fit_sec_per_probe_pilot": 0.5,
+  "full_probes": 384,
+  "note": "pilot fits use ~25x fewer rows; the reference H200 run took 8.4 s per probe on the full data (803 s / 96)"
+}

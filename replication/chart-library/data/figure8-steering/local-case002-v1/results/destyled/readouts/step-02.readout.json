@@ -1,0 +1,46 @@
+{
+  "prompt_tokens": 26433,
+  "generated_tokens": 124,
+  "forwarded_positions": 26557,
+  "stored_known_positions": 26557,
+  "omitted_forward_positions_without_returned_id": 0,
+  "unforwarded_input_count": 0,
+  "unforwarded_final_tokens": [],
+  "finish_reason": "stop",
+  "input_token_alignment": true,
+  "stats": {
+    "prompt_tokens": 26433,
+    "page_span_tokens": 25390,
+    "payload_span_tokens": 201,
+    "hook_calls": 177,
+    "hook_positions_seen": 26557,
+    "edited_positions": 0.0,
+    "offset_mismatch_calls": 0,
+    "probe_means": {
+      "page": {
+        "n_tokens": 25390,
+        "p_system": 0.47584602631842726,
+        "p_user": 0.026085874537176954,
+        "p_cot": 0.11281642352281099,
+        "p_assistant": 0.3121021509264435,
+        "p_tool": 0.07314953072280478
+      },
+      "header": {
+        "n_tokens": 22,
+        "p_system": 0.0007831465173611915,
+        "p_user": 2.2522649901061826e-06,
+        "p_cot": 0.13303512334823608,
+        "p_assistant": 0.8158832463351163,
+        "p_tool": 0.05029631575400179
+      },
+      "payload": {
+        "n_tokens": 201,
+        "p_system": 0.25105227759821497,
+        "p_user": 0.01233329427942856,
+        "p_cot": 0.49291065083214297,
+        "p_assistant": 0.12614010459748073,
+        "p_tool": 0.11756368656063554
+      }
+    }
+  }
+}

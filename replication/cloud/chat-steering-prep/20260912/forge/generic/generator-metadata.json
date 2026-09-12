@@ -1,0 +1,13 @@
+{
+  "generator_model_requested": "gpt-6-astra",
+  "auth": "ChatGPT",
+  "api_key_environment_removed": true,
+  "stub_sha256": "4c1bea0615fe471c1055782a7034d76ed3e68bf58a582cf55e47271044aa0ea3",
+  "prompt_construction": "e8 forge-stub prompt_text, unchanged UTF-8 bytes",
+  "divergences": [
+    "Codex CLI model replaces gemini-2.5-pro",
+    "Original message contents are flattened with role headings by e8 forge-stub; Codex retains its own system instructions",
+    "Temperature 0 is not exposed by codex exec; not asserted equivalent"
+  ],
+  "rows_requested": 5
+}

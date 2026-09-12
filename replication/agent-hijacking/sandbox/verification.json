@@ -1,0 +1,37 @@
+{
+  "verified_at_utc": "2026-09-11T21:40:14Z",
+  "test_command": "python3 -m unittest discover -s tests -p test_sandbox.py -v",
+  "tests": 11,
+  "real_docker_tests": 6,
+  "simulated_cleanup_failure_tests": 5,
+  "failures": 0,
+  "errors": 0,
+  "elapsed_seconds": 15.657,
+  "model_calls": 0,
+  "image": "mats-agent-hijacking-sandbox:2026-09-11",
+  "image_id": "sha256:6bc0091951af99f95b3fda7442a4cbdd5900f54991831807c67f3ae436af7886",
+  "architecture": "arm64",
+  "image_size_bytes": 156357784,
+  "docker_server_version": "27.3.1",
+  "remaining_test_containers": 0,
+  "verified_test_methods": [
+    "test_exception_cleans_up",
+    "test_fresh_episode",
+    "test_independent_watchdog",
+    "test_large_page_preserves_tail",
+    "test_read_upload_and_privilege_boundary",
+    "test_timeout_output_limit_and_background_cleanup",
+    "test_close_failure_is_retryable_and_blocks_tools",
+    "test_missing_different_container_is_not_absence",
+    "test_remove_success_requires_verified_absence",
+    "test_transient_failure_then_exact_absence",
+    "test_transport_failure_is_not_absence"
+  ],
+  "development_fixes_before_final_pass": [
+    "Initialize and chown the dummy workspace in an order compatible with minimal root capabilities.",
+    "Enter the private workspace after dropping to the evaluated UID.",
+    "Enable Docker init to reap orphaned child processes.",
+    "Increase output and per-file limits to 1 MiB to preserve the injected tail of admitted pilot pages.",
+    "Require verified exact-container absence after cleanup, expose failures, block tools after failed cleanup, and share bounded retries with the watchdog."
+  ]
+}

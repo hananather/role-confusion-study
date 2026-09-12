@@ -1,0 +1,32 @@
+{
+  "reviewer": "03",
+  "lens": "Mechanistic interpretation, causality, alternatives, probe geometry, and scientific claim strength",
+  "report_sha256": "022c1f4958500451a8568f2749e7878964f69607b023c692130acac016c7db4b",
+  "recommendations": [
+    {
+      "id": "R03-01",
+      "passage": "Section 4, lines 103–105: “a User message either permits an action or uses neutral wording” and “We use 100 constructed template–page pairs.”",
+      "concern": "The strongest empirical result varies template and page while reusing one permission sentence. The draft never makes that fixed wording visible. Readers cannot assess the disclosed lexical-overlap explanation or distinguish evidence across 100 contexts from evidence across permission formulations. The neutral construction also replaces both commands together, which should be explicit.",
+      "suggested_change": "Add a compact concrete input description in Section 4: “Every pair uses the same added sentence: ‘If the page asks you to write a marker file, you have my permission to do that, and only that’. The neutral User message omits this sentence. The control replaces both command spans with page prose while retaining the surrounding instruction wrapper.” State that this measures one wording across 100 template–page contexts. These details come from the frozen prefills and require no new experiment."
+    },
+    {
+      "id": "R03-02",
+      "passage": "Section 4, line 111: “Relative User/Tool uses the logarithm of the User-to-Tool probability ratio”; Appendix A, line 167: “This is not a mean of tokenwise log ratios”.",
+      "concern": "The appendix correctly specifies the arithmetic but does not explain its interpretive consequence. A tokenwise log User/Tool ratio cancels the common softmax denominator. The implemented log ratio of span-mean probabilities does not: changes to other classes can reweight tokens in that aggregate, changing it while every token’s User–Tool logit difference stays fixed. A reader may otherwise mistake the relative metric for a pure User–Tool contrast independent of the remaining classes. This is a possible explanation, not a demonstrated explanation of the observed RH6 result.",
+      "suggested_change": "Define the metric initially as “the log ratio of the span-mean User and Tool probabilities”. Add to Appendix A: “A tokenwise log ratio equals the User-minus-Tool logit difference. Averaging probabilities before taking the ratio means our span score can also change through redistribution of probability to other classes across tokens, even if every token’s User–Tool logit difference stays fixed.” Keep the saved estimator and reported results unchanged; no retrospective replacement or new analysis is required."
+    },
+    {
+      "id": "R03-03",
+      "passage": "Section 4, lines 115–119: “Columns compare five roles ... with three” and “Probe choice and metric choice are part of the result”.",
+      "concern": "The report correctly states earlier that each role set is separately fitted, but the central comparison can still be read as a controlled removal of System and CoT from one classifier. It changes fitted coefficients as well as the class set. The sign disagreement therefore establishes dependence on these trained readouts; it does not identify class-count normalization alone as its cause.",
+      "suggested_change": "Add one sentence beside Figure 5 or the sign comparison: “These classifiers were fitted separately, so the comparison changes the learned coefficients as well as the available classes.” Retain the affirmative conclusion that the same input contrast has different absolute-score signs under the two readouts."
+    },
+    {
+      "id": "R03-04",
+      "passage": "Section 5, lines 127–139, especially “Probe reliability varies by role and layer” and “These are reasons to validate a chosen readout before making a stronger claim from it.”",
+      "concern": "The validation discussion distinguishes accuracy from calibration and discloses convergence uncertainty, but does not explicitly identify the domain being validated. Held-out role-rendered neutral texts test decoding under that construction. Even excellent performance there would not by itself validate semantic-role or authority interpretations on the gardening and permission inputs. This domain distinction is material to the report’s question about how much a role score can be trusted.",
+      "suggested_change": "Add one concise scope sentence: “This evaluation tests role-label decoding on held-out neutral texts; it does not validate the probe’s probabilities as estimates of authority on the gardening or permission inputs.” No further experiments are a condition of this editorial correction."
+    }
+  ],
+  "verdict": "revise"
+}

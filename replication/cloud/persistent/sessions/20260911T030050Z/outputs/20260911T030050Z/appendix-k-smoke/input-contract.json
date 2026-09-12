@@ -1,0 +1,27 @@
+{
+  "mode": "appendix-k",
+  "n_items": 6,
+  "layers": [
+    8,
+    12,
+    16
+  ],
+  "spaces": [
+    "suca"
+  ],
+  "probe_file": "/workspace/results/20260911T030050Z/probes-full/probes.npz",
+  "probe_present": true,
+  "probe_split": "prompt",
+  "input_sha256": {
+    "/workspace/replication/appendix-k/runs/neutral/prompts.parquet": "e54364257a9207b6a29bcc5765f6ba7c2227f2d5a31c688f3798f8cb444e0941",
+    "/workspace/replication/appendix-k/runs/neutral/build_meta.json": "ae705bf807384e8c1e6070d2b09758051dd728b2e341c4a3a6c6d0b49b2b86ea"
+  },
+  "total_stored_tokens": 923,
+  "n_templates": null,
+  "inherited_span_ends_past_text": 0,
+  "probe_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "source_sha256": "fbeaf0922ad036fe48e788ff3ea758088fd613781575d40fadce0fb6287a4033",
+  "legacy_analysis_sha256": "d22247b4ba9fef16d86468a6ae5ab361d522a6e0ab653b7d6d0a9d317e9535ac",
+  "authors_commit": "ec333c40fd43fe991e1ebf66765051b6d7e35784",
+  "limit": 1
+}

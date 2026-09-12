@@ -1,0 +1,39 @@
+{
+  "note": "cosines between role directions; dev-10 class means at the post_attention_layernorm site (probe site), trained sucat probe rows (prompt split), and block-11 output class means (steering site)",
+  "layers": {
+    "8": {
+      "class_means_probe_site": {
+        "cos_tu_tc": -0.03974959999322891,
+        "cos_tu_cu": 0.7476266622543335
+      },
+      "probe_rows": {
+        "cos_tu_tc": 0.19884835183620453,
+        "cos_tu_cu": 0.7790759801864624
+      }
+    },
+    "12": {
+      "class_means_probe_site": {
+        "cos_tu_tc": 0.0297737754881382,
+        "cos_tu_cu": 0.8153046369552612
+      },
+      "probe_rows": {
+        "cos_tu_tc": 0.1617375612258911,
+        "cos_tu_cu": 0.7773117423057556
+      }
+    },
+    "16": {
+      "class_means_probe_site": {
+        "cos_tu_tc": 0.008568353950977325,
+        "cos_tu_cu": 0.9038124680519104
+      },
+      "probe_rows": {
+        "cos_tu_tc": 0.12593410909175873,
+        "cos_tu_cu": 0.8294339776039124
+      }
+    }
+  },
+  "block11_steering_site": {
+    "cos_tu_tc": -0.13258662819862366,
+    "cos_tu_cu": 0.8656762838363647
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "stage": 1,
+  "started_unix": 1789173860.740027,
+  "progress_unix": 1789174869.571504,
+  "arm": "s1-none-L12-a0-all",
+  "completed": 32,
+  "total": 32,
+  "completed_rows": 293,
+  "unix": 1789175062.025746,
+  "pid": 524,
+  "rows": 293
+}

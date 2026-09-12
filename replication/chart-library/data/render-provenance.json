@@ -1,0 +1,84 @@
+{
+  "offline_offsets": {
+    "n_conversations": 1,
+    "n_display_tokens": 512,
+    "reference_tokens": 921,
+    "reference_norm": 45.24711366617226,
+    "new_model_forward": false,
+    "source_role_counts": "{('tool', 'assistant'): 240, ('tool', 'cot'): 177, ('tool', 'user'): 95, ('user', 'assistant'): 240, ('user', 'cot'): 177, ('user', 'user'): 95}"
+  },
+  "probe_recall": {
+    "prompt:sucat": {
+      "n_original_groups": 1245,
+      "n_train_groups": 1121,
+      "n_test_groups": 124,
+      "n_original_rows": 705390,
+      "n_train_rows": 637663,
+      "n_test_rows": 67727
+    },
+    "base:sucat": {
+      "n_original_groups": 249,
+      "n_train_groups": 225,
+      "n_test_groups": 24,
+      "n_original_rows": 705390,
+      "n_train_rows": 648705,
+      "n_test_rows": 56685
+    }
+  },
+  "sources": [
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/provenance.json",
+      "sha256": "a5ecdc63698d4351c25a6fa04219902969ef62317ad0062aad258837ea047b94"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/split-audit.json",
+      "sha256": "9e6db884bf710531541e6bb192272dbe84239cee47fbc3e53e66a2dbf59a9900"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b.csv",
+      "sha256": "0f5ae1cb3eed0d9d8b52119f3c2825ca253779215f1fca983092b64e6ee1d596"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b-basesplit.csv",
+      "sha256": "4c5b01c22eae8a94c687ea3e30d8901abb3e3f49dee8b2ff82ce8f2b0c981130"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/my-h100-gardening-overview.png",
+      "sha256": "ea97ced82bb08fccfcdaf4b6a19d037a6dfa0defae81ccf7cfb17b7d4f5be163"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/my-h100-gardening-overview.pdf",
+      "sha256": "fc032e5f14a9640c34034f08a971da07624c1047f9a3312fdf76a09cbe4810f8"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/probe-offsets-1pct.png",
+      "sha256": "a52e7495b52eec418093e7a1981d35921abf8ad1fa0894af850f01142e5c011e"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/probe-offsets-1pct.pdf",
+      "sha256": "3df4af4e22ac2a0673f7188d5102b98408848d5c694f5cd257184b20d4e06414"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/probe-offsets-5pct.png",
+      "sha256": "8addc84af53fbeded0378612a304e09320191c1f0bbc79735f44dc0258aef83c"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/probe-offsets-5pct.pdf",
+      "sha256": "f0c52b1f91c76bc29b1b41c68e875527c30c35acbc4d20d2740fa1922f3e2fac"
+    }
+  ],
+  "colors": {
+    "system": "#90a1b9",
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492",
+    "tool": "#7e6cff"
+  },
+  "font": "TeX Gyre Termes",
+  "new_gpu_jobs": 0,
+  "validation": "Exact baseline identity, fixed matched token cohort, counts and bounded probabilities checked."
+}

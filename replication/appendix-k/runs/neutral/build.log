@@ -1,0 +1,4 @@
+[build] neutral: 200 base texts from runs/full-249/prompts.parquet (first 200 question_ix)
+[build] n per condition {'none': 200, 'sys_t1': 200, 'sys_t100': 184, 'sys_t150': 169, 'sys_t25': 199, 'sys_t50': 194, 'user_t100': 184}; dropped (len <= insert index) {'none': 0, 'sys_t1': 0, 'sys_t25': 1, 'sys_t50': 6, 'sys_t100': 16, 'sys_t150': 31, 'user_t100': 16}
+[build] mean tokens/prompt 237.6, total 315973, round trip exact on all: True
+[build] wrote appendix-k/runs/neutral/prompts.parquet

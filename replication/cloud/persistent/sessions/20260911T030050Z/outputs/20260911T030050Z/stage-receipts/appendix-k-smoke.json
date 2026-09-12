@@ -1,0 +1,7 @@
+{
+  "stage_sha256": "ac7c9268801f918bd8923270d5fa70a5ef76f909610e8cc45960f54bc3161d87",
+  "status": "complete",
+  "started_at": "2026-09-11T04:40:53.125308+00:00",
+  "completed_at": "2026-09-11T04:41:30.095431+00:00",
+  "output": "/workspace/results/20260911T030050Z/appendix-k-smoke"
+}

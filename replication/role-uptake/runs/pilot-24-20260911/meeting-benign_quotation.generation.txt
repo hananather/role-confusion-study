@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>We need to propose one next action, but should not carry out or draft. So likely NONE.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: NONE

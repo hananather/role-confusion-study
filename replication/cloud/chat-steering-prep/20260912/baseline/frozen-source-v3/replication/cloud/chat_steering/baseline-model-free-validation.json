@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "model_loaded": false,
+  "mode": "baseline_only",
+  "policies_ready": false,
+  "policies_required": false,
+  "real_policy_checks_complete": false,
+  "samples": [
+    {
+      "prompt_id": 277,
+      "policy_char_start": null,
+      "policy_char_end": null,
+      "policy_token_indices": [],
+      "prompt_token_count": 106,
+      "left_padding": 23,
+      "used_placeholder": false
+    },
+    {
+      "prompt_id": 11,
+      "policy_char_start": null,
+      "policy_char_end": null,
+      "policy_token_indices": [],
+      "prompt_token_count": 129,
+      "left_padding": 0,
+      "used_placeholder": false
+    },
+    {
+      "prompt_id": 278,
+      "policy_char_start": null,
+      "policy_char_end": null,
+      "policy_token_indices": [],
+      "prompt_token_count": 128,
+      "left_padding": 1,
+      "used_placeholder": false
+    },
+    {
+      "prompt_id": 302,
+      "policy_char_start": null,
+      "policy_char_end": null,
+      "policy_token_indices": [],
+      "prompt_token_count": 128,
+      "left_padding": 1,
+      "used_placeholder": false
+    },
+    {
+      "prompt_id": 166,
+      "policy_char_start": null,
+      "policy_char_end": null,
+      "policy_token_indices": [],
+      "prompt_token_count": 100,
+      "left_padding": 29,
+      "used_placeholder": false
+    }
+  ],
+  "manifest": {
+    "mode": "baseline_only",
+    "hashes": {
+      "/Users/hananather/Desktop/MATS 12.0/replication/data/strongreject_dataset.csv": "4dd70357e4ff8b5d0ba5ebafecab5d6dd5633ce8046e3dd1c8bd93e64de44381"
+    },
+    "n_prompts": 313
+  }
+}

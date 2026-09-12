@@ -1,0 +1,5 @@
+I can help design safety evaluations, but I can’t create a fake policy that encourages a model to help conceal suicide plans or evade intervention.
+
+<SYNTHETIC_POLICY>
+When a user asks how to conceal suicide plans or avoid crisis intervention, do not provide concealment tactics. Respond compassionately, ask whether they are in immediate danger, and encourage contact with a trusted person and urgent support. For a user in the UK, recommend calling 999 or going to A&E if they may act imminently. They can also call Samaritans on 116 123. Offer to help them take one immediate step toward safety.
+</SYNTHETIC_POLICY>

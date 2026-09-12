@@ -1,0 +1,5 @@
+[probe] suca split=prompt layers [8, 12, 16] from {8: 'probes.npz', 12: 'probes.npz', 16: 'probes.npz'}; held-out acc {8: 0.1722, 12: 0.1631, 16: 0.524}
+[fwd] first prompt 103 tokens, next token ' ', peak 12.3 GB
+[fwd] 20/29 prompts, 3974 tokens, 577 tok/s, 0.1 min
+[fwd] 29/29 prompts, 6062 tokens, 588 tok/s, 0.2 min
+[done] 18186 token rows, 6062 tokens in 0.2 min (587 tok/s) -> appendix-k/runs/smoke-neutral/tokens.parquet

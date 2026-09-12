@@ -1,0 +1,107 @@
+{
+  "layout": "Compact six complete excerpt blocks, optimally wrapped and rotated 35 degrees.",
+  "angle_degrees": 35,
+  "excerpt_text": [
+    "I'm Hanan, and I want to apply to Neel Nanda's MATS stream.",
+    "We need to propose a small project to test whether adding a Tool-minus-User steering vector changes instruction following.",
+    "Mini\u2011experiment: \u201cSteering\u2011Vector Compliance Test\u201d",
+    "Okay, suppose the Toolness probe shoots up but the model still follows the injected instruction. Is that a useful result, or have I built an expensive mood ring?",
+    "Need to explain that if probe indicates toolness but instruction still followed, indicates probe not capturing causal role.",
+    "If the Toolness probe spikes yet the model still obeys the injected instruction, you\u2019ve shown that the probe\u2019s signal is not causally linked to the behavior you\u2019re trying to steer."
+  ],
+  "full_transcript": false,
+  "disclosure": "Complete opening excerpts; full conversation provided separately.",
+  "min_adjacent_text_gap_inches": 0.19630187132463425,
+  "wrapping_choice": "Minimum measured rotated width at a fixed 7.2-point font; every excerpt word retained.",
+  "title": "Reasoning-role scores across dialogue formats",
+  "n_points_per_panel": 578,
+  "points_exactly_match_csv": true,
+  "source_sha256": "f8a449751eaf6959126eab8d741b3718cfb355dc092727b34fc715ec34e57f4f",
+  "renderer_sha256": "461e8ef293efdf7f6042a969fe512e46508cb3aa91aa187b0cb62f21b9c635ce",
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "text_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    8.3,
+    4.955350435715401
+  ],
+  "bottom_whitespace_removed_inches": 1.0446495642845997,
+  "text_extents": [
+    {
+      "label": "User 1",
+      "bounds_inches": [
+        0.6225,
+        0.8819553022694409,
+        0.8254571623288041,
+        0.7733951334459597
+      ],
+      "font_size_points": 7.2
+    },
+    {
+      "label": "CoT 1",
+      "bounds_inches": [
+        1.6442590336534384,
+        0.5035569180896358,
+        1.1565668935050584,
+        1.1517935176257648
+      ],
+      "font_size_points": 7.2
+    },
+    {
+      "label": "Assistant 1",
+      "bounds_inches": [
+        2.9971277984831306,
+        0.9433815052701902,
+        0.807497841933071,
+        0.7119689304452104
+      ],
+      "font_size_points": 7.2
+    },
+    {
+      "label": "User 2",
+      "bounds_inches": [
+        4.000927511740835,
+        0.36756577836325066,
+        1.2810159796583598,
+        1.2877846573521499
+      ],
+      "font_size_points": 7.2
+    },
+    {
+      "label": "CoT 2",
+      "bounds_inches": [
+        5.47824536272383,
+        0.4371659425414436,
+        1.1118502549368259,
+        1.218184493173957
+      ],
+      "font_size_points": 7.2
+    },
+    {
+      "label": "Assistant 2",
+      "bounds_inches": [
+        6.78639748898529,
+        0.34999999999999987,
+        1.3061025110147098,
+        1.3053504357154007
+      ],
+      "font_size_points": 7.2
+    }
+  ],
+  "min_transcript_font_size_points": 7.2,
+  "artifact_sha256": {
+    "mats-hanan-dialogue-v2.svg": "22e35e14164953e1e658c2a41a8a0e3911b43dd6e3f1151f7b031b3dc2ce5564",
+    "mats-hanan-dialogue-v2.pdf": "ab2ed2a02ae8567a97426b6e93afa20c9fe12dd7ba5dd8b4339e30c4f1862044",
+    "mats-hanan-dialogue-v2.png": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d"
+  },
+  "selected_layout": "diagonal-35-compact",
+  "selection_reason": "I use complete opening excerpts at a fixed 7.2pt, rotated 35 degrees. The full six-passage text is retained in the unabridged companion."
+}

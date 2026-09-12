@@ -1,0 +1,5 @@
+{
+  "phase": "failed",
+  "updated_utc": "2026-09-11T04:32:21.836569+00:00",
+  "error": "'FloatType' object has no attribute 'is_floating_point'"
+}

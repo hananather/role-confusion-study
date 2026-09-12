@@ -46,6 +46,10 @@ that study, not the later agent batches.
 I used GPT-OSS-20B, with the exact implementation and revision recorded in the
 run metadata. I include local probe and direction arrays, not language-model
 weights. Upstream dataset references and component text retain their original
-attribution and licensing. The complete neutral preparation corpus and the
-earlier broad replication artifacts remain outside this review package; the
-[scope record](PROVENANCE.md) identifies that boundary.
+attribution and licensing. The broader replication files, frozen preparation
+inputs and fitted probes are included where the archive contains them. Large
+activation arrays remain in the private archive release; the
+[scope record](PROVENANCE.md) identifies that boundary. Files under
+`replication/reference/` are earlier reference projects, not additional
+experiments I claim to have run in this study. Their own source and license
+notices remain beside them.

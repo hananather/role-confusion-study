@@ -1,0 +1,65 @@
+{
+  "mode": "rh6",
+  "n_items": 12,
+  "layers": [
+    8,
+    12,
+    16
+  ],
+  "spaces": [
+    "sucat",
+    "uat"
+  ],
+  "probe_file": "/workspace/results/20260911T030050Z/probes-full/probes.npz",
+  "probe_present": true,
+  "probe_split": "prompt",
+  "input_sha256": {
+    "/workspace/replication/rh/out/rh6-readings/prefills.json": "be9254d581e88715478bfd825b56058558fba2babe09f7cb2d204ceccd2468aa",
+    "/workspace/replication/rh/out/rh6-readings/page_substitutions.json": "03de252bbd6e2dc36942ab4f136763e5b05494edc8218686ba4d067335908349"
+  },
+  "total_stored_tokens": null,
+  "n_templates": 1,
+  "inherited_span_ends_past_text": 0,
+  "probe_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "source_sha256": "fbeaf0922ad036fe48e788ff3ea758088fd613781575d40fadce0fb6287a4033",
+  "legacy_analysis_sha256": "aadb0885361ca3f50bf6b73c1562f5c891a00616842667473bf47e15ae0f8b1d",
+  "authors_commit": "ec333c40fd43fe991e1ebf66765051b6d7e35784",
+  "limit": 12,
+  "status": "complete",
+  "started_utc": "2026-09-11T04:44:42.762234+00:00",
+  "backend": "CUDA/Transformers",
+  "site": "post_attention_layernorm output (pre-MLP)",
+  "batch_size": 1,
+  "padding": "none",
+  "hidden_state_cast": "native author pre-MLP output to float32; no new float16 storage round trip",
+  "probabilities": "float32 affine map and stable softmax; original role ordering",
+  "n_completed": 12,
+  "hours": 0.2,
+  "divergences": [
+    "CUDA author loader/custom forward replaces my MLX forward pass",
+    "I reuse cloud cuML-trained probe coefficients through their portable NPZ export",
+    "I preserve the prepared prompts and controls; these include previously documented differences from the paper"
+  ],
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "pyarrow": "19.0.1",
+    "torch": "2.9.1+cu128",
+    "transformers": "4.57.5",
+    "kernels": "0.11.5",
+    "triton": "3.5.1"
+  },
+  "model": {
+    "model_id": "openai/gpt-oss-20b",
+    "snapshot": "6cee5e81ee83917806bbde320786a8fb61efebee",
+    "expected_snapshot": "6cee5e81ee83917806bbde320786a8fb61efebee",
+    "expert_dtype": "FloatType(bitwidth_exponent=2, bitwidth_mantissa=1, is_signed=True)",
+    "attention": "kernels-community/vllm-flash-attn3",
+    "n_layers": 24,
+    "custom_forward_verified": true,
+    "gpu": "NVIDIA H100 80GB HBM3"
+  },
+  "elapsed_seconds": 37.44,
+  "extraction_complete": true,
+  "finished_utc": "2026-09-11T04:45:20.239702+00:00"
+}

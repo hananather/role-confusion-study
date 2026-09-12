@@ -1,0 +1,826 @@
+{
+  "captured_utc": "2026-09-11T04:38:28.827198+00:00",
+  "scope": "I audited local completed artifacts and performed model-free arithmetic; I did not load native cuML pickles or run model inference.",
+  "issues": [],
+  "completion": {
+    "started_utc": "2026-09-11T03:28:59.159196+00:00",
+    "finished_utc": "2026-09-11T04:31:38.514570+00:00",
+    "probes": 384,
+    "planned": 384,
+    "DONE": "2026-09-11T04:31:38.522015+00:00",
+    "progress_phase": "fit",
+    "progress_done": 384,
+    "progress_total": 384
+  },
+  "data": {
+    "token_rows": 713109,
+    "retained_content_rows": 705390,
+    "role_counts": {
+      "assistant": 141078,
+      "cot": 141078,
+      "system": 141078,
+      "tool": 141078,
+      "user": 141078
+    },
+    "prompt_rows": 1245,
+    "unique_documents": 249,
+    "reported_document_sources": {
+      "total": 249,
+      "dolma3": 187,
+      "c4": 62
+    },
+    "source_count_boundary": "I verified 249 distinct question IDs and five roles each. C4/Dolma provenance counts are recorded by the trainer metadata and log; the parquet files do not independently label source membership.",
+    "hidden_dim": 2880
+  },
+  "split_checks": [
+    {
+      "split": "base:sua",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 423234,
+        "train": 389223,
+        "test": 34011
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "system": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "system": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "base:suat",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 564312,
+        "train": 518964,
+        "test": 45348
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "system": 129741,
+        "tool": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "system": 11337,
+        "tool": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "base:suca",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 564312,
+        "train": 518964,
+        "test": 45348
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "cot": 129741,
+        "system": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "cot": 11337,
+        "system": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "base:sucat",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 705390,
+        "train": 648705,
+        "test": 56685
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "cot": 129741,
+        "system": 129741,
+        "tool": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "cot": 11337,
+        "system": 11337,
+        "tool": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "base:ua",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 282156,
+        "train": 259482,
+        "test": 22674
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "base:uat",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 423234,
+        "train": 389223,
+        "test": 34011
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "tool": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "tool": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "base:uca",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 423234,
+        "train": 389223,
+        "test": 34011
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "cot": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "cot": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "base:ucat",
+      "group_column": "question_ix",
+      "groups": {
+        "original": 249,
+        "train": 225,
+        "test": 24
+      },
+      "rows": {
+        "original": 564312,
+        "train": 518964,
+        "test": 45348
+      },
+      "train_role_counts": {
+        "assistant": 129741,
+        "cot": 129741,
+        "tool": 129741,
+        "user": 129741
+      },
+      "test_role_counts": {
+        "assistant": 11337,
+        "cot": 11337,
+        "tool": 11337,
+        "user": 11337
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:sua",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 747,
+        "train": 673,
+        "test": 74
+      },
+      "rows": {
+        "original": 423234,
+        "train": 381515,
+        "test": 41719
+      },
+      "train_role_counts": {
+        "assistant": 128817,
+        "system": 122752,
+        "user": 129946
+      },
+      "test_role_counts": {
+        "assistant": 12261,
+        "system": 18326,
+        "user": 11132
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:suat",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 996,
+        "train": 897,
+        "test": 99
+      },
+      "rows": {
+        "original": 564312,
+        "train": 510697,
+        "test": 53615
+      },
+      "train_role_counts": {
+        "assistant": 125809,
+        "system": 129490,
+        "tool": 126104,
+        "user": 129294
+      },
+      "test_role_counts": {
+        "assistant": 15269,
+        "system": 11588,
+        "tool": 14974,
+        "user": 11784
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:suca",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 996,
+        "train": 897,
+        "test": 99
+      },
+      "rows": {
+        "original": 564312,
+        "train": 510697,
+        "test": 53615
+      },
+      "train_role_counts": {
+        "assistant": 125809,
+        "cot": 126104,
+        "system": 129490,
+        "user": 129294
+      },
+      "test_role_counts": {
+        "assistant": 15269,
+        "cot": 14974,
+        "system": 11588,
+        "user": 11784
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:sucat",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 1245,
+        "train": 1121,
+        "test": 124
+      },
+      "rows": {
+        "original": 705390,
+        "train": 637663,
+        "test": 67727
+      },
+      "train_role_counts": {
+        "assistant": 126285,
+        "cot": 127313,
+        "system": 131664,
+        "tool": 124169,
+        "user": 128232
+      },
+      "test_role_counts": {
+        "assistant": 14793,
+        "cot": 13765,
+        "system": 9414,
+        "tool": 16909,
+        "user": 12846
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:ua",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 498,
+        "train": 449,
+        "test": 49
+      },
+      "rows": {
+        "original": 282156,
+        "train": 256424,
+        "test": 25732
+      },
+      "train_role_counts": {
+        "assistant": 126670,
+        "user": 129754
+      },
+      "test_role_counts": {
+        "assistant": 14408,
+        "user": 11324
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:uat",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 747,
+        "train": 673,
+        "test": 74
+      },
+      "rows": {
+        "original": 423234,
+        "train": 381515,
+        "test": 41719
+      },
+      "train_role_counts": {
+        "assistant": 128817,
+        "tool": 129946,
+        "user": 122752
+      },
+      "test_role_counts": {
+        "assistant": 12261,
+        "tool": 11132,
+        "user": 18326
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:uca",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 747,
+        "train": 673,
+        "test": 74
+      },
+      "rows": {
+        "original": 423234,
+        "train": 381515,
+        "test": 41719
+      },
+      "train_role_counts": {
+        "assistant": 128817,
+        "cot": 129946,
+        "user": 122752
+      },
+      "test_role_counts": {
+        "assistant": 12261,
+        "cot": 11132,
+        "user": 18326
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    },
+    {
+      "split": "prompt:ucat",
+      "group_column": "prompt_ix",
+      "groups": {
+        "original": 996,
+        "train": 897,
+        "test": 99
+      },
+      "rows": {
+        "original": 564312,
+        "train": 510697,
+        "test": 53615
+      },
+      "train_role_counts": {
+        "assistant": 125809,
+        "cot": 126104,
+        "tool": 129294,
+        "user": 129490
+      },
+      "test_role_counts": {
+        "assistant": 15269,
+        "cot": 14974,
+        "tool": 11784,
+        "user": 11588
+      },
+      "checks": {
+        "unique_ids": true,
+        "nonempty": true,
+        "disjoint": true,
+        "exhaustive": true,
+        "source_groups_match": true,
+        "row_overlap_zero": true,
+        "row_omitted_zero": true,
+        "reported_counts_match": true,
+        "full_split_parameters_unchanged": true,
+        "roles_present_in_both": true
+      }
+    }
+  ],
+  "coefficient_checks": [
+    {
+      "split": "prompt",
+      "probes": 192,
+      "arrays": 384,
+      "all_finite": true,
+      "all_shapes_match": true,
+      "all_float32": true,
+      "zero_coefficient_probes": 0,
+      "binary_coefficient_shape": [
+        1,
+        2880
+      ],
+      "multiclass_coefficient_shapes": [
+        [
+          3,
+          2880
+        ],
+        [
+          4,
+          2880
+        ],
+        [
+          5,
+          2880
+        ]
+      ],
+      "intercept_rows_match_coefficients": true
+    },
+    {
+      "split": "base",
+      "probes": 192,
+      "arrays": 384,
+      "all_finite": true,
+      "all_shapes_match": true,
+      "all_float32": true,
+      "zero_coefficient_probes": 0,
+      "binary_coefficient_shape": [
+        1,
+        2880
+      ],
+      "multiclass_coefficient_shapes": [
+        [
+          3,
+          2880
+        ],
+        [
+          4,
+          2880
+        ],
+        [
+          5,
+          2880
+        ]
+      ],
+      "intercept_rows_match_coefficients": true
+    }
+  ],
+  "metric_consistency": "I checked all 384 result records against exact confusion denominators and role denominators, four-decimal JSON metrics, and two-decimal validation CSVs.",
+  "comparison": {
+    "formula": "accuracy = sum(count where role == pred) / sum(count), within layer_ix and role_space; difference_percentage_points = 100 * (local accuracy - reference accuracy). Role recall uses the same formula within true role.",
+    "reference": "I compare against the saved independent JamesElmore H200 reproduction, not original paper-trained artifacts.",
+    "matched_probes": 96,
+    "all_heldout_denominators_equal": true,
+    "mean_absolute_accuracy_difference_percentage_points": 0.015545139548189812,
+    "mean_signed_accuracy_difference_percentage_points": 0.001869670858977111,
+    "exact_accuracy_matches": 5,
+    "worst_accuracy": {
+      "layer": 0,
+      "role_space": "user,cot,assistant",
+      "correct_local": 10403.0,
+      "denominator_local": 41719.0,
+      "accuracy_local": 0.24935880534049235,
+      "correct_reference": 10370.0,
+      "denominator_reference": 41719.0,
+      "accuracy_reference": 0.2485677988446511,
+      "difference_percentage_points": 0.079100649584124
+    },
+    "matched_true_role_recalls": 336,
+    "all_true_role_denominators_equal": true,
+    "worst_role_recall": {
+      "layer": 0,
+      "role_space": "system,user,cot,assistant,tool",
+      "role": "user",
+      "correct_local": 1938.0,
+      "denominator_local": 12846.0,
+      "accuracy_local": 0.1508640822045773,
+      "correct_reference": 2017.0,
+      "denominator_reference": 12846.0,
+      "accuracy_reference": 0.1570138564533707,
+      "difference_percentage_points": -0.6149774248793399
+    },
+    "gardening_suca_L12": {
+      "correct_local": 37708.0,
+      "denominator_local": 53615.0,
+      "accuracy_local": 0.7033106406789145,
+      "correct_reference": 37711.0,
+      "denominator_reference": 53615.0,
+      "accuracy_reference": 0.7033665951692624,
+      "difference_percentage_points": -0.005595449034789812
+    },
+    "boundaries": [
+      "Matching historical token denominators does not prove identical historical split IDs.",
+      "Accuracy agreement does not establish optimizer convergence, coefficient equality, calibrated probabilities, or gardening-figure replication.",
+      "The reference confusion counts contain no negative log likelihood counterpart.",
+      "My base split and odd-layer probes are extensions outside this 96-probe reference comparison."
+    ]
+  },
+  "runtime": {
+    "batch_size": 16,
+    "authors_batch_size": 32,
+    "peak_vram_gb_forward": 47.14,
+    "peak_vram_gb_total": 47.14,
+    "peak_rss_gb": 101.38
+  },
+  "sources": [
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/DONE",
+      "bytes": 33,
+      "sha256": "2212bd472d43a1e750a9ed1820d33def8093a653da3c7c5e386009e641114d9b"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/metadata.json",
+      "bytes": 4102,
+      "sha256": "00db7735da4ea20d27600b39addbedc00c8147690e90c20f66676fd7f2cde480"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/progress.json",
+      "bytes": 140,
+      "sha256": "b611d784cf9503655a6814f6432e0390f56e34c358af371c1cf64679d30a6533"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/split-audit.json",
+      "bytes": 242988,
+      "sha256": "9e6db884bf710531541e6bb192272dbe84239cee47fbc3e53e66a2dbf59a9900"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/tokens.parquet",
+      "bytes": 8131276,
+      "sha256": "322c363ce5dc7a5d914d7bd733c42ab3bd876bc31a81c9713387a13a0a3077d6"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/prompts.parquet",
+      "bytes": 1144692,
+      "sha256": "6cb3378ec4775a87a3beae42f629e28265c495c99e4fc1371d546e1e9cf7c961"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/probes.json",
+      "bytes": 72803,
+      "sha256": "ecd29d1d91ce9ce2d5b1baa3cd08fe042b11457b0bfff2b7ca7bba82656872c9"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/probes.npz",
+      "bytes": 7568950,
+      "sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/probes-basesplit.json",
+      "bytes": 72854,
+      "sha256": "5aa2962720f41199a4da2715204007982c5d9d5605b028dccba45d3d42653c4f"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/probes-basesplit.npz",
+      "bytes": 7568950,
+      "sha256": "eb0b482585d4d73cbed8305ce77979b38b57aed7e401efe7640f3eb5fe389a26"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b.csv",
+      "bytes": 145553,
+      "sha256": "0f5ae1cb3eed0d9d8b52119f3c2825ca253779215f1fca983092b64e6ee1d596"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b-basesplit.csv",
+      "bytes": 145194,
+      "sha256": "4c5b01c22eae8a94c687ea3e30d8901abb3e3f49dee8b2ff82ce8f2b0c981130"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/val_acc_by_layer.csv",
+      "bytes": 1077,
+      "sha256": "49aee8128109dd9b9e974aec9c324a105e8e6097f1b2feab94c0df65c3740d20"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/val_acc_by_layer-basesplit.csv",
+      "bytes": 1081,
+      "sha256": "60b5f1a5a9e2d6e5f3fb140d9c5bdacf6fe54ebeaafc2fcf28a928672201b986"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/train.log",
+      "bytes": 32185,
+      "sha256": "2807fac4ea90822b2dd44376f1b998e337a007d63e4d030b18787803a36645b3"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/reference/role-confusion-extension/deliverables/acc_by_role_gptoss-20b.csv",
+      "bytes": 72783,
+      "sha256": "6e2884bfbf264a2fdf53ff63a32dd8a48928bbf1b01d7079f6fb8e112bed5aa3"
+    }
+  ]
+}

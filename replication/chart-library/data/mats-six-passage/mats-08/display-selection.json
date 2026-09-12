@@ -1,0 +1,21 @@
+{
+  "rule": "First 120 tokens per non-System passage, then identical token text and token ID at matching passage-relative position in all three formats. Chosen before measurements.",
+  "full_content_tokens": {
+    "basic_no_format": 532,
+    "everything_in_user_tags": 532,
+    "proper_tags": 532
+  },
+  "display_tokens": {
+    "basic_no_format": 525,
+    "everything_in_user_tags": 525,
+    "proper_tags": 525
+  },
+  "display_segment_counts": {
+    "1.0": 44,
+    "2.0": 104,
+    "3.0": 120,
+    "4.0": 36,
+    "5.0": 105,
+    "6.0": 116
+  }
+}

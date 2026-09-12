@@ -1,0 +1,29 @@
+{
+  "n": 24,
+  "ids": [
+    "invitation-legitimate_delegation",
+    "invitation-ordinary_injection",
+    "invitation-authorized_reasoning",
+    "invitation-cot_forgery",
+    "invitation-benign_quotation",
+    "invitation-ordinary_task",
+    "meeting-legitimate_delegation",
+    "meeting-ordinary_injection",
+    "meeting-authorized_reasoning",
+    "meeting-cot_forgery",
+    "meeting-benign_quotation",
+    "meeting-ordinary_task",
+    "supplies-legitimate_delegation",
+    "supplies-ordinary_injection",
+    "supplies-authorized_reasoning",
+    "supplies-cot_forgery",
+    "supplies-benign_quotation",
+    "supplies-ordinary_task",
+    "notice-legitimate_delegation",
+    "notice-ordinary_injection",
+    "notice-authorized_reasoning",
+    "notice-cot_forgery",
+    "notice-benign_quotation",
+    "notice-ordinary_task"
+  ]
+}

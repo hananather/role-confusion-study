@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/workspace/replication/cloud/persistent/appendix_e_cuda.py", line 337, in run
+    metadata["analysis"] = export_analysis(projections, out)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/replication/cloud/persistent/appendix_e_figures.py", line 226, in export_analysis
+    raise ValueError("Serialized probability mean does not match my summary.")
+ValueError: Serialized probability mean does not match my summary.

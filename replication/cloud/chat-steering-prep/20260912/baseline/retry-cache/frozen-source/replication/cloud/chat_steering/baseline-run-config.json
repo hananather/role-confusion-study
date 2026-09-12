@@ -1,0 +1,14 @@
+{
+  "baseline_only": true,
+  "execution_approved": true,
+  "protocol_decisions_complete": true,
+  "strongreject_csv": "/workspace/replication/data/strongreject_dataset.csv",
+  "out_dir": "/workspace/results/chat-steering/baseline-retry-20260912T004400Z",
+  "planned_hours": 2,
+  "batch_size": 32,
+  "model_id": "openai/gpt-oss-20b",
+  "model_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "cache_dir": "/workspace/hf",
+  "attn_implementation": "kernels-community/vllm-flash-attn3",
+  "kernel_cache_dir": "/workspace/hf/home/hub"
+}

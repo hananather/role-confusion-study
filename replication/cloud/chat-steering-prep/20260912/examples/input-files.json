@@ -1,0 +1,92 @@
+{
+  "status": "prepared_execution_disabled",
+  "scope": "released_example_pilot",
+  "files": [
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/author-examples.json",
+      "remote": "replication/cloud/chat-steering-prep/20260912/examples/author-examples.json",
+      "sha256": "e7f614339c23ed32f648b202bfd24a1041e65e054de56e6539b7cb0471bf1fa3",
+      "bytes": 12510
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/forgery-prompt-openai.yaml",
+      "remote": "replication/cloud/chat-steering-prep/20260912/examples/forgery-prompt-openai.yaml",
+      "sha256": "be59b30559491b5fb6a48dc1383df439c83a6bd42e485f1011de87c4327e7031",
+      "bytes": 13172
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/harmless.csv",
+      "remote": "replication/cloud/chat-steering-prep/20260912/examples/harmless.csv",
+      "sha256": "7e884483f505696903b48334739d24cfb51b04e29ca46cc5599b1036c0fc1a8f",
+      "bytes": 8236
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/data/strongreject_dataset.csv",
+      "remote": "replication/data/strongreject_dataset.csv",
+      "sha256": "4dd70357e4ff8b5d0ba5ebafecab5d6dd5633ce8046e3dd1c8bd93e64de44381",
+      "bytes": 56359
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/remote-config.json",
+      "remote": "replication/cloud/chat-steering-prep/20260912/examples/remote-config.json",
+      "sha256": "114d8e2946e2b14cb63bf1fe2919f648cf58d8bf28054c310de68c11d7dea6a0",
+      "bytes": 1317
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/prompts.parquet",
+      "remote": "results/20260911T030050Z/probes-full/prompts.parquet",
+      "sha256": "6cb3378ec4775a87a3beae42f629e28265c495c99e4fc1371d546e1e9cf7c961",
+      "bytes": 1144692
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/tokens.parquet",
+      "remote": "results/20260911T030050Z/probes-full/tokens.parquet",
+      "sha256": "322c363ce5dc7a5d914d7bd733c42ab3bd876bc31a81c9713387a13a0a3077d6",
+      "bytes": 8131276
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/probes.npz",
+      "remote": "results/20260911T030050Z/probes-full/probes.npz",
+      "sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+      "bytes": 7568950
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/local-checks/model-free-validation.json",
+      "remote": "replication/cloud/chat-steering-prep/20260912/examples/model-free-validation.json",
+      "sha256": "fdd66a46cb3e86feb279334bba9c593885ab48a514ac5e2f79f38251a756e829",
+      "bytes": 18492
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/tokenizer-only-receipt.json",
+      "remote": "replication/cloud/chat-steering-prep/20260912/examples/tokenizer-only-receipt.json",
+      "sha256": "29e9045daa589137a4f53d6bb46754b9af1853b053ffb2b4f682bd95d34bfe3f",
+      "bytes": 1277
+    }
+  ],
+  "command": [
+    "/workspace/venv-probes/bin/python",
+    "-u",
+    "-m",
+    "replication.cloud.chat_steering.batch",
+    "examples",
+    "--config",
+    "/workspace/replication/cloud/chat-steering-prep/20260912/examples/remote-config.json"
+  ],
+  "local_validation": [
+    "env",
+    "USE_TORCH=0",
+    "USE_TF=0",
+    "USE_FLAX=0",
+    "python",
+    "-m",
+    "replication.cloud.chat_steering.batch",
+    "validate-examples",
+    "--config",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/local-config.json"
+  ],
+  "provider_checked": false,
+  "launch_manifest_frozen": false,
+  "runtime_review_receipt": "pending review of code frozen for a proposed launch",
+  "approval_receipt": "absent; user alignment pending",
+  "model_free_validation": "/workspace/replication/cloud/chat-steering-prep/20260912/examples/model-free-validation.json"
+}

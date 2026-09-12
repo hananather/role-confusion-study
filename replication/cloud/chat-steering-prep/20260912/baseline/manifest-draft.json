@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "run_id": "baseline-20260912T003200Z",
+  "scope": "base_only",
+  "asset_mode": "existing_volume",
+  "rate_usd_h": 3.49,
+  "planned_hours": 2,
+  "grace_minutes": 20,
+  "cap_usd": 9,
+  "container_disk_gb": 30,
+  "container_disk_usd_gb_month": 0.1,
+  "storage_month_hours": 730,
+  "existing_volume_reserve_usd": 0.4,
+  "network_volume_id": "i0cptrlcoz",
+  "data_center": "EU-FR-1",
+  "gpu_type": "NVIDIA H100 80GB HBM3",
+  "cloud": "SECURE",
+  "image": "runpod/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04",
+  "account_check": {
+    "query": "query { myself { clientBalance isAutoPayEnabled } }",
+    "balance_path": [
+      "data",
+      "myself",
+      "clientBalance"
+    ],
+    "autopay_path": [
+      "data",
+      "myself",
+      "isAutoPayEnabled"
+    ]
+  },
+  "command": [
+    "/workspace/venv-probes/bin/python",
+    "-u",
+    "-m",
+    "replication.cloud.chat_steering.batch",
+    "baseline",
+    "--config",
+    "/workspace/replication/cloud/chat_steering/baseline-run-config.json"
+  ],
+  "execution_record": "/Users/hananather/Desktop/MATS 12.0/replication/EXECUTION.md",
+  "model_free_validation": "/workspace/replication/cloud/chat_steering/baseline-model-free-validation.json",
+  "runtime_review_receipt": "/workspace/replication/cloud/chat_steering/baseline-runtime-review.json",
+  "files": [
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat_steering/control.py",
+      "remote": "replication/cloud/chat_steering/control.py"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat_steering/run.sh",
+      "remote": "replication/cloud/chat_steering/run.sh"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat_steering/batch.py",
+      "remote": "replication/cloud/chat_steering/batch.py"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat_steering/protocol.py",
+      "remote": "replication/cloud/chat_steering/protocol.py"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat_steering/runtime.py",
+      "remote": "replication/cloud/chat_steering/runtime.py"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/jobcommon.py",
+      "remote": "replication/cloud/jobcommon.py"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/job_steering.py",
+      "remote": "replication/cloud/job_steering.py"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/data/strongreject_dataset.csv",
+      "remote": "replication/data/strongreject_dataset.csv"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/run-config.json",
+      "remote": "replication/cloud/chat_steering/baseline-run-config.json"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/local-checks/model-free-validation.json",
+      "remote": "replication/cloud/chat_steering/baseline-model-free-validation.json"
+    },
+    {
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/runtime-review.json",
+      "remote": "replication/cloud/chat_steering/baseline-runtime-review.json"
+    }
+  ]
+}

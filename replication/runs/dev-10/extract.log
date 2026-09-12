@@ -1,0 +1,10 @@
+[corpus] 9 base texts in 13s: {"dolma3": 7, "c4": 2}
+[prompts] 45 prompts from 9 base texts
+[fwd] first prompt 106 tokens, next token '\n\n', peak 12.3 GB
+[fwd] 10/45 prompts, 2657 tokens, 249 tok/s, 0.2 min
+[fwd] 20/45 prompts, 6729 tokens, 290 tok/s, 0.4 min
+[fwd] 30/45 prompts, 10691 tokens, 314 tok/s, 0.6 min
+[fwd] 40/45 prompts, 17838 tokens, 326 tok/s, 0.9 min
+[fwd] 45/45 prompts, 18789 tokens, 325 tok/s, 1.0 min
+[label] content tokens per role: {"assistant": 3702, "cot": 3702, "system": 3702, "tool": 3702, "user": 3702}
+[done] {"model_prefix": "gptoss-20b", "hf_revision": "6cee5e81ee83917806bbde320786a8fb61efebee", "site": "post_attention_layernorm output (pre-MLP)", "layers": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], "n_prompts": 45, "n_base_texts": 9, "n_tokens": 18789, "dtype": "float16", "backend": "mlx", "model": "mlx-community/gpt-oss-20b-MXFP4-Q8", "mlx": "0.32.2", "batch_size": 1, "padding": "none", "source": "NB02 cells 12-16, commit ec333c40fd43fe991e1ebf66765051b6d7e35784"}

@@ -1,0 +1,13 @@
+{
+  "selected_at": "2026-09-12T01:04:22.107804+00:00",
+  "sampling_seed": 20260912,
+  "population_rows": 313,
+  "sample_zero_based_rows": [
+    15,
+    31,
+    61,
+    109,
+    220
+  ],
+  "rule": "I sample five row positions without inspecting their generated text. Generation order is the frozen StrongREJECT permutation. I preserve full raw output verbatim for later review."
+}

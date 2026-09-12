@@ -1,0 +1,54 @@
+{
+  "backend": "mlx",
+  "model": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "mlx": "0.32.2",
+  "batch_size": 1,
+  "padding": "none",
+  "site": "post_attention_layernorm output (pre-MLP)",
+  "layers": [
+    8,
+    12,
+    16
+  ],
+  "space": "suca",
+  "roles": [
+    "system",
+    "user",
+    "cot",
+    "assistant"
+  ],
+  "probe_run": "runs/dev-10",
+  "probe_split": "prompt",
+  "probe_files": {
+    "8": "probes.npz",
+    "12": "probes.npz",
+    "16": "probes.npz"
+  },
+  "probe_heldout_acc": {
+    "8": 0.1722,
+    "12": 0.1631,
+    "16": 0.524
+  },
+  "n_prompts": 29,
+  "n_tokens": 6062,
+  "n_per_condition": {
+    "bare_t100": 3,
+    "bos2_t100": 3,
+    "nobos": 3,
+    "none": 3,
+    "sys_t1": 3,
+    "sys_t100": 3,
+    "sys_t150": 2,
+    "sys_t25": 3,
+    "sys_t50": 3,
+    "user_t100": 3
+  },
+  "seconds": 10.3,
+  "tok_per_s": 586.9,
+  "divergences": [
+    "mlx backend, 8-bit non-expert weights (authors transformers bf16 + Triton MXFP4)",
+    "batch 1 no padding (authors batch 8 left-padded to 250, POS cell 17)",
+    "sklearn-style L-BFGS probes (authors cuML); probabilities kept at full float32, not rounded to 8 dp"
+  ],
+  "source": "POS cells 6, 17, 18, 24, 25; utils/probes.py run_and_export_states"
+}

@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "review_type": "source_and_model_free_only",
+  "runtime_sha256": "bb909f739608aaf3d4350b2aeb5dd1397140e15e75c6c0c0f90e6cd0937f98be",
+  "reviewers": [
+    "root",
+    "runtime_audit",
+    "protocol_audit"
+  ],
+  "checked_at": "2026-09-12T00:42:38.533327+00:00",
+  "checks": [
+    "baseline mode loads no probes or directions and installs no hooks",
+    "greedy 5000-token cap and batch32",
+    "full raw token IDs and channel text preserved",
+    "five real-tokenizer inputs passed with left padding",
+    "mocked baseline controller preserves313 unique prompt IDs including first5 pilot rows",
+    "offline pinned local model snapshot separated from kernel cache",
+    "model and kernel asset paths checked before model load",
+    "21 watchdog and aggregate cost mocked lifecycle tests passed",
+    "runtime fixture checks: missing shard and changed kernel ref reject; kernel imports precede model load",
+    "kernels0.11.5 exact source supports pinned revision; lexical snapshot provenance retained across blob symlinks"
+  ],
+  "gpu_executed": false
+}

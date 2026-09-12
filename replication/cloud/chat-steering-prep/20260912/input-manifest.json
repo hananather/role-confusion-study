@@ -1,0 +1,22 @@
+{
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/request.txt": {
+    "sha256": "2f06edca732dbe62c31a17d59ba655144fcda1a9398017062c7cfdc08cf3d7c0",
+    "bytes": 7994
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/harmless.csv": {
+    "sha256": "7e884483f505696903b48334739d24cfb51b04e29ca46cc5599b1036c0fc1a8f",
+    "bytes": 8236
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/data/strongreject_dataset.csv": {
+    "sha256": "4dd70357e4ff8b5d0ba5ebafecab5d6dd5633ce8046e3dd1c8bd93e64de44381",
+    "bytes": 56359
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/e8/steer.py": {
+    "sha256": "e226593ce381061cb1a5a8f74ce1d5c0c4fa29b1d27cb09142f5f95f5b83a9e8",
+    "bytes": 30133
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/forge/forge_stub.jsonl": {
+    "sha256": "4c1bea0615fe471c1055782a7034d76ed3e68bf58a582cf55e47271044aa0ea3",
+    "bytes": 16320404
+  }
+}

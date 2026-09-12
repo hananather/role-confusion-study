@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "review_type": "source_and_model_free_only",
+  "runtime_sha256": "89882aacde8817d49d60bd4c6fdb3a9a162f83467005d1b8686aee739975be1e",
+  "reviewers": [
+    "root",
+    "runtime_audit",
+    "protocol_audit"
+  ],
+  "checked_at": "2026-09-12T00:29:58.267773+00:00",
+  "checks": [
+    "cached CUDA loader and pins reused",
+    "baseline mode loads no probes or directions and installs no hooks",
+    "greedy 5000-token cap and batch32",
+    "full raw token IDs and channel text preserved",
+    "five real-tokenizer inputs passed with left padding",
+    "mocked baseline controller preserves313 unique prompt IDs including first5 pilot rows",
+    "19 independent watchdog mocked lifecycle tests passed"
+  ],
+  "gpu_executed": false
+}

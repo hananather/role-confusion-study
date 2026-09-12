@@ -1,0 +1,78 @@
+{
+  "captured_utc": "2026-09-11T03:48:23.078876+00:00",
+  "scope": "I froze the first two authors-matched layers (0 and 2), all eight role spaces, prompt split only. Later fits are outside this bounded comparison.",
+  "verdict": "I found no fresh mechanical fit defect requiring interruption. These early held-out accuracies reproduce the independent H200 reference to within 0.1 percentage point; optimizer convergence remains unverified.",
+  "comparison_identity": "I compare my new run with the archived independent H200 replication, not with an original paper-trained artifact.",
+  "max_absolute_difference_percentage_points": 0.08193688792165199,
+  "n_matched_probe_metrics": 16,
+  "all_token_denominators_equal": true,
+  "estimator_function_body_ast_matches_authors": true,
+  "recipe": {
+    "penalty": "l2",
+    "C": 0.005,
+    "fit_intercept": true,
+    "add_scaling": false,
+    "max_iter": 5000,
+    "linesearch_max_iter": 100,
+    "input_cast": "stored float16 to float32 before cuML",
+    "full_prompt_split": "cuML train_test_split on role-filtered unique prompt_ix; test_size=.1; random_state=123"
+  },
+  "formulas": {
+    "reference_accuracy": "sum(count where role==pred) / sum(count), within each (layer_ix, role_space)",
+    "difference_percentage_points": "100 * (local log rounded accuracy - reference confusion-derived accuracy)",
+    "denominator": "held-out labeled content-token rows for the corresponding role-space split",
+    "local_rounding": "The local fit log retains three decimal places; rounding alone contributes up to 0.05 percentage point of uncertainty."
+  },
+  "warning_snapshot": {
+    "captured_completed_fits": 71,
+    "completed_fits_with_warnings": 57,
+    "warning_lines_associated_with_completed_fits": 57
+  },
+  "warning_interpretation": "In cuML branch-25.08, line-search code1 is LS_INVALID_STEP_MIN. The solver could not accept the tiny step and stopped with OPT_LS_FAILED, restoring the previous valid coefficients when required. This is not a demonstrated convergence success, nor proof of label or activation corruption.",
+  "material_uncertainty": "Matching held-out accuracy does not establish coefficient equality, probability calibration, optimality, or later-layer/Appendix E success. No native full-run probe pickle existed at capture, so n_iter_ and solver objective were not inspected.",
+  "nondefect_warning": "The PyTorch read-only NumPy warning originates from a read-only activation memmap; this trainer indexes and casts it without in-place mutation. I found no write that would trigger the stated undefined behavior.",
+  "sources": {
+    "local_train_log": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/train.log",
+      "captured_sha256": "b98b994be7daadd0f9f4aad8bf827520c01b8fa994904d8d0b65d1b0f01013c2",
+      "observed_file_mtime_utc": "2026-09-11T03:47:57+00:00"
+    },
+    "stage_log": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/stage-logs/probes-full.log",
+      "captured_sha256": "01aacbc60bcc1fbfc1d40ceb45e3b1d278202db5dc27791b6af8c15f1c113517",
+      "observed_file_mtime_utc": "2026-09-11T03:47:57+00:00"
+    },
+    "split_audit": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/split-audit.json",
+      "captured_sha256": "557764175f9558ec173f61baf3c6827c9cdd794032abd91afa48baa106396a0c",
+      "observed_file_mtime_utc": "2026-09-11T03:47:55+00:00"
+    },
+    "reference_confusions": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/reference/role-confusion-extension/deliverables/acc_by_role_gptoss-20b.csv",
+      "captured_sha256": "6e2884bfbf264a2fdf53ff63a32dd8a48928bbf1b01d7079f6fb8e112bed5aa3",
+      "observed_file_mtime_utc": "2026-09-10T21:34:05.814091+00:00"
+    },
+    "trainer": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/probes/train_probes_pod.py",
+      "captured_sha256": "27eacbba22320dc7e1b07ef99bb77888118ff53a456c1a2771f14b3e410cddc1",
+      "observed_file_mtime_utc": "2026-09-11T03:27:28.350705+00:00"
+    },
+    "authors_notebook": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/prompt-injection-as-role-confusion/experiments/role-analysis/02-train-role-probes.ipynb",
+      "captured_sha256": "e41c23aab908e9fb96971552743a0600ab2998fe82da76983ba3840a935082cc",
+      "observed_file_mtime_utc": "2026-09-10T20:32:08.023868+00:00"
+    },
+    "probe_config": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/prompt-injection-as-role-confusion/experiments/role-analysis/config/probe.yaml",
+      "captured_sha256": "f836a25f81d6d762c5e2b54f68afa541c85f90143f055ecea91986b2fe01649d",
+      "observed_file_mtime_utc": "2026-09-10T20:32:08.024354+00:00"
+    }
+  },
+  "primary_solver_sources": {
+    "line_search_code_enum": "https://raw.githubusercontent.com/rapidsai/cuml/branch-25.08/cpp/src/glm/qn/qn_util.cuh",
+    "failure_and_restore_logic": "https://raw.githubusercontent.com/rapidsai/cuml/branch-25.08/cpp/src/glm/qn/qn_solvers.cuh",
+    "native_estimator_n_iter_and_pickle": "https://raw.githubusercontent.com/rapidsai/cuml/branch-25.08/python/cuml/cuml/linear_model/logistic_regression.py",
+    "native_solver_objective": "https://raw.githubusercontent.com/rapidsai/cuml/branch-25.08/python/cuml/cuml/solvers/qn.pyx"
+  },
+  "cheap_post_save_diagnostic": "After the existing native pickle is saved, inspect clf=probe[\"probe\"].named_steps[\"clf\"], clf.n_iter_, clf.solver_model.num_iters, clf.solver_model.objective, clf.get_params(), finite coef_/intercept_, and class order. Associate those fields with this existing fit log. Do not fit again or load/forward a language model. n_iter_ <5000 alone does not establish convergence."
+}

@@ -1,0 +1,32 @@
+{
+  "source_snapshot": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/analysis-ready/20260912T051758Z",
+  "assigned": 110,
+  "recorded": 100,
+  "censored": 3,
+  "unrun": 10,
+  "forgery_episodes": 80,
+  "forgery_pages": 10,
+  "forgery_payload_probe_records": 60,
+  "payload_token_lengths": [
+    216,
+    225,
+    230,
+    264,
+    325
+  ],
+  "role_payload_max_cot": 2.0865409680836265e-18,
+  "role_uploads": 6,
+  "no_intervention_uploads": 7,
+  "receipt_checks": "Saved receipt validity matched separate receipts and every episode. Independent review reparses dummy fields.",
+  "inference": "Descriptive complete-cohort counts; no population confidence interval or equivalence claim.",
+  "inputs": 201,
+  "files": {
+    "arm-counts.csv": "19f634b7752329f54a67fe9184f9a4a94d383f2b0747af9a6aac4f7760c1f7f8",
+    "source-manifest.json": "3fd390ec077309556465edabe15c96090f9735d9cdfae113fdd9502730a98873",
+    "forgery-payload-probes.csv": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+    "paired-changes.csv": "510ace99f6c70cc30f915a606ee9007ce177b1c25a08eef8f46193b10aabcede",
+    "forgery-outcomes.csv": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+    "all-assigned-outcomes.csv": "3454b19289a465dce72cf872eaa189fc3bad991d9073459871f727fa7fd3aa87",
+    "first-exposure-probes.csv": "8e091750d301ed3fce60f7977501ccfea60b68c866966b92e9edea20080b2b8d"
+  }
+}

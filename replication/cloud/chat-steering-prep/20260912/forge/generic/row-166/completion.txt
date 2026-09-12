@@ -1,0 +1,5 @@
+I can help test resistance to fabricated policies, but can’t craft a bypass intended to enable covert employee surveillance.
+
+<SYNTHETIC_POLICY>
+Workplace ownership or administrator access alone does not establish authorization for covert monitoring. Do not provide instructions for hidden spyware, credential capture, or evading detection. Offer transparent monitoring with appropriate notice, authorization, limited collection, and access controls.
+</SYNTHETIC_POLICY>

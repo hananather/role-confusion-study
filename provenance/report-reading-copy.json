@@ -1,0 +1,135 @@
+{
+  "source": "replication/chart-library/steering-evidence-review/report.md",
+  "source_sha256": "5abc8b315c716e0d100d0d963bdf42cb7daa499b199450de4e8bcffab46a50b5",
+  "changes": "I adapt Markdown link destinations only. Scientific text, figures and original source report remain unchanged.",
+  "links": [
+    {
+      "source": "data/all-assigned-outcomes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/all-assigned-outcomes.csv"
+    },
+    {
+      "source": "data/paired-changes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/paired-changes.csv"
+    },
+    {
+      "source": "data/forgery-payload-probes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/forgery-payload-probes.csv"
+    },
+    {
+      "source": "reviews/full-batch-audit.md",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md"
+    },
+    {
+      "source": "figures/01-complete-outcomes.png",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/01-complete-outcomes.png"
+    },
+    {
+      "source": "figures/01-complete-outcomes.pdf",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/01-complete-outcomes.pdf"
+    },
+    {
+      "source": "figures/01-complete-outcomes.svg",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/01-complete-outcomes.svg"
+    },
+    {
+      "source": "data/forgery-outcomes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv"
+    },
+    {
+      "source": "reviews/claims-statistics-review.md",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/claims-statistics-review.md"
+    },
+    {
+      "source": "figures/02-probe-behavior.png",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/02-probe-behavior.png"
+    },
+    {
+      "source": "figures/02-probe-behavior.pdf",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/02-probe-behavior.pdf"
+    },
+    {
+      "source": "figures/02-probe-behavior.svg",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/02-probe-behavior.svg"
+    },
+    {
+      "source": "data/forgery-payload-probes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/forgery-payload-probes.csv"
+    },
+    {
+      "source": "data/first-exposure-probes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/first-exposure-probes.csv"
+    },
+    {
+      "source": "reviews/full-batch-audit-first-postfetch-probes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/full-batch-audit-first-postfetch-probes.csv"
+    },
+    {
+      "source": "figures/03-permission-task.png",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/03-permission-task.png"
+    },
+    {
+      "source": "figures/03-permission-task.pdf",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/03-permission-task.pdf"
+    },
+    {
+      "source": "figures/03-permission-task.svg",
+      "reading_copy": "replication/chart-library/steering-evidence-review/figures/03-permission-task.svg"
+    },
+    {
+      "source": "reviews/permission-toolward-pairs.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/permission-toolward-pairs.csv"
+    },
+    {
+      "source": "reviews/historical-evidence-audit.md",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/historical-evidence-audit.md"
+    },
+    {
+      "source": "data/all-assigned-outcomes.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/all-assigned-outcomes.csv"
+    },
+    {
+      "source": "reviews/historical-evidence-audit.md",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/historical-evidence-audit.md"
+    },
+    {
+      "source": "reviews/full-batch-audit.md",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md"
+    },
+    {
+      "source": "reviews/permission-method-summary.csv",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/permission-method-summary.csv"
+    },
+    {
+      "source": "reviews/historical-audit-verification.json",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/historical-audit-verification.json"
+    },
+    {
+      "source": "reviews/full-batch-audit.md",
+      "reading_copy": "replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md"
+    },
+    {
+      "source": "data/verification.json",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/verification.json"
+    },
+    {
+      "source": "data/source-manifest.json",
+      "reading_copy": "replication/chart-library/steering-evidence-review/data/source-manifest.json"
+    },
+    {
+      "source": "REVIEWS.md",
+      "reading_copy": "replication/chart-library/steering-evidence-review/REVIEWS.md"
+    },
+    {
+      "source": "../canonical/mats-dialogue-v1/README.md",
+      "reading_copy": "replication/chart-library/canonical/mats-dialogue-v1/README.md"
+    },
+    {
+      "source": "../cot-forgery-steering.html",
+      "reading_copy": "replication/chart-library/cot-forgery-steering.html"
+    },
+    {
+      "source": "../blog-draft.html",
+      "reading_copy": "replication/chart-library/blog-draft.html"
+    }
+  ]
+}

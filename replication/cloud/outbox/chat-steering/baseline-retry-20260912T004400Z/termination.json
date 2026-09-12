@@ -1,0 +1,10 @@
+{
+  "actual_gpu_usd_estimate": 1.258120325983233,
+  "actual_hours": 0.36049293008115557,
+  "final_sync_succeeded": true,
+  "finished_at": "2026-09-12T01:05:02.562546+00:00",
+  "reason": "batch_exited",
+  "remaining_pods": [],
+  "verified_404": true,
+  "zero_pods_verified": true
+}

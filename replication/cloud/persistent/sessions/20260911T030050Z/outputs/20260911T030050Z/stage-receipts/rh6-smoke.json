@@ -1,0 +1,7 @@
+{
+  "stage_sha256": "95fa13e7196a6a3dfeb1315ea32c24ebbf0ae44451e5ce3f128345cb8c34cbe4",
+  "status": "complete",
+  "started_at": "2026-09-11T04:44:40.628436+00:00",
+  "completed_at": "2026-09-11T04:45:21.625133+00:00",
+  "output": "/workspace/results/20260911T030050Z/rh6-smoke"
+}

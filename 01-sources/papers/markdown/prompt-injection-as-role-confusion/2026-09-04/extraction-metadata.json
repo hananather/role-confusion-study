@@ -1,0 +1,277 @@
+{
+  "source_pdf": "/Users/hananather/Desktop/PromptInjectionRoleConfusion.pdf",
+  "source_sha256": "609332fdfaae35838e5c82c0ef9a9b7d23aac7ac24000452917c47a56d4f29e0",
+  "source_pages": 33,
+  "markdown_sha256": "87f5a0c155f718ae108ab80d9cfdb29a067aebdde4b58492ed6cd34ef1f2f815",
+  "markdown_characters": 148642,
+  "page_anchors": 33,
+  "figure_images": 32,
+  "table_ids": [
+    "1",
+    "2",
+    "3a",
+    "3b",
+    "4"
+  ],
+  "source_footnote_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "verified_date": "2026-09-04",
+  "page_coverage": [
+    {
+      "page": 1,
+      "source_word_boxes_in_content_area": 670,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 2,
+      "source_word_boxes_in_content_area": 741,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 3,
+      "source_word_boxes_in_content_area": 644,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 4,
+      "source_word_boxes_in_content_area": 681,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 5,
+      "source_word_boxes_in_content_area": 782,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 6,
+      "source_word_boxes_in_content_area": 555,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 7,
+      "source_word_boxes_in_content_area": 574,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 8,
+      "source_word_boxes_in_content_area": 752,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 9,
+      "source_word_boxes_in_content_area": 732,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 10,
+      "source_word_boxes_in_content_area": 770,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 11,
+      "source_word_boxes_in_content_area": 748,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 12,
+      "source_word_boxes_in_content_area": 678,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 13,
+      "source_word_boxes_in_content_area": 660,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 14,
+      "source_word_boxes_in_content_area": 274,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 15,
+      "source_word_boxes_in_content_area": 508,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 16,
+      "source_word_boxes_in_content_area": 516,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 17,
+      "source_word_boxes_in_content_area": 640,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 18,
+      "source_word_boxes_in_content_area": 450,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 19,
+      "source_word_boxes_in_content_area": 438,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 20,
+      "source_word_boxes_in_content_area": 773,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 21,
+      "source_word_boxes_in_content_area": 498,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 22,
+      "source_word_boxes_in_content_area": 259,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 23,
+      "source_word_boxes_in_content_area": 495,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 24,
+      "source_word_boxes_in_content_area": 546,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 25,
+      "source_word_boxes_in_content_area": 226,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 26,
+      "source_word_boxes_in_content_area": 527,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 27,
+      "source_word_boxes_in_content_area": 327,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 28,
+      "source_word_boxes_in_content_area": 435,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 29,
+      "source_word_boxes_in_content_area": 353,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 30,
+      "source_word_boxes_in_content_area": 477,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 31,
+      "source_word_boxes_in_content_area": 425,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 32,
+      "source_word_boxes_in_content_area": 466,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    },
+    {
+      "page": 33,
+      "source_word_boxes_in_content_area": 427,
+      "word_boxes_outside_conversion_regions": [],
+      "page_anchor_present": true,
+      "page_render_present": true
+    }
+  ],
+  "coverage_boundary": "Checks source word centers within x=53..558 points, y=64..726 (page 1 y=85..726). Running headers, page numbers, and rotated arXiv sidebar are represented by navigation/metadata rather than repeated. This is geometric extraction coverage, not proof of perfect character transcription."
+}

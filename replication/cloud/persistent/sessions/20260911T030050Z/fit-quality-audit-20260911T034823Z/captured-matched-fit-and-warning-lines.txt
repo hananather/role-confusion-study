@@ -1,0 +1,27 @@
+[2026-09-11 03:40:57.920] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  718.9s] [fit] prompt ua    layer  0: acc 0.463 nll 0.732 (6.7s) [1/384]
+[2026-09-11 03:41:08.026] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  728.9s] [fit] prompt uat   layer  0: acc 0.289 nll 1.163 (10.1s) [2/384]
+[2026-09-11 03:41:13.265] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  734.1s] [fit] prompt uca   layer  0: acc 0.249 nll 1.171 (5.2s) [3/384]
+[  738.8s] [fit] prompt ucat  layer  0: acc 0.186 nll 1.445 (4.6s) [4/384]
+[  744.5s] [fit] prompt sua   layer  0: acc 0.228 nll 1.176 (5.7s) [5/384]
+[2026-09-11 03:41:29.138] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  750.0s] [fit] prompt suat  layer  0: acc 0.185 nll 1.442 (5.5s) [6/384]
+[2026-09-11 03:41:34.655] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  755.6s] [fit] prompt suca  layer  0: acc 0.158 nll 1.446 (5.5s) [7/384]
+[2026-09-11 03:41:40.803] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  761.9s] [fit] prompt sucat layer  0: acc 0.143 nll 1.681 (6.3s) [8/384]
+[  899.2s] [fit] prompt ua    layer  2: acc 0.707 nll 0.578 (4.2s) [33/384]
+[2026-09-11 03:44:06.735] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  907.6s] [fit] prompt uat   layer  2: acc 0.514 nll 1.053 (8.4s) [34/384]
+[2026-09-11 03:44:12.997] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  913.9s] [fit] prompt uca   layer  2: acc 0.430 nll 1.075 (6.2s) [35/384]
+[2026-09-11 03:44:20.110] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  921.0s] [fit] prompt ucat  layer  2: acc 0.355 nll 1.308 (7.1s) [36/384]
+[  926.7s] [fit] prompt sua   layer  2: acc 0.347 nll 1.149 (5.7s) [37/384]
+[2026-09-11 03:44:33.086] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  934.0s] [fit] prompt suat  layer  2: acc 0.363 nll 1.288 (7.3s) [38/384]
+[2026-09-11 03:44:40.216] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[  941.1s] [fit] prompt suca  layer  2: acc 0.263 nll 1.323 (7.1s) [39/384]
+[  948.6s] [fit] prompt sucat layer  2: acc 0.276 nll 1.584 (7.5s) [40/384]

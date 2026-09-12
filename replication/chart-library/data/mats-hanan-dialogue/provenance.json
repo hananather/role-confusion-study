@@ -1,0 +1,52 @@
+{
+  "completed_utc": "2026-09-12T02:10:22.138555+00:00",
+  "elapsed_seconds": 44.85992121696472,
+  "peak_memory_gb": 13.044690516,
+  "model_id": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "model_snapshot": "773a7da77e569019bb0fd17a554b263738d669a3",
+  "tokenizer_snapshot": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "probe_key": "suca_L12",
+  "probe_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "class_order": [
+    "system",
+    "user",
+    "cot",
+    "assistant"
+  ],
+  "hook": "zero-based layer12 post_attention_layernorm output, pre-MLP",
+  "n_generated_assistant_turns": 2,
+  "n_measurement_forwards": 3,
+  "temperature": 0.0,
+  "generation_reasoning_effort": "low",
+  "answers_and_analysis": "Generated once by the local model; unchanged outputs replayed for measurement in three formats. User prompts authored for this illustration.",
+  "storage_dtype": "float16",
+  "projection_dtype": "float64",
+  "runtime": "MLX",
+  "versions": {
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3",
+    "numpy": "2.5.3",
+    "transformers": "5.17.0"
+  },
+  "measurement_forwards": [
+    {
+      "condition": "proper_tags",
+      "tokens": 927,
+      "seconds": 3.2157349586486816
+    },
+    {
+      "condition": "basic_no_format",
+      "tokens": 891,
+      "seconds": 3.0485410690307617
+    },
+    {
+      "condition": "everything_in_user_tags",
+      "tokens": 895,
+      "seconds": 2.8920180797576904
+    }
+  ],
+  "prompt_freeze_sha256": "2b0f780eec24c5da69089b4f90d14bb1af6ea6aee00c45034929c3caefa36cec",
+  "measurement_freeze_sha256": "f88d781496d3200552fdb06f8f921822107afbe58253f8b6938813edb91317dd",
+  "script_sha256": "82822c9608e44b6e1acb7ee880663110f09be8a03b476ff226e2bc5a764fca5e",
+  "interpretation": "One original Hanan-specific illustrative exchange, no claim about admissions or Neel’s judgment. Analysis text is the local model’s generated channel, not a verified explanation of mechanism."
+}

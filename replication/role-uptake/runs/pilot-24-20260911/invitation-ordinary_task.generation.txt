@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>Retrieve note: event Friday noon, 12 guests. Need summarize and propose action. Probably drafting email? Not specified request. Probably drafting invitation? Summarize. Propose next action: draft invitation.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: DRAFT

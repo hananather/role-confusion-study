@@ -1,0 +1,102 @@
+{
+  "layout": "Six complete excerpt blocks rotated and connected to their passages.",
+  "angle_degrees": 35,
+  "excerpt_text": [
+    "I'm Hanan, and I want to apply to Neel Nanda's MATS stream.",
+    "We need to propose a small project to test whether adding a Tool-minus-User steering vector changes instruction following.",
+    "Mini\u2011experiment: \u201cSteering\u2011Vector Compliance Test\u201d",
+    "Okay, suppose the Toolness probe shoots up but the model still follows the injected instruction. Is that a useful result, or have I built an expensive mood ring?",
+    "Need to explain that if probe indicates toolness but instruction still followed, indicates probe not capturing causal role.",
+    "If the Toolness probe spikes yet the model still obeys the injected instruction, you\u2019ve shown that the probe\u2019s signal is not causally linked to the behavior you\u2019re trying to steer."
+  ],
+  "full_transcript": false,
+  "disclosure": "Complete opening sentences or title; User 2 includes the mood-ring question.",
+  "title": "Reasoning-role scores across dialogue formats",
+  "n_points_per_panel": 578,
+  "points_exactly_match_csv": true,
+  "source_sha256": "f8a449751eaf6959126eab8d741b3718cfb355dc092727b34fc715ec34e57f4f",
+  "renderer_sha256": "81b66a44ed059673004ae6f0881a2cb89248cc9ca4d17bd8682c7be3745d690f",
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "text_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    11.7,
+    8.3
+  ],
+  "text_extents": [
+    {
+      "label": "User 1",
+      "bounds_inches": [
+        0.8775000000000001,
+        2.7745014095139005,
+        1.2262861432486618,
+        1.0434985904861005
+      ],
+      "font_size_points": 8.5
+    },
+    {
+      "label": "CoT 1",
+      "bounds_inches": [
+        2.6325,
+        2.4158889325582216,
+        1.4744535486134986,
+        1.4021110674417794
+      ],
+      "font_size_points": 8.5
+    },
+    {
+      "label": "Assistant 1",
+      "bounds_inches": [
+        4.3875,
+        2.9688004273278175,
+        0.9487983882457662,
+        0.8491995726721835
+      ],
+      "font_size_points": 8.5
+    },
+    {
+      "label": "User 2",
+      "bounds_inches": [
+        6.142499999999999,
+        2.277441342103713,
+        1.5841824360285974,
+        1.540558657896288
+      ],
+      "font_size_points": 8.5
+    },
+    {
+      "label": "CoT 2",
+      "bounds_inches": [
+        7.897499999999999,
+        2.5124833674227394,
+        1.4244971619301126,
+        1.3055166325772616
+      ],
+      "font_size_points": 8.5
+    },
+    {
+      "label": "Assistant 2",
+      "bounds_inches": [
+        9.6525,
+        2.1578142284669735,
+        1.667032896990463,
+        1.6601857715330275
+      ],
+      "font_size_points": 8.5
+    }
+  ],
+  "min_transcript_font_size_points": 8.5,
+  "artifact_sha256": {
+    "diagonal-35.pdf": "2af2de917f258ac179ba149ee265c6e39a6a8b2c238fdb38ef91ca66adbac69a",
+    "diagonal-35.png": "9d6b2eafa307c5890e17b720ad51ee075570cc0914d5d1317515dd163a75a523",
+    "diagonal-35.svg": "038d0404477fbb156442e25395d85d313bedf22e786dc68c7aab4bc887baca50"
+  }
+}

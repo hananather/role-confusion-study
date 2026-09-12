@@ -1,0 +1,8 @@
+{
+  "time_utc": "2026-09-11T03:23:05.337742+00:00",
+  "phase": "forward",
+  "batch": 1,
+  "batches": 39,
+  "tokens": 11019,
+  "sec_per_batch": 12.83
+}

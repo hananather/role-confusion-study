@@ -1,0 +1,74 @@
+{
+  "arm": "plain",
+  "steering": {
+    "direction": "tool_minus_cot",
+    "alpha": 0.0,
+    "gap": 38.507904052734375,
+    "mask_mode": "tool",
+    "magnitude": 0.0,
+    "layer_zero_based": 11,
+    "site": "TransformerBlock output",
+    "probe": "sucat_L12 (prompt split)",
+    "directions_npz": "/Users/hananather/Desktop/MATS 12.0/replication/steering-agent/directions/block11.npz",
+    "directions_sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+  },
+  "turns": [
+    {
+      "turn": 0,
+      "prompt_tokens": 214,
+      "page_span_tokens": 0,
+      "payload_span_tokens": 0,
+      "hook_calls": 551,
+      "hook_positions_seen": 763,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 0
+        },
+        "header": {
+          "n_tokens": 0
+        },
+        "payload": {
+          "n_tokens": 0
+        }
+      }
+    },
+    {
+      "turn": 1,
+      "prompt_tokens": 26051,
+      "page_span_tokens": 25274,
+      "payload_span_tokens": 108,
+      "hook_calls": 752,
+      "hook_positions_seen": 26751,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 25274,
+          "p_system": 0.47795055799679714,
+          "p_user": 0.026202910132467384,
+          "p_cot": 0.11073669668823856,
+          "p_assistant": 0.31217175144329284,
+          "p_tool": 0.07293808903367381
+        },
+        "header": {
+          "n_tokens": 11,
+          "p_system": 2.4588389351265505e-06,
+          "p_user": 3.0378297114194455e-06,
+          "p_cot": 0.10965412313287909,
+          "p_assistant": 0.8860567266290839,
+          "p_tool": 0.004283749921755357
+        },
+        "payload": {
+          "n_tokens": 108,
+          "p_system": 0.43159781561957467,
+          "p_user": 0.02258521318435669,
+          "p_cot": 0.3800791987666377,
+          "p_assistant": 0.051243737891868306,
+          "p_tool": 0.11449403232998318
+        }
+      }
+    }
+  ]
+}

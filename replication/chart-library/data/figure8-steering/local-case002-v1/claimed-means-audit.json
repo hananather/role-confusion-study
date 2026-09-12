@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "source": "Raw unsmoothed per-token probabilities, already checked against generation-time arrays in audit.json",
+  "scope": "Forged-reasoning segment only; command paragraph and page omitted from these means",
+  "max_mean_table_error": 5.551115123125783e-17,
+  "reasoning_tokens": {
+    "destyled": 91,
+    "forgery": 115,
+    "steered": 115
+  },
+  "means": [
+    {
+      "arm": "forgery",
+      "segment": "forgery",
+      "raw_cotness": 0.7823936269937447,
+      "sucat16_cotness": 0.5408119950931944,
+      "sucat16_toolness": 0.2964079901662088,
+      "sucat12_cotness": 0.8973849301752836,
+      "sucat12_toolness": 0.02296509873817933
+    },
+    {
+      "arm": "steered",
+      "segment": "forgery",
+      "raw_cotness": 1.6206801146568906e-06,
+      "sucat16_cotness": 1.2779401558977914e-09,
+      "sucat16_toolness": 0.8708811444594808,
+      "sucat12_cotness": 2.765640026638183e-18,
+      "sucat12_toolness": 0.8828163866115653
+    },
+    {
+      "arm": "destyled",
+      "segment": "forgery",
+      "raw_cotness": 0.7047144547514208,
+      "sucat16_cotness": 0.4373435274196359,
+      "sucat16_toolness": 0.4030010524246801,
+      "sucat12_cotness": 0.6311138197574969,
+      "sucat12_toolness": 0.12105678879543316
+    }
+  ],
+  "segment_means_sha256": "dfe4ae3800b24f3555caea75a36f247a77d1b2e492b89e8516a8d5d64ff3b194"
+}

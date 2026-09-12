@@ -1,0 +1,101 @@
+{
+  "account_check": {
+    "autopay_path": [
+      "data",
+      "myself",
+      "isAutoPayEnabled"
+    ],
+    "balance_path": [
+      "data",
+      "myself",
+      "clientBalance"
+    ],
+    "query": "query { myself { clientBalance isAutoPayEnabled } }"
+  },
+  "asset_mode": "existing_volume",
+  "cap_usd": 9,
+  "cloud": "SECURE",
+  "command": [
+    "/workspace/venv-probes/bin/python",
+    "-u",
+    "-m",
+    "replication.cloud.chat_steering.batch",
+    "baseline",
+    "--config",
+    "/workspace/replication/cloud/chat_steering/baseline-run-config.json"
+  ],
+  "container_disk_gb": 30,
+  "container_disk_usd_gb_month": 0.1,
+  "data_center": "EU-FR-1",
+  "execution_record": "/Users/hananather/Desktop/MATS 12.0/replication/EXECUTION.md",
+  "existing_volume_reserve_usd": 0.4,
+  "files": [
+    {
+      "remote": "replication/cloud/chat_steering/control.py",
+      "sha256": "074927be95bbcf4a54bf9b4ca0d927129ee786a289dc033b68cf098ee471fc2b",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/control.py"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/run.sh",
+      "sha256": "8e1b6d642275bb0aefb3e4a4e9b644eab9b9058564251113ba5dba7d8a9cb4da",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/run.sh"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/batch.py",
+      "sha256": "38edc1bf4983f3e65345cccf9fd99eb32d9c81354c7acfa1f358509adbdb1bcc",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/batch.py"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/protocol.py",
+      "sha256": "898714dc108a906248acf0bdaf28858ca8449e5daba5f32707b873f56d2dd7ed",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/protocol.py"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/runtime.py",
+      "sha256": "89882aacde8817d49d60bd4c6fdb3a9a162f83467005d1b8686aee739975be1e",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/runtime.py"
+    },
+    {
+      "remote": "replication/cloud/jobcommon.py",
+      "sha256": "4044cb37e9df7f5d6bf4571d538f096f3747ad2d70e188ae729ca047057267bc",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/jobcommon.py"
+    },
+    {
+      "remote": "replication/cloud/job_steering.py",
+      "sha256": "dc26236f4501c5b0b24c1c3c303bbac4fe910c88fcb2546c6eaa198f93a3e4a9",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/job_steering.py"
+    },
+    {
+      "remote": "replication/data/strongreject_dataset.csv",
+      "sha256": "4dd70357e4ff8b5d0ba5ebafecab5d6dd5633ce8046e3dd1c8bd93e64de44381",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/data/strongreject_dataset.csv"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/baseline-run-config.json",
+      "sha256": "2963dd742efdf1770ee44603132550fec013e7deb0ef774f3f2ca90d98f230e6",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/baseline-run-config.json"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/baseline-model-free-validation.json",
+      "sha256": "b19cdbc9ea2b1fae3321b49a34196318c7241a9d3ef423f23349254ae776a22b",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/baseline-model-free-validation.json"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/baseline-runtime-review.json",
+      "sha256": "629791e42517a3236bd2822659a2e1f1a924d5de9c9ac164a072f7c0bb8879c4",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/frozen-source/replication/cloud/chat_steering/baseline-runtime-review.json"
+    }
+  ],
+  "gpu_type": "NVIDIA H100 80GB HBM3",
+  "grace_minutes": 20,
+  "image": "runpod/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04",
+  "model_free_validation": "/workspace/replication/cloud/chat_steering/baseline-model-free-validation.json",
+  "network_volume_id": "i0cptrlcoz",
+  "planned_hours": 2,
+  "rate_usd_h": 3.49,
+  "run_id": "baseline-20260912T003200Z",
+  "runtime_review_receipt": "/workspace/replication/cloud/chat_steering/baseline-runtime-review.json",
+  "scope": "base_only",
+  "storage_month_hours": 730,
+  "version": 1
+}

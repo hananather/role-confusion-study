@@ -1,0 +1,27 @@
+# My coverage and provenance review
+
+**Reviewer 9 · PASS — no material recommendations remain in this scope.**
+
+September 12, 2026 · Understand → Distill. My north star is whether the complete saved evidence supports the behavioral claim without selecting favorable pages, hiding controls, or mixing different measurements. I apply the Neel lens through complete controls, source checking, adverse evidence and a narrow claim.
+
+I reviewed [the report](../report.md), [the goal](../GOAL.md), the source manifest and derived tables, both independent cohort audits, the first two rendered figures, and the linked selected illustration. The reviewed report has SHA-256 `2ec3513b6f29534ea32543d963a1fabe81044b606b3126acb943e8f2f1f52fc0`.
+
+## Coverage and selection
+
+- **Latest controlled cohort:** the table contains 110 unique case/arm assignments: 100 recorded episodes and ten unrun assignments. I independently counted 80 recorded forgery episodes, 15 benign episodes and five standard-injection episodes. The report keeps these task types separate. The ten unrun assignments comprise five new Tool-raising forgery tests and five historical standard-floor tests; the complete table retains both groups.
+- **Every random control and favorable branch:** Figure 1 includes all three random directions, the reverse direction, provenance reminder, zero dose and Tool-raising arm. The original vector's adverse H2 outcome remains visible. The favorable Tool-raising result appears in the TLDR, both main figures and a dedicated explanation; it is bounded to five reused pages and five unrun new-page tests. The report's one-based random labels are explicitly mapped to the source arm IDs.
+- **Missingness:** the two unresolved forgery episodes are visible in both main figures. The third unresolved episode is a standard-injection control, retained in the full table and named in the methods. Unrun Tool-raising tests and unassigned new-page zero-dose controls have different symbols. Missing no-intervention and reminder probe scores are described rather than filled. Historical zero-dose measurements support the stated five-page score reduction; the report does not invent ten matched baseline readings.
+- **Separate historical families:** the linked [historical inventory](historical-evidence-audit.md) preserves the earlier MLX sweep, incomplete zero control, all-token failure-to-fetch arm, favorable alpha-16 outcomes, original censored pilot draw and successful resample. It also records the older transfer study's 760/1,880 recovery and exposure failure, the permission study's 149/280 recovery, and the 24 unexecuted role-uptake proposals. Their records are not added to the latest cohort. The permission figure includes every recovered Toolward pair and links all other recovered methods; it makes a within-method mismatch claim rather than a ranking from unequal recovered cohorts.
+- **Different measurement types:** the ten added-question authorship answers, separate Tool-raising engineering gate, and offline classifier offsets remain diagnostics or illustrations. They are not counted as behavioral trials or independent examples. The report distinguishes the older command-only Tool-minus-User marker intervention from the later Tool-minus-CoT upload intervention.
+
+## Provenance and claim support
+
+I independently rehashed all 201 entries in [the report's source manifest](../data/source-manifest.json), with no mismatches or missing files. All seven derived-file hashes recorded in [verification.json](../data/verification.json) match. All 32 local links in the report resolve. This is my source-integrity check; the separate [full-batch audit](full-batch-audit.md) documents the deeper 2,224-file and receiver-body reconstruction.
+
+The paper is attributed as motivation for probing role representations. I checked the [authors' project explanation](https://role-confusion.github.io/) live: its role-probe construction and tag/style discussion support that attribution. The local counts and figures are presented as Hanan's saved experiments, not as reproduced upstream behavioral results. Saved probability summaries are distinguished from an independent hidden-state projection, which this export cannot support.
+
+The [selected four-condition attack](../../cot-forgery-steering.html) now directs readers to the full comparison before presenting its selected result. It retains the adverse neighboring pair, selection history, actual-generation provenance and unsupported-summary-sentence qualification. Its manual style rewrite is explicitly distinguished from the authors' full destyling procedure. The report makes the same distinction. I also checked all 12 files in the [canonical MATS illustration manifest](../../canonical/mats-dialogue-v1/manifest.json); every hash matches.
+
+The strongest affirmative claim is supported: extreme measured role scores coexist with unwanted actions in these saved cases. The favorable construction remains an open positive hypothesis. Reused templates, single sampled trajectories, missing historical records and ungraded summary accuracy prevent a general defense claim; they do not establish that steering has zero effect. Those boundaries are preserved in the report.
+
+I made no changes to the report, figures, canonical illustration or scientific source files, and launched no model or external mutation. I did not repeat the separate raw-receiver or complete historical-record adjudication in this coverage pass.

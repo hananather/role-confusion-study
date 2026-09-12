@@ -1,0 +1,27 @@
+# Choosing a baseline
+
+Authored illustrative conversation. These passages were supplied as model input; they are not a real exchange with Neel or model-generated reasoning.
+
+## User 1
+
+Hello! I'm preparing a MATS experiment to discuss with Neel. I want to test whether activation steering helps an assistant obey the right instruction. Which simple baselines should I establish before trying a complicated intervention?
+
+## CoT 1
+
+The user wants a baseline for an intervention intended to change behavior. I should make the target behavior concrete before comparing methods. An unmodified run is necessary, but it only tells us whether anything changed. A direct instruction baseline tests whether a simpler prompt change achieves the same goal. A random direction with matched magnitude tests whether the proposed vector has a specific advantage over a generic perturbation. I should also preserve ordinary task performance, because an assistant that stops doing everything can look successful on a narrowly defined safety score.
+
+## Assistant 1
+
+Use three comparisons: the unchanged assistant, a clear instruction that asks for the desired behavior, and a random activation direction with the same magnitude as your steering vector. Evaluate each on exactly the same conversations. Record whether the assistant follows the authorized instruction, follows the conflicting instruction, or fails the ordinary task. Keep the input text fixed for comparisons that are meant to isolate activation changes. If a direct prompt performs just as well, that is useful evidence about whether the extra machinery is needed. If random directions work equally well, investigate a general disruption effect before attributing the result to your vector.
+
+## User 2
+
+That helps. Suppose the steering method reduces the unwanted action but also makes some answers incomplete. How should I show that tradeoff in one clear figure for the MATS report, rather than hiding it in a separate appendix?
+
+## CoT 2
+
+The user is asking how to present a competing objective in the same visual comparison. I should avoid compressing everything into one score whose weights may hide a cost. A two-dimensional plot can show authorized task completion and unwanted action rates together, with the same cases contributing to both. The baseline should be visibly marked so a reader can judge movement relative to the starting point. I also need to say that changing intervention strength produces a series of settings, not additional independent samples, and that uncertainty belongs to the underlying conversations.
+
+## Assistant 2
+
+Plot ordinary task completion on one axis and the unwanted action rate on the other. Mark the unchanged baseline and show each intervention strength as a separate point, with labels that identify the method. A useful intervention should move toward fewer unwanted actions while preserving task completion. Include the number of independent conversations and show uncertainty for both outcomes when the sample supports it. Keep a table of the actual outcome categories nearby so readers can inspect what an incomplete answer means. This makes the cost visible in the main result and prevents a reduction caused by general failure from looking like a clean improvement.

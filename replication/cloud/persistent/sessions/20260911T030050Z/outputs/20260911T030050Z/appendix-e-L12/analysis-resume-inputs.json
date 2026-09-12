@@ -1,0 +1,21 @@
+{
+  "started_utc": "2026-09-11T04:40:46.809710+00:00",
+  "previous_error": "ValueError: Serialized probability mean does not match my summary.",
+  "previous_metadata_sha256": "37ea45a1c2a3e16df166c364e28b5703022ebb40e032edefcf2aa18b8f14ca85",
+  "input_sha256": {
+    "gardening-layer12-float16.npy": "7bdb41f4075fc1c6c956054f3392bf78bf376eb043b1bd0f9ac7a0d00495bc0a",
+    "native-probabilities-unrounded.npy": "a1c6fae79985c5b1140d56962748322ec246dc1c4a3d431088c0dc02406b414a",
+    "native-probability-sample-indices.npy": "e8609b9f974f087b09a260c3c9fbdfe3ab1c2e22a0cce3e473b819f09d81de64",
+    "tomato-role-projections-gptoss-20b.csv": "18b4ab9c913a19783af0c7d3b2146f6def0b9e162810fe05479e316b24435f2c",
+    "all-tokens-and-labels.csv": "9140e9c3bf9b86884bb0d46507f61a0252d412877e2b5e9f657820981d46f6d1",
+    "original-messages.json": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+    "custom-chat-template.jinja": "bcbbcd100a56ad723921990706697a40df73870d00f93746f00759f6f87994c9",
+    "rendered-prompts-and-token-ids.json": "5ca2c6e2e9a492627e66c9ff17d4a35cb145fbfc03e66cf6167a151766012152",
+    "prompt-basic_no_format.txt": "c692119461b28d6088201a89806287e6d7eac82912cd3ecab5f6d777c4234fc3",
+    "prompt-everything_in_user_tags.txt": "23f6e273897ed336f23a50b315c9adcfdc1aff1da7fd43b57f83b721e6339cab",
+    "prompt-proper_tags.txt": "6ff6c4b292de8beca8a954c94852e2af10fcda44d33aaa7e28d4c97da7622889"
+  },
+  "analysis_script_sha256": "8da2ae2b27d5197a39952bb34f6861cef81d88063f0327f2358288dac06e1e4d",
+  "figure_script_sha256": "fd890813e379f4c187f987710266ede88780d31a1f34331eb08a31c65b84158b",
+  "model_forward_rerun": false
+}

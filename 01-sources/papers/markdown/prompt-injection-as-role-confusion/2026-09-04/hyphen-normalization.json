@@ -1,0 +1,797 @@
+[
+  {
+    "split": "par-titioned",
+    "result": "partitioned",
+    "kept_hyphen": false
+  },
+  {
+    "split": "mod-els",
+    "result": "models",
+    "kept_hyphen": false
+  },
+  {
+    "split": "web-page",
+    "result": "web-page",
+    "kept_hyphen": true
+  },
+  {
+    "split": "inter-nally",
+    "result": "internally",
+    "kept_hyphen": false
+  },
+  {
+    "split": "demon-strate",
+    "result": "demonstrate",
+    "kept_hyphen": false
+  },
+  {
+    "split": "injec-tion",
+    "result": "injection",
+    "kept_hyphen": false
+  },
+  {
+    "split": "de-signed",
+    "result": "designed",
+    "kept_hyphen": false
+  },
+  {
+    "split": "multi-ple",
+    "result": "multiple",
+    "kept_hyphen": false
+  },
+  {
+    "split": "at-tempts",
+    "result": "attempts",
+    "kept_hyphen": false
+  },
+  {
+    "split": "probe-measured",
+    "result": "probe-measured",
+    "kept_hyphen": true
+  },
+  {
+    "split": "quali-fying",
+    "result": "qualifying",
+    "kept_hyphen": false
+  },
+  {
+    "split": "represen-tations",
+    "result": "representations",
+    "kept_hyphen": false
+  },
+  {
+    "split": "suc-cess",
+    "result": "success",
+    "kept_hyphen": false
+  },
+  {
+    "split": "uni-verse",
+    "result": "universe",
+    "kept_hyphen": false
+  },
+  {
+    "split": "gener-ate",
+    "result": "generate",
+    "kept_hyphen": false
+  },
+  {
+    "split": "re-trieved",
+    "result": "retrieved",
+    "kept_hyphen": false
+  },
+  {
+    "split": "work-ing",
+    "result": "working",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Fol-lowing",
+    "result": "Following",
+    "kept_hyphen": false
+  },
+  {
+    "split": "per-ceives",
+    "result": "perceives",
+    "kept_hyphen": false
+  },
+  {
+    "split": "re-quests",
+    "result": "requests",
+    "kept_hyphen": false
+  },
+  {
+    "split": "train-ing",
+    "result": "training",
+    "kept_hyphen": false
+  },
+  {
+    "split": "of-distribution",
+    "result": "of-distribution",
+    "kept_hyphen": true
+  },
+  {
+    "split": "at-tacks",
+    "result": "attacks",
+    "kept_hyphen": false
+  },
+  {
+    "split": "bound-aries",
+    "result": "boundaries",
+    "kept_hyphen": false
+  },
+  {
+    "split": "instruc-tions",
+    "result": "instructions",
+    "kept_hyphen": false
+  },
+  {
+    "split": "en-tirely",
+    "result": "entirely",
+    "kept_hyphen": false
+  },
+  {
+    "split": "exam-ples",
+    "result": "examples",
+    "kept_hyphen": false
+  },
+  {
+    "split": "un-justifiable",
+    "result": "unjustifiable",
+    "kept_hyphen": false
+  },
+  {
+    "split": "near-perfect",
+    "result": "near-perfect",
+    "kept_hyphen": true
+  },
+  {
+    "split": "near-perfect",
+    "result": "near-perfect",
+    "kept_hyphen": true
+  },
+  {
+    "split": "near-perfect",
+    "result": "near-perfect",
+    "kept_hyphen": true
+  },
+  {
+    "split": "GPT-5",
+    "result": "GPT-5",
+    "kept_hyphen": true
+  },
+  {
+    "split": "injec-tions",
+    "result": "injections",
+    "kept_hyphen": false
+  },
+  {
+    "split": "exam-ples",
+    "result": "examples",
+    "kept_hyphen": false
+  },
+  {
+    "split": "dramati-cally",
+    "result": "dramatically",
+    "kept_hyphen": false
+  },
+  {
+    "split": "de-fenses",
+    "result": "defenses",
+    "kept_hyphen": false
+  },
+  {
+    "split": "col-lapses",
+    "result": "collapses",
+    "kept_hyphen": false
+  },
+  {
+    "split": "repre-sented",
+    "result": "represented",
+    "kept_hyphen": false
+  },
+  {
+    "split": "iden-tify",
+    "result": "identify",
+    "kept_hyphen": false
+  },
+  {
+    "split": "non-instruct",
+    "result": "non-instruct",
+    "kept_hyphen": true
+  },
+  {
+    "split": "con-stant",
+    "result": "constant",
+    "kept_hyphen": false
+  },
+  {
+    "split": "enclos-ing",
+    "result": "enclosing",
+    "kept_hyphen": false
+  },
+  {
+    "split": "assis-tant",
+    "result": "assistant",
+    "kept_hyphen": false
+  },
+  {
+    "split": "natu-ral",
+    "result": "natural",
+    "kept_hyphen": false
+  },
+  {
+    "split": "fea-tures",
+    "result": "features",
+    "kept_hyphen": false
+  },
+  {
+    "split": "se-quences",
+    "result": "sequences",
+    "kept_hyphen": false
+  },
+  {
+    "split": "con-tent",
+    "result": "content",
+    "kept_hyphen": false
+  },
+  {
+    "split": "seman-tics",
+    "result": "semantics",
+    "kept_hyphen": false
+  },
+  {
+    "split": "sim-ple",
+    "result": "simple",
+    "kept_hyphen": false
+  },
+  {
+    "split": "gen-uine",
+    "result": "genuine",
+    "kept_hyphen": false
+  },
+  {
+    "split": "ex-clusively",
+    "result": "exclusively",
+    "kept_hyphen": false
+  },
+  {
+    "split": "",
+    "result": "",
+    "kept_hyphen": false
+  },
+  {
+    "split": "hierar-chy",
+    "result": "hierarchy",
+    "kept_hyphen": false
+  },
+  {
+    "split": "con-ditions",
+    "result": "conditions",
+    "kept_hyphen": false
+  },
+  {
+    "split": "misclassifica-tion",
+    "result": "misclassification",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Col-ors",
+    "result": "Colors",
+    "kept_hyphen": false
+  },
+  {
+    "split": "bound-aries",
+    "result": "boundaries",
+    "kept_hyphen": false
+  },
+  {
+    "split": "CoT-ness",
+    "result": "CoTness",
+    "kept_hyphen": false
+  },
+  {
+    "split": "injec-tion",
+    "result": "injection",
+    "kept_hyphen": false
+  },
+  {
+    "split": "mea-sure",
+    "result": "measure",
+    "kept_hyphen": false
+  },
+  {
+    "split": "lowest-confusion",
+    "result": "lowest-confusion",
+    "kept_hyphen": true
+  },
+  {
+    "split": "percep-tion",
+    "result": "perception",
+    "kept_hyphen": false
+  },
+  {
+    "split": "sig-nal",
+    "result": "signal",
+    "kept_hyphen": false
+  },
+  {
+    "split": "de-clare",
+    "result": "declare",
+    "kept_hyphen": false
+  },
+  {
+    "split": "COM-MAND",
+    "result": "COMMAND",
+    "kept_hyphen": false
+  },
+  {
+    "split": "rank-ings",
+    "result": "rankings",
+    "kept_hyphen": false
+  },
+  {
+    "split": "User-ness",
+    "result": "Userness",
+    "kept_hyphen": false
+  },
+  {
+    "split": "near-monotonically",
+    "result": "near-monotonically",
+    "kept_hyphen": true
+  },
+  {
+    "split": "mea-surable",
+    "result": "measurable",
+    "kept_hyphen": false
+  },
+  {
+    "split": "An-driushchenko",
+    "result": "Andriushchenko",
+    "kept_hyphen": false
+  },
+  {
+    "split": "sep-aration",
+    "result": "separation",
+    "kept_hyphen": false
+  },
+  {
+    "split": "short-cuts",
+    "result": "shortcuts",
+    "kept_hyphen": false
+  },
+  {
+    "split": "frag-ile",
+    "result": "fragile",
+    "kept_hyphen": false
+  },
+  {
+    "split": "behav-ioral",
+    "result": "behavioral",
+    "kept_hyphen": false
+  },
+  {
+    "split": "expres-sivity",
+    "result": "expressivity",
+    "kept_hyphen": false
+  },
+  {
+    "split": "proceed-ings",
+    "result": "proceedings",
+    "kept_hyphen": false
+  },
+  {
+    "split": "ex-plains",
+    "result": "explains",
+    "kept_hyphen": false
+  },
+  {
+    "split": "whack-a",
+    "result": "whack-a",
+    "kept_hyphen": true
+  },
+  {
+    "split": "inde-pendently",
+    "result": "independently",
+    "kept_hyphen": false
+  },
+  {
+    "split": "reasoning-like",
+    "result": "reasoning-like",
+    "kept_hyphen": true
+  },
+  {
+    "split": "bound-aries",
+    "result": "boundaries",
+    "kept_hyphen": false
+  },
+  {
+    "split": "memorization-based",
+    "result": "memorization-based",
+    "kept_hyphen": true
+  },
+  {
+    "split": "exis-tence",
+    "result": "existence",
+    "kept_hyphen": false
+  },
+  {
+    "split": "exfiltra-tion",
+    "result": "exfiltration",
+    "kept_hyphen": false
+  },
+  {
+    "split": "mea-surable",
+    "result": "measurable",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Sys-temness",
+    "result": "Systemness",
+    "kept_hyphen": false
+  },
+  {
+    "split": "under-stand",
+    "result": "understand",
+    "kept_hyphen": false
+  },
+  {
+    "split": "pro-grammatically",
+    "result": "programmatically",
+    "kept_hyphen": false
+  },
+  {
+    "split": "ob-jectives",
+    "result": "objectives",
+    "kept_hyphen": false
+  },
+  {
+    "split": "reason-ing",
+    "result": "reasoning",
+    "kept_hyphen": false
+  },
+  {
+    "split": "communica-tion",
+    "result": "communication",
+    "kept_hyphen": false
+  },
+  {
+    "split": "opti-mize",
+    "result": "optimize",
+    "kept_hyphen": false
+  },
+  {
+    "split": "gener-ation",
+    "result": "generation",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Addi-tionally",
+    "result": "Additionally",
+    "kept_hyphen": false
+  },
+  {
+    "split": "sub-spaces",
+    "result": "subspaces",
+    "kept_hyphen": false
+  },
+  {
+    "split": "archi-tectural",
+    "result": "architectural",
+    "kept_hyphen": false
+  },
+  {
+    "split": "direc-tions",
+    "result": "directions",
+    "kept_hyphen": false
+  },
+  {
+    "split": "inter-ventions",
+    "result": "interventions",
+    "kept_hyphen": false
+  },
+  {
+    "split": "confu-sion",
+    "result": "confusion",
+    "kept_hyphen": false
+  },
+  {
+    "split": "probe-measured",
+    "result": "probe-measured",
+    "kept_hyphen": true
+  },
+  {
+    "split": "ex-panded",
+    "result": "expanded",
+    "kept_hyphen": false
+  },
+  {
+    "split": "di-mensions",
+    "result": "dimensions",
+    "kept_hyphen": false
+  },
+  {
+    "split": "disconti-nuities",
+    "result": "discontinuities",
+    "kept_hyphen": false
+  },
+  {
+    "split": "underex-ploited",
+    "result": "underexploited",
+    "kept_hyphen": false
+  },
+  {
+    "split": "rep-resent",
+    "result": "represent",
+    "kept_hyphen": false
+  },
+  {
+    "split": "repre-sentation",
+    "result": "representation",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Compro-mising",
+    "result": "Compromising",
+    "kept_hyphen": false
+  },
+  {
+    "split": "indi-rect",
+    "result": "indirect",
+    "kept_hyphen": false
+  },
+  {
+    "split": "train-ing",
+    "result": "training",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Ben-ton",
+    "result": "Benton",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Bashkan-sky",
+    "result": "Bashkansky",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Lan-ham",
+    "result": "Lanham",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Discov-ering",
+    "result": "Discovering",
+    "kept_hyphen": false
+  },
+  {
+    "split": "su-pervision",
+    "result": "supervision",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Chaud-huri",
+    "result": "Chaudhuri",
+    "kept_hyphen": false
+  },
+  {
+    "split": "De-fending",
+    "result": "Defending",
+    "kept_hyphen": false
+  },
+  {
+    "split": "opti-mization",
+    "result": "optimization",
+    "kept_hyphen": false
+  },
+  {
+    "split": "in-struction",
+    "result": "instruction",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Delibera-tive",
+    "result": "Deliberative",
+    "kept_hyphen": false
+  },
+  {
+    "split": "mod-els",
+    "result": "models",
+    "kept_hyphen": false
+  },
+  {
+    "split": "in-jection",
+    "result": "injection",
+    "kept_hyphen": false
+  },
+  {
+    "split": "in-duced",
+    "result": "induced",
+    "kept_hyphen": false
+  },
+  {
+    "split": "repre-sentations",
+    "result": "representations",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Hijack-ing",
+    "result": "Hijacking",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Dan-tuluri",
+    "result": "Dantuluri",
+    "kept_hyphen": false
+  },
+  {
+    "split": "democ-ratizing",
+    "result": "democratizing",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Emer-gent",
+    "result": "Emergent",
+    "kept_hyphen": false
+  },
+  {
+    "split": "represen-tations",
+    "result": "representations",
+    "kept_hyphen": false
+  },
+  {
+    "split": "at-tacks",
+    "result": "attacks",
+    "kept_hyphen": false
+  },
+  {
+    "split": "mod-els",
+    "result": "models",
+    "kept_hyphen": false
+  },
+  {
+    "split": "trans-former",
+    "result": "transformer",
+    "kept_hyphen": false
+  },
+  {
+    "split": "at-tacks",
+    "result": "attacks",
+    "kept_hyphen": false
+  },
+  {
+    "split": "infor-mation",
+    "result": "information",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Ex-posing",
+    "result": "Exposing",
+    "kept_hyphen": false
+  },
+  {
+    "split": "global-scale",
+    "result": "global-scale",
+    "kept_hyphen": true
+  },
+  {
+    "split": "Uncov-ering",
+    "result": "Uncovering",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Pro-cessing",
+    "result": "Processing",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Represen-tations",
+    "result": "Representations",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Lan-guage",
+    "result": "Language",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Unfaith-ful",
+    "result": "Unfaithful",
+    "kept_hyphen": false
+  },
+  {
+    "split": "of-thought",
+    "result": "of-thought",
+    "kept_hyphen": true
+  },
+  {
+    "split": "As-sociation",
+    "result": "Association",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Lin-guistics",
+    "result": "Linguistics",
+    "kept_hyphen": false
+  },
+  {
+    "split": "gpt-3",
+    "result": "gpt-3",
+    "kept_hyphen": true
+  },
+  {
+    "split": "act-ing",
+    "result": "acting",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Pro-ceedings",
+    "result": "Proceedings",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Ameri-can",
+    "result": "American",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Lin-guistics",
+    "result": "Linguistics",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Asso-ciation",
+    "result": "Association",
+    "kept_hyphen": false
+  },
+  {
+    "split": "injec-tion",
+    "result": "injection",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Lam-pert",
+    "result": "Lampert",
+    "kept_hyphen": false
+  },
+  {
+    "split": "lan-guage",
+    "result": "language",
+    "kept_hyphen": false
+  },
+  {
+    "split": "model-recommended",
+    "result": "model-recommended",
+    "kept_hyphen": true
+  },
+  {
+    "split": "imperative-heavy",
+    "result": "imperative-heavy",
+    "kept_hyphen": true
+  },
+  {
+    "split": "assis-tant",
+    "result": "assistant",
+    "kept_hyphen": false
+  },
+  {
+    "split": "Stron-gREJECT",
+    "result": "StrongREJECT",
+    "kept_hyphen": false
+  },
+  {
+    "split": "tool-mediated",
+    "result": "tool-mediated",
+    "kept_hyphen": true
+  },
+  {
+    "split": "tool-declaring",
+    "result": "tool-declaring",
+    "kept_hyphen": true
+  },
+  {
+    "split": "mechanis-tically",
+    "result": "mechanistically",
+    "kept_hyphen": false
+  }
+]

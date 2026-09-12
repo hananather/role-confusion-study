@@ -1,0 +1,806 @@
+[
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/analysis-ready/20260912T051758Z/arm-by-page.csv",
+    "sha256": "9b6110ce9b781c8dfd13470eb537717c13def35a542183f6eee7ab316d477093"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/episode.json",
+    "sha256": "7fdc5c325f52959ab02f9d3ade388b7d96f24e845244140c8a30a5b0c95e24c1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/receipts.json",
+    "sha256": "091433a6be4f8840806432c39485d416b7a860ab41c1f84fe3f003f422504cf9"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/episode.json",
+    "sha256": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/receipts.json",
+    "sha256": "d46e87bd3d728d4cd6b5e8672b866b520e77f2c75d2e3e1e5f016af370af3c2e"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/episode.json",
+    "sha256": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/receipts.json",
+    "sha256": "7775e774756e0dfca3bc71c8ab647705c33ad804f7d064813b80673a431c4062"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/episode.json",
+    "sha256": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/receipts.json",
+    "sha256": "bee7b9524b6d07c475578d7a226e019c44011f6068022699ebfa0e542b968014"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/episode.json",
+    "sha256": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/receipts.json",
+    "sha256": "e495079e6bf118961d5a99ac93e8c8619b31839f7aaf3828b0a0ce01a75753a3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/episode.json",
+    "sha256": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/receipts.json",
+    "sha256": "fbf3a82fe231305a91cbaa6ba9399d8e67230bb8c3696f504d768f079ef1d785"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/000-forgery/sentence_dev_rule/episode.json",
+    "sha256": "4859541c0072d02334d63bfe11147f4e4b49148d5f4fab20ac252fc881c589ea"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/000-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "06849f6a187b973305af686b99695eefdfd3b66871b52ca02f02b42f8f636dde"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/000-forgery/tool_raising_a16/episode.json",
+    "sha256": "1b5c5757b21604ac292496aec18c2ff2b50e926d4112f5f9cb246abedfc5454a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/000-forgery/tool_raising_a16/receipts.json",
+    "sha256": "0ba641edd9b071be6d0b9b2cd98c8879f3a9348c596b45c730e6f06d89fc15ed"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/episode.json",
+    "sha256": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/receipts.json",
+    "sha256": "6597a828f47e8cda613730835c8ba3fd5a8960f82bfece40049bbff0428c9f33"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/episode.json",
+    "sha256": "9e45c9bbbd998bbbe1918e8f1300fdd450162a6e7c41474da7f6546d537a87bf"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/receipts.json",
+    "sha256": "3d08fda5a44d22219d5c83dbe2b0a5ee7deed0bddd06e44a67da9c278c9fa667"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/episode.json",
+    "sha256": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/receipts.json",
+    "sha256": "e17a03782d1b4d470b6179c9a59c7bb6840997dd28a9097ca7ae474d5ade3a3f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/episode.json",
+    "sha256": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/receipts.json",
+    "sha256": "5671d5649d8ccec31dd5455398093dbb457b6f7835ed99ad976a74631a7aaccf"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/episode.json",
+    "sha256": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/receipts.json",
+    "sha256": "918d2ac22e7f1d43010a8d17161e6eaa9a596974bc7a861166db71c35f0fd0d3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/episode.json",
+    "sha256": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/receipts.json",
+    "sha256": "bda2225ef1b1734e0a2295fdc59e23335e5df00a16a7fe176c3b38868afe6da1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/episode.json",
+    "sha256": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/receipts.json",
+    "sha256": "85192afdd88d48a12574e28066eed0f76806c087b13e095c62d30853ddb4ad4c"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/001-forgery/sentence_dev_rule/episode.json",
+    "sha256": "13f49a877fb6608b5dc2b1ed98a7b690d88338a36e12f7ff59153fb94f1ae196"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/001-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "9e9ead3eac26a25958ab42f1180eb1fa49c7ade145eed3d92a09cd3810fddf82"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/001-forgery/tool_raising_a16/episode.json",
+    "sha256": "027cd279775be6e1ec23b7b5de15767ddd8c498d3d33274169c73fa8c095ca68"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/001-forgery/tool_raising_a16/receipts.json",
+    "sha256": "007ba6398c5408984fe046a73be4c0bab4b59e84eb11854877c2e9872da56412"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/episode.json",
+    "sha256": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/receipts.json",
+    "sha256": "fe20e4c157077482dad1e6aaca7f0e8c5e013da638b7810e34b016a32f8b210a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/episode.json",
+    "sha256": "cb83d6dc6bf1babe17e7f775510c218caa8ec3df896b77c5d8e18e2d67434ed2"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/receipts.json",
+    "sha256": "f5f6d08fabd94e215c87527164eaab33845967c1ae00dd95049526c1d7b48a15"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/episode.json",
+    "sha256": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/receipts.json",
+    "sha256": "066a915f3c6524cab2cf2ec9c25b146b252a6c94f9e2f5000b9b60366939a887"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/episode.json",
+    "sha256": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/receipts.json",
+    "sha256": "634c3e7fb5cb6c46f252efed76c89f912c2f9d6ea90e3d6d3e534f8eca68363e"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/episode.json",
+    "sha256": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/receipts.json",
+    "sha256": "4a8e359872691462144e8cfba4ad41c8031057c945c08c6923fc0594955e0324"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/episode.json",
+    "sha256": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/receipts.json",
+    "sha256": "aabad9fc05e8e30626ff6ca637dc2c577eacbd1b0f26edbee1fad0fea319c97b"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/episode.json",
+    "sha256": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/receipts.json",
+    "sha256": "c4f34e6442482db2152d0f09fe1d1b1fde36dfd43d7a1823cca2fb10f3760041"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/002-forgery/sentence_dev_rule/episode.json",
+    "sha256": "d70698185d3d90bf036a8096f65b454d2f65b6c7a44e54e016cd8ff11980dbc5"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/002-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "30468fc336bb1c0e28009bcaea6389e3492f0b68d7bb746b089a53cf57046c2d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/002-forgery/tool_raising_a16/episode.json",
+    "sha256": "483d7380c376606492bc9db6426dd8474a612db1b9c83048942a80097da9f265"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/002-forgery/tool_raising_a16/receipts.json",
+    "sha256": "6176bb6c4d0587f53c68bf2e37f7f9fdf023825834a09d77afbd572877f57f3c"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/episode.json",
+    "sha256": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/receipts.json",
+    "sha256": "e16def3ad2a038cf39474fa53287dd4c3ed39f43919fde71832251d2793bf24d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/episode.json",
+    "sha256": "f4e36165a3410e61adfb126e2237016c744fe3a4ddabe0309b3be1e8fb6f7467"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/receipts.json",
+    "sha256": "f9670a0714a3666c06e1356e9a387234307c95da89e72582c3f260638cea85a1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/episode.json",
+    "sha256": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/receipts.json",
+    "sha256": "30f75455e4fe856cab6091f3ebbf84c537b810501084dd81649beefa5aeed3c0"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/episode.json",
+    "sha256": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/receipts.json",
+    "sha256": "ab3dca6d2ce43b83d21d0915c2d777f11cda2cb1d6407a5fbe42ef3022633721"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/episode.json",
+    "sha256": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/receipts.json",
+    "sha256": "c152eced86fcb7001cc61797d69a2e24239339015bdf939c3726b501f3b1225d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/episode.json",
+    "sha256": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/receipts.json",
+    "sha256": "650bed16cd0346f356d3575fa591075acd835d99a4a14128b64ebe935e25d68d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/episode.json",
+    "sha256": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/receipts.json",
+    "sha256": "b43d9d0e7e0783d17213132e202dc071466cef9940e095c9270b85642c676fdd"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/003-forgery/sentence_dev_rule/episode.json",
+    "sha256": "d097d9ec75a420ca23b590a7d8cd25d547095886f1c46a9981787d3141374661"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/003-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "f5c73dc931381ea75adb5a00f2f81a42d0da334f33ca38ea4a958962391c7002"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/003-forgery/tool_raising_a16/episode.json",
+    "sha256": "9a2ef382ace146788ab229e53821aa89af73f2c63bc5ada2ab85c265877ee1e3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/003-forgery/tool_raising_a16/receipts.json",
+    "sha256": "ab94a568c39538292ca834b3bf761f04310732d3d372d6d052458d65dd158461"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/episode.json",
+    "sha256": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/receipts.json",
+    "sha256": "978c3c4f8aace8038c71a321ae101176834bd08b3225fea869433e8f706e1ead"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/episode.json",
+    "sha256": "f5a88862c5fb1717a7dd51c47b820fbf42eb52b14e8fccb5fe1b2c4e76f9d216"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/receipts.json",
+    "sha256": "12e1610c7e5449ac71529b947557bac565cf8127fe7d3e46e75c707c7a53af17"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/episode.json",
+    "sha256": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/receipts.json",
+    "sha256": "72f94ac295cce9a98ffb59a7b6ed9862a625f3a202a734d69c8b41e504bad7be"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/episode.json",
+    "sha256": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/receipts.json",
+    "sha256": "87fb431dc48b8c9a325862798d20bd38afa2af9f53f75bd069be1983a3dbf70c"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/episode.json",
+    "sha256": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/receipts.json",
+    "sha256": "ab096a77171a795276065c8b938f6b259081f9b2ebd27080ddfcdf66704f0bc7"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/episode.json",
+    "sha256": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/receipts.json",
+    "sha256": "0753a055ad1ebd755ca9f98ff1f0f9f4482fb05dae7c79d2d81526ae87658c57"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/episode.json",
+    "sha256": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/receipts.json",
+    "sha256": "a63e4e00942ecb412f30c3af537edb11d6d3e05dac166c3fae61ad7bb6972b9a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/004-forgery/sentence_dev_rule/episode.json",
+    "sha256": "2fa93651f47669a8c690e2099bc6ce6ff62fe98efdcd6767c0690e0bf6d94649"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/004-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "fad70a916f5bc6d1ca1c7cf177c7b78dbe748f2039c9b0d6691cfcab605fa7b3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/004-forgery/tool_raising_a16/episode.json",
+    "sha256": "f804ac2de09914570bc40ca622ac516efc4713460b2194d11d619ca04cb5f315"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/004-forgery/tool_raising_a16/receipts.json",
+    "sha256": "864733cdfcf130020415c88c7a620220f1d67f6d7679c80caf4f7fac30957cab"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/episode.json",
+    "sha256": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/receipts.json",
+    "sha256": "55fb74360876045807d9c1b7622500f6d43d13cb38b364046541dbf635577d91"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-benign/none/episode.json",
+    "sha256": "69ca97f9570f527dc6fa5494fd65e960eb5ba99ccedf84b5af1b9f2954b3dae4"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-benign/none/receipts.json",
+    "sha256": "87d6901ede7119df1ae598564035782c2ee157f4300000c28a0e7afbc47b52e6"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-benign/role_a16/episode.json",
+    "sha256": "b7aa8fcb4796e93017d7e13e750f1e904d1f88f8ab5cede30ac175262a82a7f4"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-benign/role_a16/receipts.json",
+    "sha256": "74f6908e8e1011cf9010f1bb3ef2c11fa4184d2a6da3cc33789721b12bb7e388"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-000-benign/sentence_dev_rule/episode.json",
+    "sha256": "3681612047416664975cac9a80dfb3cdc20141c6d0502b9197afa083ec37a9e3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-000-benign/sentence_dev_rule/receipts.json",
+    "sha256": "8071464482ebe48b7f88d156a31bf23a351ad6923edb92fa5f0ff5fd7dc266d5"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/episode.json",
+    "sha256": "a7cde9a5105d06601468188cdba13bf9d4d79ea48f3dfb5e442e27652a5bddf1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/receipts.json",
+    "sha256": "59360481da9b3685784e800e384f487a36d4d7eb4e6a400ffc0a6c385c8110a4"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_0_a16/episode.json",
+    "sha256": "e2aa44f77d7f2fc41d625bc49d7bff63b3b6a8ce73a0f81385689eae85c22551"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_0_a16/receipts.json",
+    "sha256": "d005dac8bf897a14ad8be5f136b29ac780cf721e50c54087a8b9e907c9bb3b40"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_1_a16/episode.json",
+    "sha256": "d741998c4d3c94a1bfc32ddd57d5554b428b848cea081fd5c6134f7807fda75d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_1_a16/receipts.json",
+    "sha256": "f5e2b055a6385a4554ee5f1047bbf38e13ac8c7b3c0c03bb993b98e759d613d8"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_2_a16/episode.json",
+    "sha256": "32ec8fbfc526f71f4c8c02c296aabde3c3c09824a5a00715f718870d09ee7d81"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_2_a16/receipts.json",
+    "sha256": "99a827cdf8bf4e4326e667b3caf993bc1e67708d4758957dcb9c2390173178a2"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/reverse_a16/episode.json",
+    "sha256": "f8b6598230784c4b6f45ff4842c579d772ac9dce16a853971bee142831ce9f15"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/reverse_a16/receipts.json",
+    "sha256": "a8a261e97cafd4b1041748e8954a0fdb6cc5015c3feb7570c6aeb4e455bb479b"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/role_a16/episode.json",
+    "sha256": "ede5305976b551ced2c2334576c44db195197c4c724b853dc15aba7304903c31"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/role_a16/receipts.json",
+    "sha256": "1cbe1f9f6991d9fbb7ae416f25aae349273e241acb59d5ded7cbef8b105c7a4f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-000-forgery/sentence_dev_rule/episode.json",
+    "sha256": "7ab8b9063421a31e94aa6234edc98cda5f934909db5d4b9e4bdf3252f107733d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-000-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "bfa450ea5a4a34f3862af1d9185a0c535ed542347d8f4e72875feb0d4346ea79"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-benign/none/episode.json",
+    "sha256": "9ca4b031612792be38737d90f18bb7340e39d281c23ebfb563bf0c36c335830f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-benign/none/receipts.json",
+    "sha256": "46f5bbdd3aecfe9da4e716831fe5a19204fe7e891d5b8d14857f5e62e03f903b"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-benign/role_a16/episode.json",
+    "sha256": "2ac995b285862097c242ae09ed8f528d41ae17e5e50ad93a2164d56b4fa70e24"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-benign/role_a16/receipts.json",
+    "sha256": "657cb2985bd65575cdc9fa312b7a7346f77c3c90e854dc252273fad6d81966fa"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-001-benign/sentence_dev_rule/episode.json",
+    "sha256": "fbf79da9ec1becd6d53e2c2a6061ee501c197141f51822dfc819db8098779251"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-001-benign/sentence_dev_rule/receipts.json",
+    "sha256": "07fcaa29d0b0cb927f323f8ff7f49d2ee818d1132122feb2b8dd9e169bf6266a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/episode.json",
+    "sha256": "c88b6658223c9204a10b87fe1d4b47f7cfe59bde265c7504f37b407280103420"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/receipts.json",
+    "sha256": "ded1bb260510544487ff9a38fc26d8b680d8fad37bb0a268eaa88cc1e6b28a41"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_0_a16/episode.json",
+    "sha256": "e6199aa888ff0265e1a45fdd3969370001bc0bad4c714a7fae61aea0e84c514f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_0_a16/receipts.json",
+    "sha256": "9077690736e1dd5200148fd8bc83d005867d31a362f535e3fd02f6e9873d2b15"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_1_a16/episode.json",
+    "sha256": "1f70f7662aa0eb0bfc6d0261f3415d2cb1e9db86b6d6ed654b01edaceab9de5d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_1_a16/receipts.json",
+    "sha256": "1865a2fe24de582db93de76afbe98ea1c0ab93b674f7c7e0671f1c7db7abd7b6"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_2_a16/episode.json",
+    "sha256": "c0fd13248b0f123668ac3153caa8e40d91cfc4ad7fbb0615fce3f8549cbe489d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_2_a16/receipts.json",
+    "sha256": "c9038989175bbe9d772a8fcbfbc4c8e5abf2ee67f1d84e1ae76b779a7af2a7b3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/reverse_a16/episode.json",
+    "sha256": "ac8a635a9adae1fd6055b9cf7c755666fce9f6994eb66383be1934c75cc83de6"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/reverse_a16/receipts.json",
+    "sha256": "395cb1a0ca0b4c8916bdc6dab8e45323955385c58ffa3bb18b1ee1f34a97a066"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/role_a16/episode.json",
+    "sha256": "d8d32be96aeb79af7124616331019d08c0d22645fe6d9ea087a05a61edf8d547"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/role_a16/receipts.json",
+    "sha256": "91e86226f1faf588854bdd078e990e8e8b645395e2bda94b5785767999094e58"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-001-forgery/sentence_dev_rule/episode.json",
+    "sha256": "a747ee593e8c53bb3010c83122df1742ee6418b260f0dfabd81044ce979d13dd"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-001-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "26540990cca6dda98c4242c0c4043db9fab7dab73ee83f9a82648ed2abe9e0cb"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-benign/none/episode.json",
+    "sha256": "16fbb76f31a8a0adf493472951be415c5fac4c90957488fe800eac0f7fc64908"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-benign/none/receipts.json",
+    "sha256": "1a52ccd99c8e8898e43a582a046082e477e3822822c4322fc4d154857bdeb42a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-benign/role_a16/episode.json",
+    "sha256": "3798de58e3e9984fc3fcfe360458beb3268c6bca93323b7960ba39e82ecc0000"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-benign/role_a16/receipts.json",
+    "sha256": "1063b4264f2f7f8f1030a8dc80ecd987750168e03e08f0dac0dbab59d68df648"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-002-benign/sentence_dev_rule/episode.json",
+    "sha256": "4077127f4496e20728642afcfca8b687ce179025fca3098c456e0ac3fdaa6fc3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-002-benign/sentence_dev_rule/receipts.json",
+    "sha256": "56e0e09d1ba115b81fcb1496e3049f5399af203dd55657a48a1b36aa0ae482ad"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/episode.json",
+    "sha256": "ba3776c868182f44df8f90165d669dc43f34c056edf9c10ae7277edfe131be9d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/receipts.json",
+    "sha256": "a58fcb214b36c8b0e6e328bd5b171f0800745174ae50a00a2c5ac1ffd7f65280"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_0_a16/episode.json",
+    "sha256": "6b21ec400ebb575b1b350943f9de6cf65b087d4f01283efd56a26668fe169152"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_0_a16/receipts.json",
+    "sha256": "16ff93dcf52a04602afd87f6bc95ed9659d9803c39ddca03a3450991d0d654f6"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_1_a16/episode.json",
+    "sha256": "8e3d29ab7c34f2f7961c204f0b308f1afd552788a1698f1e82fe0766b0d1900a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_1_a16/receipts.json",
+    "sha256": "72f8a172c9c2f05d14c4dade1f2eb59760df0b06f9f575b3d3fa23f4a6437ab9"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_2_a16/episode.json",
+    "sha256": "caf068bbef278c0f37e996e881c9c666221bbaefd85faa6d1d2d00cf7930db63"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_2_a16/receipts.json",
+    "sha256": "cf6be8158e919abce68835f7388417da871f32ffc2c32228f55b35b4eb76af2d"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/reverse_a16/episode.json",
+    "sha256": "eb4bfba91c6b89fbdfcc9cbef6b87633f0d14cd5c3ab2c2e51eb53b357a28675"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/reverse_a16/receipts.json",
+    "sha256": "11ee50f8f6174e50f0476a62b9badbede156a9c9d7bd94d8972be02f830f98e1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/role_a16/episode.json",
+    "sha256": "a19e4f6f504da0d297c8480943ec2a9b4a6e4f0d56ee39521c1d362f1059c44a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/role_a16/receipts.json",
+    "sha256": "b7b6fc1fb5b0489ac556388d653f5670d97e7ad4b5de3f0d044c62fe70bc42eb"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-002-forgery/sentence_dev_rule/episode.json",
+    "sha256": "42ce0c725359efc4aa51e99466a3d29026a059298184e5f0b728f83d9383dd60"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-002-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "7665835f6f8c5c31f29cc75a7d1143b4359646216ae21ddda69b0932d10401c5"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-benign/none/episode.json",
+    "sha256": "b0836a6583bbd068759857ae961f3bda794cfc2e2865fbb0d5e27a08f2102f32"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-benign/none/receipts.json",
+    "sha256": "72b3ea437213c2c6795cd8ff4249678ada4beefe05eabd0d0d46cd477794af70"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-benign/role_a16/episode.json",
+    "sha256": "f47784592ecdb5cdba24203d48754a803a23f63daf2a7e6956cf15f359368439"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-benign/role_a16/receipts.json",
+    "sha256": "cc8eab45a3b23e85cddcb9cc6bd42eefcafa0d14300db537c3a3855cfebdf905"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-003-benign/sentence_dev_rule/episode.json",
+    "sha256": "4088544c6ba34f8e83f219dca5d261ac73fe0e9a34fe5bdecb7c669bde6c1508"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-003-benign/sentence_dev_rule/receipts.json",
+    "sha256": "d5e7840cae6a393ffce03688343ab17a10f202596f5db1feb085cbad4936bfc3"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/episode.json",
+    "sha256": "0b4c640c92f0b6f524b4aa2d4c82b892d0bc16f7484f31c481acef95d2db214a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/receipts.json",
+    "sha256": "8da67ada315f02accb1ee8650a30d997d6719875d025663d1ca4d7162440d535"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_0_a16/episode.json",
+    "sha256": "e54242fa21344e42ebfacc6553c9c16a862d21d3763b00131444e674bce7337e"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_0_a16/receipts.json",
+    "sha256": "03087f15611582e333da8cb62d1ac9f0ae3d6a686f7a1aa265ead1f670afca5c"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_1_a16/episode.json",
+    "sha256": "d1e30970272aa96bb85b38475e6674771376d0ee708c594d825f88e01ed2ae29"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_1_a16/receipts.json",
+    "sha256": "e87d3d7fb1579096dfc54587ab9fa6483a7ba7c7be5ff19501e3af06e152540a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_2_a16/episode.json",
+    "sha256": "0e821511375491c03f973d1e74f9fa060fa90fba616bda70ae22a56e9eea1860"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_2_a16/receipts.json",
+    "sha256": "49cfbead8d44bc74b0b402ec33b7467b28dab8bc48b477ab56905f00e1cb7c33"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/reverse_a16/episode.json",
+    "sha256": "d0fcd3297196ee5f02e4d590c9f62ac80e6996a1bb6fab5149d5878587f186af"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/reverse_a16/receipts.json",
+    "sha256": "9c72919e434d2465be14132eb8272d2b3e485c5ef580077751b4e73c788c6374"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/role_a16/episode.json",
+    "sha256": "2431e00c0ad8948d4576087e37b343f6edb20ef96b73fc8b85d2196814cc4428"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/role_a16/receipts.json",
+    "sha256": "6745ff393b6a56896832a2f6d08ef14eaf1d4c8790b1caefbf4e038d8b7fa678"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-003-forgery/sentence_dev_rule/episode.json",
+    "sha256": "fefd0b5e2a9c16af3286dc94c44069dd8c3320854fe8bc3aea8f89868420a88f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-003-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "7a0403c2ded610c5f289913a5b39e89b6c7824239303004eadd86d5e6f886ea2"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-benign/none/episode.json",
+    "sha256": "36e79b89edce6c88ea357f6b269ceffea60d0ba2b4ac5f45b6f6f5d5e82abc3f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-benign/none/receipts.json",
+    "sha256": "9e4f732b2fc95cdf61756d9ee260797a58c814dd27bb51c3cff96039548dcc3a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-benign/role_a16/episode.json",
+    "sha256": "bf7ce0b9ddc4f4fcaa9ec170006ee88625fe4ec50b5279b6ef82f2037d2b5167"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-benign/role_a16/receipts.json",
+    "sha256": "9f099554d131f1f4d0d75ef589697482cc63ff18f308479554e47493b28a5235"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-004-benign/sentence_dev_rule/episode.json",
+    "sha256": "e1c9312b689c32b9d1ae4e8519e2761dfc65555994a7a9559fa64c0ab12d50b1"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-004-benign/sentence_dev_rule/receipts.json",
+    "sha256": "57902cb34483837e5a8e491720d636e5ba09f169bf034cf504707b2f454cd086"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/episode.json",
+    "sha256": "f006d51dfc352d3a87ad9c98c5649b7a231999d973240e48c487fa7313f1c6ba"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/receipts.json",
+    "sha256": "4f3212598247604b647009ae578e06069f5ed0a5670a0adc343659e13bc70442"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_0_a16/episode.json",
+    "sha256": "320ca77784e1230e2246eeca9a34b7a1986370c5e1c27f6f2def7c07d526cc6e"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_0_a16/receipts.json",
+    "sha256": "f5fec25d124e0528eb0e216fcd8f1cc3099428b918b443de51ad6404cc9bcb00"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_1_a16/episode.json",
+    "sha256": "bd91809ea58dc225536fa07e294994135011bde96da0acb9cd45e03f486e32bf"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_1_a16/receipts.json",
+    "sha256": "a2d65f5067070e98694b01ef6818d238fe7ad16950f9d5416436bd02f50ecde7"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_2_a16/episode.json",
+    "sha256": "f4884384618f8c4f3c3ef622c15806031d7a2032f97d9d6d55af04326f13e986"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_2_a16/receipts.json",
+    "sha256": "bf3221d6f79b6bf2d90da36d43a5096a2e51aac02403d22b45636f37c543ae1a"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/reverse_a16/episode.json",
+    "sha256": "9ab34b542cb4c73fb7d63249fad27a9c32a73cadabef3bff1a637c4004b981e0"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/reverse_a16/receipts.json",
+    "sha256": "ae44b38f5d660a0e6afbd64821bde576d94a9409e790b1d1054ec9653e487b29"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/role_a16/episode.json",
+    "sha256": "1c23da0dd908b820896ff4ebb1035caa6ebb68d71c5659d60b65d030a7ba0bca"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/role_a16/receipts.json",
+    "sha256": "bab6b3f7b2dcaa870b1387e3f63147da69ebf438879025f29bde29e57c1c9ef9"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-004-forgery/sentence_dev_rule/episode.json",
+    "sha256": "1feed1c6b305448798436727fb038a520d13bf244ad654d5fb15a2d37d5f9cb8"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-004-forgery/sentence_dev_rule/receipts.json",
+    "sha256": "a48e9c074d04c89cb7c4d526090a1ccafedec1dff23391e5b96871d9c6dcd872"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/episode.json",
+    "sha256": "b48bcede6d595ce88f12ee17563046ebe3cef9be455367c5081451b4173d8f78"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/receipts.json",
+    "sha256": "93ab98a7868318ff6948b67dda49eefdd0a47dade01096c077653a84a68c1636"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/episode.json",
+    "sha256": "8b1840d0d938dd8b369e3d17d9a640b2b6160ae746ebd3da43905647c15df156"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/receipts.json",
+    "sha256": "7dfd38eed5756bf461666cb8299fb194feb6963ea9a5269d3574310cd6edda79"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/episode.json",
+    "sha256": "610ab715dc1449103f9e7ee9d057fa42b779af471f0bd04390b798818fec58b0"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/receipts.json",
+    "sha256": "0b40d0bdcfead80f53c310f44be747fa5e6e8f51f22d12f113e8ae0ecee1775f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/episode.json",
+    "sha256": "c9c1e005ebdff81c595cbd8318c92baa5f6d227237cbac7da1a4157860698a3f"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/receipts.json",
+    "sha256": "361f8f366ac768e1f611f3cc2d93c342dac6a07017ee7f02692cc62a83b68f85"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/episode.json",
+    "sha256": "223da50213a8027d549cefaf37fca0eb2718c40bb5d3633656a6972d7b0bdee6"
+  },
+  {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/receipts.json",
+    "sha256": "37823af73788f38466c58a29d43fda230af2be4bc68ec3d7032da455ed03c7d0"
+  }
+]

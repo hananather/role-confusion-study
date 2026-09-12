@@ -1,0 +1,7 @@
+{
+  "stage_sha256": "f7390255a7a3087bf4244533ff345aea6f57a88b7c6bb6326f39bbb1f0e5582e",
+  "status": "complete",
+  "started_at": "2026-09-11T03:28:54.049680+00:00",
+  "completed_at": "2026-09-11T04:31:44.983780+00:00",
+  "output": "/workspace/results/20260911T030050Z/probes-full"
+}

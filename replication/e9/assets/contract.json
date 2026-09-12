@@ -1,0 +1,93 @@
+{
+  "model": "openai/gpt-oss-20b",
+  "revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "source_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/probes.npz": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+    "/Users/hananather/Desktop/MATS 12.0/role-steering/experiment/model-assets.npz": "cef4bdf4f0aa33dddef5b1a1b6373eeaecbd45243be8707665a9c4452333fa98",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/gardening-layer12-float16.npy": "7bdb41f4075fc1c6c956054f3392bf78bf376eb043b1bd0f9ac7a0d00495bc0a",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/all-tokens-and-labels.csv": "9140e9c3bf9b86884bb0d46507f61a0252d412877e2b5e9f657820981d46f6d1"
+  },
+  "readout": {
+    "role_space": "uat",
+    "role_order": [
+      "user",
+      "assistant",
+      "tool"
+    ],
+    "layers": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "site": "post_attention_layernorm output / pre-MLP",
+    "split": "prompt"
+  },
+  "families": {
+    "historical": {
+      "site": "block_output",
+      "layer": 11,
+      "positive": "Toolward",
+      "negative": "Userward",
+      "definition": "saved neutral passage-weighted mean Tool minus User residual direction",
+      "reference_scale": 1280.8027478027343,
+      "fraction": 0.3,
+      "magnitude": 384.24082434082027,
+      "scale_source": "historical neutral-corpus residual reference; not tuned on new conversation outcomes"
+    },
+    "probe_user": {
+      "site": "pre_mlp",
+      "layer": 12,
+      "positive": "add User row",
+      "negative": "subtract User row",
+      "definition": "normalized raw User coefficient row of the saved uat layer-12 probe",
+      "reference_scale": 45.24711366617226,
+      "fraction": 0.05,
+      "magnitude": 2.262355683308613,
+      "scale_source": "median norm over every token of the separate saved gardening all-user-tags condition"
+    },
+    "probe_tool": {
+      "site": "pre_mlp",
+      "layer": 12,
+      "positive": "add Tool row",
+      "negative": "subtract Tool row",
+      "definition": "normalized raw Tool coefficient row of the saved uat layer-12 probe",
+      "reference_scale": 45.24711366617226,
+      "fraction": 0.05,
+      "magnitude": 2.262355683308613,
+      "scale_source": "same independent gardening reference as the User row"
+    }
+  },
+  "random_seed": 123,
+  "random_controls": 3,
+  "random_norm_matching": "same site, mask and absolute offset norm as the corresponding family",
+  "mask": "original user, cot and assistant content tokens; exclude fixed system prefix and template-only tokens",
+  "intervention_condition": "tool_tagged only; tagged and untagged retain no intervention",
+  "scope": "one injection per prompt forward at the specified site; fixed text, no steered response generation",
+  "calibration_caveat": "The two sites use different reference norms and doses; I compare each family to its own zero and matched random controls, not as an equal-strength ranking.",
+  "probe_weight_caveat": "Raw classifier rows depend on equivalent softmax parameterization; these results test these saved rows, not a unique semantic role vector.",
+  "artifact_sha256": {
+    "probes.npz": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+    "directions.npz": "eb0fb103bb154fd5163144fb035803e8fecf597a98b993a8e3048e20249d403d"
+  }
+}

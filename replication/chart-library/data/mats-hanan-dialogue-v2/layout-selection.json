@@ -1,0 +1,55 @@
+{
+  "selected": "diagonal-35-compact",
+  "reason": "Complete opening excerpts at fixed 7.2pt, with 35-degree rotation and no ellipses. Full unabridged alternatives retain every word separately.",
+  "variants": [
+    {
+      "key": "diagonal-35-compact",
+      "label": "35\u00b0 \u00b7 compact",
+      "description": "Current main figure. Complete opening excerpts at 7.2 pt and 8.3 inches wide; remaining sentences are in the complete-conversation view.",
+      "png": "figures/mats-hanan-layouts/diagonal-35-compact/diagonal-35-compact.png",
+      "pdf": "figures/mats-hanan-layouts/diagonal-35-compact/diagonal-35-compact.pdf",
+      "svg": "figures/mats-hanan-layouts/diagonal-35-compact/diagonal-35-compact.svg"
+    },
+    {
+      "key": "full-dialogue-balanced",
+      "label": "Complete conversation",
+      "description": "All six passages, with every word retained. Two rows give the longer replies more room. 8.2 pt text at 8.3 inches wide.",
+      "png": "figures/mats-hanan-layouts/full-dialogue-balanced/full-dialogue-balanced.png",
+      "pdf": "figures/mats-hanan-layouts/full-dialogue-balanced/full-dialogue-balanced.pdf",
+      "svg": "figures/mats-hanan-layouts/full-dialogue-balanced/full-dialogue-balanced.svg"
+    },
+    {
+      "key": "diagonal-35",
+      "label": "35\u00b0 \u00b7 wide",
+      "description": "Complete opening excerpts, including the mood-ring question. 8.5 pt text at 11.7 inches wide.",
+      "png": "figures/mats-hanan-layouts/diagonal-35/diagonal-35.png",
+      "pdf": "figures/mats-hanan-layouts/diagonal-35/diagonal-35.pdf",
+      "svg": "figures/mats-hanan-layouts/diagonal-35/diagonal-35.svg"
+    },
+    {
+      "key": "diagonal-45",
+      "label": "45\u00b0 \u00b7 wide",
+      "description": "The same complete opening excerpts at a steeper angle. 8.5 pt text at 11.7 inches wide.",
+      "png": "figures/mats-hanan-layouts/diagonal-45/diagonal-45.png",
+      "pdf": "figures/mats-hanan-layouts/diagonal-45/diagonal-45.pdf",
+      "svg": "figures/mats-hanan-layouts/diagonal-45/diagonal-45.svg"
+    },
+    {
+      "key": "six-full-columns",
+      "label": "Six complete columns",
+      "description": "All six passages printed in full, in one row. 8.3 pt text at 11.7 inches wide.",
+      "png": "figures/mats-hanan-layouts/six-full-columns/six-full-columns.png",
+      "pdf": "figures/mats-hanan-layouts/six-full-columns/six-full-columns.pdf",
+      "svg": "figures/mats-hanan-layouts/six-full-columns/six-full-columns.svg"
+    },
+    {
+      "key": "full-dialogue-two-rows",
+      "label": "Equal-width columns",
+      "description": "All six passages printed in full in two rows. 8.2 pt text; the unequal reply lengths leave more blank space.",
+      "png": "figures/mats-hanan-layouts/full-dialogue-two-rows/full-dialogue-two-rows.png",
+      "pdf": "figures/mats-hanan-layouts/full-dialogue-two-rows/full-dialogue-two-rows.pdf",
+      "svg": "figures/mats-hanan-layouts/full-dialogue-two-rows/full-dialogue-two-rows.svg"
+    }
+  ],
+  "data_unchanged": true
+}

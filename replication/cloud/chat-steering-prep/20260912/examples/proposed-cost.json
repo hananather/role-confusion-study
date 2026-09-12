@@ -1,0 +1,23 @@
+{
+  "execution_approved": false,
+  "scope_aligned": false,
+  "scope": "all8releaseddemonstrations;3exactStrongREJECTmatches;exploratorymatchedtrajectories;originalstopgates;noholdout",
+  "planned_hours": 2,
+  "grace_minutes": 20,
+  "gpu": "one secure H100 SXM",
+  "rate_usd_hour": 3.49,
+  "existing_volume_id": "i0cptrlcoz",
+  "existing_volume_usd_month": 280,
+  "storage_reserve_usd": 0.9,
+  "maximum_new_gpu_disk_storage_estimate_usd": 9.052900000000001,
+  "prior_observed_account_decrease_usd": 1.6275816611,
+  "combined_estimate_usd": 10.680481661100002,
+  "overall_cap_usd": 20,
+  "requires_before_launch": [
+    "useralignmenton8examplescope",
+    "freshlivebalanceandquote",
+    "currentprior_spend",
+    "frozenfilesandhash-boundexecutionreceipt"
+  ],
+  "model_judging": "deferred as requested"
+}

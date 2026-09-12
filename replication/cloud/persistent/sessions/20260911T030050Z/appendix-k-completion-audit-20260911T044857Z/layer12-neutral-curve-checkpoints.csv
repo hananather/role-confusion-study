@@ -1,0 +1,8 @@
+layer,condition,token_set,smoothing,token_in_prompt_ix,mean,ci_lo,ci_hi,n,input_set
+12,none,all,raw,0,0.9995461,0.9995461,0.9995461,200,neutral
+12,none,all,raw,1,0.94722056,0.93634367,0.9568876,200,neutral
+12,none,all,raw,25,0.80423385,0.77650726,0.830212,199,neutral
+12,none,all,raw,50,0.7855572,0.7520432,0.81780666,194,neutral
+12,none,all,raw,100,0.71421754,0.6820561,0.7494561,184,neutral
+12,none,all,raw,150,0.6795986,0.63698846,0.7210215,169,neutral
+12,none,all,raw,249,0.66736907,0.61932874,0.7015983,147,neutral

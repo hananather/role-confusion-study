@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "validation_kind": "local tokenizer and source metadata only",
+  "torch_imported": false,
+  "model_loaded": false,
+  "network_called": false,
+  "execution_approved": false,
+  "examples_execution_aligned": false,
+  "source_pairs": 8,
+  "exact_strongreject_matches": 3,
+  "real_policy_prompts_checked": 5,
+  "placeholder_policies_used": false,
+  "validation_report": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/examples/local-checks/model-free-validation.json",
+  "tokenizer_path": "/Users/hananather/.cache/huggingface/hub/models--openai--gpt-oss-20b/snapshots/6cee5e81ee83917806bbde320786a8fb61efebee",
+  "tokenizer_json_sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3",
+  "corpus_prompts": 1245,
+  "corpus_token_rows": 713109,
+  "probe_shapes": {
+    "sucat_L12__coef": [
+      5,
+      2880
+    ],
+    "sucat_L12__intercept": [
+      5
+    ]
+  },
+  "content_role_counts": {
+    "system": 141078,
+    "user": 141078,
+    "tool": 141078,
+    "cot": 141078,
+    "assistant": 141078
+  },
+  "runtime_tested": false,
+  "batch_sha256": "38edc1bf4983f3e65345cccf9fd99eb32d9c81354c7acfa1f358509adbdb1bcc",
+  "protocol_sha256": "898714dc108a906248acf0bdaf28858ca8449e5daba5f32707b873f56d2dd7ed"
+}

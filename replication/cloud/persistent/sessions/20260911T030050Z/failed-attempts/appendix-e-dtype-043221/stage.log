@@ -1,0 +1,18 @@
+{"phase": "validate_sources_and_probe", "updated_utc": "2026-09-11T04:31:45.402478+00:00"}
+{"phase": "load_cached_model", "updated_utc": "2026-09-11T04:32:14.459227+00:00"}
+You have loaded an FP4 model on CPU and have a CUDA/XPU device available, make sure to set your model on a GPU/XPU device in order to run your model. To remove this warning, pass device_map = 'cuda' or device_map = 'xpu'. 
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:00<00:01,  1.39it/s]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:01<00:00,  1.46it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.02it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  1.82it/s]
+Expert precision: FloatType(bitwidth_exponent=2, bitwidth_mantissa=1, is_signed=True)
+Attention implementation: kernels-community/vllm-flash-attn3
+{"phase": "failed", "updated_utc": "2026-09-11T04:32:21.836569+00:00", "error": "'FloatType' object has no attribute 'is_floating_point'"}
+Traceback (most recent call last):
+  File "/workspace/replication/cloud/persistent/appendix_e_cuda.py", line 350, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/workspace/replication/cloud/persistent/appendix_e_cuda.py", line 346, in main
+    return run(parser.parse_args())
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/replication/cloud/persistent/appendix_e_cuda.py", line 247, in run
+    if "mxfp4" not in type(expert).__name__.lower() or expert.down_proj.dtype.is_floating_point:
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FloatType' object has no attribute 'is_floating_point'

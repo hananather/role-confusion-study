@@ -1,0 +1,77 @@
+{
+  "completed_utc": "2026-09-12T01:42:29.311353+00:00",
+  "input_freeze_sha256": "cbb022e75af1c837b5fc13572900d226a186a6c8a3fc8bb24d69a1b0634bb52b",
+  "script_sha256": "5402ce369eceb8578aa7343d95c833c971f0c0e05de25c7777d3984e79f85898",
+  "provenance_sha256": "704fe4ba4d750aa5bc20de6149e3e44bb94e510d61317ae749e55dd9c8894e49",
+  "candidate_source_sha256": "db994cf70a4ee4149652878e078eb83736c633e47830e993f9a16e3a03efd3e2",
+  "probe_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "n_candidates": 12,
+  "n_forwards": 36,
+  "total_forwarded_tokens": 21456,
+  "total_displayed_rows": 18684,
+  "max_probability_recompute_error": 5.551115123125783e-16,
+  "max_csv_error": 5.551115123125783e-16,
+  "max_simplex_error": 4.440892098500626e-16,
+  "checksums": {
+    "mats-01": {
+      "layer12-float16.npy": "5c9232ccd9d7e1e7f5dff3c24119a9817af387397e91e9df4026fcca7d951750",
+      "probabilities.npy": "7ad270053cbc5c121a66ae5547a620547c90abfe46f030c0bb3cec6a417eb017",
+      "displayed-rows.csv": "b7000d22f33b0a8a7f419dacc47c084cf91ae925ca0ce5f83f555368079d8696"
+    },
+    "mats-02": {
+      "layer12-float16.npy": "27397534511e1bf505eb48f666f5aa5c84b84cdcdcf029ca3cc809e46e132582",
+      "probabilities.npy": "ec8667cceb36289230b01db78798632fe15fbc08e232638436d77eaf11ef1b8c",
+      "displayed-rows.csv": "8249fbba804b3a9496c82e7e99d5a99c44fe4934687f0211bbffd080600e7377"
+    },
+    "mats-03": {
+      "layer12-float16.npy": "3db94a1868e1f3ade8515466d8e9c0711d37b222473d7a8f3f5d5673aa2d2712",
+      "probabilities.npy": "234daaf2ed691ed478caa9b35d686538d57445e475398a7786453232253c8880",
+      "displayed-rows.csv": "ee83202168445767f9d37ead47d235dae7e9b4153ee473b0bfa5cd5e16fb87f4"
+    },
+    "mats-04": {
+      "layer12-float16.npy": "746d89d31269a34e7eb95d6fef75b79f151ef1dbeb134a0faa2c6a0fc8bcf95e",
+      "probabilities.npy": "d9695c6e6c117d94103d3621836539d26c71d66ef5691d7a379f76104fc2d741",
+      "displayed-rows.csv": "8a72daca23cbbe43bba2ab14832f68316c109462ad9a09f10970ce66d5e6df2c"
+    },
+    "mats-05": {
+      "layer12-float16.npy": "91cde135cba0512ae05a88ccb34fe989b42d4b2366f8790c9e408af95bdd7957",
+      "probabilities.npy": "e2c8a3763b5df3c8accc1a5354777c1c7d5084f2086ae1fb113b7c03ff5fddb2",
+      "displayed-rows.csv": "856997191c651f1047052271e0c1558a62e7f07a18a1a0f25d34e0a625d9c1bd"
+    },
+    "mats-06": {
+      "layer12-float16.npy": "71fc32f3aa2781e74adca7d297e0442936d2a6e4787c7e86f1f2aaca26da0f20",
+      "probabilities.npy": "68b81c4e18fb4983aeffae888bf211c1aaaf55b106a031cbbac5770a83306565",
+      "displayed-rows.csv": "bbc26f405b4bca332f531e23b3d7c67e42fa304e57dbcdc33586fb19395eec24"
+    },
+    "mats-07": {
+      "layer12-float16.npy": "727461ed8362fea227d9b23c23366db7f088fe4b113ddbbf36f5bc7ecd8b5293",
+      "probabilities.npy": "47e41c1b8ee71fc2bfe7862c22d31b5d40309648885a17215a27c87476607e7e",
+      "displayed-rows.csv": "4cdcc09907cad32e9e00c87c3a1363eb1612daca7d3c1db9dc9bad32e39f75c2"
+    },
+    "mats-08": {
+      "layer12-float16.npy": "fa402668d418de89415c35e2e7b5bc60b66576927f66afd2da5af14da4218153",
+      "probabilities.npy": "9b7d0a210a02a113b66be5bd3a076a6142fb1fe264a1cf43934e7c6ef679f78b",
+      "displayed-rows.csv": "f7b963ca2162cf019cdc6d3a4289ccf8042a4e7d00ba833eb54087e47b9bf33a"
+    },
+    "mats-09": {
+      "layer12-float16.npy": "cd0ef524f1298fed0d82c0a13043453635ee3613c2bf36b2f9810638e0bd9ea5",
+      "probabilities.npy": "3770afb26e11fc6d5dc7e6e7089a55db7a1ea8fedf744d0dc82f8028174b8d9c",
+      "displayed-rows.csv": "dc6789dcce0035ecd9b44aa06a81c09320f428e4b80865bec533feb68956c469"
+    },
+    "mats-10": {
+      "layer12-float16.npy": "471163a759ad268d32ce90cf271ba89d5e8f8452374f88c19be8519091cabfac",
+      "probabilities.npy": "f1f53f21619de83daf589f3ea032985a5008b2ab1c9348a8d992829ad3222ec2",
+      "displayed-rows.csv": "144baf4b802e3ed35972231029e9f824541111e18e048541d0320f8ebd0c757d"
+    },
+    "mats-11": {
+      "layer12-float16.npy": "6a7f03bee4b1139915bd7f9499cf5fc0f112d04a20ceaab41fdc2eae1464942a",
+      "probabilities.npy": "62723ae6da5c23bd74e8a485d873560dcb3be55f99a379e6f8843d8af277e9e0",
+      "displayed-rows.csv": "e7d5247bf454185cea9e9d0e8028425b91e58ab0d73e4fa4d95c126b7d2c437f"
+    },
+    "mats-12": {
+      "layer12-float16.npy": "9943a33c0739a071b5ca9a7fb4f27e6fc1553e3e5cc01a6139eb771d44acba0e",
+      "probabilities.npy": "0bc4ebdfff5b44d0a949f55547380064c70fc9c89bb796bd406190a9f3dd1947",
+      "displayed-rows.csv": "98783802366b86322bcfac254eb30819b5c9b61a187fceb9bab9665217a5fcc6"
+    }
+  }
+}

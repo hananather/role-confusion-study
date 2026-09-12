@@ -1,0 +1,20 @@
+{
+  "draft_sha256": "f3a4079813abd8709167ff506618039b7ded973ae0dfa6e25c10627073453644",
+  "local_reference_count": 49,
+  "images": 7,
+  "all_references_exist": true,
+  "original_six_figure_targets_preserved": true,
+  "figure_sha256": {
+    "mats-hanan-dialogue-v2.png": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
+    "00-gardening.png": "eb3db066206136e21b7d2ef1ba0dfb319031495bd9651c9cfd5200dac4934c6d",
+    "04-rh6-readout.png": "0cde150047414209e43e6790a85761244bd720ae74965e88a941478573de6a5e",
+    "03-offset-dose-response.png": "3600bd140a3781662611b30f32b08db358672027b14787ffc0f3785d54ca17d6",
+    "01-small-offsets.png": "3e25caea8d2fd64ccd04fc557ba103569d9724efd2487c8d40c91d4ad1197b67",
+    "02-large-offsets.png": "4961a1f3537940b7dc492a2abe14089c3125f95c5b035f17ffad2dd9ee49d8bb",
+    "05-probe-recall.png": "72836857a10c803e63f85bce2d320d16415f3691b3f427cdf93b731f32b1671d"
+  },
+  "browser_visual_check": "New personal figure visible in report at #1-hanan-asks-for-a-mats-project-idea",
+  "numerical_review": "data/mats-hanan-dialogue-v2/audit.md",
+  "scope": "Figure1 and related narrative/methods; full report review remains incomplete.",
+  "selected_layout": "diagonal-35-compact"
+}

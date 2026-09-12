@@ -1,0 +1,161 @@
+{
+  "model_id": "openai/gpt-oss-20b",
+  "model_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "versions": {
+    "torch": "2.9.1+cu128",
+    "transformers": "4.57.5",
+    "triton": "3.5.1",
+    "kernels": "0.11.5",
+    "accelerate": "1.12.0",
+    "numpy": "2.2.6",
+    "safetensors": "0.8.0"
+  },
+  "gpu": "NVIDIA H100 80GB HBM3",
+  "capability": "9.0",
+  "quantization": {
+    "quant_method": "mxfp4",
+    "modules_to_not_convert": [
+      "model.layers.*.self_attn",
+      "model.layers.*.mlp.router",
+      "model.embed_tokens",
+      "lm_head"
+    ]
+  },
+  "attention": "kernels-community/vllm-flash-attn3",
+  "expert_module": "transformers.integrations.mxfp4.Mxfp4GptOssExperts",
+  "n_layers": 24,
+  "hidden": 2880,
+  "pad_token_id": 199999,
+  "eos_token_id": 200002,
+  "generation_config": {
+    "max_length": 20,
+    "max_new_tokens": null,
+    "min_length": 0,
+    "min_new_tokens": null,
+    "early_stopping": false,
+    "max_time": null,
+    "stop_strings": null,
+    "do_sample": true,
+    "num_beams": 1,
+    "use_cache": true,
+    "cache_implementation": null,
+    "cache_config": null,
+    "return_legacy_cache": null,
+    "prefill_chunk_size": null,
+    "temperature": 1.0,
+    "top_k": 50,
+    "top_p": 1.0,
+    "min_p": null,
+    "typical_p": 1.0,
+    "epsilon_cutoff": 0.0,
+    "eta_cutoff": 0.0,
+    "repetition_penalty": 1.0,
+    "encoder_repetition_penalty": 1.0,
+    "length_penalty": 1.0,
+    "no_repeat_ngram_size": 0,
+    "bad_words_ids": null,
+    "renormalize_logits": false,
+    "forced_bos_token_id": null,
+    "forced_eos_token_id": null,
+    "remove_invalid_values": false,
+    "exponential_decay_length_penalty": null,
+    "suppress_tokens": null,
+    "begin_suppress_tokens": null,
+    "sequence_bias": null,
+    "token_healing": false,
+    "guidance_scale": null,
+    "watermarking_config": null,
+    "num_return_sequences": 1,
+    "output_attentions": false,
+    "output_hidden_states": false,
+    "output_scores": false,
+    "output_logits": null,
+    "return_dict_in_generate": false,
+    "pad_token_id": 199999,
+    "bos_token_id": 199998,
+    "eos_token_id": [
+      200002,
+      199999,
+      200012
+    ],
+    "encoder_no_repeat_ngram_size": 0,
+    "decoder_start_token_id": null,
+    "is_assistant": false,
+    "num_assistant_tokens": 20,
+    "num_assistant_tokens_schedule": "constant",
+    "assistant_confidence_threshold": 0.4,
+    "prompt_lookup_num_tokens": null,
+    "max_matching_ngram_size": null,
+    "assistant_early_exit": null,
+    "assistant_lookbehind": 10,
+    "target_lookbehind": 10,
+    "disable_compile": false,
+    "low_memory": null,
+    "penalty_alpha": null,
+    "dola_layers": null,
+    "diversity_penalty": 0.0,
+    "num_beam_groups": 1,
+    "constraints": null,
+    "force_words_ids": null,
+    "_from_model_config": false,
+    "transformers_version": "4.57.5"
+  },
+  "hf_home": "/workspace/hf/home",
+  "resolved_model_path": "/workspace/hf/models--openai--gpt-oss-20b/snapshots/6cee5e81ee83917806bbde320786a8fb61efebee",
+  "kernel_cache_dir": "/workspace/hf/home/hub",
+  "cached_kernel_revisions": {
+    "kernels-community/vllm-flash-attn3": "a92851c4e3e5da436bedff57f09c7fcbf80f35bd",
+    "kernels-community/triton_kernels": "b26c936cb02fb91920cbccfc7454284b47d86b0d"
+  },
+  "cache_preflight": {
+    "status": "passed",
+    "model_weights_loaded": false,
+    "model_id": "openai/gpt-oss-20b",
+    "model_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+    "resolved_model_path": "/workspace/hf/models--openai--gpt-oss-20b/snapshots/6cee5e81ee83917806bbde320786a8fb61efebee",
+    "kernel_cache_dir": "/workspace/hf/home/hub",
+    "model_config_sha256": "3a2a26ded679375b7928ddeca59764df7cea83220c1961035f6d6e232659e9ce",
+    "model_index_sha256": "0e085b977c4c9942f85938828e8c989ed7d5cdabf852e4da6a67c116cd502cd1",
+    "model_shards": [
+      {
+        "name": "model-00000-of-00002.safetensors",
+        "bytes": 4792272488
+      },
+      {
+        "name": "model-00001-of-00002.safetensors",
+        "bytes": 4798702184
+      },
+      {
+        "name": "model-00002-of-00002.safetensors",
+        "bytes": 4170342232
+      }
+    ],
+    "kernels": {
+      "kernels-community/vllm-flash-attn3": {
+        "revision": "a92851c4e3e5da436bedff57f09c7fcbf80f35bd",
+        "snapshot_path": "/workspace/hf/home/hub/models--kernels-community--vllm-flash-attn3/snapshots/a92851c4e3e5da436bedff57f09c7fcbf80f35bd",
+        "imported_module_path": "/workspace/hf/home/hub/models--kernels-community--vllm-flash-attn3/snapshots/a92851c4e3e5da436bedff57f09c7fcbf80f35bd/build/torch29-cxx11-cu128-x86_64-linux/__init__.py",
+        "resolved_module_blob": "/workspace/hf/home/hub/models--kernels-community--vllm-flash-attn3/blobs/3d12edd447e84d6e65c4fa9ab91ae3c3192884c1"
+      },
+      "kernels-community/triton_kernels": {
+        "revision": "b26c936cb02fb91920cbccfc7454284b47d86b0d",
+        "snapshot_path": "/workspace/hf/home/hub/models--kernels-community--triton_kernels/snapshots/b26c936cb02fb91920cbccfc7454284b47d86b0d",
+        "imported_module_path": "/workspace/hf/home/hub/models--kernels-community--triton_kernels/snapshots/b26c936cb02fb91920cbccfc7454284b47d86b0d/build/torch-universal/triton_kernels/__init__.py",
+        "resolved_module_blob": "/workspace/hf/home/hub/models--kernels-community--triton_kernels/blobs/54a0de0988e7b39c0aeb387cbe7b0e7fdd899fe7"
+      }
+    },
+    "offline_kernel_imports_passed": true
+  },
+  "probe_file_sha256": null,
+  "probe_roles": null,
+  "probe_site": "layers[12].post_attention_layernorm output",
+  "steering_site": "zero-based decoder block output",
+  "source_sha256": "bb909f739608aaf3d4350b2aeb5dd1397140e15e75c6c0c0f90e6cd0937f98be",
+  "offline_assets": true,
+  "generation_eos_ids": [
+    199999,
+    200002,
+    200012
+  ],
+  "logits_to_keep": 1
+}

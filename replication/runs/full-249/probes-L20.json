@@ -1,0 +1,158 @@
+{
+  "split_by": "prompt",
+  "C": 0.005,
+  "penalty": "l2",
+  "fit_intercept": true,
+  "objective": "mean CE + ||W||^2/(2 C n)",
+  "solver": "scipy L-BFGS-B with MLX gradients (authors: cuml)",
+  "role_char": {
+    "s": "system",
+    "u": "user",
+    "c": "cot",
+    "a": "assistant",
+    "t": "tool"
+  },
+  "results": [
+    {
+      "role_space": "ua",
+      "layer_ix": 20,
+      "acc": 0.9437,
+      "acc_by_role": {
+        "user": 0.9348,
+        "assistant": 0.9602
+      },
+      "n_train": 249236,
+      "n_test": 32920,
+      "n_iter": 97,
+      "n_calls": 119,
+      "loss": 0.014358889311552048,
+      "converged": true,
+      "sec": 4.2
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 20,
+      "acc": 0.8802,
+      "acc_by_role": {
+        "user": 0.9164,
+        "assistant": 0.8966,
+        "tool": 0.8308
+      },
+      "n_train": 381604,
+      "n_test": 41630,
+      "n_iter": 654,
+      "n_calls": 735,
+      "loss": 0.16589944064617157,
+      "converged": true,
+      "sec": 74.9
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 20,
+      "acc": 0.8638,
+      "acc_by_role": {
+        "user": 0.9656,
+        "cot": 0.7833,
+        "assistant": 0.8439
+      },
+      "n_train": 381604,
+      "n_test": 41630,
+      "n_iter": 662,
+      "n_calls": 751,
+      "loss": 0.18753086030483246,
+      "converged": true,
+      "sec": 65.8
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 20,
+      "acc": 0.7392,
+      "acc_by_role": {
+        "user": 0.8741,
+        "cot": 0.5446,
+        "assistant": 0.8573,
+        "tool": 0.7484
+      },
+      "n_train": 504414,
+      "n_test": 59898,
+      "n_iter": 537,
+      "n_calls": 595,
+      "loss": 0.39490029215812683,
+      "converged": true,
+      "sec": 45.1
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 20,
+      "acc": 0.8837,
+      "acc_by_role": {
+        "system": 0.8615,
+        "user": 0.8695,
+        "assistant": 0.9237
+      },
+      "n_train": 381604,
+      "n_test": 41630,
+      "n_iter": 291,
+      "n_calls": 356,
+      "loss": 0.16745106875896454,
+      "converged": true,
+      "sec": 16.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 20,
+      "acc": 0.7314,
+      "acc_by_role": {
+        "system": 0.6505,
+        "user": 0.9354,
+        "assistant": 0.9123,
+        "tool": 0.5661
+      },
+      "n_train": 504414,
+      "n_test": 59898,
+      "n_iter": 498,
+      "n_calls": 562,
+      "loss": 0.39220330119132996,
+      "converged": true,
+      "sec": 34.2
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 20,
+      "acc": 0.7723,
+      "acc_by_role": {
+        "system": 0.759,
+        "user": 0.9363,
+        "cot": 0.6289,
+        "assistant": 0.8594
+      },
+      "n_train": 504414,
+      "n_test": 59898,
+      "n_iter": 496,
+      "n_calls": 551,
+      "loss": 0.3282936215400696,
+      "converged": true,
+      "sec": 35.6
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 20,
+      "acc": 0.6523,
+      "acc_by_role": {
+        "system": 0.5053,
+        "user": 0.9411,
+        "cot": 0.6711,
+        "assistant": 0.8281,
+        "tool": 0.4164
+      },
+      "n_train": 639676,
+      "n_test": 65714,
+      "n_iter": 566,
+      "n_calls": 633,
+      "loss": 0.5602505207061768,
+      "converged": true,
+      "sec": 49.2
+    }
+  ],
+  "source": "NB02 cells 18-20, commit ec333c40fd43fe991e1ebf66765051b6d7e35784"
+}

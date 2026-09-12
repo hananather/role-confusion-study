@@ -1,0 +1,66 @@
+{
+  "purpose": "Visual comparison of measured candidates; no statistical selection claim.",
+  "sources": [
+    {
+      "candidate": "mats-01",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-01/mats-01.png",
+      "sha256": "a67e50bdecaf278300902b3a193cea1ba3292e829806c5a80aa083d35f3d7293"
+    },
+    {
+      "candidate": "mats-02",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-02/mats-02.png",
+      "sha256": "96db9d38126b683df35d877f2a3dcfca1d62dba9dae458a08e86e14d701f7f0c"
+    },
+    {
+      "candidate": "mats-03",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-03/mats-03.png",
+      "sha256": "db2e64203714e82fa0fd93609c6bf5d7f3b9ccdc98211a97f15021f9d9d44d8b"
+    },
+    {
+      "candidate": "mats-04",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-04/mats-04.png",
+      "sha256": "551bceb17a0139a9c1df84c24e72d31960c9099509b2d5e94cd1c06ea9c728ae"
+    },
+    {
+      "candidate": "mats-05",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-05/mats-05.png",
+      "sha256": "14abe8fcebc6b99808587ac8ecb10b8ea194fb6450933f8fe749476665852546"
+    },
+    {
+      "candidate": "mats-06",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-06/mats-06.png",
+      "sha256": "547328678ee67d8c6afa6984e895c5ffd3c673902c89ccfdbf364280f7979a0e"
+    },
+    {
+      "candidate": "mats-07",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-07/mats-07.png",
+      "sha256": "102e53058014435a53bf6581d10ec8f654c6375ccf0144204619d28807cb954e"
+    },
+    {
+      "candidate": "mats-08",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-08/mats-08.png",
+      "sha256": "4b1ea1ebf8aec24fe79aa947f18faae99ebe8ff5f787778f04ca20ed83941b31"
+    },
+    {
+      "candidate": "mats-09",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-09/mats-09.png",
+      "sha256": "9293d601ada8e56fc65e4390742906255ed66aa62f8bb903a11ff76c875021c7"
+    },
+    {
+      "candidate": "mats-10",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-10/mats-10.png",
+      "sha256": "7e9d2f256d2306f001b19ad9a402876922f98b0199bcb618aacac4112aa1d5ec"
+    },
+    {
+      "candidate": "mats-11",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-11/mats-11.png",
+      "sha256": "4c9886ae150844137ec62bd24392fde76752e26b9f0a1744ba65553d8d2e585e"
+    },
+    {
+      "candidate": "mats-12",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-six-passage/mats-12/mats-12.png",
+      "sha256": "fc4c73fada4db32644804179755ade4f7d1fa98b0660de2dfdba1fb79a6c1606"
+    }
+  ],
+  "artifact_sha256": "2a0c5e0d4513d462f61c2f2fc03718351961334642f8d498d1777b24bc21a808"
+}

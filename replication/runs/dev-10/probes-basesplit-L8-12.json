@@ -1,0 +1,92 @@
+{
+  "split_by": "base",
+  "C": 0.005,
+  "penalty": "l2",
+  "fit_intercept": true,
+  "objective": "mean CE + ||W||^2/(2 C n)",
+  "solver": "scipy L-BFGS-B with MLX gradients (authors: cuml)",
+  "role_char": {
+    "s": "system",
+    "u": "user",
+    "c": "cot",
+    "a": "assistant",
+    "t": "tool"
+  },
+  "results": [
+    {
+      "role_space": "suca",
+      "layer_ix": 8,
+      "acc": 0.7695,
+      "acc_by_role": {
+        "system": 0.5582,
+        "user": 0.9411,
+        "cot": 0.6465,
+        "assistant": 0.9323
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 145,
+      "n_calls": 178,
+      "loss": 0.4888818860054016,
+      "converged": true,
+      "msg": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "sec": 1.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 12,
+      "acc": 0.5935,
+      "acc_by_role": {
+        "system": 0.324,
+        "user": 0.866,
+        "cot": 0.2607,
+        "assistant": 0.9234
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 171,
+      "n_calls": 221,
+      "loss": 0.5063605308532715,
+      "converged": true,
+      "msg": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "sec": 1.2
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 8,
+      "acc": 0.866,
+      "acc_by_role": {
+        "user": 1.0,
+        "assistant": 0.9912,
+        "tool": 0.6068
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 102,
+      "n_calls": 120,
+      "loss": 0.28254228830337524,
+      "converged": true,
+      "msg": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "sec": 0.6
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 12,
+      "acc": 0.7045,
+      "acc_by_role": {
+        "user": 0.9647,
+        "assistant": 0.9705,
+        "tool": 0.1782
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 131,
+      "n_calls": 154,
+      "loss": 0.295129656791687,
+      "converged": true,
+      "msg": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "sec": 0.6
+    }
+  ],
+  "source": "NB02 cells 18-20, commit ec333c40fd43fe991e1ebf66765051b6d7e35784"
+}

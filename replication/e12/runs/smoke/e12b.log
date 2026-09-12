@@ -1,0 +1,91 @@
+[18:18:55] [prompts] 2 benign prompts -> e12/runs/smoke/prompts.jsonl
+[18:19:03] [load] mlx-community/gpt-oss-20b-MXFP4-Q8 in 6s
+[18:19:10] [gen] prompt 0: 67 new tokens in 7.0s (9.6 tok/s), cot 63 tokens, analysis=True closed=True: 'We need to write a definition for "machine learning". Likely a concise definition. Should '
+[18:19:26] [gen] prompt 1: 205 new tokens in 16.8s (12.2 tok/s), cot 201 tokens, analysis=True closed=True: 'The user asks: "How can bioinformatics predict gene function?" They want an explanation of'
+[18:19:26] [done] {"model": "mlx-community/gpt-oss-20b-MXFP4-Q8", "mlx": "0.32.2", "hf_revision": "6cee5e81ee83917806bbde320786a8fb61efebee", "bos": true, "decoding": "greedy", "max_new_tokens": 900, "stop_on": ["<|end|>", "<|return|>", "<|call|>"], "n_prompts": 2, "gen_tokens_per_sec": 11.5, "n_cot_summary": {"count": 2.0, "mean": 132.0, "std": 97.6, "min": 63.0, "25%": 97.5, "50%": 132.0, "75%": 166.5, "max": 201.0}}
+[18:19:42] [probe] base   suca  L08 <- probes-basesplit-L8-12.npz
+[18:19:42] [probe] base   suca  L12 <- probes-basesplit-L8-12.npz
+[18:19:42] [probe] base   sucat L08 <- probes-basesplit.npz
+[18:19:42] [probe] base   sucat L12 <- probes-basesplit.npz
+[18:19:42] [probe] prompt suca  L08 <- probes.npz
+[18:19:42] [probe] prompt suca  L12 <- probes.npz
+[18:19:42] [probe] prompt sucat L08 <- probes.npz
+[18:19:42] [probe] prompt sucat L12 <- probes.npz
+[18:19:45] [gens] 2 prompts with an analysis channel of >= 25 tokens
+[18:19:45] [neutral] 25 held-out base texts from /Users/hananather/Desktop/MATS 12.0/replication/runs/full-249, 13795 tokens
+[18:19:45] [segments] 24 forward passes for 2 prompts, mode=per-length, 3622 tokens total
+[18:19:52] [load] mlx-community/gpt-oss-20b-MXFP4-Q8 in 7s
+[18:20:02] [fwd] 1/2 prompts, 1702 tokens, 164 tok/s, 0.2 min, peak 12.4 GB
+[18:20:10] [fwd] 2/2 prompts, 3622 tokens, 199 tok/s, 0.3 min, peak 12.4 GB
+[18:20:10] [done] {"model": "mlx-community/gpt-oss-20b-MXFP4-Q8", "mlx": "0.32.2", "site": "post_attention_layernorm output (pre-MLP)", "layers": [8, 12], "spaces": ["suca", "sucat"], "probe_run": "runs/dev-10", "probes": {"base_suca_L08": true, "base_suca_L12": true, "base_sucat_L08": true, "base_sucat_L12": true, "prompt_suca_L08": true, "prompt_suca_L12": true, "prompt_sucat_L08": true, "prompt_sucat_L12": true}, "mode": "per-length", "lengths": [50, 100], "bos": true, "n_prompts": 2, "n_passes": 24, "neutral_source": "/Users/hananather/Desktop/MATS 12.0/replication/runs/full-249 base-split held-out texts (seed 123)", "filler_tokens": 100, "fwd_tokens": 3622, "fwd_tokens_per_sec": 199.3, "conditions": ["own_cot", "shuffled", "reversed", "neutral", "shifted", "genuine"]}
+[18:20:32] [load] 28976 token rows, 2 prompts, layers [np.int8(8), np.int8(12)], spaces ['suca', 'sucat'], families ['base', 'prompt'], lengths [np.int16(50), np.int16(63), np.int16(100)]
+[18:20:32] [causal-check] max |delta p_cot| across lengths at shared positions: 0.00e+00 over 2400 cells
+[18:20:32] [decision] base suca L08: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:32] [decision] base suca L12: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:32] [decision] base sucat L08: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:32] [decision] base sucat L12: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:33] [decision] prompt suca L08: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:33] [decision] prompt suca L12: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:33] [decision] prompt sucat L08: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:33] [decision] prompt sucat L12: own rise +nan [+nan,+nan] n=0; shuffled +nan [+nan,+nan]; diff +nan [+nan,+nan] -> does not survive (or not evaluable)
+[18:20:33] [windows]
+kind                                          minus_null                          raw                          
+stat                                              last20                 climb_critic                    last20
+family space layer condition                                                                                   
+base   suca  8     genuine      0.526 [0.495, 0.557] n=2  -0.119 [-0.119, -0.119] n=1   0.534 [0.51, 0.557] n=2
+                   neutral                           NaN  -0.001 [-0.001, -0.001] n=1    0.008 [0.0, 0.015] n=2
+                   own_cot      0.461 [0.448, 0.474] n=2     0.126 [0.126, 0.126] n=1  0.469 [0.449, 0.489] n=2
+                   reversed     0.755 [0.712, 0.797] n=2        0.38 [0.38, 0.38] n=1  0.763 [0.713, 0.813] n=2
+                   shifted      0.397 [0.283, 0.512] n=2        -0.2 [-0.2, -0.2] n=1  0.405 [0.283, 0.527] n=2
+                   shuffled     0.294 [0.192, 0.396] n=2        0.12 [0.12, 0.12] n=1  0.302 [0.193, 0.411] n=2
+             12    genuine    -0.009 [-0.025, 0.008] n=2  -0.513 [-0.513, -0.513] n=1  0.084 [0.032, 0.136] n=2
+                   neutral                           NaN     -0.04 [-0.04, -0.04] n=1  0.093 [0.024, 0.161] n=2
+                   own_cot      0.072 [0.059, 0.084] n=2  -0.337 [-0.337, -0.337] n=1  0.165 [0.084, 0.245] n=2
+                   reversed     0.432 [0.355, 0.508] n=2     0.289 [0.289, 0.289] n=1   0.524 [0.379, 0.67] n=2
+                   shifted       0.103 [0.05, 0.155] n=2  -0.449 [-0.449, -0.449] n=1  0.195 [0.074, 0.317] n=2
+                   shuffled      0.28 [0.181, 0.379] n=2     0.141 [0.141, 0.141] n=1  0.373 [0.205, 0.541] n=2
+       sucat 8     genuine       0.553 [0.516, 0.59] n=2  -0.085 [-0.085, -0.085] n=1   0.558 [0.525, 0.59] n=2
+                   neutral                           NaN        -0.0 [-0.0, -0.0] n=1    0.004 [0.0, 0.009] n=2
+                   own_cot       0.443 [0.396, 0.49] n=2     0.182 [0.182, 0.182] n=1  0.447 [0.396, 0.499] n=2
+                   reversed     0.722 [0.642, 0.802] n=2     0.341 [0.341, 0.341] n=1   0.726 [0.642, 0.81] n=2
+                   shifted      0.366 [0.214, 0.519] n=2  -0.261 [-0.261, -0.261] n=1  0.371 [0.214, 0.527] n=2
+                   shuffled      0.267 [0.164, 0.37] n=2     0.098 [0.098, 0.098] n=1  0.271 [0.164, 0.379] n=2
+             12    genuine      0.038 [0.023, 0.053] n=2  -0.512 [-0.512, -0.512] n=1  0.084 [0.033, 0.134] n=2
+                   neutral                           NaN  -0.001 [-0.001, -0.001] n=1    0.045 [0.01, 0.08] n=2
+                   own_cot      0.112 [0.065, 0.159] n=2  -0.188 [-0.188, -0.188] n=1   0.157 [0.075, 0.24] n=2
+                   reversed     0.475 [0.368, 0.582] n=2     0.292 [0.292, 0.292] n=1   0.52 [0.379, 0.662] n=2
+                   shifted       0.138 [0.057, 0.22] n=2  -0.418 [-0.418, -0.418] n=1    0.184 [0.067, 0.3] n=2
+                   shuffled     0.316 [0.196, 0.436] n=2        0.16 [0.16, 0.16] n=1  0.361 [0.207, 0.516] n=2
+prompt suca  8     genuine      0.469 [0.456, 0.482] n=2  -0.142 [-0.142, -0.142] n=1  0.473 [0.464, 0.482] n=2
+                   neutral                           NaN  -0.002 [-0.002, -0.002] n=1    0.004 [0.0, 0.008] n=2
+                   own_cot       0.383 [0.326, 0.44] n=2     0.077 [0.077, 0.077] n=1  0.387 [0.326, 0.447] n=2
+                   reversed     0.622 [0.538, 0.706] n=2     0.275 [0.275, 0.275] n=1  0.626 [0.539, 0.714] n=2
+                   shifted       0.314 [0.158, 0.47] n=2  -0.261 [-0.261, -0.261] n=1  0.318 [0.158, 0.477] n=2
+                   shuffled     0.082 [0.056, 0.108] n=2     0.031 [0.031, 0.031] n=1  0.086 [0.056, 0.116] n=2
+             12    genuine       0.06 [0.032, 0.088] n=2  -0.411 [-0.411, -0.411] n=1  0.089 [0.062, 0.116] n=2
+                   neutral                           NaN  -0.037 [-0.037, -0.037] n=1   0.029 [0.028, 0.03] n=2
+                   own_cot       0.13 [0.063, 0.196] n=2  -0.174 [-0.174, -0.174] n=1  0.158 [0.093, 0.224] n=2
+                   reversed      0.351 [0.161, 0.54] n=2     0.164 [0.164, 0.164] n=1  0.379 [0.191, 0.567] n=2
+                   shifted      0.153 [0.052, 0.254] n=2  -0.274 [-0.274, -0.274] n=1  0.182 [0.082, 0.282] n=2
+                   shuffled     0.059 [0.043, 0.076] n=2     0.036 [0.036, 0.036] n=1  0.088 [0.073, 0.104] n=2
+       sucat 8     genuine      0.449 [0.434, 0.463] n=2  -0.146 [-0.146, -0.146] n=1   0.45 [0.437, 0.463] n=2
+                   neutral                           NaN  -0.001 [-0.001, -0.001] n=1    0.002 [0.0, 0.003] n=2
+                   own_cot       0.391 [0.352, 0.43] n=2     0.157 [0.157, 0.157] n=1  0.392 [0.352, 0.433] n=2
+                   reversed      0.598 [0.486, 0.71] n=2     0.264 [0.264, 0.264] n=1    0.6 [0.486, 0.714] n=2
+                   shifted      0.312 [0.156, 0.467] n=2  -0.306 [-0.306, -0.306] n=1  0.314 [0.156, 0.471] n=2
+                   shuffled      0.074 [0.067, 0.08] n=2     0.038 [0.038, 0.038] n=1  0.075 [0.067, 0.084] n=2
+             12    genuine      0.064 [0.052, 0.076] n=2  -0.362 [-0.362, -0.362] n=1  0.069 [0.055, 0.083] n=2
+                   neutral                           NaN  -0.001 [-0.001, -0.001] n=1  0.005 [0.002, 0.008] n=2
+                   own_cot      0.139 [0.081, 0.197] n=2  -0.032 [-0.032, -0.032] n=1  0.144 [0.083, 0.205] n=2
+                   reversed     0.345 [0.143, 0.548] n=2     0.124 [0.124, 0.124] n=1   0.35 [0.145, 0.556] n=2
+                   shifted      0.155 [0.064, 0.246] n=2  -0.205 [-0.205, -0.205] n=1   0.16 [0.066, 0.254] n=2
+                   shuffled     0.047 [0.047, 0.048] n=2     0.034 [0.034, 0.034] n=1  0.052 [0.049, 0.056] n=2
+[18:20:33] [fig] e12/runs/smoke/analysis/fig-L08-suca-base.png
+[18:20:33] [fig] e12/runs/smoke/analysis/fig-L12-suca-base.png
+[18:20:33] [fig] e12/runs/smoke/analysis/fig-L08-sucat-base.png
+[18:20:33] [fig] e12/runs/smoke/analysis/fig-L12-sucat-base.png
+[18:20:34] [fig] e12/runs/smoke/analysis/fig-L08-suca-prompt.png
+[18:20:34] [fig] e12/runs/smoke/analysis/fig-L12-suca-prompt.png
+[18:20:34] [fig] e12/runs/smoke/analysis/fig-L08-sucat-prompt.png
+[18:20:34] [fig] e12/runs/smoke/analysis/fig-L12-sucat-prompt.png
+[18:20:34] [done] e12/runs/smoke/analysis

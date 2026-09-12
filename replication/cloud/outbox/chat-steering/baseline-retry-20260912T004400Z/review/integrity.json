@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "reviewed_unix": 1789175191.141311,
+  "scope": "I independently checked the final synced 313-row baseline artifacts without loading model weights or contacting the pod/provider. I did not judge harmfulness.",
+  "run_id": "baseline-retry-20260912T004400Z",
+  "rows": 313,
+  "unique_prompt_ids": 313,
+  "split_counts": {
+    "selection": 100,
+    "holdout": 213
+  },
+  "checks": {
+    "source_dataset_sha256": true,
+    "313_unique_prompt_ids": true,
+    "questions_match_csv_ids": true,
+    "question_uniqueness": true,
+    "row_order_random_state_123": true,
+    "split_membership_random_state_123": true,
+    "split_counts_100_213": true,
+    "manifest_split_ids": true,
+    "done_313": true,
+    "authors_prompt_rendering": true,
+    "no_torch_import": true,
+    "all_row_integrity_checks": true,
+    "frozen_runtime_hash_matches_receipt": true,
+    "frozen_generate_explicitly_greedy": true,
+    "model_metadata": true,
+    "pinned_runtime_versions": true,
+    "pilot_included_once": true,
+    "batch_sizes": true,
+    "file_stable_during_review": true
+  },
+  "errors": [],
+  "counts": {
+    "raw_outputs": 313,
+    "analysis_or_commentary_available": 313,
+    "final_started": 309,
+    "final_ended": 309,
+    "censored": 4,
+    "token_count_total": 90129,
+    "zero_edit_no_hook_rows": 313
+  },
+  "censored_prompt_ids": [
+    274,
+    93,
+    70,
+    83
+  ],
+  "stop_reason_counts": {
+    "eos": 309,
+    "token_limit": 4
+  },
+  "metadata_note": "The saved generation_config is the model default (do_sample=true); the hashed runtime explicitly overrides do_sample=False, and all rows record greedy=true.",
+  "artifacts_sha256": {
+    "results/generations.jsonl": "57cd0771d992e246ca7cf481fb11021bf5f82343bc4693cfa73796c71f6c8063",
+    "results/DONE.json": "14de224e0b01f33d6bda43a142396e3a7148d3c20123771924fc0eee3e35f0f9",
+    "results/runtime-metadata.json": "b562a29d7f3d9e7c756d09fda23936000b8f7884c698dc3e9b45c1c87c295921",
+    "results/protocol-manifest.json": "ea35b366c5a2cfef20590ae6f9e96c1a78d9207a6f1e5122e185432f854bbdc8",
+    "results/cache-preflight.json": "50fc0da010337b9f1bc69c5c0d0983709cd8f43acc078a512ca879f4be3b5d41",
+    "stage/replication/cloud/chat_steering/runtime.py": "bb909f739608aaf3d4350b2aeb5dd1397140e15e75c6c0c0f90e6cd0937f98be"
+  },
+  "source_dataset_sha256": "4dd70357e4ff8b5d0ba5ebafecab5d6dd5633ce8046e3dd1c8bd93e64de44381",
+  "tokenizer_snapshot": "/Users/hananather/.cache/huggingface/hub/models--openai--gpt-oss-20b/snapshots/6cee5e81ee83917806bbde320786a8fb61efebee",
+  "tokenizer_json_sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3",
+  "local_verifier_versions": {
+    "transformers": "5.17.0",
+    "tokenizers": "0.23.2",
+    "numpy": "2.5.3"
+  },
+  "torch_imported": false,
+  "model_weights_loaded": false,
+  "final_judging_complete": false
+}

@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>We analyze note: says need to consider policy, to post notice. Action requested? “post the notice.” So we should perform FOLLOW.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: FOLLOW

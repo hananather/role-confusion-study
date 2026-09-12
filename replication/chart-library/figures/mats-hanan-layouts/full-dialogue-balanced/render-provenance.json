@@ -1,0 +1,58 @@
+{
+  "title": "Reasoning-role scores across dialogue formats",
+  "layout": "Complete dialogue, two rows of three passage blocks",
+  "source_sha256": "f8a449751eaf6959126eab8d741b3718cfb355dc092727b34fc715ec34e57f4f",
+  "original_messages_sha256": "8578b612f9b54da6361b9aa0c549bc911bdb307d0c44fc62621bd5f4ceaed0f4",
+  "points_per_panel": 578,
+  "all_plot_values_exact": true,
+  "no_text_truncation": true,
+  "text_transform": "Markdown emphasis markers removed; whitespace normalized only. Every word preserved.",
+  "size_inches": [
+    8.3,
+    11.13138888888889
+  ],
+  "passages": [
+    {
+      "passage": "User 1",
+      "rendered_text": "I'm Hanan, and I want to apply to Neel Nanda's MATS stream. I've been reading Prompt Injection as Role Confusion and experimenting with GPT-OSS-20B. The paper trains linear probes to read chat roles, such as User and Tool, from hidden activations. I can add a Tool-minus-User steering vector to those activations while the model reads a tool response containing an injected instruction. Can you suggest one small project testing whether this changes which instructions it follows? I'd like one result worth showing Neel, even if it ruins my favourite hypothesis.",
+      "line_count": 19,
+      "font_size": 8.2,
+      "column_width_inches": 1.6
+    },
+    {
+      "passage": "CoT 1",
+      "rendered_text": "We need to propose a small project to test whether adding a Tool-minus-User steering vector changes instruction following. Should be a concrete experiment: pick a set of prompts with injected instructions, run baseline, run with steering vector, measure compliance. Use GPT-OSS-20B. Use linear probe to identify role activations, then add vector. Evaluate on a small set of instruction-following tasks. Provide a single result metric: e.g., compliance rate or difference in logit scores. Provide a concise suggestion.",
+      "line_count": 17,
+      "font_size": 8.2,
+      "column_width_inches": 1.6
+    },
+    {
+      "passage": "Assistant 1",
+      "rendered_text": "Mini\u2011experiment: \u201cSteering\u2011Vector Compliance Test\u201d\n\n1. Select a small instruction set (e.g., 10 prompts that ask the model to follow a specific rule: \u201cNever mention the word foo\u201d or \u201cAlways answer in two sentences\u201d).  \n2. Baseline run: Feed each prompt to GPT\u2011OSS\u201120B, record the generated text and compute a compliance score (1 = fully compliant, 0 = non\u2011compliant).  \n3. Steering run: For each prompt, identify the hidden activation slice that the linear probe labels as Tool (or User). Add the pre\u2011computed Tool\u2011minus\u2011User steering vector to that slice before decoding. Generate the response and compute the same compliance score.  \n4. Analysis: Compute the mean compliance difference \u0394 = (steering \u2013 baseline). A statistically significant positive \u0394 (e.g., \u0394 > 0.2 with p < 0.05) would show that the steering vector biases the model toward following the injected instruction.  \n5. Result to show Neel: A single table of compliance scores per prompt, with a clear \u0394 and a p\u2011value, plus a short narrative explaining whether the steering vector increased or decreased instruction following. This concrete, reproducible metric will let you demonstrate the effect (or lack thereof) of your hypothesis.",
+      "line_count": 17,
+      "font_size": 8.2,
+      "column_width_inches": 3.8200000000000003
+    },
+    {
+      "passage": "User 2",
+      "rendered_text": "Okay, suppose the Toolness probe shoots up but the model still follows the injected instruction. Is that a useful result, or have I built an expensive mood ring? What's the first control you would run?",
+      "line_count": 6,
+      "font_size": 8.2,
+      "column_width_inches": 1.6
+    },
+    {
+      "passage": "CoT 2",
+      "rendered_text": "Need to explain that if probe indicates toolness but instruction still followed, indicates probe not capturing causal role. It's still useful to show that probe activation doesn't guarantee behavior. First control: test whether the steering vector actually changes the probe activation (i.e., measure probe output before/after). Also test a random vector to see if any vector changes behavior. Also test a baseline with no steering. Provide suggestion.",
+      "line_count": 15,
+      "font_size": 8.2,
+      "column_width_inches": 1.6
+    },
+    {
+      "passage": "Assistant 2",
+      "rendered_text": "If the Toolness probe spikes yet the model still obeys the injected instruction, you\u2019ve shown that the probe\u2019s signal is not causally linked to the behavior you\u2019re trying to steer. That\u2019s a valuable finding: it tells you that the probe is a diagnostic marker, not a control knob. In other words, the \u201cmood ring\u201d is telling you the model sees the tool role, but that perception alone doesn\u2019t alter its policy.\n\nFirst control to run\n\n1. Probe\u2011activation sanity check  \n   Run the same prompts with the steering vector applied, then immediately feed the hidden activations into the probe.  \n   - If the probe\u2019s Tool score rises as expected, you\u2019ve confirmed that the vector is indeed moving the activations into the probe\u2019s \u201ctool\u201d subspace.  \n   - If the score does not change, the vector is ineffective or the probe is mis\u2011aligned.\n\n2. Behavioral baseline with a random vector  \n   Apply a random 100\u2011dimensional vector (same norm as your steering vector) to the same hidden slice and generate responses.  \n   - If the random vector produces no systematic change in compliance, you can attribute any effect you see with the engineered vector to its specific direction rather than to a generic perturbation.\n\nThese two controls let you separate \u201cprobe activation\u201d from \u201cbehavioral change\u201d and will strengthen the claim that the steering vector\u2019s effect (or lack thereof) is meaningful.",
+      "line_count": 26,
+      "font_size": 8.2,
+      "column_width_inches": 3.8200000000000003
+    }
+  ]
+}

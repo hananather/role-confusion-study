@@ -1,0 +1,9 @@
+[
+  {
+    "decision": "baseline_complete",
+    "elapsed_seconds": 1209.0289132595062,
+    "trajectories": 313,
+    "steering_run": false,
+    "final_judging_complete": false
+  }
+]

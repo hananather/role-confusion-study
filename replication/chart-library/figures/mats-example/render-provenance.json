@@ -1,0 +1,22 @@
+{
+  "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-example/displayed-rows.csv",
+  "source_sha256": "21743b0ae5692a996c2ba9e81a3312d471329a2c773d36477f76ca61f4ba5e0e",
+  "n_display_tokens_per_condition": 137,
+  "n_points": 411,
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "font": "TeX Gyre Termes",
+  "font_embedding": "TrueType outlines derived from source OTF; cubic-to-quadratic tolerance 0.25 font units",
+  "size_inches": [
+    6.75,
+    3.85
+  ],
+  "artifact_sha256": {
+    "mats-role-readout.pdf": "365d5eef2146262c53e5394b5b77ccf14da37821e39a40a5a3abee21a803ee7c",
+    "mats-role-readout.png": "572f8b83fc009e0d75001db4b47900af9ff4adf3a6dbef49ff50106f70273332",
+    "mats-role-readout.svg": "f0af27732d52d16b02a87c4a687c2a133e2b741f3cf36194d38d25acc5427c7f"
+  }
+}

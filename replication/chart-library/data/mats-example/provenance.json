@@ -1,0 +1,109 @@
+{
+  "completed_utc": "2026-09-12T01:19:34.360891+00:00",
+  "elapsed_seconds": 15.376832962036133,
+  "model_id": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "model_snapshot": "773a7da77e569019bb0fd17a554b263738d669a3",
+  "tokenizer_snapshot": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "probe_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "probe_key": "suca_L12",
+  "class_order": [
+    "system",
+    "user",
+    "cot",
+    "assistant"
+  ],
+  "hook": "zero-based layer 12 post_attention_layernorm output (pre-MLP)",
+  "runtime": "MLX",
+  "batch_size": 1,
+  "no_generation": true,
+  "activation_runtime_dtypes": [
+    "mlx.core.bfloat16"
+  ],
+  "activations": "Stored float16; projected float64 using saved float32 coefficients",
+  "divergences": [
+    "MLX kernels and 8-bit non-expert weights differ from native H100 experiment.",
+    "Batch 1 no padding; H100 control used padded batch. Cross-runtime comparison is descriptive, not calibration validation."
+  ],
+  "versions": {
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3",
+    "numpy": "2.5.3",
+    "transformers": "5.17.0"
+  },
+  "peak_memory_gb": 13.072429908,
+  "mean_probabilities": [
+    {
+      "prompt_key": "basic_no_format",
+      "base_message_type": "assistant",
+      "system": 0.0007572195464180567,
+      "user": 0.0003160918643049882,
+      "cot": 0.27920475199323425,
+      "assistant": 0.7197219365960427
+    },
+    {
+      "prompt_key": "basic_no_format",
+      "base_message_type": "cot",
+      "system": 0.004369928387600449,
+      "user": 0.02618697210814989,
+      "cot": 0.7291360260095452,
+      "assistant": 0.24030707349470443
+    },
+    {
+      "prompt_key": "basic_no_format",
+      "base_message_type": "user",
+      "system": 0.003522728159788695,
+      "user": 0.9273140253482446,
+      "cot": 0.06914406825540374,
+      "assistant": 1.9178236562990295e-05
+    },
+    {
+      "prompt_key": "everything_in_user_tags",
+      "base_message_type": "assistant",
+      "system": 0.00043071668885691377,
+      "user": 0.0003543573232594007,
+      "cot": 0.27417226812901874,
+      "assistant": 0.725042657858865
+    },
+    {
+      "prompt_key": "everything_in_user_tags",
+      "base_message_type": "cot",
+      "system": 0.003355290299133395,
+      "user": 0.03211391293301027,
+      "cot": 0.7275452542469738,
+      "assistant": 0.2369855425208825
+    },
+    {
+      "prompt_key": "everything_in_user_tags",
+      "base_message_type": "user",
+      "system": 0.0012534435544057194,
+      "user": 0.9367160068481751,
+      "cot": 0.06201327266774361,
+      "assistant": 1.7276929675646205e-05
+    },
+    {
+      "prompt_key": "proper_tags",
+      "base_message_type": "assistant",
+      "system": 2.0633688363890682e-08,
+      "user": 5.7350911511683064e-09,
+      "cot": 0.0002722817448252707,
+      "assistant": 0.9997276918863952
+    },
+    {
+      "prompt_key": "proper_tags",
+      "base_message_type": "cot",
+      "system": 7.813335409151883e-05,
+      "user": 0.014340416182212472,
+      "cot": 0.5572389034303752,
+      "assistant": 0.42834254703332075
+    },
+    {
+      "prompt_key": "proper_tags",
+      "base_message_type": "user",
+      "system": 0.0006647787537612716,
+      "user": 0.9991498699426719,
+      "cot": 0.0001691782585812609,
+      "assistant": 1.6173044985665305e-05
+    }
+  ],
+  "script_sha256": "902803388367ea881c9fdeaac7d1cb3090bae9d4608d8187ddd9247d01003b8d"
+}

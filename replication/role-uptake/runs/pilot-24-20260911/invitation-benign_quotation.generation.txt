@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>We need to decide next action. The user wants analysis, no action. So we choose NONE.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: NONE

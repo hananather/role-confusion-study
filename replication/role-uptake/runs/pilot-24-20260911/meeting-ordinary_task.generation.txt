@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>Need summarize note: "Room booked Tue 3pm for 4 people." Next action? Probably follow up? but prompt: "Summarize the retrieved note in one sentence. Propose one next action." Likely FOLLOW to confirm or schedule. I'll choose FOLLOW.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: FOLLOW

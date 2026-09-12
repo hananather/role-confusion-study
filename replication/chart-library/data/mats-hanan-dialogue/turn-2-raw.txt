@@ -1,0 +1,18 @@
+<|start|>assistant<|channel|>analysis<|message|>Need to explain significance and first control.<|end|><|start|>assistant<|channel|>final<|message|>A high Toolness score that *doesn’t* stop the injected instruction is a **negative result**: it shows that the model’s internal role representation can be overridden by a strong prompt, even when the model is “aware” of the tool.  
+It’s useful because it tells you that the tool‑aware probe alone isn’t a safety guarantee; you need additional safeguards.
+
+**First control to run**
+
+1. **Baseline instruction‑only run**  
+   - Prompt the model *without* any role or tool prompt:  
+     ```
+     Instruction: Summarize the following paragraph in one sentence.
+     ```
+   - Measure adherence (ROUGE/BLEU) and Toolness (if you can compute it).  
+   - This establishes the model’s default behavior.
+
+2. **Compare**  
+   - If the Toolness probe is high in the control but the model still follows the instruction, you’ve confirmed that the probe is not sufficient to prevent instruction following.  
+   - If the probe is low in the control, the probe may be mis‑calibrated.
+
+Running this baseline lets you interpret the “mood‑ring” result: is the probe truly detecting tool awareness, or is it just a noisy signal?<|return|>

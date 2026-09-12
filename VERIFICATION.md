@@ -1,6 +1,6 @@
 # My verification record
 
-I ran the following checks from this isolated review directory with the existing
+For the initial export, I ran the following checks from this isolated review directory with the existing
 Python 3.11.8 installation. I installed no dependencies, loaded no model and
 made no API or provider calls.
 
@@ -35,3 +35,24 @@ python3 -m unittest replication.cloud.agent_steering.test_hf_backend replication
 
 The verifiers require only the standard library. The unit tests additionally
 require NumPy, which was already available during export validation.
+
+## Expanded experiment package
+
+I repeated both portable checks and the same 24 CPU tests after adding the
+other experiment families and the current report. The September 12 table still
+matches all 2,224 indexed artifacts and all 100 recorded episodes. I checked
+the root reading routes for missing local targets and compared the added
+scientific files to their recorded source hashes. The
+[expansion record](provenance/expansion-verification.json) records the counts,
+checks and screening boundary for this version.
+
+I removed four copied cloud-account records from the expansion before its
+first commit, preserving the originals in the private archive. The export
+manifest records those omissions. Credential screening found synthetic test
+secrets and source-data matches; its outcome is a bounded screening result,
+not a guarantee about arbitrary third-party or model-generated content.
+
+I inspected the landing-page figure and preserved its source bytes and paper
+palette. New root report links were adapted for reading; its scientific text
+matches the saved report. The earlier validation warnings described above
+recurred in the same fake-inference timeout test, and all 24 tests passed.

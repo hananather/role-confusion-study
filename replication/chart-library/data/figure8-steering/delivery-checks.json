@@ -1,0 +1,9 @@
+{
+  "working_links": 50,
+  "broken_links": [],
+  "canonical_files": 12,
+  "measurement_files": 101,
+  "live_http_checks": 4,
+  "numerical_audit": "247/247 independent checks pass",
+  "review_status": "Current illustration reviewed for source, measurement, behavior, display and cold-reader clarity; report-wide ten-reviewer process is not certified here."
+}

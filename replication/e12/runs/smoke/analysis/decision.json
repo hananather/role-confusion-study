@@ -1,0 +1,241 @@
+{
+  "rule_source": "EXPERIMENTS.md E12b (2026-09-10)",
+  "windows": {
+    "early": [
+      0,
+      20
+    ],
+    "plateau": [
+      60,
+      100
+    ],
+    "late": [
+      150,
+      200
+    ],
+    "later": [
+      350,
+      400
+    ]
+  },
+  "bucket": 10,
+  "n_boot": 2000,
+  "decisions": [
+    {
+      "family": "base",
+      "space": "suca",
+      "layer": 8,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    },
+    {
+      "family": "base",
+      "space": "suca",
+      "layer": 12,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    },
+    {
+      "family": "base",
+      "space": "sucat",
+      "layer": 8,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    },
+    {
+      "family": "base",
+      "space": "sucat",
+      "layer": 12,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    },
+    {
+      "family": "prompt",
+      "space": "suca",
+      "layer": 8,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    },
+    {
+      "family": "prompt",
+      "space": "suca",
+      "layer": 12,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    },
+    {
+      "family": "prompt",
+      "space": "sucat",
+      "layer": 8,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    },
+    {
+      "family": "prompt",
+      "space": "sucat",
+      "layer": 12,
+      "rule": "rise past 100 = mean[150,200) - mean[60,100), null-subtracted, paired over prompts",
+      "own_cot": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "own_minus_shuffled": {
+        "mean": NaN,
+        "lo": NaN,
+        "hi": NaN,
+        "n": 0
+      },
+      "min_n": 1,
+      "survives": false,
+      "note": "n counts prompts whose CoT covers 200 tokens; below min_n the rule is not evaluable"
+    }
+  ]
+}

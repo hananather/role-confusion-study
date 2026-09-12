@@ -1,0 +1,14 @@
+{
+  "expected": {
+    "cloud/persistent/appendix_e_cuda.py": "62017bb32d1d9fde0f28f57a2c3f740eb00c891497b5248eb00843367a645ee9",
+    "cloud/persistent/appendix_e_figures.py": "9e5c8c6c3f5098ef29c918cbe3eea05ddf1aa5372436423eb44229201265984d",
+    "cloud/persistent/cuda_readouts.py": "fbeaf0922ad036fe48e788ff3ea758088fd613781575d40fadce0fb6287a4033"
+  },
+  "actual": {
+    "cloud/persistent/appendix_e_cuda.py": "62017bb32d1d9fde0f28f57a2c3f740eb00c891497b5248eb00843367a645ee9",
+    "cloud/persistent/appendix_e_figures.py": "9e5c8c6c3f5098ef29c918cbe3eea05ddf1aa5372436423eb44229201265984d",
+    "cloud/persistent/cuda_readouts.py": "fbeaf0922ad036fe48e788ff3ea758088fd613781575d40fadce0fb6287a4033"
+  },
+  "match": true,
+  "verification": "Compared remote sha256sum after re-sync at 2026-09-11T03:18:34Z"
+}

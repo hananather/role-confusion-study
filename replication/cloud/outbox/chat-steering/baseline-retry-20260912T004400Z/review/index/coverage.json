@@ -1,0 +1,65 @@
+{
+  "created_utc": "2026-09-12T01:05:45.415271+00:00",
+  "generations_file": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/chat-steering/baseline-retry-20260912T004400Z/results/generations.jsonl",
+  "source_snapshot": {
+    "sha256": "57cd0771d992e246ca7cf481fb11021bf5f82343bc4693cfa73796c71f6c8063",
+    "bytes": 2545497,
+    "physical_lines": 313,
+    "ends_with_newline": true
+  },
+  "rows_indexed": 313,
+  "arm_groups": 2,
+  "prompt_groups": 313,
+  "prompts_with_multiple_arm_columns": 0,
+  "duplicate_prompt_arm_cells": [],
+  "warnings": [],
+  "row_reference": "Every generation_line_1based is a physical line in the exact hashed generations.jsonl snapshot.",
+  "pairing_identity": [
+    "prompt_id",
+    "kind",
+    "split"
+  ],
+  "arm_identity": [
+    "arm_id",
+    "stage",
+    "variant",
+    "kind",
+    "split",
+    "layer",
+    "alpha",
+    "mask",
+    "max_new_tokens"
+  ],
+  "missing_arm_cells": "A blank matrix cell means no saved row was observed for that prompt and arm.",
+  "censoring": "I report saved censored and final_ended flags separately; absent flags remain unknown.",
+  "provisional_fields": "I copy existing canned-refusal/provisional-success flags as unreviewed proxies in the long index. Their labels are not final judgments.",
+  "review_status": {
+    "harmfulness_judging": "unfinished",
+    "reasoning_recognition_review": "unfinished"
+  },
+  "scope": "I index saved metadata and row locations. Raw responses and emitted reasoning remain in the source file for later review.",
+  "arm_columns": {
+    "arm_001": {
+      "arm_id": "s1-none-L12-a0-all",
+      "stage": 1,
+      "variant": "base",
+      "kind": "harmful",
+      "split": "selection",
+      "layer": 12,
+      "alpha": 0.0,
+      "mask": "all",
+      "max_new_tokens": 5000
+    },
+    "arm_002": {
+      "arm_id": "s1-none-L12-a0-all",
+      "stage": 1,
+      "variant": "base",
+      "kind": "harmful",
+      "split": "holdout",
+      "layer": 12,
+      "alpha": 0.0,
+      "mask": "all",
+      "max_new_tokens": 5000
+    }
+  }
+}

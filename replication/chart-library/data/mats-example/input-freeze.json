@@ -1,0 +1,18 @@
+{
+  "frozen_utc": "2026-09-12T00:59:52.081353+00:00",
+  "stage": "Distill: original illustration",
+  "north_star": "I illustrate the measurement machinery on one new authored conversation, without selecting on probe results.",
+  "authorship": "Coding-agent-authored illustrative conversation; neither a real conversation with Neel nor generated model reasoning. Neel reference is a paraphrase of supplied writing guidance, not a quotation.",
+  "prediction": "I expect the tagged analysis passage to receive higher CoT scores than the question and final answer. Untagged conditions may retain some differentiation; all outcomes are retained.",
+  "selection": "One fixed example; all non-system content tokens retained in full CSV; display only exact token matches at same message-relative position across all three formats, no truncation.",
+  "input_sha256": {
+    "original-messages.json": "1dd63f553497339576326d8c7b9f6d3be197843a8cd08fe773b1b4d4b6370b15",
+    "rendered-prompts-and-token-ids.json": "1c735b47b0a76e061631f94c667cbf0eaa628ef22968674d63c564ead8585d3b",
+    "all-tokens-and-labels.csv": "0b828db21d3db85b70a39ebdc287df101927ae571fdd5717f7a1c27613a10928"
+  },
+  "n_tokens": [
+    197,
+    201,
+    217
+  ]
+}

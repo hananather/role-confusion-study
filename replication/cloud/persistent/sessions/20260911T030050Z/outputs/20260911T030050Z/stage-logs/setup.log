@@ -1,0 +1,350 @@
+[setup 03:10:09] GPU: NVIDIA H100 80GB HBM3, 570.211.01, 81559 MiB, 9.0
+[setup 03:10:09] disk: eu-fr-1-vast.runpod.net:/runpodfs/networkvolumes/i0cptrlcoz  1.9T     0  1.9T   0% /workspace
+downloading uv 0.12.13 x86_64-unknown-linux-gnu
+installing to /root/.local/bin
+  uv
+  uvx
+everything's installed!
+
+To add $HOME/.local/bin to your PATH, either restart your shell or run:
+
+    source $HOME/.local/bin/env (sh, bash, zsh)
+    source $HOME/.local/bin/env.fish (fish)
+Using CPython 3.12.14
+Creating virtual environment with seed packages at: /workspace/venv-probes
+ + pip==26.2.1
+Activate with: source /workspace/venv-probes/bin/activate
+Using Python 3.12.14 environment at: /workspace/venv-probes
+Resolved 26 packages in 1.20s
+Downloading nvidia-cuda-nvrtc-cu12 (84.0MiB)
+Downloading setuptools (1.2MiB)
+Downloading networkx (2.0MiB)
+Downloading sympy (6.0MiB)
+Downloading nvidia-nccl-cu12 (307.4MiB)
+Downloading nvidia-nvshmem-cu12 (118.9MiB)
+Downloading torch (859.1MiB)
+Downloading nvidia-cufft-cu12 (184.2MiB)
+Downloading nvidia-cusparselt-cu12 (273.9MiB)
+Downloading nvidia-nvjitlink-cu12 (37.4MiB)
+Downloading nvidia-curand-cu12 (60.7MiB)
+Downloading nvidia-cudnn-cu12 (674.0MiB)
+Downloading triton (162.6MiB)
+Downloading nvidia-cusparse-cu12 (274.9MiB)
+Downloading nvidia-cuda-cupti-cu12 (9.8MiB)
+Downloading nvidia-cusolver-cu12 (255.1MiB)
+Downloading nvidia-cublas-cu12 (566.8MiB)
+Downloading nvidia-cufile-cu12 (1.1MiB)
+ Downloaded nvidia-cufile-cu12
+ Downloaded nvidia-cuda-cupti-cu12
+ Downloaded nvidia-nvjitlink-cu12
+ Downloaded setuptools
+ Downloaded nvidia-nvshmem-cu12
+ Downloaded networkx
+ Downloaded nvidia-curand-cu12
+ Downloaded nvidia-cuda-nvrtc-cu12
+ Downloaded nvidia-nccl-cu12
+ Downloaded triton
+ Downloaded nvidia-cusparse-cu12
+ Downloaded nvidia-cusolver-cu12
+ Downloaded nvidia-cufft-cu12
+ Downloaded nvidia-cusparselt-cu12
+ Downloaded sympy
+ Downloaded nvidia-cublas-cu12
+ Downloaded nvidia-cudnn-cu12
+ Downloaded torch
+Prepared 26 packages in 44.42s
+Installed 26 packages in 20.96s
+ + filelock==3.32.3
+ + fsspec==2026.7.0
+ + jinja2==3.1.6
+ + markupsafe==3.0.3
+ + mpmath==1.3.0
+ + networkx==3.6.1
+ + nvidia-cublas-cu12==12.8.4.1
+ + nvidia-cuda-cupti-cu12==12.8.90
+ + nvidia-cuda-nvrtc-cu12==12.8.93
+ + nvidia-cuda-runtime-cu12==12.8.90
+ + nvidia-cudnn-cu12==9.10.2.21
+ + nvidia-cufft-cu12==11.3.3.83
+ + nvidia-cufile-cu12==1.13.1.3
+ + nvidia-curand-cu12==10.3.9.90
+ + nvidia-cusolver-cu12==11.7.3.90
+ + nvidia-cusparse-cu12==12.5.8.93
+ + nvidia-cusparselt-cu12==0.7.1
+ + nvidia-nccl-cu12==2.27.5
+ + nvidia-nvjitlink-cu12==12.8.93
+ + nvidia-nvshmem-cu12==3.3.20
+ + nvidia-nvtx-cu12==12.8.90
+ + setuptools==78.1.0
+ + sympy==1.14.0
+ + torch==2.9.1+cu128
+ + triton==3.5.1
+ + typing-extensions==4.16.0
+Using Python 3.12.14 environment at: /workspace/venv-probes
+Resolved 85 packages in 1.81s
+Downloading pydantic-core (2.0MiB)
+Downloading pyarrow (47.8MiB)
+Downloading numpy (15.9MiB)
+Downloading pandas (11.8MiB)
+Downloading lxml (5.0MiB)
+Downloading transformers (11.4MiB)
+Downloading pycryptodomex (2.2MiB)
+Downloading scipy (33.7MiB)
+Downloading scikit-learn (9.0MiB)
+Downloading hf-xet (4.3MiB)
+Downloading hf-transfer (3.4MiB)
+Downloading tokenizers (3.1MiB)
+Downloading zstandard (5.3MiB)
+Downloading tiktoken (1.1MiB)
+Downloading aiohttp (1.7MiB)
+ Downloaded tiktoken
+ Downloaded aiohttp
+ Downloaded pydantic-core
+ Downloaded tokenizers
+ Downloaded hf-transfer
+ Downloaded hf-xet
+ Downloaded pycryptodomex
+ Downloaded zstandard
+ Downloaded lxml
+ Downloaded scikit-learn
+ Downloaded numpy
+ Downloaded scipy
+ Downloaded pandas
+ Downloaded transformers
+ Downloaded pyarrow
+Prepared 60 packages in 9.16s
+Uninstalled 1 package in 92ms
+Installed 60 packages in 5.21s
+ + accelerate==1.12.0
+ + aiohappyeyeballs==2.7.1
+ + aiohttp==3.14.3
+ + aiosignal==1.4.0
+ + annotated-types==0.8.0
+ + anyio==4.15.1
+ + attrs==26.1.0
+ + blobfile==3.1.0
+ + certifi==2026.7.22
+ + charset-normalizer==3.5.1
+ + cloudpickle==3.1.2
+ + compressed-tensors==0.13.0
+ + datasets==5.0.1
+ + dill==0.4.1
+ + frozenlist==1.8.0
+ - fsspec==2026.7.0
+ + fsspec==2026.6.0
+ + h11==0.16.0
+ + hf-transfer==0.1.9
+ + hf-xet==1.6.0
+ + httpcore==1.0.9
+ + httpx==0.28.1
+ + huggingface-hub==0.36.2
+ + idna==3.19
+ + joblib==1.6.0
+ + kernels==0.11.5
+ + loguru==0.7.3
+ + lxml==6.1.3
+ + multidict==6.8.0
+ + multiprocess==0.70.19
+ + numpy==2.5.3
+ + packaging==26.3
+ + pandas==2.3.3
+ + propcache==0.5.2
+ + psutil==7.2.2
+ + pyarrow==25.0.1
+ + pycryptodomex==3.23.0
+ + pydantic==2.13.5
+ + pydantic-core==2.46.5
+ + python-dateutil==2.9.0.post0
+ + python-dotenv==1.2.3
+ + pytz==2026.3.post1
+ + pyyaml==6.0.3
+ + regex==2026.9.10
+ + requests==2.34.2
+ + safetensors==0.8.0
+ + scikit-learn==1.7.2
+ + scipy==1.18.1
+ + six==1.17.0
+ + termcolor==3.3.0
+ + threadpoolctl==3.6.0
+ + tiktoken==0.12.0
+ + tokenizers==0.22.2
+ + tqdm==4.70.0
+ + transformers==4.57.5
+ + typing-inspection==0.4.4
+ + tzdata==2026.3
+ + urllib3==2.7.0
+ + xxhash==4.0.1
+ + yarl==1.24.5
+ + zstandard==0.25.0
+Using Python 3.12.14 environment at: /workspace/venv-probes
+Resolved 28 packages in 9.07s
+Downloading flash-attn (242.0MiB)
+ Downloaded flash-attn
+Prepared 2 packages in 3.56s
+Installed 2 packages in 230ms
+ + einops==0.8.2
+ + flash-attn==2.8.3+cu128torch2.9 (from https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.5.4/flash_attn-2.8.3+cu128torch2.9-cp312-cp312-linux_x86_64.whl)
+Using Python 3.12.14 environment at: /workspace/venv-probes
+Resolved 5 packages in 319ms
+Downloading libucx-cu12 (26.4MiB)
+   Building ucx-py-cu12==0.45.0
+ Downloaded libucx-cu12
+      Built ucx-py-cu12==0.45.0
+Prepared 4 packages in 3.23s
+Installed 4 packages in 425ms
+ + libucx-cu12==1.18.1
+ + nvidia-ml-py==12.575.51
+ + pynvml==12.0.0
+ + ucx-py-cu12==0.45.0
+Using Python 3.12.14 environment at: /workspace/venv-probes
+Resolved 82 packages in 3.81s
+Downloading cudf-cu12 (2.5MiB)
+Downloading pygments (1.2MiB)
+Downloading numpy (15.8MiB)
+Downloading pyarrow (40.1MiB)
+Downloading cuda-bindings (7.3MiB)
+Downloading cupy-cuda12x (107.7MiB)
+Downloading numba (3.7MiB)
+Downloading llvmlite (40.4MiB)
+Downloading dask (1.4MiB)
+Downloading nvidia-cuda-cccl-cu12 (3.0MiB)
+Downloading rmm-cu12 (1.1MiB)
+Downloading libcuvs-cu12 (777.2MiB)
+Downloading nvtx (2.7MiB)
+Downloading pynvjitlink-cu12 (44.8MiB)
+Downloading cuml-cu12 (7.4MiB)
+Downloading librmm-cu12 (3.4MiB)
+Downloading libraft-cu12 (21.3MiB)
+Downloading libcuml-cu12 (155.9MiB)
+Downloading pylibcudf-cu12 (26.6MiB)
+Downloading libkvikio-cu12 (84.5MiB)
+Downloading nvidia-cuda-nvcc-cu12 (38.7MiB)
+Downloading libcudf-cu12 (501.5MiB)
+ Downloaded rmm-cu12
+ Downloaded cuda-bindings
+ Downloaded pygments
+ Downloaded dask
+ Downloaded nvtx
+ Downloaded llvmlite
+ Downloaded numba
+ Downloaded numpy
+ Downloaded pyarrow
+ Downloaded nvidia-cuda-cccl-cu12
+ Downloaded cudf-cu12
+ Downloaded librmm-cu12
+ Downloaded cuml-cu12
+ Downloaded nvidia-cuda-nvcc-cu12
+ Downloaded pynvjitlink-cu12
+ Downloaded pylibcudf-cu12
+ Downloaded cupy-cuda12x
+ Downloaded libcuml-cu12
+ Downloaded libcuvs-cu12
+ Downloaded libraft-cu12
+ Downloaded libkvikio-cu12
+ Downloaded libcudf-cu12
+Prepared 51 packages in 55.56s
+Uninstalled 2 packages in 2.52s
+Installed 51 packages in 7.44s
+ + cachetools==7.1.8
+ + click==8.5.0
+ + cuda-bindings==12.9.7
+ + cuda-pathfinder==1.8.1
+ + cuda-python==12.9.7
+ + cudf-cu12==25.8.0
+ + cuml-cu12==25.8.0
+ + cupy-cuda12x==13.6.0
+ + cuvs-cu12==25.8.0
+ + dask==2025.7.0
+ + dask-cuda==25.8.0
+ + dask-cudf-cu12==25.8.0
+ + distributed==2025.7.0
+ + distributed-ucxx-cu12==0.45.1
+ + fastrlock==0.8.3
+ + libcudf-cu12==25.8.0
+ + libcuml-cu12==25.8.0
+ + libcuvs-cu12==25.8.0
+ + libkvikio-cu12==25.8.0
+ + libraft-cu12==25.8.0
+ + librmm-cu12==25.8.0
+ + libucxx-cu12==0.45.1
+ + llvmlite==0.44.0
+ + locket==1.0.0
+ + markdown-it-py==4.2.0
+ + mdurl==0.1.2
+ + msgpack==1.2.2
+ + numba==0.61.2
+ + numba-cuda==0.14.1
+ - numpy==2.5.3
+ + numpy==2.2.6
+ + nvidia-cuda-cccl-cu12==12.9.27
+ + nvidia-cuda-nvcc-cu12==12.9.86
+ + nvtx==0.2.16
+ + partd==1.4.2
+ - pyarrow==25.0.1
+ + pyarrow==19.0.1
+ + pygments==2.21.0
+ + pylibcudf-cu12==25.8.0
+ + pylibraft-cu12==25.8.0
+ + pynvjitlink-cu12==0.7.0
+ + raft-dask-cu12==25.8.0
+ + rapids-dask-dependency==25.8.0
+ + rapids-logger==0.1.19
+ + rich==15.0.0
+ + rmm-cu12==25.8.0
+ + sortedcontainers==2.4.0
+ + tblib==3.2.2
+ + toolz==1.1.0
+ + tornado==6.5.8
+ + treelite==4.4.1
+ + ucxx-cu12==0.45.1
+ + zict==3.0.0
+Using Python 3.12.14 environment at: /workspace/venv-probes
+Checked 2 packages in 119ms
+Cloning into '/workspace/prompt-injection-as-role-confusion'...
+snapshot: /workspace/hf/models--openai--gpt-oss-20b/snapshots/6cee5e81ee83917806bbde320786a8fb61efebee
+hub main sha: 6cee5e81ee83917806bbde320786a8fb61efebee (reference 6cee5e81ee83917806bbde320786a8fb61efebee) 
+[setup 03:14:37] versions:
+  torch          2.9.1+cu128
+  transformers   4.57.5
+  triton         3.5.1
+  kernels        0.11.5
+  flash_attn     2.8.3+cu128torch2.9
+  cuml           25.8.0
+  cudf           25.8.0
+  cupy           13.6.0
+  scikit-learn   1.7.2
+  numpy          2.2.6
+  pandas         2.3.3
+  datasets       5.0.1
+  zstandard      0.25.0
+  accelerate     1.12.0
+  import cuml: ok
+  import cupy: ok
+  import cudf: ok
+  cuda 12.8 device NVIDIA H100 80GB HBM3 sm 9.0
+{
+  "python": "3.12.14",
+  "torch": "2.9.1+cu128",
+  "transformers": "4.57.5",
+  "kernels": "0.11.5",
+  "triton": "3.5.1",
+  "flash_attn": "2.8.3+cu128torch2.9",
+  "cuml": "25.8.0",
+  "cudf": "25.8.0",
+  "cupy": "13.6.0",
+  "scikit-learn": "1.7.2",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "datasets": "5.0.1",
+  "zstandard": "0.25.0",
+  "accelerate": "1.12.0",
+  "tiktoken": "0.12.0",
+  "huggingface_hub": "0.36.2",
+  "pyarrow": "19.0.1"
+}
+cuda available: True; device: NVIDIA H100 80GB HBM3; sm 9.0
+attention plan: kernels-community/vllm-flash-attn3
+nvidia-smi: NVIDIA H100 80GB HBM3, 570.211.01, 81559 MiB, 9.0
+env ok
+[setup 03:15:42] Hopper (sm 9.x): the authors' attention kernel kernels-community/vllm-flash-attn3 will be used
+[setup 03:15:42] setup done. venv=/workspace/venv-probes repo=/workspace/prompt-injection-as-role-confusion hf=/workspace/hf

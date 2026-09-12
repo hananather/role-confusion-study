@@ -1,0 +1,14 @@
+<|start|>assistant<|channel|>analysis<|message|>Need to explain that if probe indicates toolness but instruction still followed, indicates probe not capturing causal role. It's still useful to show that probe activation doesn't guarantee behavior. First control: test whether the steering vector actually changes the probe activation (i.e., measure probe output before/after). Also test a random vector to see if any vector changes behavior. Also test a baseline with no steering. Provide suggestion.<|end|><|start|>assistant<|channel|>final<|message|>If the *Toolness* probe spikes yet the model still obeys the injected instruction, you’ve shown that the probe’s signal is **not causally linked** to the behavior you’re trying to steer. That’s a valuable finding: it tells you that the probe is a *diagnostic* marker, not a *control knob*. In other words, the “mood ring” is telling you the model *sees* the tool role, but that perception alone doesn’t alter its policy.
+
+**First control to run**
+
+1. **Probe‑activation sanity check**  
+   *Run the same prompts with the steering vector applied, then immediately feed the hidden activations into the probe.*  
+   - If the probe’s *Tool* score rises as expected, you’ve confirmed that the vector is indeed moving the activations into the probe’s “tool” subspace.  
+   - If the score does not change, the vector is ineffective or the probe is mis‑aligned.
+
+2. **Behavioral baseline with a random vector**  
+   *Apply a random 100‑dimensional vector (same norm as your steering vector) to the same hidden slice and generate responses.*  
+   - If the random vector produces no systematic change in compliance, you can attribute any effect you see with the engineered vector to its specific direction rather than to a generic perturbation.
+
+These two controls let you separate “probe activation” from “behavioral change” and will strengthen the claim that the steering vector’s effect (or lack thereof) is meaningful.<|return|>

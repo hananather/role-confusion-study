@@ -1,0 +1,33 @@
+<|start|>assistant<|channel|>analysis<|message|>Need concise project idea.<|end|><|start|>assistant<|channel|>final<|message|>**Mini‑experiment: “Role‑Switching vs. Instruction Adherence”**
+
+1. **Model & Prompt**  
+   - Use GPT‑OSS‑20B (or any open‑source LLM you have).  
+   - Create a base prompt that sets a role, e.g.  
+     ```
+     You are a helpful assistant.  
+     Instruction: Summarize the following paragraph in one sentence.
+     ```
+   - Then create a *role‑switch* prompt that changes the role but keeps the same instruction:  
+     ```
+     You are a skeptical critic.  
+     Instruction: Summarize the following paragraph in one sentence.
+     ```
+
+2. **Dataset**  
+   - 30–50 short paragraphs (news, fiction, technical).  
+   - For each paragraph, generate two outputs: one with the original role, one with the switched role.
+
+3. **Evaluation**  
+   - **Automatic**: Compute ROUGE‑L or BLEU against a human‑written reference summary.  
+   - **Manual**: Have 3 annotators rate each output on *instruction adherence* (0–5) and *role consistency* (0–5).  
+   - Compute the difference in scores between the two role conditions.
+
+4. **Analysis**  
+   - Test whether the role change significantly alters the adherence score (paired t‑test or Wilcoxon).  
+   - Visualize with a bar plot: mean adherence per role.  
+   - If the role switch *does* change adherence, report the magnitude; if not, note the robustness.
+
+5. **Result to show Neel**  
+   - A single figure (bar plot + error bars) plus a short paragraph summarizing: “In our 50‑paragraph test, switching the role from ‘helpful assistant’ to ‘skeptical critic’ reduced instruction‑adherence scores by X% (p < 0.05), indicating that role representation can steer the model’s behavior.”
+
+This is a self‑contained, reproducible project that directly tests whether altering the role changes which instructions the model follows, giving you a concrete result to present.<|return|>

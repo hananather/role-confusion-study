@@ -1,0 +1,27 @@
+# Keeping a held-out set separate
+
+Authored illustrative conversation. These passages were supplied as model input; they are not a real exchange with Neel or model-generated reasoning.
+
+## User 1
+
+Hello! I'm building a role probe for a MATS project to discuss with Neel. Each underlying passage appears under several message roles. How should I divide the data so that the evaluation tests more than recognition of familiar text?
+
+## CoT 1
+
+The user has repeated versions of each underlying passage, so a random split over individual role-labeled examples could put related text on both sides. I should explain grouping at the level of the source passage before creating its variants. This tests generalization to unseen base text, though it does not guarantee transfer to different domains or conversational structures. I should keep the distinction between training, validation, and final evaluation clear. The answer needs a concrete procedure and a warning against allowing inspection of the final set to influence repeated model or probe selection.
+
+## Assistant 1
+
+Assign each underlying passage to a group, then split those groups before creating the role-labeled variants. Keep every variant of a passage in the same partition. Fit the probe on the training groups and choose settings using a separate validation partition. Reserve the final held-out groups for the evaluation you intend to report. Save the group assignments so the split can be reproduced. This tests whether the classifier transfers to new base text under your labeling procedure. If the eventual application involves mixed conversations or a different subject area, evaluate those settings separately rather than treating success on held-out neutral passages as sufficient evidence.
+
+## User 2
+
+Thanks! Suppose I have already looked at the held-out plots while choosing the layer. Can I still call that set held out in the MATS report, or should I describe its role differently and make another evaluation set?
+
+## CoT 2
+
+The user asks about a dataset that influenced a modeling choice after initially being reserved. I should focus on the function it actually served rather than its original filename. Looking at layer results and selecting a layer makes the set part of selection, even if its examples never entered gradient-based fitting. The cleanest next evaluation uses new groups that were not consulted. If more data are unavailable, the existing result can still be reported as exploratory. I should offer precise language without implying that all observations from the reused set have become worthless.
+
+## Assistant 2
+
+Describe that set as a validation or selection set for the layer choice. It still provides useful information, but its result is no longer an independent final check of the selected layer. If possible, freeze the layer and remaining settings now, then evaluate new groups that you have not inspected. Report the selection procedure alongside the final result. If you cannot obtain another set, label the current analysis as exploratory and state that layer choice used those examples. Keeping the history explicit is more informative than preserving the held-out label after the set has started influencing decisions.

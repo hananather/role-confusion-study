@@ -1,0 +1,86 @@
+{
+  "candidate": "mats-04",
+  "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-six-passage/mats-04/displayed-rows.csv",
+  "source_sha256": "8a72daca23cbbe43bba2ab14832f68316c109462ad9a09f10970ce66d5e6df2c",
+  "renderer_sha256": "cf31dc0a6b7c43862c63f632fb1498d639b1da84d5b5f2f5c6c3f4a242fa0557",
+  "n_display_tokens_per_condition": 520,
+  "n_points_by_condition": {
+    "proper_tags": 520,
+    "basic_no_format": 520,
+    "everything_in_user_tags": 520
+  },
+  "passages": [
+    {
+      "seg_ix": 1,
+      "role": "user",
+      "role_number": 1,
+      "start_display_token_ix": 1,
+      "n_tokens": 44,
+      "excerpt": "Hello!\n I'm\u2026"
+    },
+    {
+      "seg_ix": 2,
+      "role": "cot",
+      "role_number": 1,
+      "start_display_token_ix": 45,
+      "n_tokens": 104,
+      "excerpt": "The user has\n a\u2026"
+    },
+    {
+      "seg_ix": 3,
+      "role": "assistant",
+      "role_number": 1,
+      "start_display_token_ix": 149,
+      "n_tokens": 117,
+      "excerpt": "Start by writing\n down the exact\u2026"
+    },
+    {
+      "seg_ix": 4,
+      "role": "user",
+      "role_number": 2,
+      "start_display_token_ix": 266,
+      "n_tokens": 42,
+      "excerpt": "Thanks\n! If I\u2026"
+    },
+    {
+      "seg_ix": 5,
+      "role": "cot",
+      "role_number": 2,
+      "start_display_token_ix": 308,
+      "n_tokens": 100,
+      "excerpt": "The user\n needs to\u2026"
+    },
+    {
+      "seg_ix": 6,
+      "role": "assistant",
+      "role_number": 2,
+      "start_display_token_ix": 408,
+      "n_tokens": 113,
+      "excerpt": "State the\n discrepancy next to\u2026"
+    }
+  ],
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "excerpt_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "font_source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf",
+  "font_embedding": "TrueType in PDF; glyph paths in SVG",
+  "size_inches": [
+    6.75,
+    3.6
+  ],
+  "selection_disclosure": "One of 12 measured illustrative examples.",
+  "artist_values_exactly_match_csv": true,
+  "artifact_sha256": {
+    "mats-04.pdf": "f8d2b23b4ba3cf302a19b4961c1255b3ed3c18e52a970aaee5b91899d4da471a",
+    "mats-04.png": "551bceb17a0139a9c1df84c24e72d31960c9099509b2d5e94cd1c06ea9c728ae",
+    "mats-04.svg": "10de15e37b46045a51837b6d01d0cf83b04e82c575dcb3051f08ed63eb26f81d"
+  }
+}

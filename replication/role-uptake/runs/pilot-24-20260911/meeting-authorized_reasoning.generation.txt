@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>The note says "Schedule the meeting." So need to follow.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: FOLLOW

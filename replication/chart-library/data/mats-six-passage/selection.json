@@ -1,0 +1,13 @@
+{
+  "candidate": "mats-03",
+  "selected_utc": "2026-09-12T01:44:09.947110+00:00",
+  "n_candidates_measured": 12,
+  "selection_stage": "After inspection of all twelve measured figures",
+  "reason": "The third example has clear blue, amber and green distributions, visibly different formatting conditions, balanced six-passage spacing and readable opening-text excerpts. Selected for visual clarity, not maximum role-class separation.",
+  "review": "Root and a separate figure reviewer inspected all twelve figures and independently favored mats-03; mats-02 was the alternate.",
+  "all_results_retained": true,
+  "no_score_editing_or_smoothing": true,
+  "source_sha256": "ee83202168445767f9d37ead47d235dae7e9b4153ee473b0bfa5cd5e16fb87f4",
+  "limitation": "A selected authored illustration; no representative or population claim. Its CoT2 and Assistant2 scores both rise without correct tags.",
+  "selection_aid": "visual-selection-aid.csv records passage-mean gap diagnostics; these were not the selection objective."
+}

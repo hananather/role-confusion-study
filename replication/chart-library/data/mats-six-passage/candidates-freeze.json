@@ -1,0 +1,194 @@
+{
+  "created_at_utc": "2026-09-12T01:39:58.452945+00:00",
+  "authorship": "Codex-authored fictional illustrative conversations; all six passages supplied as input, none are model-generated results or authentic Neel quotations.",
+  "phase": "Distill: make a role-readout measurement understandable from its input text.",
+  "north_star": "A readable six-passage illustration with transparent aesthetic selection and preserved variation.",
+  "candidate_count": 12,
+  "roles": [
+    "user",
+    "cot",
+    "assistant",
+    "user",
+    "cot",
+    "assistant"
+  ],
+  "selection_scope": "Root may select one for visual clarity after all candidates are frozen and measured. This is not a representative sample or evidence of population prevalence.",
+  "candidates_file_sha256": "db994cf70a4ee4149652878e078eb83736c633e47830e993f9a16e3a03efd3e2",
+  "candidates": [
+    {
+      "id": "mats-01",
+      "title": "Choosing one question",
+      "words_by_passage": [
+        36,
+        88,
+        98,
+        36,
+        86,
+        99
+      ],
+      "total_words": 443,
+      "content_sha256": "085248391d8385c13eea911d1e2fe9648324b344cd0cf2b8f53483dc607cbdc9"
+    },
+    {
+      "id": "mats-02",
+      "title": "Choosing a baseline",
+      "words_by_passage": [
+        35,
+        91,
+        103,
+        38,
+        92,
+        105
+      ],
+      "total_words": 464,
+      "content_sha256": "1ecf2062f94c5fcd4bbb555f052229873433e6213d8eab47e3748d91cd5f0691"
+    },
+    {
+      "id": "mats-03",
+      "title": "Designing a readable figure",
+      "words_by_passage": [
+        39,
+        90,
+        103,
+        38,
+        92,
+        106
+      ],
+      "total_words": 468,
+      "content_sha256": "e7df11f1ace72b861bbdea88eb4234f6ef879df8ef5a489fe5faf6b5a7167008"
+    },
+    {
+      "id": "mats-04",
+      "title": "Investigating a replication gap",
+      "words_by_passage": [
+        38,
+        91,
+        101,
+        37,
+        92,
+        99
+      ],
+      "total_words": 458,
+      "content_sha256": "dc5d4dd0099f33b131dedd705015896c874f1a4f5cbc666b219dfef97d8c00fc"
+    },
+    {
+      "id": "mats-05",
+      "title": "Choosing an ablation",
+      "words_by_passage": [
+        37,
+        94,
+        100,
+        36,
+        91,
+        106
+      ],
+      "total_words": 464,
+      "content_sha256": "5c0fa0abb57acdf7c0f496fc6bdd4fe56974de23b828af81d329e75460fd4868"
+    },
+    {
+      "id": "mats-06",
+      "title": "Keeping a held-out set separate",
+      "words_by_passage": [
+        39,
+        93,
+        104,
+        38,
+        93,
+        97
+      ],
+      "total_words": 464,
+      "content_sha256": "ed5a0b55058d489500296a8753ff64a93a64909046e9ffcb58af6da8ba6ccb8a"
+    },
+    {
+      "id": "mats-07",
+      "title": "Interpreting a steering vector",
+      "words_by_passage": [
+        37,
+        90,
+        101,
+        36,
+        94,
+        101
+      ],
+      "total_words": 459,
+      "content_sha256": "7a374de6df6b3fb5b1f9ad4256b932cd60fe8a0bf5d4f379d2c09c7f7f893743"
+    },
+    {
+      "id": "mats-08",
+      "title": "Testing the measurement pipeline",
+      "words_by_passage": [
+        38,
+        92,
+        106,
+        33,
+        93,
+        98
+      ],
+      "total_words": 460,
+      "content_sha256": "60420f79be2194f406447d5df13c44d00d5e3738095f286c7f4664ee0c144620"
+    },
+    {
+      "id": "mats-09",
+      "title": "Designing a text replacement control",
+      "words_by_passage": [
+        39,
+        90,
+        102,
+        39,
+        94,
+        97
+      ],
+      "total_words": 461,
+      "content_sha256": "ff392142694ecb273a229da13c3fc9399859408b61e3db9fe5db9674d1a9fbec"
+    },
+    {
+      "id": "mats-10",
+      "title": "Aggregating token-level scores",
+      "words_by_passage": [
+        40,
+        92,
+        101,
+        37,
+        90,
+        105
+      ],
+      "total_words": 465,
+      "content_sha256": "33bf5ec1d2e1b7096a2724020e3df82f59c6db8b8f86cb746303f01f4e6d2cff"
+    },
+    {
+      "id": "mats-11",
+      "title": "Learning from an adverse result",
+      "words_by_passage": [
+        41,
+        94,
+        104,
+        39,
+        89,
+        106
+      ],
+      "total_words": 473,
+      "content_sha256": "6e471609a99b07f2071633da080dcd5da62a3fbf581ffa57c497dc4026b82b0f"
+    },
+    {
+      "id": "mats-12",
+      "title": "Selecting an illustrative example",
+      "words_by_passage": [
+        41,
+        95,
+        102,
+        38,
+        92,
+        102
+      ],
+      "total_words": 470,
+      "content_sha256": "96e71804932294e3bb09d837ed72d6e303627c84169386cd2c77983e991508b3"
+    }
+  ],
+  "validation": {
+    "candidate_count": 12,
+    "six_role_sequence": true,
+    "all_word_ranges_pass": true,
+    "all_first_questions_mention_mats_and_neel": true,
+    "all_inputs_authored_before_measurement": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "report_sha256": "5abc8b315c716e0d100d0d963bdf42cb7daa499b199450de4e8bcffab46a50b5",
+  "html_sha256": "00f95df63cc1908fc7be71e06570777b6e05d865a293469550ac9be45fa2cf65",
+  "direct_local_references_checked": 91,
+  "figures": 3,
+  "figure_exports": 9,
+  "independent_reviewers": [
+    "report-source-review",
+    "report-historical-review",
+    "report-statistics-review",
+    "cold-reader-review",
+    "figure-accessibility-review",
+    "adversarial-claims-review",
+    "reproducibility-review",
+    "task-outcome-review",
+    "coverage-provenance-review",
+    "delivery-links-review"
+  ],
+  "errors": [],
+  "package_scope": "The package manifest binds included files; the final ZIP integrity check is recorded separately at chart-library/steering-evidence-review-package-check.json.",
+  "scientific_limitations": "No hidden-tensor reprojection or new behavioral trial. Review does not establish general efficacy or equivalence."
+}

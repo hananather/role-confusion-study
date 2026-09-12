@@ -1,0 +1,36 @@
+{
+  "recorded_at": "2026-09-12T06:59:18.237536+00:00",
+  "source_bytes": {
+    "passed": true,
+    "files": 12110,
+    "failures": []
+  },
+  "root_links": {
+    "checked": 183,
+    "broken": []
+  },
+  "report_scientific_text_unchanged": true,
+  "saved_results": {
+    "passed": true,
+    "indexed_artifacts": 2224,
+    "assignments": 110,
+    "recorded": 100,
+    "unrun": 10,
+    "censored": 3
+  },
+  "focused_cpu_tests": {
+    "passed": true,
+    "tests": 24,
+    "warnings": "Same three NumPy runtime warnings in fake-inference timeout test as initial export."
+  },
+  "excluded_account_records": 4,
+  "scope": "I verified saved files and fake-inference tests. I did not run models, execute evaluated-agent commands, judge factual summary quality or validate fresh-install GPU reproduction.",
+  "historical_link_boundary": "Frozen historical documents, including TOY-LAB-NOTICE.md, retain links to operational files in the separate archive.",
+  "screening": {
+    "method": "Independent pattern-based review of text and compressed/container records; static inspection only.",
+    "actual_remaining_findings": 0,
+    "excluded_account_records": 4,
+    "containers": "Parquet string columns, 21 .eval ZIP containers with 2,295 text members, gzip episodes, and 10 pickle streams without unpickling",
+    "limitations": "I do not treat pattern-based screening as proof of absence."
+  }
+}

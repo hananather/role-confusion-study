@@ -1,0 +1,205 @@
+schema_version: 1
+retrieved: 2026-08-16
+collection: "MATS 12.0 agent-safety reading route v003 anchors and core companions"
+verification:
+  identity: "First page of every PDF visually checked against the canonical title and author list."
+  integrity: "SHA-256 recorded after download; archived PDFs are read-only."
+  scope: "One downloadable primary anchor per sampler block; web-only companions remain in the web source ledger."
+
+papers:
+  - key: Singh2026ModelForensics
+    block: 1
+    title: "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment"
+    authors: ["Aditya Singh", "Gerson Kroiz", "Senthooran Rajamanoharan", "Neel Nanda"]
+    year: 2026
+    venue_or_type: "arXiv preprint, v2"
+    canonical_url: "https://arxiv.org/abs/2606.26071"
+    pdf_url: "https://arxiv.org/pdf/2606.26071"
+    local_path: "pdf/singh-2026-model-forensics.pdf"
+    sha256: "d88293bf6543e635a5e61093ed08136ed98add30c1c93e3fe28cd4b6a0cea19a"
+    pages: 86
+    extraction_limitations: "Extracted text may flatten multi-column layouts, figures, equations, and appendix tables; use the rendered PDF for those claims."
+
+  - key: Phuong2026AIControlRoadmap
+    block: 2
+    title: "GDM AI Control Roadmap"
+    authors: ["Mary Phuong", "Erik Jenner", "Laurent Simon", "Lewis Ho", "Rohin Shah", "Sebastian Farquhar", "Scott Coull"]
+    year: 2026
+    venue_or_type: "Google DeepMind technical roadmap; arXiv v1"
+    canonical_url: "https://arxiv.org/abs/2607.13087"
+    pdf_url: "https://arxiv.org/pdf/2607.13087"
+    local_path: "pdf/phuong-2026-gdm-ai-control-roadmap.pdf"
+    sha256: "291a0cd72b0b6a0f08882db7080bba9f8a24ee196ae2f69f5063314cbfddeb55"
+    pages: 36
+    extraction_limitations: "This is a roadmap and threat-model document, not outcome evidence; diagrams and tier relationships require rendered-page inspection."
+
+  - key: Ye2026RoleConfusion
+    block: 3
+    title: "Prompt Injection as Role Confusion"
+    authors: ["Charles Ye", "Jasmine Cui", "Dylan Hadfield-Menell"]
+    year: 2026
+    venue_or_type: "ICML 2026"
+    canonical_url: "https://arxiv.org/abs/2603.12277"
+    pdf_url: "https://arxiv.org/pdf/2603.12277"
+    local_path: "pdf/ye-2026-prompt-injection-role-confusion.pdf"
+    sha256: "609332fdfaae35838e5c82c0ef9a9b7d23aac7ac24000452917c47a56d4f29e0"
+    pages: 33
+    supplied_from: "/Users/hananather/Desktop/PromptInjectionRoleConfusion.pdf"
+    identity_rechecked_at: "2026-09-04"
+    main_paper_reaffirmed_at: "2026-09-04"
+    markdown_path: "markdown/prompt-injection-as-role-confusion/2026-09-04/prompt-injection-as-role-confusion.md"
+    markdown_fidelity_path: "markdown/prompt-injection-as-role-confusion/2026-09-04/fidelity.md"
+    markdown_bundle_manifest: "markdown/prompt-injection-as-role-confusion/2026-09-04/bundle-manifest.json"
+    extraction_limitations: "Attack success rates depend on the stated model, prompts, role probe, and attack setting; do not generalize the reported maximum across deployments."
+
+  - key: South2025AuthenticatedDelegation
+    block: 4
+    title: "Position: AI Agents Need Authenticated Delegation"
+    authors: ["Tobin South", "Samuele Marro", "Thomas Hardjono", "Robert Mahari", "Cedric Deslandes Whitney", "Alan Chan", "Alex Pentland"]
+    year: 2025
+    venue_or_type: "ICML 2025; PMLR 267"
+    canonical_url: "https://proceedings.mlr.press/v267/south25a.html"
+    pdf_url: "https://raw.githubusercontent.com/mlresearch/v267/main/assets/south25a/south25a.pdf"
+    local_path: "pdf/south-2025-authenticated-delegation.pdf"
+    sha256: "dda819343d799af1386e0387762e1db7b22dd9a34714cfbe7596a86a86176632"
+    pages: 21
+    extraction_limitations: "This is a position paper and architectural proposal; it does not empirically validate the proposed identity or delegation scheme."
+
+  - key: Soligo2026EmergentMisalignment
+    block: 5
+    title: "Emergent Misalignment Is Easy, Narrow Misalignment Is Hard"
+    authors: ["Anna Soligo", "Edward Turner", "Senthooran Rajamanoharan", "Neel Nanda"]
+    year: 2026
+    venue_or_type: "ICLR 2026"
+    canonical_url: "https://arxiv.org/abs/2602.07852"
+    pdf_url: "https://arxiv.org/pdf/2602.07852"
+    local_path: "pdf/soligo-2026-emergent-misalignment-easy.pdf"
+    sha256: "aa207694a963594bf2ab3b6d363e322eeb247cf50d1a80f2e3e83d6fa8f73935"
+    pages: 35
+    extraction_limitations: "Most evidence uses synthetic fine-tuning data and open-weight chat models; causal claims about pretraining features remain proposed rather than established."
+
+  - key: Lindner2026Gram
+    block: 6
+    title: "Gram: Assessing sabotage propensities via automated alignment auditing"
+    authors: ["David Lindner", "Victoria Krakovna", "Sebastian Farquhar"]
+    year: 2026
+    venue_or_type: "Google DeepMind arXiv preprint"
+    canonical_url: "https://arxiv.org/abs/2605.30322"
+    pdf_url: "https://arxiv.org/pdf/2605.30322"
+    local_path: "pdf/lindner-2026-gram.pdf"
+    sha256: "f2cc1131ca0ad4e087a7622bb8a5424b137be73a060508d38588463ebde6b35e"
+    pages: 32
+    extraction_limitations: "Rare outcomes come from simulated scenarios in one model family; selected static reproductions cannot estimate deployment base rates."
+
+  - key: Trinh2026HiLBench
+    block: 7
+    title: "HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?"
+    authors: ["Tu Trinh", "Mohamed Elfeki", "Guangze Luo", "Kelvin Luu", "Nathan Hunt", "Ernesto Hernandez", "Nandan Marwaha", "Yannis Yiming He", "Charles Wang", "Fernando Carabedo", "Alessa Castillo", "Bing Liu"]
+    year: 2026
+    venue_or_type: "arXiv preprint, v4"
+    canonical_url: "https://arxiv.org/abs/2604.09408"
+    pdf_url: "https://arxiv.org/pdf/2604.09408"
+    local_path: "pdf/trinh-2026-hil-bench.pdf"
+    sha256: "88e5840929047a72701076df6780956fe07f628c6cd824aba9bf4cec80ee7912"
+    pages: 20
+    extraction_limitations: "Every benchmark task contains blockers; results do not measure unnecessary escalation on a deployment mixture dominated by fully specified tasks."
+
+  - key: Hammond2025MultiAgentRisks
+    block: 8
+    title: "Multi-Agent Risks from Advanced AI"
+    authors: ["Lewis Hammond", "Alan Chan", "Jesse Clifton", "Jason Hoelscher-Obermaier", "Akbir Khan", "Euan McLean", "Chandler Smith", "Wolfram Barfuss", "Jakob Foerster", "Tomas Gavenciak", "The Anh Han", "Edward Hughes", "Vojtech Kovarik", "Jan Kulveit", "Joel Z. Leibo", "Caspar Oesterheld", "Christian Schroeder de Witt", "Nisarg Shah", "Michael Wellman", "Paolo Bova", "Theodor Cimpeanu", "Carson Ezell", "Quentin Feuillade-Montixi", "Matija Franklin", "Esben Kran", "Igor Krawczuk", "Max Lamparth", "Niklas Lauffer", "Alexander Meinke", "Sumeet Motwani", "Anka Reuel", "Vincent Conitzer", "Michael Dennis", "Iason Gabriel", "Adam Gleave", "Gillian Hadfield", "Nika Haghtalab", "Atoosa Kasirzadeh", "Sebastien Krier", "Kate Larson", "Joel Lehman", "David C. Parkes", "Georgios Piliouras", "Iyad Rahwan"]
+    year: 2025
+    venue_or_type: "Cooperative AI Foundation Technical Report 1; arXiv"
+    canonical_url: "https://arxiv.org/abs/2502.14143"
+    pdf_url: "https://arxiv.org/pdf/2502.14143"
+    local_path: "pdf/hammond-2025-multi-agent-risks.pdf"
+    sha256: "3a8e798a29f77ca422b8565efd0b59928c1e5b24d5cea27fed91485b54b67f5f"
+    pages: 96
+    extraction_limitations: "The PDF metadata omits title and authors. This is a taxonomy and research-agenda report with illustrative studies, not a unified empirical benchmark."
+
+  - key: Li2026ModelSpecMidtraining
+    block: 5
+    role: "core companion in route v003"
+    title: "Model Spec Midtraining: Improving How Alignment Training Generalizes"
+    authors: ["Chloe Li", "Nevan Wichers", "Sara Price", "Samuel Marks", "Jon Kutasov"]
+    year: 2026
+    venue_or_type: "arXiv preprint, v2; Anthropic Fellows Program"
+    canonical_url: "https://arxiv.org/abs/2605.02087"
+    pdf_url: "https://arxiv.org/pdf/2605.02087"
+    local_path: "pdf/li-2026-model-spec-midtraining.pdf"
+    sha256: "29559d763cef1a41035812710e5cfee36e867864abe780c4dacf43c164a7e1f2"
+    pages: 72
+    extraction_limitations: "The main evidence uses synthetic midtraining documents, open-weight model families, and constructed agentic-misalignment evaluations; reported effects are setting-specific and figures require rendered-page inspection."
+
+  - key: Wang2026MCPTox
+    block: 4
+    role: "core companion in route v003"
+    title: "MCPTox: A Benchmark for Tool Poisoning on Real-World MCP Servers"
+    authors: ["Zhiqiang Wang", "Yichao Gao", "Yanting Wang", "Suyuan Liu", "Haifeng Sun", "Haoran Cheng", "Guanquan Shi", "Haohua Du", "Xiangyang Li"]
+    year: 2026
+    venue_or_type: "AAAI 2026, volume 40 issue 42"
+    canonical_url: "https://ojs.aaai.org/index.php/AAAI/article/view/40895"
+    pdf_url: "https://ojs.aaai.org/index.php/AAAI/article/view/40895/44856"
+    local_path: "pdf/wang-2026-mcptox.pdf"
+    sha256: "9aa84895de698748cbdd75f615832acdde29ceaa81e8d5f7c51337e170be162b"
+    pages: 9
+    extraction_limitations: "The benchmark studies malicious tool metadata in its stated MCP servers, attack templates, models, and agent settings; attack-success rates are not estimates of deployment prevalence."
+
+  - key: Bhatt2025CtrlZ
+    block: 2
+    role: "core empirical anchor in route v003"
+    title: "Ctrl-Z: Controlling AI Agents via Resampling"
+    authors: ["Aryan Bhatt", "Cody Rushing", "Adam Kaufman", "Tyler Tracy", "Vasil Georgiev", "David Matolcsi", "Akbir Khan", "Buck Shlegeris"]
+    year: 2025
+    venue_or_type: "ICML 2025; arXiv v1"
+    canonical_url: "https://arxiv.org/abs/2504.10374"
+    pdf_url: "https://arxiv.org/pdf/2504.10374"
+    local_path: "pdf/bhatt-2025-ctrl-z.pdf"
+    sha256: "5f802d679344fe5e15d1edd50e96245f3bdc054e69d1ff0880b077d173549211"
+    pages: 38
+    extraction_limitations: "Results come from BashBench system-administration tasks and an adversarially constructed attack policy; safety-usefulness tradeoffs are protocol- and environment-specific."
+
+  - key: Najt2026SLEIGHTBench
+    block: 2
+    role: "core companion in route v003"
+    title: "SLEIGHT-Bench: A Benchmark of Evasion Attacks Against Agent Monitors"
+    authors: ["Elle Najt", "Colin Toft", "Tyler Tracy", "Fabien Roger", "Joe Benton"]
+    year: 2026
+    venue_or_type: "arXiv preprint, v2; Anthropic Fellows Program and Redwood Research"
+    canonical_url: "https://arxiv.org/abs/2605.16626"
+    pdf_url: "https://arxiv.org/pdf/2605.16626"
+    local_path: "pdf/najt-2026-sleight-bench.pdf"
+    sha256: "1ba418227095eeea98881f61a606c9974f4f3a8758d6a6292c6a9cd8bbd76751"
+    pages: 42
+    extraction_limitations: "The benchmark uses curated synthetic attack transcripts to isolate monitor blind spots; it does not show that current attacker agents independently discover and execute those strategies."
+
+  - key: Kramar2026ProductionProbes
+    block: 3
+    role: "companion added 2026-09-10 for the long-context probe direction; requested by Hanan from memory of a DeepMind probes paper"
+    title: "Building Production-Ready Probes For Gemini"
+    authors: ["János Kramár", "Joshua Engels", "Zheng Wang", "Bilal Chughtai", "Rohin Shah", "Neel Nanda", "Arthur Conmy"]
+    year: 2026
+    venue_or_type: "Google DeepMind arXiv preprint, v4 (2026-02-10); v1 2026-01-16"
+    canonical_url: "https://arxiv.org/abs/2601.11516"
+    pdf_url: "https://arxiv.org/pdf/2601.11516v4"
+    local_path: "pdf/kramar-2026-production-ready-probes-gemini.pdf"
+    sha256: "c4a36db54c9d679a718a0e35b9cad09fa628d81f6174bb6e1d8c6b26a063d8bf"
+    pages: 40
+    retrieved_at: "2026-09-10"
+    reading_note: "reading-notes/2026-09-10-kramar-2026-production-ready-probes-gemini.md"
+    extraction_limitations: "Input-only monitoring of cyber-misuse prompts on Gemini 2.5 Flash activations; the paper does not study prompt injection. Long-context results are for a synthetic code-context dataset up to 1M tokens; Appendix B.3 and Table 6 disagree on the clean long-context row count. Probes, datasets, and the helpful-only model are not released. Several results have wide error bars (Figures 1 and 5)."
+
+  - key: Kantamneni2025SparseProbing
+    block: 3
+    role: "companion added 2026-09-10; origin of the single-head attention probe used by Kramar2026ProductionProbes (its Section 3.1.4 cites this paper)"
+    title: "Are Sparse Autoencoders Useful? A Case Study in Sparse Probing"
+    authors: ["Subhash Kantamneni", "Joshua Engels", "Senthooran Rajamanoharan", "Max Tegmark", "Neel Nanda"]
+    year: 2025
+    venue_or_type: "arXiv preprint, v1 (2025-02-23)"
+    canonical_url: "https://arxiv.org/abs/2502.16681"
+    pdf_url: "https://arxiv.org/pdf/2502.16681v1"
+    local_path: "pdf/kantamneni-2025-sparse-probing.pdf"
+    sha256: "c40c10beb55dbc0d39824119af3f9e175b2bff44ae3f11527d2cff28eff92570"
+    pages: 30
+    retrieved_at: "2026-09-10"
+    extraction_limitations: "The main topic is whether SAE probes beat baselines on 113 datasets on Gemma-2-9B and Llama-3.1-8B; the attention-pooled probe appears only as a baseline (Equation 2, page 8, and Table 9). Prompts are at most 1,024 tokens, so it says nothing about long-context degradation."

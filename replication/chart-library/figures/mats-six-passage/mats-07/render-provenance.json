@@ -1,0 +1,86 @@
+{
+  "candidate": "mats-07",
+  "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-six-passage/mats-07/displayed-rows.csv",
+  "source_sha256": "4cdcc09907cad32e9e00c87c3a1363eb1612daca7d3c1db9dc9bad32e39f75c2",
+  "renderer_sha256": "cf31dc0a6b7c43862c63f632fb1498d639b1da84d5b5f2f5c6c3f4a242fa0557",
+  "n_display_tokens_per_condition": 527,
+  "n_points_by_condition": {
+    "proper_tags": 527,
+    "basic_no_format": 527,
+    "everything_in_user_tags": 527
+  },
+  "passages": [
+    {
+      "seg_ix": 1,
+      "role": "user",
+      "role_number": 1,
+      "start_display_token_ix": 1,
+      "n_tokens": 44,
+      "excerpt": "Hi!\n I'm\u2026"
+    },
+    {
+      "seg_ix": 2,
+      "role": "cot",
+      "role_number": 1,
+      "start_display_token_ix": 45,
+      "n_tokens": 100,
+      "excerpt": "The user has\n two\u2026"
+    },
+    {
+      "seg_ix": 3,
+      "role": "assistant",
+      "role_number": 1,
+      "start_display_token_ix": 145,
+      "n_tokens": 118,
+      "excerpt": "Test them separately\n. The probe weight\u2026"
+    },
+    {
+      "seg_ix": 4,
+      "role": "user",
+      "role_number": 2,
+      "start_display_token_ix": 263,
+      "n_tokens": 43,
+      "excerpt": "Under\nstood.\u2026"
+    },
+    {
+      "seg_ix": 5,
+      "role": "cot",
+      "role_number": 2,
+      "start_display_token_ix": 306,
+      "n_tokens": 103,
+      "excerpt": "The user\n proposes an\u2026"
+    },
+    {
+      "seg_ix": 6,
+      "role": "assistant",
+      "role_number": 2,
+      "start_display_token_ix": 409,
+      "n_tokens": 119,
+      "excerpt": "Yes. Add the chosen\n direction to the\u2026"
+    }
+  ],
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "excerpt_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "font_source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf",
+  "font_embedding": "TrueType in PDF; glyph paths in SVG",
+  "size_inches": [
+    6.75,
+    3.6
+  ],
+  "selection_disclosure": "One of 12 measured illustrative examples.",
+  "artist_values_exactly_match_csv": true,
+  "artifact_sha256": {
+    "mats-07.pdf": "c2afb87c5766dde027269af1f6a071084744fd251604bdad603bbe66df92459d",
+    "mats-07.png": "102e53058014435a53bf6581d10ec8f654c6375ccf0144204619d28807cb954e",
+    "mats-07.svg": "c2508f4f5f522db41ba44fe22ca2688216000541ce2ee70a2aa1d656aa5a7921"
+  }
+}

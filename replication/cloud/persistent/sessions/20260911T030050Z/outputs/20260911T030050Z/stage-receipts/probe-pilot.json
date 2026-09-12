@@ -1,0 +1,7 @@
+{
+  "stage_sha256": "8850fe3fd7d1425285efd5564aaf2dfd64174870ed0754f7cabca4b4a88564c9",
+  "status": "complete",
+  "started_at": "2026-09-11T03:15:46.267202+00:00",
+  "completed_at": "2026-09-11T03:21:37.370972+00:00",
+  "output": "/workspace/results/20260911T030050Z/probe-pilot"
+}

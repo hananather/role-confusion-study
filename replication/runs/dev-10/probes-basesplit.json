@@ -1,0 +1,1100 @@
+{
+  "split_by": "base",
+  "C": 0.005,
+  "penalty": "l2",
+  "fit_intercept": true,
+  "max_iter": 5000,
+  "scaling": false,
+  "split": "90/10 by prompt_ix, seed 123",
+  "solver": "sklearn lbfgs (authors: cuml)",
+  "role_char": {
+    "s": "system",
+    "u": "user",
+    "c": "cot",
+    "a": "assistant",
+    "t": "tool"
+  },
+  "results": [
+    {
+      "role_space": "suca",
+      "layer_ix": 0,
+      "acc": 0.2828,
+      "acc_by_role": {
+        "system": 0.0736,
+        "user": 0.433,
+        "cot": 0.4286,
+        "assistant": 0.1959
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 59,
+      "sec": 0.6
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 1,
+      "acc": 0.3398,
+      "acc_by_role": {
+        "system": 0.1738,
+        "user": 0.218,
+        "cot": 0.4418,
+        "assistant": 0.5258
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 136,
+      "sec": 1.2
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 2,
+      "acc": 0.4057,
+      "acc_by_role": {
+        "system": 0.5729,
+        "user": 0.3196,
+        "cot": 0.2813,
+        "assistant": 0.4492
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 171,
+      "sec": 1.7
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 3,
+      "acc": 0.4665,
+      "acc_by_role": {
+        "system": 0.1723,
+        "user": 0.7658,
+        "cot": 0.2798,
+        "assistant": 0.648
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 192,
+      "sec": 2.1
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 4,
+      "acc": 0.3984,
+      "acc_by_role": {
+        "system": 0.3093,
+        "user": 0.4566,
+        "cot": 0.2253,
+        "assistant": 0.6024
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 224,
+      "sec": 1.6
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 5,
+      "acc": 0.4297,
+      "acc_by_role": {
+        "system": 0.5376,
+        "user": 0.4551,
+        "cot": 0.3667,
+        "assistant": 0.3594
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 210,
+      "sec": 1.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 6,
+      "acc": 0.4956,
+      "acc_by_role": {
+        "system": 0.5066,
+        "user": 0.5567,
+        "cot": 0.3211,
+        "assistant": 0.5979
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 218,
+      "sec": 1.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 7,
+      "acc": 0.7706,
+      "acc_by_role": {
+        "system": 0.4654,
+        "user": 0.9676,
+        "cot": 0.7437,
+        "assistant": 0.9057
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 206,
+      "sec": 1.3
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 8,
+      "acc": 0.7695,
+      "acc_by_role": {
+        "system": 0.5596,
+        "user": 0.9411,
+        "cot": 0.6451,
+        "assistant": 0.9323
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 248,
+      "sec": 1.7
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 9,
+      "acc": 0.7496,
+      "acc_by_role": {
+        "system": 0.6451,
+        "user": 0.8218,
+        "cot": 0.6937,
+        "assistant": 0.838
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 229,
+      "sec": 1.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 10,
+      "acc": 0.6889,
+      "acc_by_role": {
+        "system": 0.5272,
+        "user": 0.838,
+        "cot": 0.6009,
+        "assistant": 0.7894
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 276,
+      "sec": 1.8
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 11,
+      "acc": 0.6499,
+      "acc_by_role": {
+        "system": 0.3976,
+        "user": 0.8498,
+        "cot": 0.461,
+        "assistant": 0.891
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 235,
+      "sec": 1.6
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 12,
+      "acc": 0.5935,
+      "acc_by_role": {
+        "system": 0.324,
+        "user": 0.866,
+        "cot": 0.2607,
+        "assistant": 0.9234
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 273,
+      "sec": 1.8
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 13,
+      "acc": 0.5884,
+      "acc_by_role": {
+        "system": 0.3446,
+        "user": 0.9043,
+        "cot": 0.1561,
+        "assistant": 0.9485
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 288,
+      "sec": 2.0
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 14,
+      "acc": 0.5652,
+      "acc_by_role": {
+        "system": 0.218,
+        "user": 0.9985,
+        "cot": 0.0501,
+        "assistant": 0.9941
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 146,
+      "sec": 1.1
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 15,
+      "acc": 0.5523,
+      "acc_by_role": {
+        "system": 0.0736,
+        "user": 0.9941,
+        "cot": 0.1502,
+        "assistant": 0.9912
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 258,
+      "sec": 1.7
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 16,
+      "acc": 0.5663,
+      "acc_by_role": {
+        "system": 0.1046,
+        "user": 1.0,
+        "cot": 0.1649,
+        "assistant": 0.9956
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 283,
+      "sec": 2.0
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 17,
+      "acc": 0.5416,
+      "acc_by_role": {
+        "system": 0.0751,
+        "user": 1.0,
+        "cot": 0.0957,
+        "assistant": 0.9956
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 277,
+      "sec": 1.9
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 18,
+      "acc": 0.5339,
+      "acc_by_role": {
+        "system": 0.0825,
+        "user": 1.0,
+        "cot": 0.0619,
+        "assistant": 0.9912
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 324,
+      "sec": 2.3
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 19,
+      "acc": 0.5313,
+      "acc_by_role": {
+        "system": 0.0766,
+        "user": 0.9985,
+        "cot": 0.0663,
+        "assistant": 0.9838
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 373,
+      "sec": 2.6
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 20,
+      "acc": 0.5365,
+      "acc_by_role": {
+        "system": 0.1119,
+        "user": 0.9956,
+        "cot": 0.0589,
+        "assistant": 0.9794
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 392,
+      "sec": 3.0
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 21,
+      "acc": 0.556,
+      "acc_by_role": {
+        "system": 0.1664,
+        "user": 0.9985,
+        "cot": 0.0795,
+        "assistant": 0.9794
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 408,
+      "sec": 2.9
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 22,
+      "acc": 0.5438,
+      "acc_by_role": {
+        "system": 0.1429,
+        "user": 1.0,
+        "cot": 0.0825,
+        "assistant": 0.9499
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 463,
+      "sec": 3.1
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 23,
+      "acc": 0.5994,
+      "acc_by_role": {
+        "system": 0.2887,
+        "user": 0.9926,
+        "cot": 0.1473,
+        "assistant": 0.9691
+      },
+      "n_train": 12092,
+      "n_test": 2716,
+      "n_iter": 263,
+      "sec": 1.9
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 0,
+      "acc": 0.2353,
+      "acc_by_role": {
+        "system": 0.0677,
+        "user": 0.3652,
+        "cot": 0.2725,
+        "assistant": 0.1178,
+        "tool": 0.3535
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 142,
+      "sec": 1.1
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 1,
+      "acc": 0.3317,
+      "acc_by_role": {
+        "system": 0.1576,
+        "user": 0.1811,
+        "cot": 0.3829,
+        "assistant": 0.4683,
+        "tool": 0.4683
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 143,
+      "sec": 1.1
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 2,
+      "acc": 0.3608,
+      "acc_by_role": {
+        "system": 0.4904,
+        "user": 0.271,
+        "cot": 0.2224,
+        "assistant": 0.2622,
+        "tool": 0.5582
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 187,
+      "sec": 1.4
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 3,
+      "acc": 0.4177,
+      "acc_by_role": {
+        "system": 0.1561,
+        "user": 0.6804,
+        "cot": 0.2165,
+        "assistant": 0.5081,
+        "tool": 0.5272
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 224,
+      "sec": 1.7
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 4,
+      "acc": 0.3437,
+      "acc_by_role": {
+        "system": 0.2548,
+        "user": 0.405,
+        "cot": 0.1826,
+        "assistant": 0.4978,
+        "tool": 0.3785
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 238,
+      "sec": 1.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 5,
+      "acc": 0.4003,
+      "acc_by_role": {
+        "system": 0.3976,
+        "user": 0.3991,
+        "cot": 0.3108,
+        "assistant": 0.2857,
+        "tool": 0.6082
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 256,
+      "sec": 1.9
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 6,
+      "acc": 0.438,
+      "acc_by_role": {
+        "system": 0.4801,
+        "user": 0.5081,
+        "cot": 0.3314,
+        "assistant": 0.5788,
+        "tool": 0.2916
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 249,
+      "sec": 1.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 7,
+      "acc": 0.6704,
+      "acc_by_role": {
+        "system": 0.5803,
+        "user": 0.9381,
+        "cot": 0.7791,
+        "assistant": 0.8601,
+        "tool": 0.1944
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 242,
+      "sec": 1.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 8,
+      "acc": 0.6831,
+      "acc_by_role": {
+        "system": 0.6082,
+        "user": 0.9249,
+        "cot": 0.6613,
+        "assistant": 0.9028,
+        "tool": 0.3181
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 258,
+      "sec": 1.9
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 9,
+      "acc": 0.6454,
+      "acc_by_role": {
+        "system": 0.6966,
+        "user": 0.7865,
+        "cot": 0.6966,
+        "assistant": 0.8085,
+        "tool": 0.2386
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 325,
+      "sec": 2.4
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 10,
+      "acc": 0.5823,
+      "acc_by_role": {
+        "system": 0.5729,
+        "user": 0.8012,
+        "cot": 0.6053,
+        "assistant": 0.7393,
+        "tool": 0.1929
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 286,
+      "sec": 2.1
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 11,
+      "acc": 0.5602,
+      "acc_by_role": {
+        "system": 0.4197,
+        "user": 0.8439,
+        "cot": 0.4934,
+        "assistant": 0.8586,
+        "tool": 0.1856
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 300,
+      "sec": 2.2
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 12,
+      "acc": 0.5013,
+      "acc_by_role": {
+        "system": 0.3181,
+        "user": 0.8513,
+        "cot": 0.2931,
+        "assistant": 0.9087,
+        "tool": 0.1355
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 316,
+      "sec": 2.4
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 13,
+      "acc": 0.5007,
+      "acc_by_role": {
+        "system": 0.3579,
+        "user": 0.8881,
+        "cot": 0.1753,
+        "assistant": 0.9411,
+        "tool": 0.1414
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 337,
+      "sec": 2.6
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 14,
+      "acc": 0.4651,
+      "acc_by_role": {
+        "system": 0.218,
+        "user": 0.9956,
+        "cot": 0.0501,
+        "assistant": 0.9897,
+        "tool": 0.0722
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 182,
+      "sec": 1.3
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 15,
+      "acc": 0.4504,
+      "acc_by_role": {
+        "system": 0.0663,
+        "user": 0.9838,
+        "cot": 0.1782,
+        "assistant": 0.9867,
+        "tool": 0.0368
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 330,
+      "sec": 2.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 16,
+      "acc": 0.4736,
+      "acc_by_role": {
+        "system": 0.0825,
+        "user": 0.9985,
+        "cot": 0.2047,
+        "assistant": 0.9941,
+        "tool": 0.0884
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 361,
+      "sec": 2.7
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 17,
+      "acc": 0.4471,
+      "acc_by_role": {
+        "system": 0.0486,
+        "user": 0.9971,
+        "cot": 0.1193,
+        "assistant": 0.9956,
+        "tool": 0.0751
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 365,
+      "sec": 2.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 18,
+      "acc": 0.4498,
+      "acc_by_role": {
+        "system": 0.0574,
+        "user": 0.9985,
+        "cot": 0.1031,
+        "assistant": 0.9897,
+        "tool": 0.1001
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 443,
+      "sec": 3.4
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 19,
+      "acc": 0.4462,
+      "acc_by_role": {
+        "system": 0.0545,
+        "user": 0.9971,
+        "cot": 0.0839,
+        "assistant": 0.9823,
+        "tool": 0.1134
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 491,
+      "sec": 3.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 20,
+      "acc": 0.4518,
+      "acc_by_role": {
+        "system": 0.0707,
+        "user": 0.9897,
+        "cot": 0.0677,
+        "assistant": 0.9794,
+        "tool": 0.1517
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 498,
+      "sec": 3.9
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 21,
+      "acc": 0.489,
+      "acc_by_role": {
+        "system": 0.1134,
+        "user": 0.9985,
+        "cot": 0.1134,
+        "assistant": 0.9735,
+        "tool": 0.2459
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 516,
+      "sec": 4.2
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 22,
+      "acc": 0.4907,
+      "acc_by_role": {
+        "system": 0.0795,
+        "user": 0.9971,
+        "cot": 0.0943,
+        "assistant": 0.9426,
+        "tool": 0.3402
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 564,
+      "sec": 4.9
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 23,
+      "acc": 0.5652,
+      "acc_by_role": {
+        "system": 0.187,
+        "user": 0.9926,
+        "cot": 0.1561,
+        "assistant": 0.9588,
+        "tool": 0.5317
+      },
+      "n_train": 15115,
+      "n_test": 3395,
+      "n_iter": 356,
+      "sec": 2.9
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 0,
+      "acc": 0.378,
+      "acc_by_role": {
+        "user": 0.4035,
+        "assistant": 0.3196,
+        "tool": 0.4109
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 90,
+      "sec": 0.7
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 1,
+      "acc": 0.5106,
+      "acc_by_role": {
+        "user": 0.271,
+        "assistant": 0.7437,
+        "tool": 0.5169
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 105,
+      "sec": 0.8
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 2,
+      "acc": 0.5552,
+      "acc_by_role": {
+        "user": 0.676,
+        "assistant": 0.4006,
+        "tool": 0.5891
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 124,
+      "sec": 0.9
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 3,
+      "acc": 0.6181,
+      "acc_by_role": {
+        "user": 0.7437,
+        "assistant": 0.5287,
+        "tool": 0.5817
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 150,
+      "sec": 1.1
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 4,
+      "acc": 0.5312,
+      "acc_by_role": {
+        "user": 0.5758,
+        "assistant": 0.5876,
+        "tool": 0.43
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 176,
+      "sec": 1.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 5,
+      "acc": 0.5812,
+      "acc_by_role": {
+        "user": 0.57,
+        "assistant": 0.4359,
+        "tool": 0.7378
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 163,
+      "sec": 1.2
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 6,
+      "acc": 0.6657,
+      "acc_by_role": {
+        "user": 0.732,
+        "assistant": 0.785,
+        "tool": 0.4801
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 157,
+      "sec": 1.2
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 7,
+      "acc": 0.8179,
+      "acc_by_role": {
+        "user": 0.9971,
+        "assistant": 0.9956,
+        "tool": 0.461
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 131,
+      "sec": 1.0
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 8,
+      "acc": 0.866,
+      "acc_by_role": {
+        "user": 1.0,
+        "assistant": 0.9912,
+        "tool": 0.6068
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 139,
+      "sec": 1.0
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 9,
+      "acc": 0.8522,
+      "acc_by_role": {
+        "user": 0.9926,
+        "assistant": 0.9853,
+        "tool": 0.5788
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 147,
+      "sec": 1.1
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 10,
+      "acc": 0.811,
+      "acc_by_role": {
+        "user": 0.9956,
+        "assistant": 0.972,
+        "tool": 0.4654
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 158,
+      "sec": 1.2
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 11,
+      "acc": 0.7806,
+      "acc_by_role": {
+        "user": 0.9926,
+        "assistant": 0.9794,
+        "tool": 0.3697
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 167,
+      "sec": 1.2
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 12,
+      "acc": 0.7045,
+      "acc_by_role": {
+        "user": 0.9647,
+        "assistant": 0.9705,
+        "tool": 0.1782
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 177,
+      "sec": 1.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 13,
+      "acc": 0.7113,
+      "acc_by_role": {
+        "user": 0.9779,
+        "assistant": 0.9779,
+        "tool": 0.1782
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 185,
+      "sec": 1.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 14,
+      "acc": 0.6966,
+      "acc_by_role": {
+        "user": 0.9971,
+        "assistant": 0.9956,
+        "tool": 0.0972
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 196,
+      "sec": 1.5
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 15,
+      "acc": 0.6907,
+      "acc_by_role": {
+        "user": 0.9985,
+        "assistant": 1.0,
+        "tool": 0.0736
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 150,
+      "sec": 1.1
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 16,
+      "acc": 0.6927,
+      "acc_by_role": {
+        "user": 1.0,
+        "assistant": 0.9985,
+        "tool": 0.0795
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 168,
+      "sec": 1.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 17,
+      "acc": 0.6873,
+      "acc_by_role": {
+        "user": 0.9985,
+        "assistant": 1.0,
+        "tool": 0.0633
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 176,
+      "sec": 1.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 18,
+      "acc": 0.6883,
+      "acc_by_role": {
+        "user": 1.0,
+        "assistant": 0.9985,
+        "tool": 0.0663
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 195,
+      "sec": 1.5
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 19,
+      "acc": 0.6922,
+      "acc_by_role": {
+        "user": 0.9971,
+        "assistant": 0.9926,
+        "tool": 0.0869
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 224,
+      "sec": 1.7
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 20,
+      "acc": 0.7,
+      "acc_by_role": {
+        "user": 0.9956,
+        "assistant": 0.9912,
+        "tool": 0.1134
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 246,
+      "sec": 1.9
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 21,
+      "acc": 0.7241,
+      "acc_by_role": {
+        "user": 0.9985,
+        "assistant": 0.9838,
+        "tool": 0.19
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 213,
+      "sec": 1.7
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 22,
+      "acc": 0.7315,
+      "acc_by_role": {
+        "user": 1.0,
+        "assistant": 0.9308,
+        "tool": 0.2636
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 302,
+      "sec": 2.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 23,
+      "acc": 0.7894,
+      "acc_by_role": {
+        "user": 1.0,
+        "assistant": 0.9691,
+        "tool": 0.3991
+      },
+      "n_train": 9069,
+      "n_test": 2037,
+      "n_iter": 153,
+      "sec": 1.3
+    }
+  ],
+  "source": "NB02 cells 18-20, commit ec333c40fd43fe991e1ebf66765051b6d7e35784"
+}

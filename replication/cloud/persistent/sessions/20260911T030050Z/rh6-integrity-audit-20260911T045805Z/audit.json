@@ -1,0 +1,227 @@
+{
+  "captured_utc": "2026-09-11T04:58:05.055976+00:00",
+  "finished_utc": "2026-09-11T04:58:22.854971+00:00",
+  "read_only_source_directory": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6",
+  "checks": {
+    "completion_markers_and_metadata": true,
+    "actual_role_spaces_and_layers": true,
+    "item_template_condition_counts": true,
+    "original_input_hash_prefills.json": true,
+    "saved_input_content_prefills.json": true,
+    "original_input_hash_page_substitutions.json": true,
+    "saved_input_content_page_substitutions.json": true,
+    "probe_hash": true,
+    "all_1200_item_checkpoints": true,
+    "retokenized_all_1200_inputs_ids_and_offsets": true,
+    "all_checkpoint_input_span_mapping": true,
+    "inherited_span_end_contract": true,
+    "merged_token_count": true,
+    "token_keys_unique": true,
+    "tokens_have_exact_item_layer_space_coverage": true,
+    "every_scored_token_matches_input_and_span_position": true,
+    "sucat_token_probabilities": true,
+    "sucat_only_absent_roles_are_nan": true,
+    "sucat_page_probabilities": true,
+    "uat_token_probabilities": true,
+    "uat_only_absent_roles_are_nan": true,
+    "uat_page_probabilities": true,
+    "page_counts_and_keys": true,
+    "merged_page_values_equal_all_parts": true,
+    "per_item_summary_p_system": true,
+    "per_item_summary_p_user": true,
+    "per_item_summary_p_cot": true,
+    "per_item_summary_p_assistant": true,
+    "per_item_summary_p_tool": true,
+    "per_item_summary_log_user_tool": true,
+    "per_item_summary_rows_and_labels": true,
+    "all_1080_summary_means_CIs_denominators_and_fractions": true,
+    "overlap_8_sucat_exfil": true,
+    "overlap_8_sucat_marker": true,
+    "overlap_8_uat_exfil": true,
+    "overlap_8_uat_marker": true,
+    "overlap_12_sucat_exfil": true,
+    "overlap_12_sucat_marker": true,
+    "overlap_12_uat_exfil": true,
+    "overlap_12_uat_marker": true,
+    "overlap_16_sucat_exfil": true,
+    "overlap_16_sucat_marker": true,
+    "overlap_16_uat_exfil": true,
+    "overlap_16_uat_marker": true
+  },
+  "details": {
+    "retokenized_all_1200_inputs_ids_and_offsets": {
+      "n_items": 1200,
+      "mismatching_indices": []
+    },
+    "all_checkpoint_input_span_mapping": {
+      "mismatches": [],
+      "inherited_ends_past_text_by_span": {
+        "tool_result": 750
+      }
+    },
+    "merged_token_count": {
+      "merged_rows": 1631880,
+      "expected_rows": 1631880,
+      "checkpoint_rows": 1631880,
+      "total_input_tokens_all_prefills": 3751698
+    },
+    "sucat_token_probabilities": {
+      "n_rows": 815940,
+      "minimum": 1.2104889403937846e-14,
+      "maximum": 0.9999986886978149,
+      "maximum_sum_error": 2.426130549793015e-07
+    },
+    "uat_token_probabilities": {
+      "n_rows": 815940,
+      "minimum": 9.319513205856972e-14,
+      "maximum": 1.0,
+      "maximum_sum_error": 1.4621764421463013e-07
+    },
+    "all_1080_summary_means_CIs_denominators_and_fractions": {
+      "by_table": {
+        "span_means": {
+          "rows": 432,
+          "max_mean_error": 4.440892098500626e-16,
+          "max_ci_error": 4.440892098500626e-16,
+          "max_fraction_error": 0.0
+        },
+        "user_turn_effects": {
+          "rows": 432,
+          "max_mean_error": 1.1102230246251565e-16,
+          "max_ci_error": 2.220446049250313e-16,
+          "max_fraction_error": 0.0
+        },
+        "order_effects": {
+          "rows": 216,
+          "max_mean_error": 9.84455572616838e-17,
+          "max_ci_error": 1.1102230246251565e-16,
+          "max_fraction_error": 0.0
+        }
+      },
+      "failures": []
+    }
+  },
+  "errors": [],
+  "passed": true,
+  "actual_spaces": [
+    "sucat",
+    "uat"
+  ],
+  "layers": [
+    8,
+    12,
+    16
+  ],
+  "n_items": 1200,
+  "n_templates": 100,
+  "n_token_rows": 1631880,
+  "n_page_rows": 7200,
+  "n_per_item_span_rows": 28800,
+  "per_item_summary_max_errors": {
+    "p_system": 9.974659986866641e-17,
+    "p_user": 1.1102230246251565e-16,
+    "p_cot": 1.1102230246251565e-16,
+    "p_assistant": 1.1102230246251565e-16,
+    "p_tool": 1.1102230246251565e-16,
+    "log_user_tool": 8.881784197001252e-16
+  },
+  "summary_recomputation": {
+    "span_means": {
+      "rows": 432,
+      "max_mean_error": 4.440892098500626e-16,
+      "max_ci_error": 4.440892098500626e-16,
+      "max_fraction_error": 0.0
+    },
+    "user_turn_effects": {
+      "rows": 432,
+      "max_mean_error": 1.1102230246251565e-16,
+      "max_ci_error": 2.220446049250313e-16,
+      "max_fraction_error": 0.0
+    },
+    "order_effects": {
+      "rows": 216,
+      "max_mean_error": 9.84455572616838e-17,
+      "max_ci_error": 1.1102230246251565e-16,
+      "max_fraction_error": 0.0
+    }
+  },
+  "maximum_overlap_correlation_error": 3.885780586188048e-16,
+  "inherited_span_ends_past_text": {
+    "tool_result": 750
+  },
+  "interpretation_boundary": "I audited saved input, token, probability and summary integrity only. I did not rerun any model or judge scientific significance. I preserve all750 tool_result end overflows and their actual token-overlap rule; injection, user_turn and command spans are within text.",
+  "estimand": "The saved log_user_tool is log(mean span P_user)-log(mean span P_tool). Effects are paired within template; bootstrap uses2000 draws and seed123. The overlap output is an unadjusted correlation.",
+  "ignored_files": "I ignore stale local .tmp files and .run.lock from synchronization; completed named artifacts and markers are authoritative.",
+  "source_files": {
+    "metadata.json": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/metadata.json",
+      "sha256": "ec25bfed2263053fe89f62b9fc03fd601627cc8acd7e7a6174fe2df3d433a904",
+      "bytes": 2480
+    },
+    "input-contract.json": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/input-contract.json",
+      "sha256": "26f04868d902b70bdc84f2a0d0a6b704b2b6e41dd8fc8e0313ab2b659a9c2ed1",
+      "bytes": 992
+    },
+    "DONE": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/DONE",
+      "sha256": "d72c07a18cb371ccea343bf878bb004baeeca778169e1a4fdb1c647c9a1652ab",
+      "bytes": 71
+    },
+    "ANALYSIS_DONE": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/ANALYSIS_DONE",
+      "sha256": "f6465edf11eaf893e1218fbe4e20e229490be943bd8c66a54700fee93ce301b2",
+      "bytes": 52
+    },
+    "EXTRACTION_DONE": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/EXTRACTION_DONE",
+      "sha256": "cfa32c6fac5828667fe458e5f4884691cb59e1f08b8043e559f0f77ae81acd99",
+      "bytes": 71
+    },
+    "prefills.json": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/prefills.json",
+      "sha256": "e70c56ad9a8b869321f0a522d1d63dd21651d67db8f65659c09363748509f01c",
+      "bytes": 13269380
+    },
+    "page_substitutions.json": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/page_substitutions.json",
+      "sha256": "03de252bbd6e2dc36942ab4f136763e5b05494edc8218686ba4d067335908349",
+      "bytes": 2538
+    },
+    "tokens.parquet": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/tokens.parquet",
+      "sha256": "6c41baea84a459ea036b08827590aa78dc4f30bc8ab8c4ede4be2e3331c91933",
+      "bytes": 56116684
+    },
+    "page_means.parquet": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/page_means.parquet",
+      "sha256": "5139c61889fd1c7669e3369eb4ec4c6940ddfc864c660e8c1736705032a5b26f",
+      "bytes": 2508222
+    },
+    "per_item_span_means.csv": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/per_item_span_means.csv",
+      "sha256": "ca89b1e237789c683785b8c6c9f4ef06e12397bc79651f0f725e6c7e5317894e",
+      "bytes": 5012617
+    },
+    "span_means.csv": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/span_means.csv",
+      "sha256": "b8df08b1a1fc1c5107f459fe016f47a91aa7211a1c7df8d21aaeea0462d19c41",
+      "bytes": 48960
+    },
+    "user_turn_effects.csv": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/user_turn_effects.csv",
+      "sha256": "f6ee0bdb74cfdfe8b2d6f14daa68950479da411ddb09e18e19e5842e712c01e9",
+      "bytes": 58616
+    },
+    "order_effects.csv": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/order_effects.csv",
+      "sha256": "4698c88d462f7cdd8e00dc66d19b79d5cbaabe1e92d16e27852af09b7ea7cef5",
+      "bytes": 24510
+    },
+    "overlap_covariate.csv": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/overlap_covariate.csv",
+      "sha256": "6ab797dd94460c4d17cc326032af3f0fb7cc988c14c19294d4435c863f618dcb",
+      "bytes": 496
+    }
+  }
+}

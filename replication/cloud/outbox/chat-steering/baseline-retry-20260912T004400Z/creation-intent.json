@@ -1,0 +1,16 @@
+{
+  "cost": {
+    "cap_usd": 9.0,
+    "container_disk_with_grace_usd": 0.0096,
+    "existing_network_volume": "retained and separately billed; reserve its charges in available balance",
+    "existing_volume_reserve_usd": 0.4,
+    "gpu_planned_usd": 6.98,
+    "gpu_with_grace_usd": 8.1433,
+    "maximum_incremental_usd": 8.1529,
+    "maximum_total_usd": 8.7529,
+    "prior_spend_usd": 0.2
+  },
+  "created_at": "2026-09-12T00:43:24.788015+00:00",
+  "manifest_sha256": "870126b6e43e31d8894775f10d8fb4e99137778f7b483c5ee5f867d233622b51",
+  "name": "chat-steering-baseline-retry-20260912T004400Z"
+}

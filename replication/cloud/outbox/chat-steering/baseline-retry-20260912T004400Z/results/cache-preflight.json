@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "model_weights_loaded": false,
+  "model_id": "openai/gpt-oss-20b",
+  "model_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "resolved_model_path": "/workspace/hf/models--openai--gpt-oss-20b/snapshots/6cee5e81ee83917806bbde320786a8fb61efebee",
+  "kernel_cache_dir": "/workspace/hf/home/hub",
+  "model_config_sha256": "3a2a26ded679375b7928ddeca59764df7cea83220c1961035f6d6e232659e9ce",
+  "model_index_sha256": "0e085b977c4c9942f85938828e8c989ed7d5cdabf852e4da6a67c116cd502cd1",
+  "model_shards": [
+    {
+      "name": "model-00000-of-00002.safetensors",
+      "bytes": 4792272488
+    },
+    {
+      "name": "model-00001-of-00002.safetensors",
+      "bytes": 4798702184
+    },
+    {
+      "name": "model-00002-of-00002.safetensors",
+      "bytes": 4170342232
+    }
+  ],
+  "kernels": {
+    "kernels-community/vllm-flash-attn3": {
+      "revision": "a92851c4e3e5da436bedff57f09c7fcbf80f35bd",
+      "snapshot_path": "/workspace/hf/home/hub/models--kernels-community--vllm-flash-attn3/snapshots/a92851c4e3e5da436bedff57f09c7fcbf80f35bd",
+      "imported_module_path": "/workspace/hf/home/hub/models--kernels-community--vllm-flash-attn3/snapshots/a92851c4e3e5da436bedff57f09c7fcbf80f35bd/build/torch29-cxx11-cu128-x86_64-linux/__init__.py",
+      "resolved_module_blob": "/workspace/hf/home/hub/models--kernels-community--vllm-flash-attn3/blobs/3d12edd447e84d6e65c4fa9ab91ae3c3192884c1"
+    },
+    "kernels-community/triton_kernels": {
+      "revision": "b26c936cb02fb91920cbccfc7454284b47d86b0d",
+      "snapshot_path": "/workspace/hf/home/hub/models--kernels-community--triton_kernels/snapshots/b26c936cb02fb91920cbccfc7454284b47d86b0d",
+      "imported_module_path": "/workspace/hf/home/hub/models--kernels-community--triton_kernels/snapshots/b26c936cb02fb91920cbccfc7454284b47d86b0d/build/torch-universal/triton_kernels/__init__.py",
+      "resolved_module_blob": "/workspace/hf/home/hub/models--kernels-community--triton_kernels/blobs/54a0de0988e7b39c0aeb387cbe7b0e7fdd899fe7"
+    }
+  },
+  "offline_kernel_imports_passed": true
+}

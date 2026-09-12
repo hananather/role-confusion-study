@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "approved_at": "2026-09-12T00:30:35.507565+00:00",
+  "approved_by": "Hanan",
+  "authorization_basis": "Latest user instruction: It is fine. Just run the results and later on we can analyze them. All that matters is that we get the trajectories from GPT-OSS on the benchmark. This executes the already requested base313 within the existing20USD ceiling; the8-example substitute remains pending alignment.",
+  "cap_usd": 9,
+  "command": "'/Users/hananather/Desktop/MATS 12.0/replication/.venv/bin/python' '/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat_steering/control.py' launch --manifest '/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/manifest-v2.json' --approval '/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/approval.json'",
+  "exact_command_assembled_by": "Codex under the direct execution instruction",
+  "manifest_sha256": "fbd1c6ed92e6c91eef58de0100819b07b97909b1ab5cdb3a1a53c63c2d9fbf5d"
+}

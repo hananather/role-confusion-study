@@ -1,0 +1,6 @@
+{
+  "time_utc": "2026-09-11T04:32:23.545309+00:00",
+  "stage": "appendix-e-L12",
+  "error": "process exit 1",
+  "error_type": "RuntimeError"
+}

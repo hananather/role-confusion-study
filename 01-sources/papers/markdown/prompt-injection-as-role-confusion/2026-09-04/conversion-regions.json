@@ -1,0 +1,1585 @@
+[
+  {
+    "page": 1,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      645,
+      304,
+      726
+    ],
+    "extracted_characters": 304
+  },
+  {
+    "page": 1,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      85,
+      558,
+      169
+    ],
+    "extracted_characters": 90
+  },
+  {
+    "page": 1,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      171,
+      304,
+      645
+    ],
+    "extracted_characters": 1702
+  },
+  {
+    "page": 1,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      171,
+      558,
+      726
+    ],
+    "extracted_characters": 2311
+  },
+  {
+    "page": 2,
+    "type": "footnote",
+    "bbox_points": [
+      306,
+      666,
+      558,
+      726
+    ],
+    "extracted_characters": 331
+  },
+  {
+    "page": 2,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      726
+    ],
+    "extracted_characters": 2395
+  },
+  {
+    "page": 2,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      666
+    ],
+    "extracted_characters": 2233
+  },
+  {
+    "page": 3,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      686,
+      304,
+      726
+    ],
+    "extracted_characters": 135
+  },
+  {
+    "page": 3,
+    "type": "footnote",
+    "bbox_points": [
+      306,
+      696,
+      558,
+      726
+    ],
+    "extracted_characters": 72
+  },
+  {
+    "page": 3,
+    "type": "figure",
+    "id": 1,
+    "bbox_points": [
+      53,
+      64,
+      302,
+      234
+    ],
+    "extracted_characters": 762
+  },
+  {
+    "page": 3,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      234,
+      304,
+      686
+    ],
+    "extracted_characters": 1567
+  },
+  {
+    "page": 3,
+    "type": "figure",
+    "id": 2,
+    "bbox_points": [
+      306,
+      64,
+      558,
+      264
+    ],
+    "extracted_characters": 564
+  },
+  {
+    "page": 3,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      264,
+      558,
+      696
+    ],
+    "extracted_characters": 1527
+  },
+  {
+    "page": 4,
+    "type": "footnote",
+    "bbox_points": [
+      306,
+      686,
+      558,
+      726
+    ],
+    "extracted_characters": 179
+  },
+  {
+    "page": 4,
+    "type": "figure",
+    "id": 3,
+    "bbox_points": [
+      53,
+      64,
+      302,
+      258
+    ],
+    "extracted_characters": 634
+  },
+  {
+    "page": 4,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      258,
+      304,
+      726
+    ],
+    "extracted_characters": 1705
+  },
+  {
+    "page": 4,
+    "type": "figure",
+    "id": 4,
+    "bbox_points": [
+      306,
+      64,
+      558,
+      227
+    ],
+    "extracted_characters": 851
+  },
+  {
+    "page": 4,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      227,
+      558,
+      686
+    ],
+    "extracted_characters": 1674
+  },
+  {
+    "page": 5,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      655,
+      304,
+      726
+    ],
+    "extracted_characters": 344
+  },
+  {
+    "page": 5,
+    "type": "figure",
+    "id": 5,
+    "bbox_points": [
+      53,
+      64,
+      302,
+      188
+    ],
+    "extracted_characters": 329
+  },
+  {
+    "page": 5,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      188,
+      304,
+      655
+    ],
+    "extracted_characters": 1868
+  },
+  {
+    "page": 5,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      301
+    ],
+    "extracted_characters": 837
+  },
+  {
+    "page": 5,
+    "type": "figure",
+    "id": 6,
+    "bbox_points": [
+      306,
+      301,
+      558,
+      376
+    ],
+    "extracted_characters": 438
+  },
+  {
+    "page": 5,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      376,
+      558,
+      726
+    ],
+    "extracted_characters": 1352
+  },
+  {
+    "page": 6,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      706,
+      304,
+      726
+    ],
+    "extracted_characters": 61
+  },
+  {
+    "page": 6,
+    "type": "figure",
+    "id": 7,
+    "bbox_points": [
+      53,
+      64,
+      558,
+      273
+    ],
+    "extracted_characters": 598
+  },
+  {
+    "page": 6,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      273,
+      558,
+      320
+    ],
+    "extracted_characters": 479
+  },
+  {
+    "page": 6,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      329,
+      304,
+      706
+    ],
+    "extracted_characters": 1405
+  },
+  {
+    "page": 6,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      329,
+      558,
+      375
+    ],
+    "extracted_characters": 195
+  },
+  {
+    "page": 6,
+    "type": "table",
+    "id": "1",
+    "bbox_points": [
+      306,
+      375,
+      558,
+      449
+    ],
+    "extracted_characters": 329
+  },
+  {
+    "page": 6,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      449,
+      558,
+      726
+    ],
+    "extracted_characters": 1036
+  },
+  {
+    "page": 7,
+    "type": "footnote",
+    "bbox_points": [
+      306,
+      666,
+      558,
+      726
+    ],
+    "extracted_characters": 271
+  },
+  {
+    "page": 7,
+    "type": "figure",
+    "id": 8,
+    "bbox_points": [
+      53,
+      64,
+      302,
+      351
+    ],
+    "extracted_characters": 512
+  },
+  {
+    "page": 7,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      351,
+      304,
+      726
+    ],
+    "extracted_characters": 1309
+  },
+  {
+    "page": 7,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      307
+    ],
+    "extracted_characters": 998
+  },
+  {
+    "page": 7,
+    "type": "figure",
+    "id": 9,
+    "bbox_points": [
+      306,
+      307,
+      558,
+      412
+    ],
+    "extracted_characters": 320
+  },
+  {
+    "page": 7,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      412,
+      558,
+      666
+    ],
+    "extracted_characters": 882
+  },
+  {
+    "page": 8,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      685,
+      304,
+      726
+    ],
+    "extracted_characters": 158
+  },
+  {
+    "page": 8,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      477
+    ],
+    "extracted_characters": 1631
+  },
+  {
+    "page": 8,
+    "type": "figure",
+    "id": 10,
+    "bbox_points": [
+      53,
+      477,
+      302,
+      584
+    ],
+    "extracted_characters": 319
+  },
+  {
+    "page": 8,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      584,
+      304,
+      685
+    ],
+    "extracted_characters": 391
+  },
+  {
+    "page": 8,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 2654
+  },
+  {
+    "page": 9,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      704,
+      304,
+      726
+    ],
+    "extracted_characters": 54
+  },
+  {
+    "page": 9,
+    "type": "footnote",
+    "bbox_points": [
+      306,
+      696,
+      558,
+      726
+    ],
+    "extracted_characters": 95
+  },
+  {
+    "page": 9,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      704
+    ],
+    "extracted_characters": 2585
+  },
+  {
+    "page": 9,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      303
+    ],
+    "extracted_characters": 829
+  },
+  {
+    "page": 9,
+    "type": "figure",
+    "id": 11,
+    "bbox_points": [
+      306,
+      303,
+      558,
+      406
+    ],
+    "extracted_characters": 261
+  },
+  {
+    "page": 9,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      406,
+      558,
+      696
+    ],
+    "extracted_characters": 1039
+  },
+  {
+    "page": 10,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      674,
+      304,
+      726
+    ],
+    "extracted_characters": 148
+  },
+  {
+    "page": 10,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      674
+    ],
+    "extracted_characters": 2615
+  },
+  {
+    "page": 10,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 2423
+  },
+  {
+    "page": 11,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      726
+    ],
+    "extracted_characters": 2185
+  },
+  {
+    "page": 11,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 2581
+  },
+  {
+    "page": 12,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      726
+    ],
+    "extracted_characters": 2451
+  },
+  {
+    "page": 12,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 2190
+  },
+  {
+    "page": 13,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      726
+    ],
+    "extracted_characters": 2473
+  },
+  {
+    "page": 13,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 2204
+  },
+  {
+    "page": 14,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      304,
+      726
+    ],
+    "extracted_characters": 1964
+  },
+  {
+    "page": 14,
+    "type": "prose",
+    "bbox_points": [
+      306,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 0
+  },
+  {
+    "page": 15,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      675,
+      558,
+      726
+    ],
+    "extracted_characters": 390
+  },
+  {
+    "page": 15,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      375
+    ],
+    "extracted_characters": 1507
+  },
+  {
+    "page": 15,
+    "type": "figure",
+    "id": 12,
+    "bbox_points": [
+      53,
+      375,
+      558,
+      588
+    ],
+    "extracted_characters": 1371
+  },
+  {
+    "page": 15,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      588,
+      558,
+      675
+    ],
+    "extracted_characters": 549
+  },
+  {
+    "page": 16,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      696,
+      558,
+      726
+    ],
+    "extracted_characters": 187
+  },
+  {
+    "page": 16,
+    "type": "figure",
+    "id": 13,
+    "bbox_points": [
+      53,
+      64,
+      558,
+      174
+    ],
+    "extracted_characters": 524
+  },
+  {
+    "page": 16,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      174,
+      558,
+      696
+    ],
+    "extracted_characters": 2631
+  },
+  {
+    "page": 17,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      706,
+      558,
+      726
+    ],
+    "extracted_characters": 109
+  },
+  {
+    "page": 17,
+    "type": "figure",
+    "id": 14,
+    "bbox_points": [
+      53,
+      64,
+      558,
+      181
+    ],
+    "extracted_characters": 1022
+  },
+  {
+    "page": 17,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      181,
+      558,
+      215
+    ],
+    "extracted_characters": 198
+  },
+  {
+    "page": 17,
+    "type": "figure",
+    "id": 15,
+    "bbox_points": [
+      53,
+      215,
+      558,
+      409
+    ],
+    "extracted_characters": 1525
+  },
+  {
+    "page": 17,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      409,
+      558,
+      706
+    ],
+    "extracted_characters": 1845
+  },
+  {
+    "page": 18,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      128
+    ],
+    "extracted_characters": 181
+  },
+  {
+    "page": 18,
+    "type": "figure",
+    "id": 16,
+    "bbox_points": [
+      53,
+      128,
+      558,
+      269
+    ],
+    "extracted_characters": 1520
+  },
+  {
+    "page": 18,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      269,
+      558,
+      626
+    ],
+    "extracted_characters": 2065
+  },
+  {
+    "page": 18,
+    "type": "figure",
+    "id": 17,
+    "bbox_points": [
+      53,
+      626,
+      558,
+      686
+    ],
+    "extracted_characters": 264
+  },
+  {
+    "page": 18,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      686,
+      558,
+      726
+    ],
+    "extracted_characters": 225
+  },
+  {
+    "page": 19,
+    "type": "figure",
+    "id": 18,
+    "bbox_points": [
+      53,
+      64,
+      558,
+      203
+    ],
+    "extracted_characters": 1496
+  },
+  {
+    "page": 19,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      203,
+      558,
+      440
+    ],
+    "extracted_characters": 1529
+  },
+  {
+    "page": 19,
+    "type": "table",
+    "id": "2",
+    "bbox_points": [
+      53,
+      440,
+      558,
+      532
+    ],
+    "extracted_characters": 377
+  },
+  {
+    "page": 19,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      532,
+      558,
+      726
+    ],
+    "extracted_characters": 945
+  },
+  {
+    "page": 20,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      696,
+      558,
+      726
+    ],
+    "extracted_characters": 175
+  },
+  {
+    "page": 20,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      326
+    ],
+    "extracted_characters": 1118
+  },
+  {
+    "page": 20,
+    "type": "figure",
+    "id": 19,
+    "bbox_points": [
+      53,
+      326,
+      558,
+      674
+    ],
+    "extracted_characters": 3537
+  },
+  {
+    "page": 20,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      674,
+      558,
+      696
+    ],
+    "extracted_characters": 94
+  },
+  {
+    "page": 21,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      143
+    ],
+    "extracted_characters": 497
+  },
+  {
+    "page": 21,
+    "type": "figure",
+    "id": 20,
+    "bbox_points": [
+      53,
+      143,
+      558,
+      377
+    ],
+    "extracted_characters": 434
+  },
+  {
+    "page": 21,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      377,
+      558,
+      606
+    ],
+    "extracted_characters": 1640
+  },
+  {
+    "page": 21,
+    "type": "example",
+    "id": "untagged-conversation",
+    "bbox_points": [
+      53,
+      606,
+      558,
+      678
+    ],
+    "extracted_characters": 588
+  },
+  {
+    "page": 21,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      678,
+      558,
+      726
+    ],
+    "extracted_characters": 350
+  },
+  {
+    "page": 22,
+    "type": "figure",
+    "id": 21,
+    "bbox_points": [
+      53,
+      64,
+      558,
+      290
+    ],
+    "extracted_characters": 434
+  },
+  {
+    "page": 22,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      290,
+      558,
+      338
+    ],
+    "extracted_characters": 309
+  },
+  {
+    "page": 22,
+    "type": "figure",
+    "id": 22,
+    "bbox_points": [
+      53,
+      338,
+      558,
+      564
+    ],
+    "extracted_characters": 434
+  },
+  {
+    "page": 22,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      564,
+      558,
+      726
+    ],
+    "extracted_characters": 984
+  },
+  {
+    "page": 23,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      111
+    ],
+    "extracted_characters": 243
+  },
+  {
+    "page": 23,
+    "type": "example",
+    "id": "user-tagged-conversation",
+    "bbox_points": [
+      53,
+      111,
+      558,
+      190
+    ],
+    "extracted_characters": 595
+  },
+  {
+    "page": 23,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      190,
+      558,
+      517
+    ],
+    "extracted_characters": 1698
+  },
+  {
+    "page": 23,
+    "type": "table",
+    "id": "3a",
+    "bbox_points": [
+      53,
+      517,
+      558,
+      596
+    ],
+    "extracted_characters": 601
+  },
+  {
+    "page": 23,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      596,
+      558,
+      628
+    ],
+    "extracted_characters": 201
+  },
+  {
+    "page": 23,
+    "type": "table",
+    "id": "3b",
+    "bbox_points": [
+      53,
+      628,
+      558,
+      726
+    ],
+    "extracted_characters": 672
+  },
+  {
+    "page": 24,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 3649
+  },
+  {
+    "page": 25,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      706,
+      558,
+      726
+    ],
+    "extracted_characters": 56
+  },
+  {
+    "page": 25,
+    "type": "figure",
+    "id": 23,
+    "bbox_points": [
+      53,
+      64,
+      558,
+      241
+    ],
+    "extracted_characters": 904
+  },
+  {
+    "page": 25,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      241,
+      558,
+      706
+    ],
+    "extracted_characters": 1170
+  },
+  {
+    "page": 26,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 3282
+  },
+  {
+    "page": 27,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      696,
+      558,
+      726
+    ],
+    "extracted_characters": 136
+  },
+  {
+    "page": 27,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      193
+    ],
+    "extracted_characters": 495
+  },
+  {
+    "page": 27,
+    "type": "figure",
+    "id": 24,
+    "bbox_points": [
+      53,
+      193,
+      558,
+      347
+    ],
+    "extracted_characters": 952
+  },
+  {
+    "page": 27,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      347,
+      558,
+      400
+    ],
+    "extracted_characters": 350
+  },
+  {
+    "page": 27,
+    "type": "figure",
+    "id": 25,
+    "bbox_points": [
+      53,
+      400,
+      558,
+      605
+    ],
+    "extracted_characters": 378
+  },
+  {
+    "page": 27,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      605,
+      558,
+      696
+    ],
+    "extracted_characters": 687
+  },
+  {
+    "page": 28,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      696,
+      558,
+      726
+    ],
+    "extracted_characters": 173
+  },
+  {
+    "page": 28,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      306
+    ],
+    "extracted_characters": 1679
+  },
+  {
+    "page": 28,
+    "type": "figure",
+    "id": 26,
+    "bbox_points": [
+      53,
+      306,
+      558,
+      478
+    ],
+    "extracted_characters": 90
+  },
+  {
+    "page": 28,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      478,
+      558,
+      696
+    ],
+    "extracted_characters": 1130
+  },
+  {
+    "page": 29,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      239
+    ],
+    "extracted_characters": 776
+  },
+  {
+    "page": 29,
+    "type": "figure",
+    "id": 27,
+    "bbox_points": [
+      53,
+      239,
+      558,
+      398
+    ],
+    "extracted_characters": 633
+  },
+  {
+    "page": 29,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      398,
+      558,
+      650
+    ],
+    "extracted_characters": 1238
+  },
+  {
+    "page": 29,
+    "type": "example",
+    "id": "role-declarations",
+    "bbox_points": [
+      53,
+      650,
+      558,
+      687
+    ],
+    "extracted_characters": 143
+  },
+  {
+    "page": 29,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      687,
+      558,
+      726
+    ],
+    "extracted_characters": 137
+  },
+  {
+    "page": 30,
+    "type": "example",
+    "id": "foreign-chat-templates",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      104
+    ],
+    "extracted_characters": 170
+  },
+  {
+    "page": 30,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      104,
+      558,
+      130
+    ],
+    "extracted_characters": 109
+  },
+  {
+    "page": 30,
+    "type": "example",
+    "id": "format-variants",
+    "bbox_points": [
+      53,
+      130,
+      558,
+      169
+    ],
+    "extracted_characters": 91
+  },
+  {
+    "page": 30,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      169,
+      558,
+      194
+    ],
+    "extracted_characters": 71
+  },
+  {
+    "page": 30,
+    "type": "example",
+    "id": "controls",
+    "bbox_points": [
+      53,
+      194,
+      558,
+      233
+    ],
+    "extracted_characters": 73
+  },
+  {
+    "page": 30,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      233,
+      558,
+      336
+    ],
+    "extracted_characters": 582
+  },
+  {
+    "page": 30,
+    "type": "figure",
+    "id": 28,
+    "bbox_points": [
+      53,
+      336,
+      558,
+      380
+    ],
+    "extracted_characters": 241
+  },
+  {
+    "page": 30,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      380,
+      558,
+      463
+    ],
+    "extracted_characters": 325
+  },
+  {
+    "page": 30,
+    "type": "figure",
+    "id": 29,
+    "bbox_points": [
+      53,
+      463,
+      558,
+      524
+    ],
+    "extracted_characters": 449
+  },
+  {
+    "page": 30,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      524,
+      558,
+      726
+    ],
+    "extracted_characters": 1209
+  },
+  {
+    "page": 31,
+    "type": "figure",
+    "id": 30,
+    "bbox_points": [
+      53,
+      64,
+      558,
+      192
+    ],
+    "extracted_characters": 227
+  },
+  {
+    "page": 31,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      192,
+      558,
+      224
+    ],
+    "extracted_characters": 219
+  },
+  {
+    "page": 31,
+    "type": "figure",
+    "id": 31,
+    "bbox_points": [
+      53,
+      224,
+      558,
+      301
+    ],
+    "extracted_characters": 615
+  },
+  {
+    "page": 31,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      301,
+      558,
+      418
+    ],
+    "extracted_characters": 710
+  },
+  {
+    "page": 31,
+    "type": "table",
+    "id": "4",
+    "bbox_points": [
+      53,
+      418,
+      558,
+      507
+    ],
+    "extracted_characters": 556
+  },
+  {
+    "page": 31,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      507,
+      558,
+      726
+    ],
+    "extracted_characters": 1244
+  },
+  {
+    "page": 32,
+    "type": "footnote",
+    "bbox_points": [
+      53,
+      695,
+      558,
+      726
+    ],
+    "extracted_characters": 158
+  },
+  {
+    "page": 32,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      184
+    ],
+    "extracted_characters": 546
+  },
+  {
+    "page": 32,
+    "type": "figure",
+    "id": 32,
+    "bbox_points": [
+      53,
+      184,
+      558,
+      330
+    ],
+    "extracted_characters": 657
+  },
+  {
+    "page": 32,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      330,
+      558,
+      695
+    ],
+    "extracted_characters": 2354
+  },
+  {
+    "page": 33,
+    "type": "prose",
+    "bbox_points": [
+      53,
+      64,
+      558,
+      726
+    ],
+    "extracted_characters": 2833
+  }
+]

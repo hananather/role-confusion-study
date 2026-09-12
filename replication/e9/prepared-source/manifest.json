@@ -1,0 +1,99 @@
+{
+  "created_utc": "2026-09-11T14:39:55.451177+00:00",
+  "stage": "user_candidates_only_before_model_generation",
+  "authors_commit": "ec333c40fd43fe991e1ebf66765051b6d7e35784",
+  "source_notebook": "/Users/hananather/Desktop/MATS 12.0/prompt-injection-as-role-confusion/experiments/role-analysis/01-get-conversations-data.ipynb",
+  "source_notebook_sha256": "e8f4e01b32292e473c323889c8033970074d30e6d27716526b157803d5464e08",
+  "source_cells_zero_based": [
+    1,
+    3,
+    4,
+    5
+  ],
+  "preparation_script_sha256": "8bbab005be80771fd4316dbbfd49d5c87fb04920208f152e0cc49216f5ec6814",
+  "dataset_sources": {
+    "oasst": {
+      "dataset": "OpenAssistant/oasst1",
+      "config": "default",
+      "split": "train",
+      "raw_train_rows": 84437,
+      "arrow_path": "/Users/hananather/.cache/huggingface/datasets/OpenAssistant___oasst1/default/0.0.0/fdf72ae0827c1cda404aff25b6603abec9e3399b/oasst1-train.arrow",
+      "arrow_sha256": "dd878a1571421d7b03c9bfacef2570fca461e6e49e2bf9059247fd4880b8c125",
+      "dataset_info_path": "/Users/hananather/.cache/huggingface/datasets/OpenAssistant___oasst1/default/0.0.0/fdf72ae0827c1cda404aff25b6603abec9e3399b/dataset_info.json",
+      "dataset_info_sha256": "8970e383063b3272cffff607bd8355976b5a3b97fd82f98837f48664573985d3",
+      "cache_revision_directory": "fdf72ae0827c1cda404aff25b6603abec9e3399b",
+      "revision_boundary": "I record the cache directory identity and exact bytes; this is not proof of the paper's original dataset snapshot."
+    },
+    "toxicchat": {
+      "dataset": "lmsys/toxic-chat",
+      "config": "toxicchat1123",
+      "split": "train",
+      "raw_train_rows": 5082,
+      "arrow_path": "/Users/hananather/.cache/huggingface/datasets/lmsys___toxic-chat/toxicchat1123/0.0.0/29df8e4dba60e1f4af4b4075c0705c5b313548a8/toxic-chat-train.arrow",
+      "arrow_sha256": "b2a213194ce61121c2f8e9aac68f3f36947963a98871a1478c1c447f2149e512",
+      "dataset_info_path": "/Users/hananather/.cache/huggingface/datasets/lmsys___toxic-chat/toxicchat1123/0.0.0/29df8e4dba60e1f4af4b4075c0705c5b313548a8/dataset_info.json",
+      "dataset_info_sha256": "d038e12fb4225e57c930da186fa943e7e80ac52c423de17f3723f63f83c81156",
+      "cache_revision_directory": "29df8e4dba60e1f4af4b4075c0705c5b313548a8",
+      "revision_boundary": "I record the cache directory identity and exact bytes; this is not proof of the paper's original dataset snapshot."
+    }
+  },
+  "candidate_counts": {
+    "oasst": {
+      "raw_train_rows": 84437,
+      "english_ready_rows": 39283,
+      "english_ready_trees": 3574,
+      "trees_without_root": 92,
+      "eligible_first_child_conversations_before_limit": 694,
+      "selected_conversations": 100
+    },
+    "toxicchat": {
+      "raw_train_rows": 5082,
+      "eligible_user_inputs_before_limit": 1167,
+      "selected_conversations": 100,
+      "shuffle_seed": 1234,
+      "permutation_sha256": "eec7c3b877f6f2b66721f833e438c783059aed2ee2ea86ee8351fea9729c4ad0"
+    }
+  },
+  "n_candidate_conversations": 200,
+  "n_user_turns": 225,
+  "turn_count_distribution": {
+    "2": 25,
+    "1": 175
+  },
+  "smoke_selection": {
+    "conv_ids": [
+      0,
+      1,
+      2,
+      100,
+      101
+    ],
+    "rule": "first three selected OASST and first two selected ToxicChat; fixed before model outcomes"
+  },
+  "boundaries": [
+    "I export only cached source user text, with no model-generated assistant or reasoning text.",
+    "These 200 candidates are not 200 post-filter model-valid conversations or measured Figure 23 results.",
+    "The paper describes 200 conversations; the frozen NB02 later samples at most 30 after response-dependent filters (comment: 100 for full test).",
+    "I preserve full-path OASST checks before taking the first two user turns.",
+    "ToxicChat human_annotation describes its annotation process, not whether this preparation generated the user text.",
+    "I perform no network, model, download, API or compute-rental action."
+  ],
+  "artifacts": {
+    "conversations.jsonl": {
+      "sha256": "1aaad5c29bc4d7dde7ebe9587647d7e2ff18ce7e751d29ea4f5892a4d1cae21c",
+      "bytes": 195741
+    },
+    "user_queries.csv": {
+      "sha256": "18874993000cd1d9599dd532676e59f3c4bfe85bafb5276e97e5286d8fdbf266",
+      "bytes": 80858
+    },
+    "smoke-conversations.jsonl": {
+      "sha256": "c78ff2496492445f9e5b3465091fdc3e62f3b67609529d1766d40010f4e2c3d8",
+      "bytes": 5345
+    },
+    "smoke-user_queries.csv": {
+      "sha256": "a555c4a6d6354b0027f60cbe47dd9f69ffe7a8658489b12a81c9772407daa810",
+      "bytes": 2289
+    }
+  }
+}

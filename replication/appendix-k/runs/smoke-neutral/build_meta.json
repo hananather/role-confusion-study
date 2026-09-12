@@ -1,0 +1,61 @@
+{
+  "input_set": "neutral",
+  "input": "runs/full-249/prompts.parquet",
+  "shuffle_seed": null,
+  "note": "base texts also appear (in role tags) in the probe training corpus under the authors' prompt split",
+  "n_base": 3,
+  "window": 250,
+  "conditions": [
+    "none",
+    "sys_t1",
+    "sys_t25",
+    "sys_t50",
+    "sys_t100",
+    "sys_t150",
+    "user_t100",
+    "bare_t100",
+    "bos2_t100",
+    "nobos"
+  ],
+  "n_per_condition": {
+    "bare_t100": 3,
+    "bos2_t100": 3,
+    "nobos": 3,
+    "none": 3,
+    "sys_t1": 3,
+    "sys_t100": 3,
+    "sys_t150": 2,
+    "sys_t25": 3,
+    "sys_t50": 3,
+    "user_t100": 3
+  },
+  "dropped_short": {
+    "none": 0,
+    "sys_t1": 0,
+    "sys_t25": 0,
+    "sys_t50": 0,
+    "sys_t100": 0,
+    "sys_t150": 1,
+    "user_t100": 0,
+    "bare_t100": 0,
+    "bos2_t100": 0,
+    "nobos": 0
+  },
+  "block_tokens": {
+    "system": 61,
+    "user": 61,
+    "bare": 57,
+    "bos": 1
+  },
+  "roundtrip_exact_all": true,
+  "mean_tokens_per_prompt": 209.0344827586207,
+  "total_tokens": 6062,
+  "hf_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "bos_id": 199998,
+  "divergences": [
+    "seeded segment shuffle (authors unseeded, POS cell 14)",
+    "ids spliced and fed directly, no decode/encode round trip (POS cell 15); round trip checked and recorded",
+    "prompt_ix is the CSV row index (matches authors); rows with a null segment dropped"
+  ],
+  "source": "POS cells 8, 9, 14, 15, 23; commit ec333c40fd43fe991e1ebf66765051b6d7e35784"
+}

@@ -1,0 +1,93 @@
+{
+  "created_utc": "2026-09-11T14:53:58.204707+00:00",
+  "purpose": "I distill my completed RH6 readouts without a new model run or a new estimator.",
+  "sources": [
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/rh6-integrity-audit-20260911T045805Z/audit.json",
+      "sha256": "72f9f9d94ebf7f02a41f05aeaed3c85379de30d06fb0a36afb8a59da95aed0bf"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/user_turn_effects.csv",
+      "sha256": "f6ee0bdb74cfdfe8b2d6f14daa68950479da411ddb09e18e19e5842e712c01e9"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/metadata.json",
+      "sha256": "ec25bfed2263053fe89f62b9fc03fd601627cc8acd7e7a6174fe2df3d433a904"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/input-contract.json",
+      "sha256": "26f04868d902b70bdc84f2a0d0a6b704b2b6e41dd8fc8e0313ab2b659a9c2ed1"
+    }
+  ],
+  "plotted_data": {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/rh6-plotted.csv",
+    "sha256": "5d2c23858b4de37df4862d9319066d31abe7e69c171dcf3b98c9eac24590088f"
+  },
+  "renderer": {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/render_rh6.py",
+    "sha256": "34e46dfde476c80b5352b9983e45c2600f6804b48073ebaafe43933ec3a1db80"
+  },
+  "selection": {
+    "construction": "command-minus-null",
+    "command": "marker",
+    "contrast": "permission-neutral",
+    "metrics": [
+      "p_user",
+      "log_user_tool"
+    ],
+    "spaces": [
+      "sucat",
+      "uat"
+    ],
+    "layers": [
+      8,
+      12,
+      16
+    ]
+  },
+  "n_plotted_cells": 24,
+  "n_paired_template_page_units_per_cell": 100,
+  "estimand": "I average, equally over paired template/page units, (marker permission minus marker neutral) minus (matched null-span permission minus matched null-span neutral).",
+  "metric_definitions": {
+    "p_user": "Mean span P_user; I scale the saved contrast and its bounds by 100 to percentage points.",
+    "log_user_tool": "ln(mean span P_user) minus ln(mean span P_tool), before computing paired contrasts; this is not the mean of tokenwise log ratios."
+  },
+  "uncertainty": {
+    "type": "Existing pointwise 95% paired-bootstrap percentile intervals",
+    "resamples": 2000,
+    "seed": 123,
+    "recomputed_for_figure": false,
+    "simultaneous_intervals": false
+  },
+  "order_mapping": {
+    "A": "Exfil first, marker second; marker is slot2",
+    "B": "Marker first, exfil second; marker is slot1"
+  },
+  "style": {
+    "font": "TeX Gyre Termes",
+    "font_directory": "/usr/local/texlive/2019/texmf-dist/fonts/opentype/public/tex-gyre",
+    "color": "#62748e",
+    "color_meaning": "Neutral readouts of tool-origin spans; I do not assign source-role passage colors.",
+    "order_B": "solid line, filled circle",
+    "order_A": "dashed line, open circle",
+    "shared_y_axis_within_each_metric": true
+  },
+  "validation": {
+    "source_hashes_match_frozen_audit": true,
+    "audit_passed": true,
+    "audit_checks_passed": 44,
+    "source_recomputation": {
+      "rows": 432,
+      "max_mean_error": 1.1102230246251565e-16,
+      "max_ci_error": 2.220446049250313e-16,
+      "max_fraction_error": 0.0
+    },
+    "complete_24_cell_grid": true,
+    "plotted_csv_float_roundtrip_exact": true,
+    "completed_items": 1200
+  },
+  "interpretation_boundary": "I report role-probe readouts on the prepared synthetic pages and fixed prefills. These contrasts do not establish behavioral compliance or a causal role mechanism; intervals are pointwise over the 100 paired template/page units.",
+  "new_model_runs": 0,
+  "new_gpu_jobs": 0,
+  "caption": "Permission raises relative User/Tool in every tested setting; Userness falls at layer 12 with SUCAT. Bars are pointwise 95% paired-bootstrap intervals; these readouts do not measure behavior."
+}

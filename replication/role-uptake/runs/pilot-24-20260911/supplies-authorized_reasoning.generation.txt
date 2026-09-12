@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>The note says to place supply order. So action is FOLLOW.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: FOLLOW

@@ -1,0 +1,62 @@
+{
+  "reviewer": "02",
+  "lens": "Independent cold reader: intelligent newcomer with no prior project, role-probe, prompt-injection, or mechanistic-interpretability context",
+  "report_sha256": "022c1f4958500451a8568f2749e7878964f69607b023c692130acac016c7db4b",
+  "recommendations": [
+    {
+      "id": "R02-01",
+      "passage": "“Across 100 constructed input pairs, the marker command’s permission effect is positive in all 12 tested relative-score settings after subtracting a neutral-text control. Absolute Userness can decrease in the same comparison.”",
+      "concern": "The first substantive TLDR finding assumes that I already know the marker task, the two kinds of neutral text, the relative score, and what counts as a setting. The underlying result is understandable later, but the opening does not yet give a newcomer a usable claim.",
+      "suggested_change": "Lead this bullet with the concrete comparison: giving permission to write a dummy file changed how probes classified the same webpage instruction, and whether Userness rose or fell depended on the classifier and score. Define Userness as the probe’s User probability in the summary, or use that plain phrase there. Leave the control formula and the 12-setting count for Section 4. Retain the 100-pair scope and the statement that no actions were measured."
+    },
+    {
+      "id": "R02-02",
+      "passage": "“We trained probes across all 24 model layers, numbered 0–23, using 249 neutral base texts rendered under different role labels.”",
+      "concern": "I can still mistake the training labels for human judgments that a passage truly has user intent or is authentic reasoning. “Rendered under different role labels” does not show how a neutral passage becomes a labeled training example. I also have to infer that the language model produces the recorded states while a separate classifier is fitted to those states.",
+      "suggested_change": "Add a two- or three-sentence training example: the same neutral passage is placed in different message-role/channel wrappers, its recorded states inherit the corresponding training label, and the separate probe learns to predict that label. Clearly mark any invented sentence as schematic. State that changing which roles the classifier is trained to distinguish creates a new classifier; it is not merely hiding two labels from an unchanged five-class output. Keep the full split and fitting details in Appendix A."
+    },
+    {
+      "id": "R02-03",
+      "passage": "“We render the conversation with correct tags, without its role tags, and as one User message.” / “Each panel shows the same 512 matched tokens from one conversation.”",
+      "concern": "The main figure description can be read as three complete transcripts differing only in visible labels. Appendix A establishes two details that materially change that reading: the no-tags/all-User versions also flatten the system text into the transcript, and the 512 plotted tokens are a display subset rather than the entire labeled conversation. “Matched” does not itself explain either point.",
+      "suggested_change": "Bring one compact clarification into the Figure 1 setup/caption: no-tags joins the complete transcript, including system text; all-User wraps that joined text in one User message; the panels display 512 content tokens matched across conditions rather than the full transcript. In Appendix A, give or link the precise display-selection/truncation rule so a reader can understand why 240 of 582 full Assistant tokens appear. Retain the existing displayed-versus-full means table and numerical-replication boundary."
+    },
+    {
+      "id": "R02-04",
+      "passage": "Section 2, from “The panels share the same token positions, colors and probability axes” through Figures 2 and 3; Section 3’s Figure 4.",
+      "concern": "The newcomer must decode two twelve-panel grids, including repeated baselines, before receiving the four-panel summary and three-row table that actually make the offset result easy to understand. The central permission finding then arrives after a large amount of repeated one-conversation detail. The grids are useful evidence, but their current placement gives them more explanatory work than they can do at ordinary reading size.",
+      "suggested_change": "Use the present Figure 4 and its numerical table as the main offset explanation, then offer the full small/large token grids as detailed views in an appendix or linked supplement. Preserve both grids and their provenance. If all six figures must remain in the body, introduce the summary comparison before the grids and give an explicit reading path to the few panels needed for the two claims; do not require inspection of all 24 panels to recover the takeaway."
+    },
+    {
+      "id": "R02-05",
+      "passage": "“We use 100 constructed template–page pairs. Each pairs an instruction template with webpage text and contains two commands: write a dummy marker file, and upload data. We compare two command orders and construct a control in which the command span is replaced by neutral text.”",
+      "concern": "This is the strongest result’s setup, but I cannot reconstruct its four-way comparison from the prose. In particular, “neutral” describes both the User-message baseline and text replacing the commands. The implementation also replaces both command slots together in the neutral-text construction, whereas the singular “the command span” can suggest that only the measured marker command is replaced while everything else is held fixed.",
+      "suggested_change": "Add a compact worked setup or 2×2 table for one pair: rows are the original command-containing Tool text versus the same construction with both command slots replaced by neutral page text; columns are the ordinary summary request versus that request plus explicit permission for the marker action only. Show a short actual permission sentence and a harmless marker description, label the precise span being scored, and state that the upload command receives no permission. Identify any shortened example as an excerpt or schematic. Cite the frozen input record or construction source. The saved source rh/rh6_readings.py, lines 100–113 and 217–221, supports these distinctions."
+    },
+    {
+      "id": "R02-06",
+      "passage": "“There are 12 settings because we examine three layers, two probe class sets and two orders. The full dataset reuses the same 100 input pairs across 12 input conditions, yielding 1,200 prefills.”",
+      "concern": "Two unrelated products both equal 12, but only the first is decomposed. A reader can conclude that each probe/layer setting required a new input pass, or remain unable to see how permission versus neutral and two command orders produce twelve conversations per pair. The prohibition condition is introduced only afterward as an unexplained weaker contrast.",
+      "suggested_change": "Spell out both products beside their nouns: 12 plotted measurement settings = 3 layers × 2 classifiers × 2 orders; 12 prepared inputs per pair = 3 User-message variants (neutral, marker permission, upload prohibition) × 2 command orders × 2 text constructions. Say that Figure 5 selects the permission-versus-neutral comparison and that the other User-message variant remains in the full results. Keep the existing warning that 1,200 prefills are not 1,200 independent examples."
+    },
+    {
+      "id": "R02-07",
+      "passage": "“We will compare two vector families separately: the earlier Tool-minus-User direction derived from activations…” / “We are in Understand / Distill…” / “The audit covers the September 10 Claude discussion, its 19 tracked goals and 35 linked subagent logs…”",
+      "concern": "The ending shifts from a self-contained measurement report into an internal project handoff. “Earlier” points to a method the reader has not seen; “source contract,” “eligible,” “balanced source coverage,” and Understand / Distill depend on project context. Counts of prior goals and agent logs establish audit breadth but do not explain the scientific conclusion. This weakens an otherwise clear ending.",
+      "suggested_change": "Make the main conclusion stand on its own: identify what would be edited, that the model would resume computation, which later measurement would test survival, and what random-direction comparisons could falsify specificity. Give one plain sentence defining how the activation-derived Tool-minus-User vector is constructed, verified against its source, if it stays in the main text. Preserve the 200-conversation planning floor, eligibility/source-coverage rules, candidate accounting, source-contract disagreements and workflow-audit counts in a clearly linked methods/planning appendix or verification note. Replace the internal phase label in reader-facing prose with the aim it represents."
+    },
+    {
+      "id": "R02-08",
+      "passage": "“In the recovered Toolward arm, 17 of 21 episodes wrote both markers despite near-saturated initial Tool readings.”",
+      "concern": "This is potentially valuable adverse behavioral evidence, but a newcomer cannot tell what either marker represents, which action was intended, or why writing both is a failure. Earlier in the report the task contains one marker action and one upload action, so “both markers” can also make the reader incorrectly merge the two experimental setups.",
+      "suggested_change": "Introduce the historical task with one sentence defining the two markers and the desired selective action, using the archived evidence rather than assuming their identities. Translate “Toolward arm” into the actual intervention comparison and “near-saturated” into a plain high Tool-probability description or a supported quantity. Preserve the explicit different-setup qualification and the 21-episode/eight-case limitation. This is an explanation request, not a request to rerun or strengthen the behavioral analysis."
+    },
+    {
+      "id": "R02-09",
+      "passage": "“Follow the blue series in the Tool-direction column” and the role-series legends in Figures 4 and 6; the passage colors in Figures 1–3.",
+      "concern": "The prose and figures consistently encode original role by color, which is helpful, but the line plots use the same circular marker and solid line for every role. The token grids also rely on colored excerpts rather than explicit role labels. Readers with limited color discrimination or a monochrome copy lose the distinction between original roles and the role probability being measured.",
+      "suggested_change": "Add redundant role encoding: distinct markers or dash patterns/direct endpoint labels for the curves in Figures 4 and 6, and explicit User / reasoning / Assistant labels on the passage bands or caption key for Figures 1–3. Keep the existing colors and origin-versus-readout explanation. Refer to “the original-User series (blue)” in the body so the intended object remains named when color is unavailable."
+    }
+  ],
+  "verdict": "revise"
+}

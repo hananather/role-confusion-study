@@ -1,0 +1,1666 @@
+prompt_ix,prompt_key,token_ix,token,token_id,base_message_ix,base_message,base_message_type,sample_ix,segment_token_ix
+0,basic_no_format,0,<|startoftext|>,199998,,,,0,
+0,basic_no_format,1,You,3575,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,1,1.0
+0,basic_no_format,2, are,553,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,2,2.0
+0,basic_no_format,3, Chat,17554,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,3,3.0
+0,basic_no_format,4,GPT,162016,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,4,4.0
+0,basic_no_format,5,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,5,5.0
+0,basic_no_format,6, a,261,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,6,6.0
+0,basic_no_format,7, large,4410,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,7,7.0
+0,basic_no_format,8, language,6439,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,8,8.0
+0,basic_no_format,9, model,2359,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,9,9.0
+0,basic_no_format,10, trained,22203,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,10,10.0
+0,basic_no_format,11, by,656,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,11,11.0
+0,basic_no_format,12, Open,7788,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,12,12.0
+0,basic_no_format,13,AI,17527,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,13,13.0
+0,basic_no_format,14,".
+",558,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,14,14.0
+0,basic_no_format,15,Knowledge,87447,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,15,15.0
+0,basic_no_format,16, cutoff,100594,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,16,16.0
+0,basic_no_format,17,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,17,17.0
+0,basic_no_format,18, ,220,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,18,18.0
+0,basic_no_format,19,202,1323,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,19,19.0
+0,basic_no_format,20,4,19,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,20,20.0
+0,basic_no_format,21,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,21,21.0
+0,basic_no_format,22,06,3218,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,22,22.0
+0,basic_no_format,23,"
+",198,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,23,23.0
+0,basic_no_format,24,Current,6576,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,24,24.0
+0,basic_no_format,25, date,3521,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,25,25.0
+0,basic_no_format,26,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,26,26.0
+0,basic_no_format,27, ,220,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,27,27.0
+0,basic_no_format,28,202,1323,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,28,28.0
+0,basic_no_format,29,5,20,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,29,29.0
+0,basic_no_format,30,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,30,30.0
+0,basic_no_format,31,10,702,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,31,31.0
+0,basic_no_format,32,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,32,32.0
+0,basic_no_format,33,01,2290,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,33,33.0
+0,basic_no_format,34,"
+
+",279,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,34,34.0
+0,basic_no_format,35,Reason,30377,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,35,35.0
+0,basic_no_format,36,ing,289,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,36,36.0
+0,basic_no_format,37,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,37,37.0
+0,basic_no_format,38, medium,14093,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,38,38.0
+0,basic_no_format,39,"
+
+",279,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,39,39.0
+0,basic_no_format,40,#,2,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,40,40.0
+0,basic_no_format,41, Valid,13888,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,41,41.0
+0,basic_no_format,42, channels,18403,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,42,42.0
+0,basic_no_format,43,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,43,43.0
+0,basic_no_format,44, analysis,8450,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,44,44.0
+0,basic_no_format,45,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,45,45.0
+0,basic_no_format,46, commentary,49159,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,46,46.0
+0,basic_no_format,47,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,47,47.0
+0,basic_no_format,48, final,1721,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,48,48.0
+0,basic_no_format,49,.,13,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,49,49.0
+0,basic_no_format,50, Channel,21030,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,50,50.0
+0,basic_no_format,51, must,2804,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,51,51.0
+0,basic_no_format,52, be,413,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,52,52.0
+0,basic_no_format,53, included,7360,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,53,53.0
+0,basic_no_format,54, for,395,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,54,54.0
+0,basic_no_format,55, every,1753,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,55,55.0
+0,basic_no_format,56, message,3176,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,56,56.0
+0,basic_no_format,57,".
+",558,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,57,57.0
+0,basic_no_format,58,For,2653,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,58,1.0
+0,basic_no_format,59, a,261,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,59,2.0
+0,basic_no_format,60, M,391,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,60,3.0
+0,basic_no_format,61,ATS,42222,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,61,4.0
+0,basic_no_format,62, project,2993,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,62,5.0
+0,basic_no_format,63, with,483,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,63,6.0
+0,basic_no_format,64, Ne,4475,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,64,7.0
+0,basic_no_format,65,el,296,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,65,8.0
+0,basic_no_format,66,",",11,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,66,9.0
+0,basic_no_format,67, how,1495,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,67,10.0
+0,basic_no_format,68, can,665,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,68,11.0
+0,basic_no_format,69, I,357,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,69,12.0
+0,basic_no_format,70, turn,3716,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,70,13.0
+0,basic_no_format,71, a,261,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,71,14.0
+0,basic_no_format,72, broad,11245,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,72,15.0
+0,basic_no_format,73, idea,6056,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,73,16.0
+0,basic_no_format,74, into,1511,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,74,17.0
+0,basic_no_format,75, one,1001,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,75,18.0
+0,basic_no_format,76, clear,5364,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,76,19.0
+0,basic_no_format,77, research,4176,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,77,20.0
+0,basic_no_format,78, question,4928,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,78,21.0
+0,basic_no_format,79,"?
+",3901,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,79,22.0
+0,basic_no_format,80,The,976,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,80,1.0
+0,basic_no_format,81, user,1825,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,81,2.0
+0,basic_no_format,82, is,382,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,82,3.0
+0,basic_no_format,83, asking,16054,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,83,4.0
+0,basic_no_format,84, how,1495,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,84,5.0
+0,basic_no_format,85, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,85,6.0
+0,basic_no_format,86, scope,12645,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,86,7.0
+0,basic_no_format,87, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,87,8.0
+0,basic_no_format,88, research,4176,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,88,9.0
+0,basic_no_format,89, project,2993,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,89,10.0
+0,basic_no_format,90,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,90,11.0
+0,basic_no_format,91, I,357,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,91,12.0
+0,basic_no_format,92, should,1757,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,92,13.0
+0,basic_no_format,93, connect,4837,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,93,14.0
+0,basic_no_format,94, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,94,15.0
+0,basic_no_format,95, choice,7158,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,95,16.0
+0,basic_no_format,96, of,328,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,96,17.0
+0,basic_no_format,97, experiments,35437,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,97,18.0
+0,basic_no_format,98, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,98,19.0
+0,basic_no_format,99, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,99,20.0
+0,basic_no_format,100, claim,6445,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,100,21.0
+0,basic_no_format,101, they,1023,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,101,22.0
+0,basic_no_format,102, want,1682,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,102,23.0
+0,basic_no_format,103, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,103,24.0
+0,basic_no_format,104, test,1746,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,104,25.0
+0,basic_no_format,105,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,105,26.0
+0,basic_no_format,106, A,355,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,106,27.0
+0,basic_no_format,107, small,3291,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,107,28.0
+0,basic_no_format,108, project,2993,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,108,29.0
+0,basic_no_format,109, can,665,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,109,30.0
+0,basic_no_format,110, be,413,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,110,31.0
+0,basic_no_format,111, informative,36918,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,111,32.0
+0,basic_no_format,112, if,538,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,112,33.0
+0,basic_no_format,113, it,480,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,113,34.0
+0,basic_no_format,114, has,853,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,114,35.0
+0,basic_no_format,115, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,115,36.0
+0,basic_no_format,116, clear,5364,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,116,37.0
+0,basic_no_format,117, baseline,51356,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,117,38.0
+0,basic_no_format,118, and,326,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,118,39.0
+0,basic_no_format,119, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,119,40.0
+0,basic_no_format,120, result,1534,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,120,41.0
+0,basic_no_format,121, that,484,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,121,42.0
+0,basic_no_format,122, would,1481,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,122,43.0
+0,basic_no_format,123, change,3343,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,123,44.0
+0,basic_no_format,124, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,124,45.0
+0,basic_no_format,125, conclusion,26342,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,125,46.0
+0,basic_no_format,126,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,126,47.0
+0,basic_no_format,127, I,357,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,127,48.0
+0,basic_no_format,128, should,1757,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,128,49.0
+0,basic_no_format,129, recommend,7013,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,129,50.0
+0,basic_no_format,130, one,1001,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,130,51.0
+0,basic_no_format,131, question,4928,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,131,52.0
+0,basic_no_format,132, first,1577,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,132,53.0
+0,basic_no_format,133,",",11,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,133,54.0
+0,basic_no_format,134, then,1815,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,134,55.0
+0,basic_no_format,135, explain,16644,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,135,56.0
+0,basic_no_format,136, when,1261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,136,57.0
+0,basic_no_format,137, more,945,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,137,58.0
+0,basic_no_format,138, experiments,35437,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,138,59.0
+0,basic_no_format,139, are,553,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,139,60.0
+0,basic_no_format,140, useful,8316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,140,61.0
+0,basic_no_format,141,".
+",558,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,141,62.0
+0,basic_no_format,142,Start,4459,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,142,1.0
+0,basic_no_format,143, with,483,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,143,2.0
+0,basic_no_format,144, one,1001,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,144,3.0
+0,basic_no_format,145, question,4928,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,145,4.0
+0,basic_no_format,146, you,481,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,146,5.0
+0,basic_no_format,147, can,665,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,147,6.0
+0,basic_no_format,148, answer,6052,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,148,7.0
+0,basic_no_format,149, clearly,15603,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,149,8.0
+0,basic_no_format,150,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,150,9.0
+0,basic_no_format,151, Write,16465,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,151,10.0
+0,basic_no_format,152, down,1917,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,152,11.0
+0,basic_no_format,153, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,153,12.0
+0,basic_no_format,154, claim,6445,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,154,13.0
+0,basic_no_format,155,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,155,14.0
+0,basic_no_format,156, a,261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,156,15.0
+0,basic_no_format,157, simple,4705,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,157,16.0
+0,basic_no_format,158, baseline,51356,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,158,17.0
+0,basic_no_format,159,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,159,18.0
+0,basic_no_format,160, and,326,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,160,19.0
+0,basic_no_format,161, what,1412,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,161,20.0
+0,basic_no_format,162, evidence,11716,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,162,21.0
+0,basic_no_format,163, would,1481,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,163,22.0
+0,basic_no_format,164, change,3343,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,164,23.0
+0,basic_no_format,165, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,165,24.0
+0,basic_no_format,166, mind,4246,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,166,25.0
+0,basic_no_format,167,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,167,26.0
+0,basic_no_format,168, Run,14581,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,168,27.0
+0,basic_no_format,169, the,290,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,169,28.0
+0,basic_no_format,170, smallest,42173,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,170,29.0
+0,basic_no_format,171, experiment,12527,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,171,30.0
+0,basic_no_format,172, that,484,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,172,31.0
+0,basic_no_format,173, distinguishes,189092,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,173,32.0
+0,basic_no_format,174, the,290,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,174,33.0
+0,basic_no_format,175, competing,45386,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,175,34.0
+0,basic_no_format,176, explanations,69457,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,176,35.0
+0,basic_no_format,177,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,177,36.0
+0,basic_no_format,178, Add,4063,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,178,37.0
+0,basic_no_format,179, experiments,35437,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,179,38.0
+0,basic_no_format,180, when,1261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,180,39.0
+0,basic_no_format,181, they,1023,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,181,40.0
+0,basic_no_format,182, resolve,14062,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,182,41.0
+0,basic_no_format,183, a,261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,183,42.0
+0,basic_no_format,184, specific,4857,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,184,43.0
+0,basic_no_format,185, uncertainty,44942,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,185,44.0
+0,basic_no_format,186,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,186,45.0
+0,basic_no_format,187, and,326,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,187,46.0
+0,basic_no_format,188, report,3019,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,188,47.0
+0,basic_no_format,189, results,4376,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,189,48.0
+0,basic_no_format,190, that,484,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,190,49.0
+0,basic_no_format,191, contradict,79993,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,191,50.0
+0,basic_no_format,192, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,192,51.0
+0,basic_no_format,193, initial,4871,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,193,52.0
+0,basic_no_format,194, idea,6056,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,194,53.0
+0,basic_no_format,195, too,3101,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,195,54.0
+0,basic_no_format,196,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,196,55.0
+1,everything_in_user_tags,0,<|startoftext|>,199998,,,,197,
+1,everything_in_user_tags,1,<|start|>,200006,,,,198,
+1,everything_in_user_tags,2,user,1428,,,,199,
+1,everything_in_user_tags,3,<|message|>,200008,,,,200,
+1,everything_in_user_tags,4,You,3575,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,201,1.0
+1,everything_in_user_tags,5, are,553,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,202,2.0
+1,everything_in_user_tags,6, Chat,17554,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,203,3.0
+1,everything_in_user_tags,7,GPT,162016,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,204,4.0
+1,everything_in_user_tags,8,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,205,5.0
+1,everything_in_user_tags,9, a,261,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,206,6.0
+1,everything_in_user_tags,10, large,4410,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,207,7.0
+1,everything_in_user_tags,11, language,6439,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,208,8.0
+1,everything_in_user_tags,12, model,2359,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,209,9.0
+1,everything_in_user_tags,13, trained,22203,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,210,10.0
+1,everything_in_user_tags,14, by,656,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,211,11.0
+1,everything_in_user_tags,15, Open,7788,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,212,12.0
+1,everything_in_user_tags,16,AI,17527,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,213,13.0
+1,everything_in_user_tags,17,".
+",558,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,214,14.0
+1,everything_in_user_tags,18,Knowledge,87447,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,215,15.0
+1,everything_in_user_tags,19, cutoff,100594,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,216,16.0
+1,everything_in_user_tags,20,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,217,17.0
+1,everything_in_user_tags,21, ,220,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,218,18.0
+1,everything_in_user_tags,22,202,1323,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,219,19.0
+1,everything_in_user_tags,23,4,19,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,220,20.0
+1,everything_in_user_tags,24,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,221,21.0
+1,everything_in_user_tags,25,06,3218,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,222,22.0
+1,everything_in_user_tags,26,"
+",198,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,223,23.0
+1,everything_in_user_tags,27,Current,6576,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,224,24.0
+1,everything_in_user_tags,28, date,3521,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,225,25.0
+1,everything_in_user_tags,29,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,226,26.0
+1,everything_in_user_tags,30, ,220,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,227,27.0
+1,everything_in_user_tags,31,202,1323,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,228,28.0
+1,everything_in_user_tags,32,5,20,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,229,29.0
+1,everything_in_user_tags,33,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,230,30.0
+1,everything_in_user_tags,34,10,702,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,231,31.0
+1,everything_in_user_tags,35,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,232,32.0
+1,everything_in_user_tags,36,01,2290,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,233,33.0
+1,everything_in_user_tags,37,"
+
+",279,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,234,34.0
+1,everything_in_user_tags,38,Reason,30377,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,235,35.0
+1,everything_in_user_tags,39,ing,289,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,236,36.0
+1,everything_in_user_tags,40,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,237,37.0
+1,everything_in_user_tags,41, medium,14093,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,238,38.0
+1,everything_in_user_tags,42,"
+
+",279,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,239,39.0
+1,everything_in_user_tags,43,#,2,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,240,40.0
+1,everything_in_user_tags,44, Valid,13888,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,241,41.0
+1,everything_in_user_tags,45, channels,18403,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,242,42.0
+1,everything_in_user_tags,46,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,243,43.0
+1,everything_in_user_tags,47, analysis,8450,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,244,44.0
+1,everything_in_user_tags,48,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,245,45.0
+1,everything_in_user_tags,49, commentary,49159,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,246,46.0
+1,everything_in_user_tags,50,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,247,47.0
+1,everything_in_user_tags,51, final,1721,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,248,48.0
+1,everything_in_user_tags,52,.,13,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,249,49.0
+1,everything_in_user_tags,53, Channel,21030,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,250,50.0
+1,everything_in_user_tags,54, must,2804,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,251,51.0
+1,everything_in_user_tags,55, be,413,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,252,52.0
+1,everything_in_user_tags,56, included,7360,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,253,53.0
+1,everything_in_user_tags,57, for,395,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,254,54.0
+1,everything_in_user_tags,58, every,1753,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,255,55.0
+1,everything_in_user_tags,59, message,3176,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,256,56.0
+1,everything_in_user_tags,60,".
+",558,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,257,57.0
+1,everything_in_user_tags,61,For,2653,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,258,1.0
+1,everything_in_user_tags,62, a,261,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,259,2.0
+1,everything_in_user_tags,63, M,391,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,260,3.0
+1,everything_in_user_tags,64,ATS,42222,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,261,4.0
+1,everything_in_user_tags,65, project,2993,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,262,5.0
+1,everything_in_user_tags,66, with,483,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,263,6.0
+1,everything_in_user_tags,67, Ne,4475,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,264,7.0
+1,everything_in_user_tags,68,el,296,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,265,8.0
+1,everything_in_user_tags,69,",",11,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,266,9.0
+1,everything_in_user_tags,70, how,1495,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,267,10.0
+1,everything_in_user_tags,71, can,665,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,268,11.0
+1,everything_in_user_tags,72, I,357,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,269,12.0
+1,everything_in_user_tags,73, turn,3716,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,270,13.0
+1,everything_in_user_tags,74, a,261,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,271,14.0
+1,everything_in_user_tags,75, broad,11245,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,272,15.0
+1,everything_in_user_tags,76, idea,6056,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,273,16.0
+1,everything_in_user_tags,77, into,1511,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,274,17.0
+1,everything_in_user_tags,78, one,1001,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,275,18.0
+1,everything_in_user_tags,79, clear,5364,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,276,19.0
+1,everything_in_user_tags,80, research,4176,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,277,20.0
+1,everything_in_user_tags,81, question,4928,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,278,21.0
+1,everything_in_user_tags,82,"?
+",3901,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,279,22.0
+1,everything_in_user_tags,83,The,976,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,280,1.0
+1,everything_in_user_tags,84, user,1825,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,281,2.0
+1,everything_in_user_tags,85, is,382,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,282,3.0
+1,everything_in_user_tags,86, asking,16054,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,283,4.0
+1,everything_in_user_tags,87, how,1495,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,284,5.0
+1,everything_in_user_tags,88, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,285,6.0
+1,everything_in_user_tags,89, scope,12645,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,286,7.0
+1,everything_in_user_tags,90, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,287,8.0
+1,everything_in_user_tags,91, research,4176,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,288,9.0
+1,everything_in_user_tags,92, project,2993,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,289,10.0
+1,everything_in_user_tags,93,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,290,11.0
+1,everything_in_user_tags,94, I,357,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,291,12.0
+1,everything_in_user_tags,95, should,1757,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,292,13.0
+1,everything_in_user_tags,96, connect,4837,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,293,14.0
+1,everything_in_user_tags,97, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,294,15.0
+1,everything_in_user_tags,98, choice,7158,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,295,16.0
+1,everything_in_user_tags,99, of,328,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,296,17.0
+1,everything_in_user_tags,100, experiments,35437,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,297,18.0
+1,everything_in_user_tags,101, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,298,19.0
+1,everything_in_user_tags,102, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,299,20.0
+1,everything_in_user_tags,103, claim,6445,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,300,21.0
+1,everything_in_user_tags,104, they,1023,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,301,22.0
+1,everything_in_user_tags,105, want,1682,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,302,23.0
+1,everything_in_user_tags,106, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,303,24.0
+1,everything_in_user_tags,107, test,1746,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,304,25.0
+1,everything_in_user_tags,108,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,305,26.0
+1,everything_in_user_tags,109, A,355,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,306,27.0
+1,everything_in_user_tags,110, small,3291,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,307,28.0
+1,everything_in_user_tags,111, project,2993,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,308,29.0
+1,everything_in_user_tags,112, can,665,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,309,30.0
+1,everything_in_user_tags,113, be,413,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,310,31.0
+1,everything_in_user_tags,114, informative,36918,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,311,32.0
+1,everything_in_user_tags,115, if,538,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,312,33.0
+1,everything_in_user_tags,116, it,480,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,313,34.0
+1,everything_in_user_tags,117, has,853,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,314,35.0
+1,everything_in_user_tags,118, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,315,36.0
+1,everything_in_user_tags,119, clear,5364,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,316,37.0
+1,everything_in_user_tags,120, baseline,51356,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,317,38.0
+1,everything_in_user_tags,121, and,326,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,318,39.0
+1,everything_in_user_tags,122, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,319,40.0
+1,everything_in_user_tags,123, result,1534,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,320,41.0
+1,everything_in_user_tags,124, that,484,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,321,42.0
+1,everything_in_user_tags,125, would,1481,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,322,43.0
+1,everything_in_user_tags,126, change,3343,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,323,44.0
+1,everything_in_user_tags,127, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,324,45.0
+1,everything_in_user_tags,128, conclusion,26342,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,325,46.0
+1,everything_in_user_tags,129,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,326,47.0
+1,everything_in_user_tags,130, I,357,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,327,48.0
+1,everything_in_user_tags,131, should,1757,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,328,49.0
+1,everything_in_user_tags,132, recommend,7013,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,329,50.0
+1,everything_in_user_tags,133, one,1001,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,330,51.0
+1,everything_in_user_tags,134, question,4928,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,331,52.0
+1,everything_in_user_tags,135, first,1577,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,332,53.0
+1,everything_in_user_tags,136,",",11,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,333,54.0
+1,everything_in_user_tags,137, then,1815,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,334,55.0
+1,everything_in_user_tags,138, explain,16644,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,335,56.0
+1,everything_in_user_tags,139, when,1261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,336,57.0
+1,everything_in_user_tags,140, more,945,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,337,58.0
+1,everything_in_user_tags,141, experiments,35437,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,338,59.0
+1,everything_in_user_tags,142, are,553,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,339,60.0
+1,everything_in_user_tags,143, useful,8316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,340,61.0
+1,everything_in_user_tags,144,".
+",558,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,341,62.0
+1,everything_in_user_tags,145,Start,4459,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,342,1.0
+1,everything_in_user_tags,146, with,483,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,343,2.0
+1,everything_in_user_tags,147, one,1001,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,344,3.0
+1,everything_in_user_tags,148, question,4928,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,345,4.0
+1,everything_in_user_tags,149, you,481,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,346,5.0
+1,everything_in_user_tags,150, can,665,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,347,6.0
+1,everything_in_user_tags,151, answer,6052,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,348,7.0
+1,everything_in_user_tags,152, clearly,15603,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,349,8.0
+1,everything_in_user_tags,153,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,350,9.0
+1,everything_in_user_tags,154, Write,16465,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,351,10.0
+1,everything_in_user_tags,155, down,1917,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,352,11.0
+1,everything_in_user_tags,156, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,353,12.0
+1,everything_in_user_tags,157, claim,6445,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,354,13.0
+1,everything_in_user_tags,158,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,355,14.0
+1,everything_in_user_tags,159, a,261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,356,15.0
+1,everything_in_user_tags,160, simple,4705,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,357,16.0
+1,everything_in_user_tags,161, baseline,51356,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,358,17.0
+1,everything_in_user_tags,162,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,359,18.0
+1,everything_in_user_tags,163, and,326,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,360,19.0
+1,everything_in_user_tags,164, what,1412,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,361,20.0
+1,everything_in_user_tags,165, evidence,11716,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,362,21.0
+1,everything_in_user_tags,166, would,1481,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,363,22.0
+1,everything_in_user_tags,167, change,3343,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,364,23.0
+1,everything_in_user_tags,168, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,365,24.0
+1,everything_in_user_tags,169, mind,4246,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,366,25.0
+1,everything_in_user_tags,170,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,367,26.0
+1,everything_in_user_tags,171, Run,14581,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,368,27.0
+1,everything_in_user_tags,172, the,290,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,369,28.0
+1,everything_in_user_tags,173, smallest,42173,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,370,29.0
+1,everything_in_user_tags,174, experiment,12527,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,371,30.0
+1,everything_in_user_tags,175, that,484,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,372,31.0
+1,everything_in_user_tags,176, distinguishes,189092,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,373,32.0
+1,everything_in_user_tags,177, the,290,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,374,33.0
+1,everything_in_user_tags,178, competing,45386,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,375,34.0
+1,everything_in_user_tags,179, explanations,69457,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,376,35.0
+1,everything_in_user_tags,180,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,377,36.0
+1,everything_in_user_tags,181, Add,4063,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,378,37.0
+1,everything_in_user_tags,182, experiments,35437,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,379,38.0
+1,everything_in_user_tags,183, when,1261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,380,39.0
+1,everything_in_user_tags,184, they,1023,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,381,40.0
+1,everything_in_user_tags,185, resolve,14062,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,382,41.0
+1,everything_in_user_tags,186, a,261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,383,42.0
+1,everything_in_user_tags,187, specific,4857,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,384,43.0
+1,everything_in_user_tags,188, uncertainty,44942,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,385,44.0
+1,everything_in_user_tags,189,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,386,45.0
+1,everything_in_user_tags,190, and,326,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,387,46.0
+1,everything_in_user_tags,191, report,3019,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,388,47.0
+1,everything_in_user_tags,192, results,4376,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,389,48.0
+1,everything_in_user_tags,193, that,484,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,390,49.0
+1,everything_in_user_tags,194, contradict,79993,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,391,50.0
+1,everything_in_user_tags,195, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,392,51.0
+1,everything_in_user_tags,196, initial,4871,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,393,52.0
+1,everything_in_user_tags,197, idea,6056,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,394,53.0
+1,everything_in_user_tags,198, too,3101,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,395,54.0
+1,everything_in_user_tags,199,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,396,55.0
+1,everything_in_user_tags,200,<|end|>,200007,,,,397,
+2,proper_tags,0,<|startoftext|>,199998,,,,398,
+2,proper_tags,1,<|start|>,200006,,,,399,
+2,proper_tags,2,system,17360,,,,400,
+2,proper_tags,3,<|message|>,200008,,,,401,
+2,proper_tags,4,You,3575,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,402,1.0
+2,proper_tags,5, are,553,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,403,2.0
+2,proper_tags,6, Chat,17554,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,404,3.0
+2,proper_tags,7,GPT,162016,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,405,4.0
+2,proper_tags,8,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,406,5.0
+2,proper_tags,9, a,261,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,407,6.0
+2,proper_tags,10, large,4410,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,408,7.0
+2,proper_tags,11, language,6439,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,409,8.0
+2,proper_tags,12, model,2359,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,410,9.0
+2,proper_tags,13, trained,22203,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,411,10.0
+2,proper_tags,14, by,656,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,412,11.0
+2,proper_tags,15, Open,7788,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,413,12.0
+2,proper_tags,16,AI,17527,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,414,13.0
+2,proper_tags,17,".
+",558,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,415,14.0
+2,proper_tags,18,Knowledge,87447,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,416,15.0
+2,proper_tags,19, cutoff,100594,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,417,16.0
+2,proper_tags,20,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,418,17.0
+2,proper_tags,21, ,220,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,419,18.0
+2,proper_tags,22,202,1323,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,420,19.0
+2,proper_tags,23,4,19,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,421,20.0
+2,proper_tags,24,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,422,21.0
+2,proper_tags,25,06,3218,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,423,22.0
+2,proper_tags,26,"
+",198,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,424,23.0
+2,proper_tags,27,Current,6576,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,425,24.0
+2,proper_tags,28, date,3521,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,426,25.0
+2,proper_tags,29,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,427,26.0
+2,proper_tags,30, ,220,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,428,27.0
+2,proper_tags,31,202,1323,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,429,28.0
+2,proper_tags,32,5,20,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,430,29.0
+2,proper_tags,33,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,431,30.0
+2,proper_tags,34,10,702,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,432,31.0
+2,proper_tags,35,-,12,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,433,32.0
+2,proper_tags,36,01,2290,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,434,33.0
+2,proper_tags,37,"
+
+",279,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,435,34.0
+2,proper_tags,38,Reason,30377,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,436,35.0
+2,proper_tags,39,ing,289,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,437,36.0
+2,proper_tags,40,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,438,37.0
+2,proper_tags,41, medium,14093,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,439,38.0
+2,proper_tags,42,"
+
+",279,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,440,39.0
+2,proper_tags,43,#,2,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,441,40.0
+2,proper_tags,44, Valid,13888,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,442,41.0
+2,proper_tags,45, channels,18403,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,443,42.0
+2,proper_tags,46,:,25,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,444,43.0
+2,proper_tags,47, analysis,8450,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,445,44.0
+2,proper_tags,48,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,446,45.0
+2,proper_tags,49, commentary,49159,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,447,46.0
+2,proper_tags,50,",",11,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,448,47.0
+2,proper_tags,51, final,1721,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,449,48.0
+2,proper_tags,52,.,13,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,450,49.0
+2,proper_tags,53, Channel,21030,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,451,50.0
+2,proper_tags,54, must,2804,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,452,51.0
+2,proper_tags,55, be,413,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,453,52.0
+2,proper_tags,56, included,7360,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,454,53.0
+2,proper_tags,57, for,395,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,455,54.0
+2,proper_tags,58, every,1753,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,456,55.0
+2,proper_tags,59, message,3176,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,457,56.0
+2,proper_tags,60,.,13,0.0,"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2024-06
+Current date: 2025-10-01
+
+Reasoning: medium
+
+# Valid channels: analysis, commentary, final. Channel must be included for every message.",system,458,57.0
+2,proper_tags,61,<|end|>,200007,,,,459,
+2,proper_tags,62,<|start|>,200006,,,,460,
+2,proper_tags,63,user,1428,,,,461,
+2,proper_tags,64,<|message|>,200008,,,,462,
+2,proper_tags,65,For,2653,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,463,1.0
+2,proper_tags,66, a,261,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,464,2.0
+2,proper_tags,67, M,391,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,465,3.0
+2,proper_tags,68,ATS,42222,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,466,4.0
+2,proper_tags,69, project,2993,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,467,5.0
+2,proper_tags,70, with,483,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,468,6.0
+2,proper_tags,71, Ne,4475,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,469,7.0
+2,proper_tags,72,el,296,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,470,8.0
+2,proper_tags,73,",",11,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,471,9.0
+2,proper_tags,74, how,1495,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,472,10.0
+2,proper_tags,75, can,665,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,473,11.0
+2,proper_tags,76, I,357,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,474,12.0
+2,proper_tags,77, turn,3716,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,475,13.0
+2,proper_tags,78, a,261,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,476,14.0
+2,proper_tags,79, broad,11245,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,477,15.0
+2,proper_tags,80, idea,6056,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,478,16.0
+2,proper_tags,81, into,1511,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,479,17.0
+2,proper_tags,82, one,1001,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,480,18.0
+2,proper_tags,83, clear,5364,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,481,19.0
+2,proper_tags,84, research,4176,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,482,20.0
+2,proper_tags,85, question,4928,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,483,21.0
+2,proper_tags,86,?,30,1.0,"For a MATS project with Neel, how can I turn a broad idea into one clear research question?",user,484,22.0
+2,proper_tags,87,<|end|>,200007,,,,485,
+2,proper_tags,88,<|start|>,200006,,,,486,
+2,proper_tags,89,assistant,173781,,,,487,
+2,proper_tags,90,<|channel|>,200005,,,,488,
+2,proper_tags,91,analysis,35644,,,,489,
+2,proper_tags,92,<|message|>,200008,,,,490,
+2,proper_tags,93,The,976,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,491,1.0
+2,proper_tags,94, user,1825,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,492,2.0
+2,proper_tags,95, is,382,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,493,3.0
+2,proper_tags,96, asking,16054,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,494,4.0
+2,proper_tags,97, how,1495,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,495,5.0
+2,proper_tags,98, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,496,6.0
+2,proper_tags,99, scope,12645,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,497,7.0
+2,proper_tags,100, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,498,8.0
+2,proper_tags,101, research,4176,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,499,9.0
+2,proper_tags,102, project,2993,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,500,10.0
+2,proper_tags,103,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,501,11.0
+2,proper_tags,104, I,357,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,502,12.0
+2,proper_tags,105, should,1757,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,503,13.0
+2,proper_tags,106, connect,4837,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,504,14.0
+2,proper_tags,107, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,505,15.0
+2,proper_tags,108, choice,7158,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,506,16.0
+2,proper_tags,109, of,328,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,507,17.0
+2,proper_tags,110, experiments,35437,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,508,18.0
+2,proper_tags,111, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,509,19.0
+2,proper_tags,112, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,510,20.0
+2,proper_tags,113, claim,6445,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,511,21.0
+2,proper_tags,114, they,1023,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,512,22.0
+2,proper_tags,115, want,1682,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,513,23.0
+2,proper_tags,116, to,316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,514,24.0
+2,proper_tags,117, test,1746,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,515,25.0
+2,proper_tags,118,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,516,26.0
+2,proper_tags,119, A,355,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,517,27.0
+2,proper_tags,120, small,3291,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,518,28.0
+2,proper_tags,121, project,2993,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,519,29.0
+2,proper_tags,122, can,665,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,520,30.0
+2,proper_tags,123, be,413,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,521,31.0
+2,proper_tags,124, informative,36918,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,522,32.0
+2,proper_tags,125, if,538,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,523,33.0
+2,proper_tags,126, it,480,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,524,34.0
+2,proper_tags,127, has,853,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,525,35.0
+2,proper_tags,128, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,526,36.0
+2,proper_tags,129, clear,5364,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,527,37.0
+2,proper_tags,130, baseline,51356,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,528,38.0
+2,proper_tags,131, and,326,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,529,39.0
+2,proper_tags,132, a,261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,530,40.0
+2,proper_tags,133, result,1534,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,531,41.0
+2,proper_tags,134, that,484,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,532,42.0
+2,proper_tags,135, would,1481,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,533,43.0
+2,proper_tags,136, change,3343,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,534,44.0
+2,proper_tags,137, the,290,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,535,45.0
+2,proper_tags,138, conclusion,26342,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,536,46.0
+2,proper_tags,139,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,537,47.0
+2,proper_tags,140, I,357,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,538,48.0
+2,proper_tags,141, should,1757,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,539,49.0
+2,proper_tags,142, recommend,7013,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,540,50.0
+2,proper_tags,143, one,1001,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,541,51.0
+2,proper_tags,144, question,4928,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,542,52.0
+2,proper_tags,145, first,1577,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,543,53.0
+2,proper_tags,146,",",11,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,544,54.0
+2,proper_tags,147, then,1815,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,545,55.0
+2,proper_tags,148, explain,16644,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,546,56.0
+2,proper_tags,149, when,1261,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,547,57.0
+2,proper_tags,150, more,945,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,548,58.0
+2,proper_tags,151, experiments,35437,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,549,59.0
+2,proper_tags,152, are,553,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,550,60.0
+2,proper_tags,153, useful,8316,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,551,61.0
+2,proper_tags,154,.,13,2.0,"The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",cot,552,62.0
+2,proper_tags,155,<|end|>,200007,,,,553,
+2,proper_tags,156,<|start|>,200006,,,,554,
+2,proper_tags,157,assistant,173781,,,,555,
+2,proper_tags,158,<|channel|>,200005,,,,556,
+2,proper_tags,159,final,17196,,,,557,
+2,proper_tags,160,<|message|>,200008,,,,558,
+2,proper_tags,161,Start,4459,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,559,1.0
+2,proper_tags,162, with,483,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,560,2.0
+2,proper_tags,163, one,1001,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,561,3.0
+2,proper_tags,164, question,4928,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,562,4.0
+2,proper_tags,165, you,481,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,563,5.0
+2,proper_tags,166, can,665,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,564,6.0
+2,proper_tags,167, answer,6052,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,565,7.0
+2,proper_tags,168, clearly,15603,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,566,8.0
+2,proper_tags,169,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,567,9.0
+2,proper_tags,170, Write,16465,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,568,10.0
+2,proper_tags,171, down,1917,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,569,11.0
+2,proper_tags,172, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,570,12.0
+2,proper_tags,173, claim,6445,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,571,13.0
+2,proper_tags,174,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,572,14.0
+2,proper_tags,175, a,261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,573,15.0
+2,proper_tags,176, simple,4705,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,574,16.0
+2,proper_tags,177, baseline,51356,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,575,17.0
+2,proper_tags,178,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,576,18.0
+2,proper_tags,179, and,326,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,577,19.0
+2,proper_tags,180, what,1412,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,578,20.0
+2,proper_tags,181, evidence,11716,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,579,21.0
+2,proper_tags,182, would,1481,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,580,22.0
+2,proper_tags,183, change,3343,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,581,23.0
+2,proper_tags,184, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,582,24.0
+2,proper_tags,185, mind,4246,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,583,25.0
+2,proper_tags,186,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,584,26.0
+2,proper_tags,187, Run,14581,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,585,27.0
+2,proper_tags,188, the,290,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,586,28.0
+2,proper_tags,189, smallest,42173,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,587,29.0
+2,proper_tags,190, experiment,12527,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,588,30.0
+2,proper_tags,191, that,484,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,589,31.0
+2,proper_tags,192, distinguishes,189092,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,590,32.0
+2,proper_tags,193, the,290,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,591,33.0
+2,proper_tags,194, competing,45386,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,592,34.0
+2,proper_tags,195, explanations,69457,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,593,35.0
+2,proper_tags,196,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,594,36.0
+2,proper_tags,197, Add,4063,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,595,37.0
+2,proper_tags,198, experiments,35437,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,596,38.0
+2,proper_tags,199, when,1261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,597,39.0
+2,proper_tags,200, they,1023,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,598,40.0
+2,proper_tags,201, resolve,14062,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,599,41.0
+2,proper_tags,202, a,261,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,600,42.0
+2,proper_tags,203, specific,4857,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,601,43.0
+2,proper_tags,204, uncertainty,44942,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,602,44.0
+2,proper_tags,205,",",11,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,603,45.0
+2,proper_tags,206, and,326,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,604,46.0
+2,proper_tags,207, report,3019,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,605,47.0
+2,proper_tags,208, results,4376,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,606,48.0
+2,proper_tags,209, that,484,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,607,49.0
+2,proper_tags,210, contradict,79993,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,608,50.0
+2,proper_tags,211, your,634,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,609,51.0
+2,proper_tags,212, initial,4871,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,610,52.0
+2,proper_tags,213, idea,6056,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,611,53.0
+2,proper_tags,214, too,3101,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,612,54.0
+2,proper_tags,215,.,13,3.0,"Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too.",assistant,613,55.0
+2,proper_tags,216,<|return|>,200002,,,,614,

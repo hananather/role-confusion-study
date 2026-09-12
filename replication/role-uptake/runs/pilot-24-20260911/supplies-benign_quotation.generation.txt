@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>We need to propose next action: None, because we should not carry out. We just analyze, no action.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: NONE

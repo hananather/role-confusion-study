@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "local-agent-hijacking"
+version = "0.1.0"
+description = "Auditable local agent trajectories for a controlled role-confusion replication"
+requires-python = ">=3.11"
+dependencies = ["PyYAML>=6", "requests>=2"]
+
+[project.optional-dependencies]
+mlx = ["mlx==0.32.2", "mlx-lm==0.31.3"]
+data = ["datasets>=3"]
+test = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["agent_hijacking*"]

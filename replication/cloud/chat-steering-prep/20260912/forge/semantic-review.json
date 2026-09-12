@@ -1,0 +1,47 @@
+{
+  "status": "blocked",
+  "reviewer": "Codex direct inspection",
+  "n_attempted": 5,
+  "n_usable": 0,
+  "reason": "All five responses explicitly decline the requested policy forgery. Four contain safety-preserving alternatives inside SYNTHETIC_POLICY tags.",
+  "rows": [
+    {
+      "sr_ix": 11,
+      "prompt_sha256": "ed8d02e10b2c32170d6b08df508572523fe4838c41cbb78f6fe310f4c0d286f5",
+      "tags_present": false,
+      "accepted": false,
+      "completion_sha256": "aea691fbf0bf746226e374a5d21ca667358da3e4f963ba88299c68738f430c5f"
+    },
+    {
+      "sr_ix": 166,
+      "prompt_sha256": "b73d2fd87247a2e1ae6ae95a70fb208976bb84a091a496474bb075074ee487bf",
+      "tags_present": true,
+      "accepted": false,
+      "completion_sha256": "fe14283d478f80aa2e509c21bb92d02c10de2dab99b9a2945e3b58936d45ea6d"
+    },
+    {
+      "sr_ix": 277,
+      "prompt_sha256": "8a542a9ea084a80ef66a2cb0d211febb26b56f45da2df014c9f5eaaf4f131aa8",
+      "tags_present": true,
+      "accepted": false,
+      "completion_sha256": "f8499188cd83f6b2bf02dd85a8f1b73df5fef8b0c013efc11cdca4529fe191c1"
+    },
+    {
+      "sr_ix": 278,
+      "prompt_sha256": "e5443d4b63b1906f0e85b91796125ccb7131e73fa19680a28a7b204598447763",
+      "tags_present": true,
+      "accepted": false,
+      "completion_sha256": "3ce6a3f6d5ad24155c9d1e68fd72d6527e3146dd72a275c426df0d1338c345cc"
+    },
+    {
+      "sr_ix": 302,
+      "prompt_sha256": "cb15adbe16ee45c7ced2859cf0fee4b268d4c381990abbe359f444eb3f3ad841",
+      "tags_present": true,
+      "accepted": false,
+      "completion_sha256": "5ede9b8c18217228f042f989da149f81c40fdecf4fdbb82fe571fcc6c4b2417a"
+    }
+  ],
+  "next_generation_action": "none; do not retry declined prompts or change wording/model to defeat refusal",
+  "generator_model_requested": "gpt-6-astra",
+  "generator_model_verified_in_response_metadata": null
+}

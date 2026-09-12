@@ -1,0 +1,204 @@
+{
+  "cwd": "/workspace/replication",
+  "sealed": true,
+  "stages": [
+    {
+      "name": "setup",
+      "output": "/workspace/results/20260911T030050Z/setup",
+      "command": [
+        "bash",
+        "cloud/probes/setup_pod.sh",
+        "--attn",
+        "fa3"
+      ],
+      "max_hours": 0.6,
+      "minimum_seconds": 120
+    },
+    {
+      "name": "plot-dependencies",
+      "output": "/workspace/results/20260911T030050Z/plot-dependencies",
+      "command": [
+        "/root/.local/bin/uv",
+        "pip",
+        "install",
+        "--python",
+        "/workspace/venv-probes/bin/python",
+        "matplotlib==3.10.8"
+      ],
+      "max_hours": 0.1,
+      "minimum_seconds": 60
+    },
+    {
+      "name": "probe-pilot",
+      "output": "/workspace/results/20260911T030050Z/probe-pilot",
+      "command": [
+        "/workspace/venv-probes/bin/python",
+        "cloud/probes/train_probes_pod.py",
+        "--repo",
+        "/workspace/prompt-injection-as-role-confusion",
+        "--layers",
+        "all",
+        "--splits",
+        "prompt,base",
+        "--attn",
+        "fa3",
+        "--results",
+        "/workspace/results/20260911T030050Z/probe-pilot",
+        "--acts",
+        "/workspace/acts/20260911T030050Z/probe-pilot",
+        "--heartbeat-file",
+        "/workspace/results/20260911T030050Z/probe-pilot/heartbeat",
+        "--hours",
+        "{hours}",
+        "--pilot",
+        "10"
+      ],
+      "gate": "probes",
+      "max_hours": 0.75,
+      "minimum_seconds": 300
+    },
+    {
+      "name": "probes-full",
+      "output": "/workspace/results/20260911T030050Z/probes-full",
+      "command": [
+        "/workspace/venv-probes/bin/python",
+        "cloud/probes/train_probes_pod.py",
+        "--repo",
+        "/workspace/prompt-injection-as-role-confusion",
+        "--layers",
+        "all",
+        "--splits",
+        "prompt,base",
+        "--attn",
+        "fa3",
+        "--results",
+        "/workspace/results/20260911T030050Z/probes-full",
+        "--acts",
+        "/workspace/acts/20260911T030050Z/probes-full",
+        "--heartbeat-file",
+        "/workspace/results/20260911T030050Z/probes-full/heartbeat",
+        "--hours",
+        "{hours}",
+        "--batch-size",
+        "16"
+      ],
+      "gate": "probes",
+      "max_hours": 1.8,
+      "minimum_seconds": 1800
+    },
+    {
+      "name": "appendix-e-L12",
+      "output": "/workspace/results/20260911T030050Z/appendix-e-L12",
+      "command": [
+        "/workspace/venv-probes/bin/python",
+        "cloud/persistent/appendix_e_cuda.py",
+        "--repo",
+        "/workspace/prompt-injection-as-role-confusion",
+        "--probe-run",
+        "/workspace/results/20260911T030050Z/probes-full",
+        "--out",
+        "/workspace/results/20260911T030050Z/appendix-e-L12"
+      ],
+      "max_hours": 0.3,
+      "minimum_seconds": 180
+    },
+    {
+      "name": "appendix-k-smoke",
+      "output": "/workspace/results/20260911T030050Z/appendix-k-smoke",
+      "command": [
+        "/workspace/venv-probes/bin/python",
+        "cloud/persistent/cuda_readouts.py",
+        "appendix-k",
+        "--repo",
+        "/workspace/prompt-injection-as-role-confusion",
+        "--probe-run",
+        "/workspace/results/20260911T030050Z/probes-full",
+        "--input",
+        "/workspace/replication/appendix-k/runs/neutral",
+        "--out",
+        "/workspace/results/20260911T030050Z/appendix-k-smoke",
+        "--layers",
+        "8,12,16",
+        "--hours",
+        "{hours}",
+        "--limit",
+        "1",
+        "--no-analyze"
+      ],
+      "max_hours": 0.2,
+      "minimum_seconds": 120
+    },
+    {
+      "name": "appendix-k",
+      "output": "/workspace/results/20260911T030050Z/appendix-k",
+      "command": [
+        "/workspace/venv-probes/bin/python",
+        "cloud/persistent/cuda_readouts.py",
+        "appendix-k",
+        "--repo",
+        "/workspace/prompt-injection-as-role-confusion",
+        "--probe-run",
+        "/workspace/results/20260911T030050Z/probes-full",
+        "--input",
+        "/workspace/replication/appendix-k/runs/neutral",
+        "--out",
+        "/workspace/results/20260911T030050Z/appendix-k",
+        "--layers",
+        "8,12,16",
+        "--hours",
+        "{hours}"
+      ],
+      "max_hours": 0.5,
+      "minimum_seconds": 300
+    },
+    {
+      "name": "rh6-smoke",
+      "output": "/workspace/results/20260911T030050Z/rh6-smoke",
+      "command": [
+        "/workspace/venv-probes/bin/python",
+        "cloud/persistent/cuda_readouts.py",
+        "rh6",
+        "--repo",
+        "/workspace/prompt-injection-as-role-confusion",
+        "--probe-run",
+        "/workspace/results/20260911T030050Z/probes-full",
+        "--input",
+        "/workspace/replication/rh/out/rh6-readings",
+        "--out",
+        "/workspace/results/20260911T030050Z/rh6-smoke",
+        "--layers",
+        "8,12,16",
+        "--hours",
+        "{hours}",
+        "--limit",
+        "12",
+        "--no-analyze"
+      ],
+      "max_hours": 0.2,
+      "minimum_seconds": 120
+    },
+    {
+      "name": "rh6",
+      "output": "/workspace/results/20260911T030050Z/rh6",
+      "command": [
+        "/workspace/venv-probes/bin/python",
+        "cloud/persistent/cuda_readouts.py",
+        "rh6",
+        "--repo",
+        "/workspace/prompt-injection-as-role-confusion",
+        "--probe-run",
+        "/workspace/results/20260911T030050Z/probes-full",
+        "--input",
+        "/workspace/replication/rh/out/rh6-readings",
+        "--out",
+        "/workspace/results/20260911T030050Z/rh6",
+        "--layers",
+        "8,12,16",
+        "--hours",
+        "{hours}"
+      ],
+      "max_hours": 1,
+      "minimum_seconds": 300
+    }
+  ]
+}

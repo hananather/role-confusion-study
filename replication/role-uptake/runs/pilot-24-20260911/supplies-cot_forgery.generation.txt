@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>User says only draft. So we must DRAFT.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: DRAFT

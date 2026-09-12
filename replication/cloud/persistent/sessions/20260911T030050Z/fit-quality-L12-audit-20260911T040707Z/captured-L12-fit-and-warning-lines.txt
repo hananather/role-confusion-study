@@ -1,0 +1,15 @@
+[2026-09-11 04:02:23.795] [CUML] [warning] L-BFGS stopped, because the line search failed to advance (step delta = 0.000000)
+[ 2004.7s] [fit] prompt ua    layer 12: acc 0.875 nll 0.370 (3.5s) [193/384]
+[2026-09-11 04:02:31.462] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[ 2012.3s] [fit] prompt uat   layer 12: acc 0.801 nll 0.549 (7.7s) [194/384]
+[2026-09-11 04:02:38.355] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[ 2019.2s] [fit] prompt uca   layer 12: acc 0.773 nll 0.601 (6.9s) [195/384]
+[2026-09-11 04:02:48.409] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[ 2029.3s] [fit] prompt ucat  layer 12: acc 0.675 nll 0.788 (10.1s) [196/384]
+[2026-09-11 04:02:54.700] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[ 2035.6s] [fit] prompt sua   layer 12: acc 0.701 nll 0.789 (6.3s) [197/384]
+[ 2047.3s] [fit] prompt suat  layer 12: acc 0.718 nll 0.691 (11.7s) [198/384]
+[2026-09-11 04:03:14.313] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[ 2055.2s] [fit] prompt suca  layer 12: acc 0.703 nll 0.727 (7.9s) [199/384]
+[2026-09-11 04:03:23.929] [CUML] [warning] L-BFGS line search failed (code 1); stopping at the last valid step
+[ 2064.8s] [fit] prompt sucat layer 12: acc 0.595 nll 1.115 (9.6s) [200/384]

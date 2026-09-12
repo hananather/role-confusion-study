@@ -1,0 +1,17 @@
+{
+  "scope": "Same recorded unpadded token IDs and retained content tokens; backend, weight precision and H100 batching differ. Descriptive compatibility check only.",
+  "n_content_tokens": 2745,
+  "mean_absolute_probability_difference_pp": {
+    "system": 0.21744873830605913,
+    "user": 1.0466861197959043,
+    "cot": 1.1467592611064987,
+    "assistant": 1.1030744149816376
+  },
+  "max_absolute_probability_difference_pp": 86.16646500507906,
+  "mean_difference_pp": {
+    "system": 0.022475989084199174,
+    "user": -0.2912155089332459,
+    "cot": 0.45456329846619414,
+    "assistant": -0.18582394993534823
+  }
+}

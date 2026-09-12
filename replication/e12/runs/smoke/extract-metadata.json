@@ -1,0 +1,44 @@
+{
+  "model": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "mlx": "0.32.2",
+  "site": "post_attention_layernorm output (pre-MLP)",
+  "layers": [
+    8,
+    12
+  ],
+  "spaces": [
+    "suca",
+    "sucat"
+  ],
+  "probe_run": "runs/dev-10",
+  "probes": {
+    "base_suca_L08": true,
+    "base_suca_L12": true,
+    "base_sucat_L08": true,
+    "base_sucat_L12": true,
+    "prompt_suca_L08": true,
+    "prompt_suca_L12": true,
+    "prompt_sucat_L08": true,
+    "prompt_sucat_L12": true
+  },
+  "mode": "per-length",
+  "lengths": [
+    50,
+    100
+  ],
+  "bos": true,
+  "n_prompts": 2,
+  "n_passes": 24,
+  "neutral_source": "/Users/hananather/Desktop/MATS 12.0/replication/runs/full-249 base-split held-out texts (seed 123)",
+  "filler_tokens": 100,
+  "fwd_tokens": 3622,
+  "fwd_tokens_per_sec": 199.3,
+  "conditions": [
+    "own_cot",
+    "shuffled",
+    "reversed",
+    "neutral",
+    "shifted",
+    "genuine"
+  ]
+}

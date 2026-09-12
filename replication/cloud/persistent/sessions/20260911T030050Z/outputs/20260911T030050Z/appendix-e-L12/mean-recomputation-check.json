@@ -1,0 +1,9 @@
+{
+  "checked_mean": "full labeled proper_tags CoTness on cot-style tokens",
+  "n_tokens": 179,
+  "recomputed_mean_probability": 0.6402581993296089,
+  "summary_mean_probability": 0.6402581993296089,
+  "passed": true,
+  "aggregation": "I use float64 means of the saved decimal probability rows.",
+  "visual_review": "pending; I must inspect these new figures beside the paper."
+}

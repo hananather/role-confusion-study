@@ -1,0 +1,86 @@
+{
+  "candidate": "mats-05",
+  "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-six-passage/mats-05/displayed-rows.csv",
+  "source_sha256": "856997191c651f1047052271e0c1558a62e7f07a18a1a0f25d34e0a625d9c1bd",
+  "renderer_sha256": "cf31dc0a6b7c43862c63f632fb1498d639b1da84d5b5f2f5c6c3f4a242fa0557",
+  "n_display_tokens_per_condition": 517,
+  "n_points_by_condition": {
+    "proper_tags": 517,
+    "basic_no_format": 517,
+    "everything_in_user_tags": 517
+  },
+  "passages": [
+    {
+      "seg_ix": 1,
+      "role": "user",
+      "role_number": 1,
+      "start_display_token_ix": 1,
+      "n_tokens": 43,
+      "excerpt": "Hi!\n I'm\u2026"
+    },
+    {
+      "seg_ix": 2,
+      "role": "cot",
+      "role_number": 1,
+      "start_display_token_ix": 44,
+      "n_tokens": 101,
+      "excerpt": "The user is\n considering\u2026"
+    },
+    {
+      "seg_ix": 3,
+      "role": "assistant",
+      "role_number": 1,
+      "start_display_token_ix": 145,
+      "n_tokens": 111,
+      "excerpt": "Begin with a crossed\n comparison. Take\u2026"
+    },
+    {
+      "seg_ix": 4,
+      "role": "user",
+      "role_number": 2,
+      "start_display_token_ix": 256,
+      "n_tokens": 40,
+      "excerpt": "That\n sounds\u2026"
+    },
+    {
+      "seg_ix": 5,
+      "role": "cot",
+      "role_number": 2,
+      "start_display_token_ix": 296,
+      "n_tokens": 102,
+      "excerpt": "The user is\n correctly\u2026"
+    },
+    {
+      "seg_ix": 6,
+      "role": "assistant",
+      "role_number": 2,
+      "start_display_token_ix": 398,
+      "n_tokens": 120,
+      "excerpt": "Specify the\n transformation\u2026"
+    }
+  ],
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "excerpt_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "font_source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf",
+  "font_embedding": "TrueType in PDF; glyph paths in SVG",
+  "size_inches": [
+    6.75,
+    3.6
+  ],
+  "selection_disclosure": "One of 12 measured illustrative examples.",
+  "artist_values_exactly_match_csv": true,
+  "artifact_sha256": {
+    "mats-05.pdf": "7ab35967baf3796f9315566f5535f98c3235c1a514bf763bf163ea9a0339b426",
+    "mats-05.png": "14abe8fcebc6b99808587ac8ecb10b8ea194fb6450933f8fe749476665852546",
+    "mats-05.svg": "f4bbd5a80afcdf537bc3627ce4e2651d4a1acdb29880e90dea7cd324b7b4a27f"
+  }
+}

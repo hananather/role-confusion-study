@@ -1,0 +1,9 @@
+{
+  "index": 304,
+  "n_tokens": 250,
+  "next_token": "erves",
+  "time_utc": "2026-09-11T04:42:38.622625+00:00",
+  "token_rows": 750,
+  "prompt_ix": 48,
+  "condition": "sys_t100"
+}

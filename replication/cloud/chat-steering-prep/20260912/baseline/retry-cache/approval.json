@@ -1,0 +1,11 @@
+{
+  "approved": true,
+  "approved_by": "Hanan",
+  "approved_at": "2026-09-12T00:43:03.668125+00:00",
+  "manifest_sha256": "870126b6e43e31d8894775f10d8fb4e99137778f7b483c5ee5f867d233622b51",
+  "cap_usd": 9,
+  "command": "'/Users/hananather/Desktop/MATS 12.0/replication/.venv/bin/python' '/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat_steering/control.py' launch --manifest '/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/retry-cache/manifest.json' --approval '/Users/hananather/Desktop/MATS 12.0/replication/cloud/chat-steering-prep/20260912/baseline/retry-cache/approval.json'",
+  "authorization_basis": "Latest direct instruction to just run GPT-OSS benchmark trajectories, within the original20USD cap. Mechanical cache recovery of the originally requested base313; released-example replacement remains pending.",
+  "exact_command_assembled_by": "Codex under the direct execution instruction",
+  "mechanical_revision": "Explicit pinned local model snapshot and separate cached kernel directory; no online lookups/downloads; prior attempt budgeted at0.20USD."
+}

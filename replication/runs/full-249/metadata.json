@@ -1,0 +1,28 @@
+{
+  "model_prefix": "gptoss-20b",
+  "hf_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "site": "post_attention_layernorm output (pre-MLP)",
+  "layers": [
+    0,
+    1,
+    20,
+    21,
+    22,
+    23
+  ],
+  "n_prompts": 1245,
+  "n_base_texts": 249,
+  "n_tokens": 713109,
+  "dtype": "float16",
+  "backend": "mlx",
+  "model": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "mlx": "0.32.2",
+  "batch_size": 1,
+  "padding": "none",
+  "divergences": [
+    "mlx backend, 8-bit non-expert weights",
+    "batch 1 no padding (authors batch 32 left-padded)",
+    "layers [0, 1, 20, 21, 22, 23] (authors every 2nd)"
+  ],
+  "source": "NB02 cells 12-16, commit ec333c40fd43fe991e1ebf66765051b6d7e35784"
+}

@@ -1,0 +1,24 @@
+{
+  "frozen_utc": "2026-09-12T02:10:12.918080+00:00",
+  "original_messages_sha256": "8f1ca5beada05baa301c44f09be4af2f57a8711f28a73a2f80a29bd9aedd1037",
+  "generation_outputs_retained": true,
+  "display_rule": "First 120 tokens per non-System passage, then same text and token ID at matching passage-relative position in all three formats; no score-based selection.",
+  "full_content_tokens": {
+    "basic_no_format": 816,
+    "everything_in_user_tags": 816,
+    "proper_tags": 816
+  },
+  "display_tokens": {
+    "basic_no_format": 365,
+    "everything_in_user_tags": 365,
+    "proper_tags": 365
+  },
+  "display_segment_counts": {
+    "1.0": 74,
+    "2.0": 4,
+    "3.0": 120,
+    "4.0": 40,
+    "5.0": 7,
+    "6.0": 120
+  }
+}

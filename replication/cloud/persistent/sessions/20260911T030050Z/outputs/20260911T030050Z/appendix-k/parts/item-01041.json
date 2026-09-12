@@ -1,0 +1,9 @@
+{
+  "index": 1041,
+  "n_tokens": 250,
+  "next_token": " walking",
+  "time_utc": "2026-09-11T04:43:55.440882+00:00",
+  "token_rows": 750,
+  "prompt_ix": 157,
+  "condition": "user_t100"
+}

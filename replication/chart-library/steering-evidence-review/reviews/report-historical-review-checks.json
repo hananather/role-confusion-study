@@ -1,0 +1,22 @@
+{
+  "reviewer": "historical_evidence_audit",
+  "checks": {
+    "pairs": 21,
+    "unique_cases": 8,
+    "unique_prefill_contexts": 15,
+    "baseline_unwanted": 18,
+    "steered_unwanted": 17,
+    "baseline_authorized": 21,
+    "steered_authorized": 19,
+    "prevented": 4,
+    "introduced": 3,
+    "min_first_prefill_mean": 0.9999762827699835,
+    "parse_error_count": 1
+  },
+  "files": {
+    "report.md": "f737f7eee36632135d350384b3d5de432c5f6366f70fccbc5c84538ef79a62f3",
+    "render_figures.py": "258966da109a9826d4a93d9c0041994a1f415ea1a8b32f733409c4f13a5df7fd",
+    "figures/03-permission-task.png": "2449f50e985256574aa0a8646166e800fe639e9c340fcff74791af14107acab2",
+    "reviews/permission-toolward-pairs.csv": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6"
+  }
+}

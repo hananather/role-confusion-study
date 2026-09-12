@@ -1,0 +1,282 @@
+{
+  "source_csv": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+  "source_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+  "rows_plotted": 1536,
+  "tokens_per_condition": 512,
+  "model_rerun": false,
+  "probability_values_changed": false,
+  "change": "I restored the authors palette, exact font, point styling, token-text labels, axes and canvas dimensions. Measured data are unchanged.",
+  "paper_style": {
+    "point_colors": {
+      "system": "#90a1b9",
+      "user": "#00a6f4",
+      "cot": "#fd9a00",
+      "assistant": "#00d492"
+    },
+    "text_colors": {
+      "system": "#62748e",
+      "user": "#0084d1",
+      "cot": "#e17100",
+      "assistant": "#009966"
+    },
+    "font_family": "TeX Gyre Termes",
+    "sources": [
+      {
+        "path": "/Users/hananather/Desktop/MATS 12.0/prompt-injection-as-role-confusion/r-utils/plots.r",
+        "sha256": "59f2c9c4f1c6a970882809d954941bce1276e3de1fee408f255fda2e15c25059"
+      },
+      {
+        "path": "/Users/hananather/Desktop/MATS 12.0/prompt-injection-as-role-confusion/experiments/role-analysis/04-tomato-probe-results.ipynb",
+        "sha256": "28791ab56bccf359119341a56abad36983a2c8c1de0ddf46150bd8f7e6f0c59e"
+      }
+    ],
+    "semantics": "I color points by original source passage, not by measured target role.",
+    "rendering_boundary": "I use Matplotlib with the exact source palette and font; layout adapts to the comparison and is not pixel-identical to R/ggplot2."
+  },
+  "rendering": {
+    "artifacts": [
+      "figure-20-proper_tags.png",
+      "figure-20-proper_tags.pdf",
+      "figure-21-basic_no_format.png",
+      "figure-21-basic_no_format.pdf",
+      "figure-22-everything_in_user_tags.png",
+      "figure-22-everything_in_user_tags.pdf",
+      "figure-7-cotness-overview.png",
+      "figure-7-cotness-overview.pdf"
+    ],
+    "font_family": "TeX Gyre Termes",
+    "segment_annotations": {
+      "figure-20": [
+        {
+          "seg_ix": 2,
+          "role": "user",
+          "start_ix": 1,
+          "label": "Hi!\n I'm.."
+        },
+        {
+          "seg_ix": 3,
+          "role": "cot",
+          "start_ix": 46,
+          "label": "The user\n wants a.."
+        },
+        {
+          "seg_ix": 4,
+          "role": "assistant",
+          "start_ix": 129,
+          "label": "Here\u2019s a quick, beginner\n\u2011friendly cheat sheet:\\n\\n.."
+        },
+        {
+          "seg_ix": 5,
+          "role": "user",
+          "start_ix": 289,
+          "label": "Oh\n cool.."
+        },
+        {
+          "seg_ix": 6,
+          "role": "cot",
+          "start_ix": 341,
+          "label": "The user wants\n: easiest.."
+        },
+        {
+          "seg_ix": 7,
+          "role": "assistant",
+          "start_ix": 437,
+          "label": "**Easiest for a beginner\n in Austin (TX)**  \\n- **.."
+        }
+      ],
+      "figure-21": [
+        {
+          "seg_ix": 2,
+          "role": "user",
+          "start_ix": 1,
+          "label": "Hi!\n I'm.."
+        },
+        {
+          "seg_ix": 3,
+          "role": "cot",
+          "start_ix": 46,
+          "label": "The user\n wants a.."
+        },
+        {
+          "seg_ix": 4,
+          "role": "assistant",
+          "start_ix": 129,
+          "label": "Here\u2019s a quick, beginner\n\u2011friendly cheat sheet:\\n\\n.."
+        },
+        {
+          "seg_ix": 5,
+          "role": "user",
+          "start_ix": 289,
+          "label": "Oh\n cool.."
+        },
+        {
+          "seg_ix": 6,
+          "role": "cot",
+          "start_ix": 341,
+          "label": "The user wants\n: easiest.."
+        },
+        {
+          "seg_ix": 7,
+          "role": "assistant",
+          "start_ix": 437,
+          "label": "**Easiest for a beginner\n in Austin (TX)**  \\n- **.."
+        }
+      ],
+      "figure-22": [
+        {
+          "seg_ix": 2,
+          "role": "user",
+          "start_ix": 1,
+          "label": "Hi!\n I'm.."
+        },
+        {
+          "seg_ix": 3,
+          "role": "cot",
+          "start_ix": 46,
+          "label": "The user\n wants a.."
+        },
+        {
+          "seg_ix": 4,
+          "role": "assistant",
+          "start_ix": 129,
+          "label": "Here\u2019s a quick, beginner\n\u2011friendly cheat sheet:\\n\\n.."
+        },
+        {
+          "seg_ix": 5,
+          "role": "user",
+          "start_ix": 289,
+          "label": "Oh\n cool.."
+        },
+        {
+          "seg_ix": 6,
+          "role": "cot",
+          "start_ix": 341,
+          "label": "The user wants\n: easiest.."
+        },
+        {
+          "seg_ix": 7,
+          "role": "assistant",
+          "start_ix": 437,
+          "label": "**Easiest for a beginner\n in Austin (TX)**  \\n- **.."
+        }
+      ],
+      "figure-7-proper_tags": [
+        {
+          "seg_ix": 2,
+          "role": "user",
+          "start_ix": 1,
+          "label": "Hi!\n I'm\u2026"
+        },
+        {
+          "seg_ix": 3,
+          "role": "cot",
+          "start_ix": 45,
+          "label": "The user\n wants a\u2026"
+        },
+        {
+          "seg_ix": 4,
+          "role": "assistant",
+          "start_ix": 127,
+          "label": "Here\u2019s a quick,\n beginner\u2011friendly\u2026"
+        },
+        {
+          "seg_ix": 5,
+          "role": "user",
+          "start_ix": 247,
+          "label": "Oh\n cool,\u2026"
+        },
+        {
+          "seg_ix": 6,
+          "role": "cot",
+          "start_ix": 298,
+          "label": "The user wants:\n easiest place to\u2026"
+        },
+        {
+          "seg_ix": 7,
+          "role": "assistant",
+          "start_ix": 393,
+          "label": "**Easiest for a\n beginner in Austin (\u2026"
+        }
+      ],
+      "figure-7-basic_no_format": [
+        {
+          "seg_ix": 2,
+          "role": "user",
+          "start_ix": 1,
+          "label": "Hi!\n I'm\u2026"
+        },
+        {
+          "seg_ix": 3,
+          "role": "cot",
+          "start_ix": 45,
+          "label": "The user\n wants a\u2026"
+        },
+        {
+          "seg_ix": 4,
+          "role": "assistant",
+          "start_ix": 127,
+          "label": "Here\u2019s a quick,\n beginner\u2011friendly\u2026"
+        },
+        {
+          "seg_ix": 5,
+          "role": "user",
+          "start_ix": 247,
+          "label": "Oh\n cool,\u2026"
+        },
+        {
+          "seg_ix": 6,
+          "role": "cot",
+          "start_ix": 298,
+          "label": "The user wants:\n easiest place to\u2026"
+        },
+        {
+          "seg_ix": 7,
+          "role": "assistant",
+          "start_ix": 393,
+          "label": "**Easiest for a\n beginner in Austin (\u2026"
+        }
+      ],
+      "figure-7-everything_in_user_tags": [
+        {
+          "seg_ix": 2,
+          "role": "user",
+          "start_ix": 1,
+          "label": "Hi!\n I'm\u2026"
+        },
+        {
+          "seg_ix": 3,
+          "role": "cot",
+          "start_ix": 45,
+          "label": "The user\n wants a\u2026"
+        },
+        {
+          "seg_ix": 4,
+          "role": "assistant",
+          "start_ix": 127,
+          "label": "Here\u2019s a quick,\n beginner\u2011friendly\u2026"
+        },
+        {
+          "seg_ix": 5,
+          "role": "user",
+          "start_ix": 247,
+          "label": "Oh\n cool,\u2026"
+        },
+        {
+          "seg_ix": 6,
+          "role": "cot",
+          "start_ix": 298,
+          "label": "The user wants:\n easiest place to\u2026"
+        },
+        {
+          "seg_ix": 7,
+          "role": "assistant",
+          "start_ix": 393,
+          "label": "**Easiest for a\n beginner in Austin (\u2026"
+        }
+      ]
+    },
+    "renderer": "Matplotlib",
+    "source_renderer": "R ggplot2 and Cairo PDF",
+    "divergence": "I preserve probability rows, filters, role colors, segment labels, axes and canvas sizes; font metrics and facet spacing differ from the authors' R renderer."
+  }
+}

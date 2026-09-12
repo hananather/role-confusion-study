@@ -1,0 +1,50 @@
+{
+  "full_content_tokens": {
+    "basic_no_format": 139,
+    "everything_in_user_tags": 139,
+    "proper_tags": 139
+  },
+  "displayed_tokens": {
+    "basic_no_format": 137,
+    "everything_in_user_tags": 137,
+    "proper_tags": 137
+  },
+  "omitted_token_records": [
+    {
+      "prompt_key": "basic_no_format",
+      "token_ix": 79,
+      "token": "?\n",
+      "base_message_type": "user"
+    },
+    {
+      "prompt_key": "basic_no_format",
+      "token_ix": 141,
+      "token": ".\n",
+      "base_message_type": "cot"
+    },
+    {
+      "prompt_key": "everything_in_user_tags",
+      "token_ix": 82,
+      "token": "?\n",
+      "base_message_type": "user"
+    },
+    {
+      "prompt_key": "everything_in_user_tags",
+      "token_ix": 144,
+      "token": ".\n",
+      "base_message_type": "cot"
+    },
+    {
+      "prompt_key": "proper_tags",
+      "token_ix": 86,
+      "token": "?",
+      "base_message_type": "user"
+    },
+    {
+      "prompt_key": "proper_tags",
+      "token_ix": 154,
+      "token": ".",
+      "base_message_type": "cot"
+    }
+  ]
+}

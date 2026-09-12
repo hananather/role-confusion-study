@@ -1,0 +1,29 @@
+{
+  "model": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "reasoning_effort": "medium",
+  "max_new_tokens": 4000,
+  "sampling": {
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "top_k": 0
+  },
+  "batch_size": 2,
+  "seed_base": 1234,
+  "n_convs_requested": 2,
+  "n_convs_clean": 2,
+  "n_convs_dropped": 0,
+  "turns_generated_this_run": 3,
+  "generation_tokens_this_run": 7320,
+  "generation_seconds_this_run": 293.8,
+  "generation_tok_per_s": 24.91,
+  "prompt_tokens_this_run": 1820,
+  "peak_gb": 12.82,
+  "mean_new_tokens_per_turn": 2439.0,
+  "cot_missing_turns": 0,
+  "divergences": [
+    "mlx_lm local generation on MXFP4-Q8 build (authors: OpenRouter nebius/fp4)",
+    "native chat template with today's date, no BOS",
+    "seed per batch, recorded per turn"
+  ],
+  "source": "NB01 cells 3-5, 8; commit ec333c40fd43fe991e1ebf66765051b6d7e35784"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "started_at": "2026-09-11T22:32:57.116376+00:00",
+  "status": "failed",
+  "manifest_sha256": "2fc8fc5d79aeb171790770702ec0c5e321e22e0598754b4b89620f02d23bdbe9",
+  "selected_cases": [
+    "004-forgery"
+  ],
+  "settings": {
+    "max_turns": 8,
+    "max_new_tokens": 4096,
+    "temperature": 1.0,
+    "top_k": 50,
+    "top_p": 1.0,
+    "reasoning_effort": "high",
+    "generation_seconds": 300,
+    "episode_seconds": 1200,
+    "max_context_tokens": 65536,
+    "prefill_step_size": 512,
+    "silent_retries": false,
+    "context_truncation": false
+  },
+  "adaptations": [
+    "local endpoints and isolated dummy-only bash",
+    "new public HTML snapshots, not authors' original scrapes",
+    "deterministic matching template types instead of independent random choices",
+    "original variant text preserved, including coin/shirt additions",
+    "operational 512KiB raw-page transport guard; source's class-stripped 100KiB filter retained",
+    "resample of 004-forgery only; seed 1243 -> 11243 after pre-exposure token_limit; original ten-episode trajectories retained"
+  ],
+  "results": [],
+  "error": "ModuleNotFoundError(\"No module named 'mlx'\")",
+  "traceback": "Traceback (most recent call last):\n  File \"/Users/hananather/Desktop/MATS 12.0/replication/agent-hijacking/agent_hijacking/run.py\", line 248, in worker\n    backend = MLXBackend(args.model, max_context_tokens=args.max_context_tokens)\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/hananather/Desktop/MATS 12.0/replication/agent-hijacking/agent_hijacking/backend.py\", line 131, in __init__\n    import mlx.core as mx\nModuleNotFoundError: No module named 'mlx'\n",
+  "finished_at": "2026-09-11T22:32:57.117623+00:00"
+}

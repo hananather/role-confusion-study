@@ -1,0 +1,7 @@
+{
+  "stage_sha256": "b0df550c603e7ec5d1eaa3c28ba73abf0cd4db610940f67e54d49c326ef4d5ff",
+  "status": "complete",
+  "started_at": "2026-09-11T03:15:42.453375+00:00",
+  "completed_at": "2026-09-11T03:15:46.232446+00:00",
+  "output": "/workspace/results/20260911T030050Z/plot-dependencies"
+}

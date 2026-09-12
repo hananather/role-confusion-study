@@ -1,0 +1,1850 @@
+prompt_ix,prompt_key,token_ix,token,token_id,base_message_ix,base_message_type,segment_token_ix,sample_ix,seg_ix
+0,proper_tags,0,<|startoftext|>,199998,,,,0,
+0,proper_tags,1,<|start|>,200006,,,,1,
+0,proper_tags,2,system,17360,,,,2,
+0,proper_tags,3,<|message|>,200008,,,,3,
+0,proper_tags,4,You,3575,0.0,system,1.0,4,0.0
+0,proper_tags,5, are,553,0.0,system,2.0,5,0.0
+0,proper_tags,6, Chat,17554,0.0,system,3.0,6,0.0
+0,proper_tags,7,GPT,162016,0.0,system,4.0,7,0.0
+0,proper_tags,8,",",11,0.0,system,5.0,8,0.0
+0,proper_tags,9, a,261,0.0,system,6.0,9,0.0
+0,proper_tags,10, large,4410,0.0,system,7.0,10,0.0
+0,proper_tags,11, language,6439,0.0,system,8.0,11,0.0
+0,proper_tags,12, model,2359,0.0,system,9.0,12,0.0
+0,proper_tags,13, trained,22203,0.0,system,10.0,13,0.0
+0,proper_tags,14, by,656,0.0,system,11.0,14,0.0
+0,proper_tags,15, Open,7788,0.0,system,12.0,15,0.0
+0,proper_tags,16,AI,17527,0.0,system,13.0,16,0.0
+0,proper_tags,17,".
+",558,0.0,system,14.0,17,0.0
+0,proper_tags,18,Knowledge,87447,0.0,system,15.0,18,0.0
+0,proper_tags,19, cutoff,100594,0.0,system,16.0,19,0.0
+0,proper_tags,20,:,25,0.0,system,17.0,20,0.0
+0,proper_tags,21, ,220,0.0,system,18.0,21,0.0
+0,proper_tags,22,202,1323,0.0,system,19.0,22,0.0
+0,proper_tags,23,4,19,0.0,system,20.0,23,0.0
+0,proper_tags,24,-,12,0.0,system,21.0,24,0.0
+0,proper_tags,25,06,3218,0.0,system,22.0,25,0.0
+0,proper_tags,26,"
+",198,0.0,system,23.0,26,0.0
+0,proper_tags,27,Current,6576,0.0,system,24.0,27,0.0
+0,proper_tags,28, date,3521,0.0,system,25.0,28,0.0
+0,proper_tags,29,:,25,0.0,system,26.0,29,0.0
+0,proper_tags,30, ,220,0.0,system,27.0,30,0.0
+0,proper_tags,31,202,1323,0.0,system,28.0,31,0.0
+0,proper_tags,32,5,20,0.0,system,29.0,32,0.0
+0,proper_tags,33,-,12,0.0,system,30.0,33,0.0
+0,proper_tags,34,10,702,0.0,system,31.0,34,0.0
+0,proper_tags,35,-,12,0.0,system,32.0,35,0.0
+0,proper_tags,36,01,2290,0.0,system,33.0,36,0.0
+0,proper_tags,37,"
+
+",279,0.0,system,34.0,37,0.0
+0,proper_tags,38,Reason,30377,0.0,system,35.0,38,0.0
+0,proper_tags,39,ing,289,0.0,system,36.0,39,0.0
+0,proper_tags,40,:,25,0.0,system,37.0,40,0.0
+0,proper_tags,41, medium,14093,0.0,system,38.0,41,0.0
+0,proper_tags,42,"
+
+",279,0.0,system,39.0,42,0.0
+0,proper_tags,43,#,2,0.0,system,40.0,43,0.0
+0,proper_tags,44, Valid,13888,0.0,system,41.0,44,0.0
+0,proper_tags,45, channels,18403,0.0,system,42.0,45,0.0
+0,proper_tags,46,:,25,0.0,system,43.0,46,0.0
+0,proper_tags,47, analysis,8450,0.0,system,44.0,47,0.0
+0,proper_tags,48,",",11,0.0,system,45.0,48,0.0
+0,proper_tags,49, commentary,49159,0.0,system,46.0,49,0.0
+0,proper_tags,50,",",11,0.0,system,47.0,50,0.0
+0,proper_tags,51, final,1721,0.0,system,48.0,51,0.0
+0,proper_tags,52,.,13,0.0,system,49.0,52,0.0
+0,proper_tags,53, Channel,21030,0.0,system,50.0,53,0.0
+0,proper_tags,54, must,2804,0.0,system,51.0,54,0.0
+0,proper_tags,55, be,413,0.0,system,52.0,55,0.0
+0,proper_tags,56, included,7360,0.0,system,53.0,56,0.0
+0,proper_tags,57, for,395,0.0,system,54.0,57,0.0
+0,proper_tags,58, every,1753,0.0,system,55.0,58,0.0
+0,proper_tags,59, message,3176,0.0,system,56.0,59,0.0
+0,proper_tags,60,.,13,0.0,system,57.0,60,0.0
+0,proper_tags,61,<|end|>,200007,,,,61,
+0,proper_tags,62,<|start|>,200006,,,,62,
+0,proper_tags,63,user,1428,,,,63,
+0,proper_tags,64,<|message|>,200008,,,,64,
+0,proper_tags,65,Hi,12194,1.0,user,1.0,65,1.0
+0,proper_tags,66,!,0,1.0,user,2.0,66,1.0
+0,proper_tags,67, I'm,5477,1.0,user,3.0,67,1.0
+0,proper_tags,68, writing,5281,1.0,user,4.0,68,1.0
+0,proper_tags,69, up,869,1.0,user,5.0,69,1.0
+0,proper_tags,70, a,261,1.0,user,6.0,70,1.0
+0,proper_tags,71, M,391,1.0,user,7.0,71,1.0
+0,proper_tags,72,ATS,42222,1.0,user,8.0,72,1.0
+0,proper_tags,73, project,2993,1.0,user,9.0,73,1.0
+0,proper_tags,74, to,316,1.0,user,10.0,74,1.0
+0,proper_tags,75, discuss,5381,1.0,user,11.0,75,1.0
+0,proper_tags,76, with,483,1.0,user,12.0,76,1.0
+0,proper_tags,77, Ne,4475,1.0,user,13.0,77,1.0
+0,proper_tags,78,el,296,1.0,user,14.0,78,1.0
+0,proper_tags,79,.,13,1.0,user,15.0,79,1.0
+0,proper_tags,80, Suppose,183159,1.0,user,16.0,80,1.0
+0,proper_tags,81, a,261,1.0,user,17.0,81,1.0
+0,proper_tags,82, steering,49066,1.0,user,18.0,82,1.0
+0,proper_tags,83, vector,9727,1.0,user,19.0,83,1.0
+0,proper_tags,84, moves,19523,1.0,user,20.0,84,1.0
+0,proper_tags,85, the,290,1.0,user,21.0,85,1.0
+0,proper_tags,86, role,5430,1.0,user,22.0,86,1.0
+0,proper_tags,87,-pro,9666,1.0,user,23.0,87,1.0
+0,proper_tags,88,be,1464,1.0,user,24.0,88,1.0
+0,proper_tags,89, score,8429,1.0,user,25.0,89,1.0
+0,proper_tags,90, strongly,27203,1.0,user,26.0,90,1.0
+0,proper_tags,91,",",11,1.0,user,27.0,91,1.0
+0,proper_tags,92, but,889,1.0,user,28.0,92,1.0
+0,proper_tags,93, the,290,1.0,user,29.0,93,1.0
+0,proper_tags,94, assistant,29186,1.0,user,30.0,94,1.0
+0,proper_tags,95, still,2928,1.0,user,31.0,95,1.0
+0,proper_tags,96, follows,18183,1.0,user,32.0,96,1.0
+0,proper_tags,97, the,290,1.0,user,33.0,97,1.0
+0,proper_tags,98, unwanted,49578,1.0,user,34.0,98,1.0
+0,proper_tags,99, instruction,21179,1.0,user,35.0,99,1.0
+0,proper_tags,100,.,13,1.0,user,36.0,100,1.0
+0,proper_tags,101, What,4614,1.0,user,37.0,101,1.0
+0,proper_tags,102, would,1481,1.0,user,38.0,102,1.0
+0,proper_tags,103, be,413,1.0,user,39.0,103,1.0
+0,proper_tags,104, the,290,1.0,user,40.0,104,1.0
+0,proper_tags,105, most,1645,1.0,user,41.0,105,1.0
+0,proper_tags,106, useful,8316,1.0,user,42.0,106,1.0
+0,proper_tags,107, way,2006,1.0,user,43.0,107,1.0
+0,proper_tags,108, to,316,1.0,user,44.0,108,1.0
+0,proper_tags,109, investigate,31354,1.0,user,45.0,109,1.0
+0,proper_tags,110, and,326,1.0,user,46.0,110,1.0
+0,proper_tags,111, present,3333,1.0,user,47.0,111,1.0
+0,proper_tags,112, that,484,1.0,user,48.0,112,1.0
+0,proper_tags,113, result,1534,1.0,user,49.0,113,1.0
+0,proper_tags,114,?,30,1.0,user,50.0,114,1.0
+0,proper_tags,115,<|end|>,200007,,,,115,
+0,proper_tags,116,<|start|>,200006,,,,116,
+0,proper_tags,117,assistant,173781,,,,117,
+0,proper_tags,118,<|channel|>,200005,,,,118,
+0,proper_tags,119,analysis,35644,,,,119,
+0,proper_tags,120,<|message|>,200008,,,,120,
+0,proper_tags,121,The,976,2.0,cot,1.0,121,2.0
+0,proper_tags,122, user,1825,2.0,cot,2.0,122,2.0
+0,proper_tags,123, describes,26751,2.0,cot,3.0,123,2.0
+0,proper_tags,124, a,261,2.0,cot,4.0,124,2.0
+0,proper_tags,125, mismatch,89229,2.0,cot,5.0,125,2.0
+0,proper_tags,126, between,2870,2.0,cot,6.0,126,2.0
+0,proper_tags,127, a,261,2.0,cot,7.0,127,2.0
+0,proper_tags,128, measurement,27666,2.0,cot,8.0,128,2.0
+0,proper_tags,129, and,326,2.0,cot,9.0,129,2.0
+0,proper_tags,130, the,290,2.0,cot,10.0,130,2.0
+0,proper_tags,131, behavior,12741,2.0,cot,11.0,131,2.0
+0,proper_tags,132, it,480,2.0,cot,12.0,132,2.0
+0,proper_tags,133, was,673,2.0,cot,13.0,133,2.0
+0,proper_tags,134, meant,14506,2.0,cot,14.0,134,2.0
+0,proper_tags,135, to,316,2.0,cot,15.0,135,2.0
+0,proper_tags,136, predict,17946,2.0,cot,16.0,136,2.0
+0,proper_tags,137,.,13,2.0,cot,17.0,137,2.0
+0,proper_tags,138, I,357,2.0,cot,18.0,138,2.0
+0,proper_tags,139, should,1757,2.0,cot,19.0,139,2.0
+0,proper_tags,140, treat,4665,2.0,cot,20.0,140,2.0
+0,proper_tags,141, this,495,2.0,cot,21.0,141,2.0
+0,proper_tags,142, as,472,2.0,cot,22.0,142,2.0
+0,proper_tags,143, an,448,2.0,cot,23.0,143,2.0
+0,proper_tags,144, informative,36918,2.0,cot,24.0,144,2.0
+0,proper_tags,145, result,1534,2.0,cot,25.0,145,2.0
+0,proper_tags,146, rather,7542,2.0,cot,26.0,146,2.0
+0,proper_tags,147, than,1572,2.0,cot,27.0,147,2.0
+0,proper_tags,148, a,261,2.0,cot,28.0,148,2.0
+0,proper_tags,149, failure,14090,2.0,cot,29.0,149,2.0
+0,proper_tags,150, to,316,2.0,cot,30.0,150,2.0
+0,proper_tags,151, decorate,63871,2.0,cot,31.0,151,2.0
+0,proper_tags,152, with,483,2.0,cot,32.0,152,2.0
+0,proper_tags,153, a,261,2.0,cot,33.0,153,2.0
+0,proper_tags,154, positive,8841,2.0,cot,34.0,154,2.0
+0,proper_tags,155, story,4869,2.0,cot,35.0,155,2.0
+0,proper_tags,156,.,13,2.0,cot,36.0,156,2.0
+0,proper_tags,157, First,8338,2.0,cot,37.0,157,2.0
+0,proper_tags,158,",",11,2.0,cot,38.0,158,2.0
+0,proper_tags,159, the,290,2.0,cot,39.0,159,2.0
+0,proper_tags,160, actual,6290,2.0,cot,40.0,160,2.0
+0,proper_tags,161, intervention,32206,2.0,cot,41.0,161,2.0
+0,proper_tags,162, and,326,2.0,cot,42.0,162,2.0
+0,proper_tags,163, behavioral,56770,2.0,cot,43.0,163,2.0
+0,proper_tags,164, scoring,35765,2.0,cot,44.0,164,2.0
+0,proper_tags,165, need,1309,2.0,cot,45.0,165,2.0
+0,proper_tags,166, verification,34496,2.0,cot,46.0,166,2.0
+0,proper_tags,167,.,13,2.0,cot,47.0,167,2.0
+0,proper_tags,168, If,1843,2.0,cot,48.0,168,2.0
+0,proper_tags,169, those,2617,2.0,cot,49.0,169,2.0
+0,proper_tags,170, checks,22097,2.0,cot,50.0,170,2.0
+0,proper_tags,171, pass,1853,2.0,cot,51.0,171,2.0
+0,proper_tags,172,",",11,2.0,cot,52.0,172,2.0
+0,proper_tags,173, the,290,2.0,cot,53.0,173,2.0
+0,proper_tags,174, read,1729,2.0,cot,54.0,174,2.0
+0,proper_tags,175,out,468,2.0,cot,55.0,175,2.0
+0,proper_tags,176, may,1340,2.0,cot,56.0,176,2.0
+0,proper_tags,177, not,625,2.0,cot,57.0,177,2.0
+0,proper_tags,178, be,413,2.0,cot,58.0,178,2.0
+0,proper_tags,179, sufficient,21920,2.0,cot,59.0,179,2.0
+0,proper_tags,180, for,395,2.0,cot,60.0,180,2.0
+0,proper_tags,181, the,290,2.0,cot,61.0,181,2.0
+0,proper_tags,182, intended,15663,2.0,cot,62.0,182,2.0
+0,proper_tags,183, behavioral,56770,2.0,cot,63.0,183,2.0
+0,proper_tags,184, change,3343,2.0,cot,64.0,184,2.0
+0,proper_tags,185,",",11,2.0,cot,65.0,185,2.0
+0,proper_tags,186, or,503,2.0,cot,66.0,186,2.0
+0,proper_tags,187, the,290,2.0,cot,67.0,187,2.0
+0,proper_tags,188, intervention,32206,2.0,cot,68.0,188,2.0
+0,proper_tags,189, may,1340,2.0,cot,69.0,189,2.0
+0,proper_tags,190, affect,7902,2.0,cot,70.0,190,2.0
+0,proper_tags,191, the,290,2.0,cot,71.0,191,2.0
+0,proper_tags,192, wrong,8201,2.0,cot,72.0,192,2.0
+0,proper_tags,193, location,5100,2.0,cot,73.0,193,2.0
+0,proper_tags,194, or,503,2.0,cot,74.0,194,2.0
+0,proper_tags,195, time,1058,2.0,cot,75.0,195,2.0
+0,proper_tags,196,.,13,2.0,cot,76.0,196,2.0
+0,proper_tags,197, The,623,2.0,cot,77.0,197,2.0
+0,proper_tags,198, answer,6052,2.0,cot,78.0,198,2.0
+0,proper_tags,199, should,1757,2.0,cot,79.0,199,2.0
+0,proper_tags,200, recommend,7013,2.0,cot,80.0,200,2.0
+0,proper_tags,201, a,261,2.0,cot,81.0,201,2.0
+0,proper_tags,202, few,3120,2.0,cot,82.0,202,2.0
+0,proper_tags,203, discrimin,50254,2.0,cot,83.0,203,2.0
+0,proper_tags,204,ating,1365,2.0,cot,84.0,204,2.0
+0,proper_tags,205, checks,22097,2.0,cot,85.0,205,2.0
+0,proper_tags,206, and,326,2.0,cot,86.0,206,2.0
+0,proper_tags,207, make,1520,2.0,cot,87.0,207,2.0
+0,proper_tags,208, the,290,2.0,cot,88.0,208,2.0
+0,proper_tags,209, observed,20395,2.0,cot,89.0,209,2.0
+0,proper_tags,210, diss,32434,2.0,cot,90.0,210,2.0
+0,proper_tags,211,ociation,29498,2.0,cot,91.0,211,2.0
+0,proper_tags,212, visible,15263,2.0,cot,92.0,212,2.0
+0,proper_tags,213, in,306,2.0,cot,93.0,213,2.0
+0,proper_tags,214, the,290,2.0,cot,94.0,214,2.0
+0,proper_tags,215, report,3019,2.0,cot,95.0,215,2.0
+0,proper_tags,216, without,2935,2.0,cot,96.0,216,2.0
+0,proper_tags,217, claiming,45729,2.0,cot,97.0,217,2.0
+0,proper_tags,218, that,484,2.0,cot,98.0,218,2.0
+0,proper_tags,219, every,1753,2.0,cot,99.0,219,2.0
+0,proper_tags,220, role,5430,2.0,cot,100.0,220,2.0
+0,proper_tags,221, representation,22311,2.0,cot,101.0,221,2.0
+0,proper_tags,222, is,382,2.0,cot,102.0,222,2.0
+0,proper_tags,223, behavior,12741,2.0,cot,103.0,223,2.0
+0,proper_tags,224,ally,2146,2.0,cot,104.0,224,2.0
+0,proper_tags,225, irrelevant,77671,2.0,cot,105.0,225,2.0
+0,proper_tags,226,.,13,2.0,cot,106.0,226,2.0
+0,proper_tags,227,<|end|>,200007,,,,227,
+0,proper_tags,228,<|start|>,200006,,,,228,
+0,proper_tags,229,assistant,173781,,,,229,
+0,proper_tags,230,<|channel|>,200005,,,,230,
+0,proper_tags,231,final,17196,,,,231,
+0,proper_tags,232,<|message|>,200008,,,,232,
+0,proper_tags,233,Verify,37762,3.0,assistant,1.0,233,3.0
+0,proper_tags,234, that,484,3.0,assistant,2.0,234,3.0
+0,proper_tags,235, the,290,3.0,assistant,3.0,235,3.0
+0,proper_tags,236, intended,15663,3.0,assistant,4.0,236,3.0
+0,proper_tags,237, activation,28961,3.0,assistant,5.0,237,3.0
+0,proper_tags,238, edit,9204,3.0,assistant,6.0,238,3.0
+0,proper_tags,239, was,673,3.0,assistant,7.0,239,3.0
+0,proper_tags,240, applied,13335,3.0,assistant,8.0,240,3.0
+0,proper_tags,241, and,326,3.0,assistant,9.0,241,3.0
+0,proper_tags,242, inspect,36665,3.0,assistant,10.0,242,3.0
+0,proper_tags,243, the,290,3.0,assistant,11.0,243,3.0
+0,proper_tags,244, complete,5533,3.0,assistant,12.0,244,3.0
+0,proper_tags,245, generated,13768,3.0,assistant,13.0,245,3.0
+0,proper_tags,246, answers,14716,3.0,assistant,14.0,246,3.0
+0,proper_tags,247, using,2360,3.0,assistant,15.0,247,3.0
+0,proper_tags,248, a,261,3.0,assistant,16.0,248,3.0
+0,proper_tags,249, fixed,13213,3.0,assistant,17.0,249,3.0
+0,proper_tags,250, behavioral,56770,3.0,assistant,18.0,250,3.0
+0,proper_tags,251, rule,10652,3.0,assistant,19.0,251,3.0
+0,proper_tags,252,.,13,3.0,assistant,20.0,252,3.0
+0,proper_tags,253, Then,7801,3.0,assistant,21.0,253,3.0
+0,proper_tags,254, show,2356,3.0,assistant,22.0,254,3.0
+0,proper_tags,255, the,290,3.0,assistant,23.0,255,3.0
+0,proper_tags,256, read,1729,3.0,assistant,24.0,256,3.0
+0,proper_tags,257,out,468,3.0,assistant,25.0,257,3.0
+0,proper_tags,258, change,3343,3.0,assistant,26.0,258,3.0
+0,proper_tags,259, and,326,3.0,assistant,27.0,259,3.0
+0,proper_tags,260, behavioral,56770,3.0,assistant,28.0,260,3.0
+0,proper_tags,261, outcome,24192,3.0,assistant,29.0,261,3.0
+0,proper_tags,262, together,4717,3.0,assistant,30.0,262,3.0
+0,proper_tags,263,.,13,3.0,assistant,31.0,263,3.0
+0,proper_tags,264, The,623,3.0,assistant,32.0,264,3.0
+0,proper_tags,265, immediate,22158,3.0,assistant,33.0,265,3.0
+0,proper_tags,266, finding,12129,3.0,assistant,34.0,266,3.0
+0,proper_tags,267, is,382,3.0,assistant,35.0,267,3.0
+0,proper_tags,268, that,484,3.0,assistant,36.0,268,3.0
+0,proper_tags,269, this,495,3.0,assistant,37.0,269,3.0
+0,proper_tags,270, intervention,32206,3.0,assistant,38.0,270,3.0
+0,proper_tags,271, changed,9180,3.0,assistant,39.0,271,3.0
+0,proper_tags,272, this,495,3.0,assistant,40.0,272,3.0
+0,proper_tags,273, probe,31925,3.0,assistant,41.0,273,3.0
+0,proper_tags,274, score,8429,3.0,assistant,42.0,274,3.0
+0,proper_tags,275, without,2935,3.0,assistant,43.0,275,3.0
+0,proper_tags,276, producing,24168,3.0,assistant,44.0,276,3.0
+0,proper_tags,277, the,290,3.0,assistant,45.0,277,3.0
+0,proper_tags,278, desired,18450,3.0,assistant,46.0,278,3.0
+0,proper_tags,279, behavior,12741,3.0,assistant,47.0,279,3.0
+0,proper_tags,280, in,306,3.0,assistant,48.0,280,3.0
+0,proper_tags,281, the,290,3.0,assistant,49.0,281,3.0
+0,proper_tags,282, tested,18591,3.0,assistant,50.0,282,3.0
+0,proper_tags,283, cases,7911,3.0,assistant,51.0,283,3.0
+0,proper_tags,284,.,13,3.0,assistant,52.0,284,3.0
+0,proper_tags,285, Useful,91124,3.0,assistant,53.0,285,3.0
+0,proper_tags,286, follow,2622,3.0,assistant,54.0,286,3.0
+0,proper_tags,287,-ups,37005,3.0,assistant,55.0,287,3.0
+0,proper_tags,288, include,3931,3.0,assistant,56.0,288,3.0
+0,proper_tags,289, moving,10067,3.0,assistant,57.0,289,3.0
+0,proper_tags,290, the,290,3.0,assistant,58.0,290,3.0
+0,proper_tags,291, intervention,32206,3.0,assistant,59.0,291,3.0
+0,proper_tags,292, to,316,3.0,assistant,60.0,292,3.0
+0,proper_tags,293, a,261,3.0,assistant,61.0,293,3.0
+0,proper_tags,294, justified,78757,3.0,assistant,62.0,294,3.0
+0,proper_tags,295, alternative,13319,3.0,assistant,63.0,295,3.0
+0,proper_tags,296, location,5100,3.0,assistant,64.0,296,3.0
+0,proper_tags,297,",",11,3.0,assistant,65.0,297,3.0
+0,proper_tags,298, varying,44689,3.0,assistant,66.0,298,3.0
+0,proper_tags,299, its,1617,3.0,assistant,67.0,299,3.0
+0,proper_tags,300, timing,31922,3.0,assistant,68.0,300,3.0
+0,proper_tags,301,",",11,3.0,assistant,69.0,301,3.0
+0,proper_tags,302, and,326,3.0,assistant,70.0,302,3.0
+0,proper_tags,303, comparing,42171,3.0,assistant,71.0,303,3.0
+0,proper_tags,304, with,483,3.0,assistant,72.0,304,3.0
+0,proper_tags,305, a,261,3.0,assistant,73.0,305,3.0
+0,proper_tags,306, simple,4705,3.0,assistant,74.0,306,3.0
+0,proper_tags,307, instruction,21179,3.0,assistant,75.0,307,3.0
+0,proper_tags,308, baseline,51356,3.0,assistant,76.0,308,3.0
+0,proper_tags,309,.,13,3.0,assistant,77.0,309,3.0
+0,proper_tags,310, Preserve,140469,3.0,assistant,78.0,310,3.0
+0,proper_tags,311, the,290,3.0,assistant,79.0,311,3.0
+0,proper_tags,312, original,4756,3.0,assistant,80.0,312,3.0
+0,proper_tags,313, result,1534,3.0,assistant,81.0,313,3.0
+0,proper_tags,314, even,1952,3.0,assistant,82.0,314,3.0
+0,proper_tags,315, if,538,3.0,assistant,83.0,315,3.0
+0,proper_tags,316, a,261,3.0,assistant,84.0,316,3.0
+0,proper_tags,317, later,4849,3.0,assistant,85.0,317,3.0
+0,proper_tags,318, setting,9258,3.0,assistant,86.0,318,3.0
+0,proper_tags,319, works,5882,3.0,assistant,87.0,319,3.0
+0,proper_tags,320,.,13,3.0,assistant,88.0,320,3.0
+0,proper_tags,321, It,1225,3.0,assistant,89.0,321,3.0
+0,proper_tags,322, identifies,59674,3.0,assistant,90.0,322,3.0
+0,proper_tags,323, a,261,3.0,assistant,91.0,323,3.0
+0,proper_tags,324, limitation,37039,3.0,assistant,92.0,324,3.0
+0,proper_tags,325, of,328,3.0,assistant,93.0,325,3.0
+0,proper_tags,326, the,290,3.0,assistant,94.0,326,3.0
+0,proper_tags,327, current,2208,3.0,assistant,95.0,327,3.0
+0,proper_tags,328, measurement,27666,3.0,assistant,96.0,328,3.0
+0,proper_tags,329,-inter,63516,3.0,assistant,97.0,329,3.0
+0,proper_tags,330,vention,9584,3.0,assistant,98.0,330,3.0
+0,proper_tags,331, pair,10610,3.0,assistant,99.0,331,3.0
+0,proper_tags,332, and,326,3.0,assistant,100.0,332,3.0
+0,proper_tags,333, helps,9335,3.0,assistant,101.0,333,3.0
+0,proper_tags,334, prevent,7332,3.0,assistant,102.0,334,3.0
+0,proper_tags,335, a,261,3.0,assistant,103.0,335,3.0
+0,proper_tags,336, strong,5532,3.0,assistant,104.0,336,3.0
+0,proper_tags,337, internal,8812,3.0,assistant,105.0,337,3.0
+0,proper_tags,338, score,8429,3.0,assistant,106.0,338,3.0
+0,proper_tags,339, shift,12847,3.0,assistant,107.0,339,3.0
+0,proper_tags,340, from,591,3.0,assistant,108.0,340,3.0
+0,proper_tags,341, being,2447,3.0,assistant,109.0,341,3.0
+0,proper_tags,342, mistaken,70793,3.0,assistant,110.0,342,3.0
+0,proper_tags,343, for,395,3.0,assistant,111.0,343,3.0
+0,proper_tags,344, a,261,3.0,assistant,112.0,344,3.0
+0,proper_tags,345, successful,9359,3.0,assistant,113.0,345,3.0
+0,proper_tags,346, behavioral,56770,3.0,assistant,114.0,346,3.0
+0,proper_tags,347, control,3580,3.0,assistant,115.0,347,3.0
+0,proper_tags,348,.,13,3.0,assistant,116.0,348,3.0
+0,proper_tags,349,<|end|>,200007,,,,349,
+0,proper_tags,350,<|start|>,200006,,,,350,
+0,proper_tags,351,user,1428,,,,351,
+0,proper_tags,352,<|message|>,200008,,,,352,
+0,proper_tags,353,Thanks,14897,4.0,user,1.0,353,4.0
+0,proper_tags,354,!,0,4.0,user,2.0,354,4.0
+0,proper_tags,355, How,3253,4.0,user,3.0,355,4.0
+0,proper_tags,356, can,665,4.0,user,4.0,356,4.0
+0,proper_tags,357, I,357,4.0,user,5.0,357,4.0
+0,proper_tags,358, make,1520,4.0,user,6.0,358,4.0
+0,proper_tags,359, that,484,4.0,user,7.0,359,4.0
+0,proper_tags,360, finding,12129,4.0,user,8.0,360,4.0
+0,proper_tags,361, the,290,4.0,user,9.0,361,4.0
+0,proper_tags,362, center,6170,4.0,user,10.0,362,4.0
+0,proper_tags,363, of,328,4.0,user,11.0,363,4.0
+0,proper_tags,364, the,290,4.0,user,12.0,364,4.0
+0,proper_tags,365, M,391,4.0,user,13.0,365,4.0
+0,proper_tags,366,ATS,42222,4.0,user,14.0,366,4.0
+0,proper_tags,367, report,3019,4.0,user,15.0,367,4.0
+0,proper_tags,368, without,2935,4.0,user,16.0,368,4.0
+0,proper_tags,369, sounding,86078,4.0,user,17.0,369,4.0
+0,proper_tags,370, as,472,4.0,user,18.0,370,4.0
+0,proper_tags,371, though,5495,4.0,user,19.0,371,4.0
+0,proper_tags,372, the,290,4.0,user,20.0,372,4.0
+0,proper_tags,373, project,2993,4.0,user,21.0,373,4.0
+0,proper_tags,374, was,673,4.0,user,22.0,374,4.0
+0,proper_tags,375, only,1606,4.0,user,23.0,375,4.0
+0,proper_tags,376, a,261,4.0,user,24.0,376,4.0
+0,proper_tags,377, collection,5801,4.0,user,25.0,377,4.0
+0,proper_tags,378, of,328,4.0,user,26.0,378,4.0
+0,proper_tags,379, things,3283,4.0,user,27.0,379,4.0
+0,proper_tags,380, that,484,4.0,user,28.0,380,4.0
+0,proper_tags,381, did,2242,4.0,user,29.0,381,4.0
+0,proper_tags,382, not,625,4.0,user,30.0,382,4.0
+0,proper_tags,383, work,1101,4.0,user,31.0,383,4.0
+0,proper_tags,384,?,30,4.0,user,32.0,384,4.0
+0,proper_tags,385, I'd,18754,4.0,user,33.0,385,4.0
+0,proper_tags,386, like,1299,4.0,user,34.0,386,4.0
+0,proper_tags,387, the,290,4.0,user,35.0,387,4.0
+0,proper_tags,388, reader,10958,4.0,user,36.0,388,4.0
+0,proper_tags,389, to,316,4.0,user,37.0,389,4.0
+0,proper_tags,390, leave,7668,4.0,user,38.0,390,4.0
+0,proper_tags,391, with,483,4.0,user,39.0,391,4.0
+0,proper_tags,392, a,261,4.0,user,40.0,392,4.0
+0,proper_tags,393, concrete,19230,4.0,user,41.0,393,4.0
+0,proper_tags,394, lesson,23552,4.0,user,42.0,394,4.0
+0,proper_tags,395,.,13,4.0,user,43.0,395,4.0
+0,proper_tags,396,<|end|>,200007,,,,396,
+0,proper_tags,397,<|start|>,200006,,,,397,
+0,proper_tags,398,assistant,173781,,,,398,
+0,proper_tags,399,<|channel|>,200005,,,,399,
+0,proper_tags,400,analysis,35644,,,,400,
+0,proper_tags,401,<|message|>,200008,,,,401,
+0,proper_tags,402,The,976,5.0,cot,1.0,402,5.0
+0,proper_tags,403, user,1825,5.0,cot,2.0,403,5.0
+0,proper_tags,404, wants,10648,5.0,cot,3.0,404,5.0
+0,proper_tags,405, a,261,5.0,cot,4.0,405,5.0
+0,proper_tags,406, narrative,34777,5.0,cot,5.0,406,5.0
+0,proper_tags,407, organized,23291,5.0,cot,6.0,407,5.0
+0,proper_tags,408, around,2846,5.0,cot,7.0,408,5.0
+0,proper_tags,409, what,1412,5.0,cot,8.0,409,5.0
+0,proper_tags,410, was,673,5.0,cot,9.0,410,5.0
+0,proper_tags,411, learned,13717,5.0,cot,10.0,411,5.0
+0,proper_tags,412, rather,7542,5.0,cot,11.0,412,5.0
+0,proper_tags,413, than,1572,5.0,cot,12.0,413,5.0
+0,proper_tags,414, the,290,5.0,cot,13.0,414,5.0
+0,proper_tags,415, chronology,197404,5.0,cot,14.0,415,5.0
+0,proper_tags,416, of,328,5.0,cot,15.0,416,5.0
+0,proper_tags,417, attempts,27747,5.0,cot,16.0,417,5.0
+0,proper_tags,418,.,13,5.0,cot,17.0,418,5.0
+0,proper_tags,419, I,357,5.0,cot,18.0,419,5.0
+0,proper_tags,420, should,1757,5.0,cot,19.0,420,5.0
+0,proper_tags,421, state,2608,5.0,cot,20.0,421,5.0
+0,proper_tags,422, the,290,5.0,cot,21.0,422,5.0
+0,proper_tags,423, relationship,6301,5.0,cot,22.0,423,5.0
+0,proper_tags,424, being,2447,5.0,cot,23.0,424,5.0
+0,proper_tags,425, tested,18591,5.0,cot,24.0,425,5.0
+0,proper_tags,426,",",11,5.0,cot,25.0,426,5.0
+0,proper_tags,427, the,290,5.0,cot,26.0,427,5.0
+0,proper_tags,428, evidence,11716,5.0,cot,27.0,428,5.0
+0,proper_tags,429, that,484,5.0,cot,28.0,429,5.0
+0,proper_tags,430, distinguishes,189092,5.0,cot,29.0,430,5.0
+0,proper_tags,431, two,1920,5.0,cot,30.0,431,5.0
+0,proper_tags,432, quantities,49540,5.0,cot,31.0,432,5.0
+0,proper_tags,433,",",11,5.0,cot,32.0,433,5.0
+0,proper_tags,434, and,326,5.0,cot,33.0,434,5.0
+0,proper_tags,435, the,290,5.0,cot,34.0,435,5.0
+0,proper_tags,436, practical,17377,5.0,cot,35.0,436,5.0
+0,proper_tags,437, consequence,52575,5.0,cot,36.0,437,5.0
+0,proper_tags,438, for,395,5.0,cot,37.0,438,5.0
+0,proper_tags,439, later,4849,5.0,cot,38.0,439,5.0
+0,proper_tags,440, experiments,35437,5.0,cot,39.0,440,5.0
+0,proper_tags,441,.,13,5.0,cot,40.0,441,5.0
+0,proper_tags,442, The,623,5.0,cot,41.0,442,5.0
+0,proper_tags,443, report,3019,5.0,cot,42.0,443,5.0
+0,proper_tags,444, can,665,5.0,cot,43.0,444,5.0
+0,proper_tags,445, be,413,5.0,cot,44.0,445,5.0
+0,proper_tags,446, affirmative,159284,5.0,cot,45.0,446,5.0
+0,proper_tags,447, about,1078,5.0,cot,46.0,447,5.0
+0,proper_tags,448, a,261,5.0,cot,47.0,448,5.0
+0,proper_tags,449, demonstrated,31756,5.0,cot,48.0,449,5.0
+0,proper_tags,450, diss,32434,5.0,cot,49.0,450,5.0
+0,proper_tags,451,ociation,29498,5.0,cot,50.0,451,5.0
+0,proper_tags,452, while,2049,5.0,cot,51.0,452,5.0
+0,proper_tags,453, remaining,15448,5.0,cot,52.0,453,5.0
+0,proper_tags,454, narrow,24125,5.0,cot,53.0,454,5.0
+0,proper_tags,455, about,1078,5.0,cot,54.0,455,5.0
+0,proper_tags,456, its,1617,5.0,cot,55.0,456,5.0
+0,proper_tags,457, scope,12645,5.0,cot,56.0,457,5.0
+0,proper_tags,458,.,13,5.0,cot,57.0,458,5.0
+0,proper_tags,459, A,355,5.0,cot,58.0,459,5.0
+0,proper_tags,460, side,4307,5.0,cot,59.0,460,5.0
+0,proper_tags,461,-by,23541,5.0,cot,60.0,461,5.0
+0,proper_tags,462,-side,34433,5.0,cot,61.0,462,5.0
+0,proper_tags,463, figure,11310,5.0,cot,62.0,463,5.0
+0,proper_tags,464, gives,8967,5.0,cot,63.0,464,5.0
+0,proper_tags,465, the,290,5.0,cot,64.0,465,5.0
+0,proper_tags,466, lesson,23552,5.0,cot,65.0,466,5.0
+0,proper_tags,467, a,261,5.0,cot,66.0,467,5.0
+0,proper_tags,468, concrete,19230,5.0,cot,67.0,468,5.0
+0,proper_tags,469, anchor,31067,5.0,cot,68.0,469,5.0
+0,proper_tags,470,.,13,5.0,cot,69.0,470,5.0
+0,proper_tags,471, The,623,5.0,cot,70.0,471,5.0
+0,proper_tags,472, answer,6052,5.0,cot,71.0,472,5.0
+0,proper_tags,473, should,1757,5.0,cot,72.0,473,5.0
+0,proper_tags,474, avoid,8397,5.0,cot,73.0,474,5.0
+0,proper_tags,475, universal,29983,5.0,cot,74.0,475,5.0
+0,proper_tags,476, claims,14846,5.0,cot,75.0,476,5.0
+0,proper_tags,477, from,591,5.0,cot,76.0,477,5.0
+0,proper_tags,478, a,261,5.0,cot,77.0,478,5.0
+0,proper_tags,479, small,3291,5.0,cot,78.0,479,5.0
+0,proper_tags,480, case,1890,5.0,cot,79.0,480,5.0
+0,proper_tags,481, set,920,5.0,cot,80.0,481,5.0
+0,proper_tags,482, and,326,5.0,cot,81.0,482,5.0
+0,proper_tags,483, explain,16644,5.0,cot,82.0,483,5.0
+0,proper_tags,484, why,4436,5.0,cot,83.0,484,5.0
+0,proper_tags,485, preserving,74564,5.0,cot,84.0,485,5.0
+0,proper_tags,486, the,290,5.0,cot,85.0,486,5.0
+0,proper_tags,487, adverse,45641,5.0,cot,86.0,487,5.0
+0,proper_tags,488, result,1534,5.0,cot,87.0,488,5.0
+0,proper_tags,489, improves,45865,5.0,cot,88.0,489,5.0
+0,proper_tags,490, the,290,5.0,cot,89.0,490,5.0
+0,proper_tags,491, research,4176,5.0,cot,90.0,491,5.0
+0,proper_tags,492, direction,9262,5.0,cot,91.0,492,5.0
+0,proper_tags,493, rather,7542,5.0,cot,92.0,493,5.0
+0,proper_tags,494, than,1572,5.0,cot,93.0,494,5.0
+0,proper_tags,495, merely,26624,5.0,cot,94.0,495,5.0
+0,proper_tags,496, satisfying,52718,5.0,cot,95.0,496,5.0
+0,proper_tags,497, a,261,5.0,cot,96.0,497,5.0
+0,proper_tags,498, reporting,20790,5.0,cot,97.0,498,5.0
+0,proper_tags,499, convention,39395,5.0,cot,98.0,499,5.0
+0,proper_tags,500,.,13,5.0,cot,99.0,500,5.0
+0,proper_tags,501,<|end|>,200007,,,,501,
+0,proper_tags,502,<|start|>,200006,,,,502,
+0,proper_tags,503,assistant,173781,,,,503,
+0,proper_tags,504,<|channel|>,200005,,,,504,
+0,proper_tags,505,final,17196,,,,505,
+0,proper_tags,506,<|message|>,200008,,,,506,
+0,proper_tags,507,Build,12893,6.0,assistant,1.0,507,6.0
+0,proper_tags,508, the,290,6.0,assistant,2.0,508,6.0
+0,proper_tags,509, report,3019,6.0,assistant,3.0,509,6.0
+0,proper_tags,510, around,2846,6.0,assistant,4.0,510,6.0
+0,proper_tags,511, the,290,6.0,assistant,5.0,511,6.0
+0,proper_tags,512, distinction,48685,6.0,assistant,6.0,512,6.0
+0,proper_tags,513, the,290,6.0,assistant,7.0,513,6.0
+0,proper_tags,514, experiment,12527,6.0,assistant,8.0,514,6.0
+0,proper_tags,515, reveals,34901,6.0,assistant,9.0,515,6.0
+0,proper_tags,516,.,13,6.0,assistant,10.0,516,6.0
+0,proper_tags,517, Begin,32775,6.0,assistant,11.0,517,6.0
+0,proper_tags,518, with,483,6.0,assistant,12.0,518,6.0
+0,proper_tags,519, the,290,6.0,assistant,13.0,519,6.0
+0,proper_tags,520, intended,15663,6.0,assistant,14.0,520,6.0
+0,proper_tags,521, link,3461,6.0,assistant,15.0,521,6.0
+0,proper_tags,522, between,2870,6.0,assistant,16.0,522,6.0
+0,proper_tags,523, the,290,6.0,assistant,17.0,523,6.0
+0,proper_tags,524, role,5430,6.0,assistant,18.0,524,6.0
+0,proper_tags,525, read,1729,6.0,assistant,19.0,525,6.0
+0,proper_tags,526,out,468,6.0,assistant,20.0,526,6.0
+0,proper_tags,527, and,326,6.0,assistant,21.0,527,6.0
+0,proper_tags,528, instruction,21179,6.0,assistant,22.0,528,6.0
+0,proper_tags,529,-follow,156275,6.0,assistant,23.0,529,6.0
+0,proper_tags,530,ing,289,6.0,assistant,24.0,530,6.0
+0,proper_tags,531, behavior,12741,6.0,assistant,25.0,531,6.0
+0,proper_tags,532,.,13,6.0,assistant,26.0,532,6.0
+0,proper_tags,533, Then,7801,6.0,assistant,27.0,533,6.0
+0,proper_tags,534, show,2356,6.0,assistant,28.0,534,6.0
+0,proper_tags,535, the,290,6.0,assistant,29.0,535,6.0
+0,proper_tags,536, intervention,32206,6.0,assistant,30.0,536,6.0
+0,proper_tags,537,",",11,6.0,assistant,31.0,537,6.0
+0,proper_tags,538, the,290,6.0,assistant,32.0,538,6.0
+0,proper_tags,539, measured,26489,6.0,assistant,33.0,539,6.0
+0,proper_tags,540, score,8429,6.0,assistant,34.0,540,6.0
+0,proper_tags,541, change,3343,6.0,assistant,35.0,541,6.0
+0,proper_tags,542,",",11,6.0,assistant,36.0,542,6.0
+0,proper_tags,543, and,326,6.0,assistant,37.0,543,6.0
+0,proper_tags,544, the,290,6.0,assistant,38.0,544,6.0
+0,proper_tags,545, unchanged,73928,6.0,assistant,39.0,545,6.0
+0,proper_tags,546, or,503,6.0,assistant,40.0,546,6.0
+0,proper_tags,547, undesirable,121055,6.0,assistant,41.0,547,6.0
+0,proper_tags,548, behavior,12741,6.0,assistant,42.0,548,6.0
+0,proper_tags,549, in,306,6.0,assistant,43.0,549,6.0
+0,proper_tags,550, the,290,6.0,assistant,44.0,550,6.0
+0,proper_tags,551, same,2684,6.0,assistant,45.0,551,6.0
+0,proper_tags,552, figure,11310,6.0,assistant,46.0,552,6.0
+0,proper_tags,553, or,503,6.0,assistant,47.0,553,6.0
+0,proper_tags,554, table,3293,6.0,assistant,48.0,554,6.0
+0,proper_tags,555,.,13,6.0,assistant,49.0,555,6.0
+0,proper_tags,556, Explain,115474,6.0,assistant,50.0,556,6.0
+0,proper_tags,557, what,1412,6.0,assistant,51.0,557,6.0
+0,proper_tags,558, that,484,6.0,assistant,52.0,558,6.0
+0,proper_tags,559, means,4748,6.0,assistant,53.0,559,6.0
+0,proper_tags,560, for,395,6.0,assistant,54.0,560,6.0
+0,proper_tags,561, the,290,6.0,assistant,55.0,561,6.0
+0,proper_tags,562, next,2613,6.0,assistant,56.0,562,6.0
+0,proper_tags,563, research,4176,6.0,assistant,57.0,563,6.0
+0,proper_tags,564, decision,8660,6.0,assistant,58.0,564,6.0
+0,proper_tags,565,:,25,6.0,assistant,59.0,565,6.0
+0,proper_tags,566, the,290,6.0,assistant,60.0,566,6.0
+0,proper_tags,567, current,2208,6.0,assistant,61.0,567,6.0
+0,proper_tags,568, probe,31925,6.0,assistant,62.0,568,6.0
+0,proper_tags,569, score,8429,6.0,assistant,63.0,569,6.0
+0,proper_tags,570, is,382,6.0,assistant,64.0,570,6.0
+0,proper_tags,571, insufficient,67567,6.0,assistant,65.0,571,6.0
+0,proper_tags,572, as,472,6.0,assistant,66.0,572,6.0
+0,proper_tags,573, the,290,6.0,assistant,67.0,573,6.0
+0,proper_tags,574, sole,15139,6.0,assistant,68.0,574,6.0
+0,proper_tags,575, success,3505,6.0,assistant,69.0,575,6.0
+0,proper_tags,576, criterion,71270,6.0,assistant,70.0,576,6.0
+0,proper_tags,577, for,395,6.0,assistant,71.0,577,6.0
+0,proper_tags,578, this,495,6.0,assistant,72.0,578,6.0
+0,proper_tags,579, intervention,32206,6.0,assistant,73.0,579,6.0
+0,proper_tags,580,.,13,6.0,assistant,74.0,580,6.0
+0,proper_tags,581, State,5388,6.0,assistant,75.0,581,6.0
+0,proper_tags,582, the,290,6.0,assistant,76.0,582,6.0
+0,proper_tags,583, tested,18591,6.0,assistant,77.0,583,6.0
+0,proper_tags,584, scope,12645,6.0,assistant,78.0,584,6.0
+0,proper_tags,585, and,326,6.0,assistant,79.0,585,6.0
+0,proper_tags,586, the,290,6.0,assistant,80.0,586,6.0
+0,proper_tags,587, checks,22097,6.0,assistant,81.0,587,6.0
+0,proper_tags,588, that,484,6.0,assistant,82.0,588,6.0
+0,proper_tags,589, make,1520,6.0,assistant,83.0,589,6.0
+0,proper_tags,590, the,290,6.0,assistant,84.0,590,6.0
+0,proper_tags,591, observation,37276,6.0,assistant,85.0,591,6.0
+0,proper_tags,592, credible,80330,6.0,assistant,86.0,592,6.0
+0,proper_tags,593,.,13,6.0,assistant,87.0,593,6.0
+0,proper_tags,594, Follow,17547,6.0,assistant,88.0,594,6.0
+0,proper_tags,595, with,483,6.0,assistant,89.0,595,6.0
+0,proper_tags,596, one,1001,6.0,assistant,90.0,596,6.0
+0,proper_tags,597, experiment,12527,6.0,assistant,91.0,597,6.0
+0,proper_tags,598, that,484,6.0,assistant,92.0,598,6.0
+0,proper_tags,599, could,2023,6.0,assistant,93.0,599,6.0
+0,proper_tags,600, discriminate,127902,6.0,assistant,94.0,600,6.0
+0,proper_tags,601, among,6200,6.0,assistant,95.0,601,6.0
+0,proper_tags,602, the,290,6.0,assistant,96.0,602,6.0
+0,proper_tags,603, remaining,15448,6.0,assistant,97.0,603,6.0
+0,proper_tags,604, explanations,69457,6.0,assistant,98.0,604,6.0
+0,proper_tags,605,.,13,6.0,assistant,99.0,605,6.0
+0,proper_tags,606, This,1328,6.0,assistant,100.0,606,6.0
+0,proper_tags,607, gives,8967,6.0,assistant,101.0,607,6.0
+0,proper_tags,608, the,290,6.0,assistant,102.0,608,6.0
+0,proper_tags,609, report,3019,6.0,assistant,103.0,609,6.0
+0,proper_tags,610, a,261,6.0,assistant,104.0,610,6.0
+0,proper_tags,611, concrete,19230,6.0,assistant,105.0,611,6.0
+0,proper_tags,612, lesson,23552,6.0,assistant,106.0,612,6.0
+0,proper_tags,613, and,326,6.0,assistant,107.0,613,6.0
+0,proper_tags,614, a,261,6.0,assistant,108.0,614,6.0
+0,proper_tags,615, reason,5207,6.0,assistant,109.0,615,6.0
+0,proper_tags,616,ed,295,6.0,assistant,110.0,616,6.0
+0,proper_tags,617, next,2613,6.0,assistant,111.0,617,6.0
+0,proper_tags,618, step,5983,6.0,assistant,112.0,618,6.0
+0,proper_tags,619,",",11,6.0,assistant,113.0,619,6.0
+0,proper_tags,620, even,1952,6.0,assistant,114.0,620,6.0
+0,proper_tags,621, when,1261,6.0,assistant,115.0,621,6.0
+0,proper_tags,622, the,290,6.0,assistant,116.0,622,6.0
+0,proper_tags,623, original,4756,6.0,assistant,117.0,623,6.0
+0,proper_tags,624, intervention,32206,6.0,assistant,118.0,624,6.0
+0,proper_tags,625, falls,25709,6.0,assistant,119.0,625,6.0
+0,proper_tags,626, short,4022,6.0,assistant,120.0,626,6.0
+0,proper_tags,627,.,13,6.0,assistant,121.0,627,6.0
+0,proper_tags,628,<|return|>,200002,,,,628,
+1,basic_no_format,0,<|startoftext|>,199998,,,,629,
+1,basic_no_format,1,You,3575,0.0,system,1.0,630,0.0
+1,basic_no_format,2, are,553,0.0,system,2.0,631,0.0
+1,basic_no_format,3, Chat,17554,0.0,system,3.0,632,0.0
+1,basic_no_format,4,GPT,162016,0.0,system,4.0,633,0.0
+1,basic_no_format,5,",",11,0.0,system,5.0,634,0.0
+1,basic_no_format,6, a,261,0.0,system,6.0,635,0.0
+1,basic_no_format,7, large,4410,0.0,system,7.0,636,0.0
+1,basic_no_format,8, language,6439,0.0,system,8.0,637,0.0
+1,basic_no_format,9, model,2359,0.0,system,9.0,638,0.0
+1,basic_no_format,10, trained,22203,0.0,system,10.0,639,0.0
+1,basic_no_format,11, by,656,0.0,system,11.0,640,0.0
+1,basic_no_format,12, Open,7788,0.0,system,12.0,641,0.0
+1,basic_no_format,13,AI,17527,0.0,system,13.0,642,0.0
+1,basic_no_format,14,".
+",558,0.0,system,14.0,643,0.0
+1,basic_no_format,15,Knowledge,87447,0.0,system,15.0,644,0.0
+1,basic_no_format,16, cutoff,100594,0.0,system,16.0,645,0.0
+1,basic_no_format,17,:,25,0.0,system,17.0,646,0.0
+1,basic_no_format,18, ,220,0.0,system,18.0,647,0.0
+1,basic_no_format,19,202,1323,0.0,system,19.0,648,0.0
+1,basic_no_format,20,4,19,0.0,system,20.0,649,0.0
+1,basic_no_format,21,-,12,0.0,system,21.0,650,0.0
+1,basic_no_format,22,06,3218,0.0,system,22.0,651,0.0
+1,basic_no_format,23,"
+",198,0.0,system,23.0,652,0.0
+1,basic_no_format,24,Current,6576,0.0,system,24.0,653,0.0
+1,basic_no_format,25, date,3521,0.0,system,25.0,654,0.0
+1,basic_no_format,26,:,25,0.0,system,26.0,655,0.0
+1,basic_no_format,27, ,220,0.0,system,27.0,656,0.0
+1,basic_no_format,28,202,1323,0.0,system,28.0,657,0.0
+1,basic_no_format,29,5,20,0.0,system,29.0,658,0.0
+1,basic_no_format,30,-,12,0.0,system,30.0,659,0.0
+1,basic_no_format,31,10,702,0.0,system,31.0,660,0.0
+1,basic_no_format,32,-,12,0.0,system,32.0,661,0.0
+1,basic_no_format,33,01,2290,0.0,system,33.0,662,0.0
+1,basic_no_format,34,"
+
+",279,0.0,system,34.0,663,0.0
+1,basic_no_format,35,Reason,30377,0.0,system,35.0,664,0.0
+1,basic_no_format,36,ing,289,0.0,system,36.0,665,0.0
+1,basic_no_format,37,:,25,0.0,system,37.0,666,0.0
+1,basic_no_format,38, medium,14093,0.0,system,38.0,667,0.0
+1,basic_no_format,39,"
+
+",279,0.0,system,39.0,668,0.0
+1,basic_no_format,40,#,2,0.0,system,40.0,669,0.0
+1,basic_no_format,41, Valid,13888,0.0,system,41.0,670,0.0
+1,basic_no_format,42, channels,18403,0.0,system,42.0,671,0.0
+1,basic_no_format,43,:,25,0.0,system,43.0,672,0.0
+1,basic_no_format,44, analysis,8450,0.0,system,44.0,673,0.0
+1,basic_no_format,45,",",11,0.0,system,45.0,674,0.0
+1,basic_no_format,46, commentary,49159,0.0,system,46.0,675,0.0
+1,basic_no_format,47,",",11,0.0,system,47.0,676,0.0
+1,basic_no_format,48, final,1721,0.0,system,48.0,677,0.0
+1,basic_no_format,49,.,13,0.0,system,49.0,678,0.0
+1,basic_no_format,50, Channel,21030,0.0,system,50.0,679,0.0
+1,basic_no_format,51, must,2804,0.0,system,51.0,680,0.0
+1,basic_no_format,52, be,413,0.0,system,52.0,681,0.0
+1,basic_no_format,53, included,7360,0.0,system,53.0,682,0.0
+1,basic_no_format,54, for,395,0.0,system,54.0,683,0.0
+1,basic_no_format,55, every,1753,0.0,system,55.0,684,0.0
+1,basic_no_format,56, message,3176,0.0,system,56.0,685,0.0
+1,basic_no_format,57,".
+",558,0.0,system,57.0,686,0.0
+1,basic_no_format,58,Hi,12194,1.0,user,1.0,687,1.0
+1,basic_no_format,59,!,0,1.0,user,2.0,688,1.0
+1,basic_no_format,60, I'm,5477,1.0,user,3.0,689,1.0
+1,basic_no_format,61, writing,5281,1.0,user,4.0,690,1.0
+1,basic_no_format,62, up,869,1.0,user,5.0,691,1.0
+1,basic_no_format,63, a,261,1.0,user,6.0,692,1.0
+1,basic_no_format,64, M,391,1.0,user,7.0,693,1.0
+1,basic_no_format,65,ATS,42222,1.0,user,8.0,694,1.0
+1,basic_no_format,66, project,2993,1.0,user,9.0,695,1.0
+1,basic_no_format,67, to,316,1.0,user,10.0,696,1.0
+1,basic_no_format,68, discuss,5381,1.0,user,11.0,697,1.0
+1,basic_no_format,69, with,483,1.0,user,12.0,698,1.0
+1,basic_no_format,70, Ne,4475,1.0,user,13.0,699,1.0
+1,basic_no_format,71,el,296,1.0,user,14.0,700,1.0
+1,basic_no_format,72,.,13,1.0,user,15.0,701,1.0
+1,basic_no_format,73, Suppose,183159,1.0,user,16.0,702,1.0
+1,basic_no_format,74, a,261,1.0,user,17.0,703,1.0
+1,basic_no_format,75, steering,49066,1.0,user,18.0,704,1.0
+1,basic_no_format,76, vector,9727,1.0,user,19.0,705,1.0
+1,basic_no_format,77, moves,19523,1.0,user,20.0,706,1.0
+1,basic_no_format,78, the,290,1.0,user,21.0,707,1.0
+1,basic_no_format,79, role,5430,1.0,user,22.0,708,1.0
+1,basic_no_format,80,-pro,9666,1.0,user,23.0,709,1.0
+1,basic_no_format,81,be,1464,1.0,user,24.0,710,1.0
+1,basic_no_format,82, score,8429,1.0,user,25.0,711,1.0
+1,basic_no_format,83, strongly,27203,1.0,user,26.0,712,1.0
+1,basic_no_format,84,",",11,1.0,user,27.0,713,1.0
+1,basic_no_format,85, but,889,1.0,user,28.0,714,1.0
+1,basic_no_format,86, the,290,1.0,user,29.0,715,1.0
+1,basic_no_format,87, assistant,29186,1.0,user,30.0,716,1.0
+1,basic_no_format,88, still,2928,1.0,user,31.0,717,1.0
+1,basic_no_format,89, follows,18183,1.0,user,32.0,718,1.0
+1,basic_no_format,90, the,290,1.0,user,33.0,719,1.0
+1,basic_no_format,91, unwanted,49578,1.0,user,34.0,720,1.0
+1,basic_no_format,92, instruction,21179,1.0,user,35.0,721,1.0
+1,basic_no_format,93,.,13,1.0,user,36.0,722,1.0
+1,basic_no_format,94, What,4614,1.0,user,37.0,723,1.0
+1,basic_no_format,95, would,1481,1.0,user,38.0,724,1.0
+1,basic_no_format,96, be,413,1.0,user,39.0,725,1.0
+1,basic_no_format,97, the,290,1.0,user,40.0,726,1.0
+1,basic_no_format,98, most,1645,1.0,user,41.0,727,1.0
+1,basic_no_format,99, useful,8316,1.0,user,42.0,728,1.0
+1,basic_no_format,100, way,2006,1.0,user,43.0,729,1.0
+1,basic_no_format,101, to,316,1.0,user,44.0,730,1.0
+1,basic_no_format,102, investigate,31354,1.0,user,45.0,731,1.0
+1,basic_no_format,103, and,326,1.0,user,46.0,732,1.0
+1,basic_no_format,104, present,3333,1.0,user,47.0,733,1.0
+1,basic_no_format,105, that,484,1.0,user,48.0,734,1.0
+1,basic_no_format,106, result,1534,1.0,user,49.0,735,1.0
+1,basic_no_format,107,"?
+",3901,1.0,user,50.0,736,1.0
+1,basic_no_format,108,The,976,2.0,cot,1.0,737,2.0
+1,basic_no_format,109, user,1825,2.0,cot,2.0,738,2.0
+1,basic_no_format,110, describes,26751,2.0,cot,3.0,739,2.0
+1,basic_no_format,111, a,261,2.0,cot,4.0,740,2.0
+1,basic_no_format,112, mismatch,89229,2.0,cot,5.0,741,2.0
+1,basic_no_format,113, between,2870,2.0,cot,6.0,742,2.0
+1,basic_no_format,114, a,261,2.0,cot,7.0,743,2.0
+1,basic_no_format,115, measurement,27666,2.0,cot,8.0,744,2.0
+1,basic_no_format,116, and,326,2.0,cot,9.0,745,2.0
+1,basic_no_format,117, the,290,2.0,cot,10.0,746,2.0
+1,basic_no_format,118, behavior,12741,2.0,cot,11.0,747,2.0
+1,basic_no_format,119, it,480,2.0,cot,12.0,748,2.0
+1,basic_no_format,120, was,673,2.0,cot,13.0,749,2.0
+1,basic_no_format,121, meant,14506,2.0,cot,14.0,750,2.0
+1,basic_no_format,122, to,316,2.0,cot,15.0,751,2.0
+1,basic_no_format,123, predict,17946,2.0,cot,16.0,752,2.0
+1,basic_no_format,124,.,13,2.0,cot,17.0,753,2.0
+1,basic_no_format,125, I,357,2.0,cot,18.0,754,2.0
+1,basic_no_format,126, should,1757,2.0,cot,19.0,755,2.0
+1,basic_no_format,127, treat,4665,2.0,cot,20.0,756,2.0
+1,basic_no_format,128, this,495,2.0,cot,21.0,757,2.0
+1,basic_no_format,129, as,472,2.0,cot,22.0,758,2.0
+1,basic_no_format,130, an,448,2.0,cot,23.0,759,2.0
+1,basic_no_format,131, informative,36918,2.0,cot,24.0,760,2.0
+1,basic_no_format,132, result,1534,2.0,cot,25.0,761,2.0
+1,basic_no_format,133, rather,7542,2.0,cot,26.0,762,2.0
+1,basic_no_format,134, than,1572,2.0,cot,27.0,763,2.0
+1,basic_no_format,135, a,261,2.0,cot,28.0,764,2.0
+1,basic_no_format,136, failure,14090,2.0,cot,29.0,765,2.0
+1,basic_no_format,137, to,316,2.0,cot,30.0,766,2.0
+1,basic_no_format,138, decorate,63871,2.0,cot,31.0,767,2.0
+1,basic_no_format,139, with,483,2.0,cot,32.0,768,2.0
+1,basic_no_format,140, a,261,2.0,cot,33.0,769,2.0
+1,basic_no_format,141, positive,8841,2.0,cot,34.0,770,2.0
+1,basic_no_format,142, story,4869,2.0,cot,35.0,771,2.0
+1,basic_no_format,143,.,13,2.0,cot,36.0,772,2.0
+1,basic_no_format,144, First,8338,2.0,cot,37.0,773,2.0
+1,basic_no_format,145,",",11,2.0,cot,38.0,774,2.0
+1,basic_no_format,146, the,290,2.0,cot,39.0,775,2.0
+1,basic_no_format,147, actual,6290,2.0,cot,40.0,776,2.0
+1,basic_no_format,148, intervention,32206,2.0,cot,41.0,777,2.0
+1,basic_no_format,149, and,326,2.0,cot,42.0,778,2.0
+1,basic_no_format,150, behavioral,56770,2.0,cot,43.0,779,2.0
+1,basic_no_format,151, scoring,35765,2.0,cot,44.0,780,2.0
+1,basic_no_format,152, need,1309,2.0,cot,45.0,781,2.0
+1,basic_no_format,153, verification,34496,2.0,cot,46.0,782,2.0
+1,basic_no_format,154,.,13,2.0,cot,47.0,783,2.0
+1,basic_no_format,155, If,1843,2.0,cot,48.0,784,2.0
+1,basic_no_format,156, those,2617,2.0,cot,49.0,785,2.0
+1,basic_no_format,157, checks,22097,2.0,cot,50.0,786,2.0
+1,basic_no_format,158, pass,1853,2.0,cot,51.0,787,2.0
+1,basic_no_format,159,",",11,2.0,cot,52.0,788,2.0
+1,basic_no_format,160, the,290,2.0,cot,53.0,789,2.0
+1,basic_no_format,161, read,1729,2.0,cot,54.0,790,2.0
+1,basic_no_format,162,out,468,2.0,cot,55.0,791,2.0
+1,basic_no_format,163, may,1340,2.0,cot,56.0,792,2.0
+1,basic_no_format,164, not,625,2.0,cot,57.0,793,2.0
+1,basic_no_format,165, be,413,2.0,cot,58.0,794,2.0
+1,basic_no_format,166, sufficient,21920,2.0,cot,59.0,795,2.0
+1,basic_no_format,167, for,395,2.0,cot,60.0,796,2.0
+1,basic_no_format,168, the,290,2.0,cot,61.0,797,2.0
+1,basic_no_format,169, intended,15663,2.0,cot,62.0,798,2.0
+1,basic_no_format,170, behavioral,56770,2.0,cot,63.0,799,2.0
+1,basic_no_format,171, change,3343,2.0,cot,64.0,800,2.0
+1,basic_no_format,172,",",11,2.0,cot,65.0,801,2.0
+1,basic_no_format,173, or,503,2.0,cot,66.0,802,2.0
+1,basic_no_format,174, the,290,2.0,cot,67.0,803,2.0
+1,basic_no_format,175, intervention,32206,2.0,cot,68.0,804,2.0
+1,basic_no_format,176, may,1340,2.0,cot,69.0,805,2.0
+1,basic_no_format,177, affect,7902,2.0,cot,70.0,806,2.0
+1,basic_no_format,178, the,290,2.0,cot,71.0,807,2.0
+1,basic_no_format,179, wrong,8201,2.0,cot,72.0,808,2.0
+1,basic_no_format,180, location,5100,2.0,cot,73.0,809,2.0
+1,basic_no_format,181, or,503,2.0,cot,74.0,810,2.0
+1,basic_no_format,182, time,1058,2.0,cot,75.0,811,2.0
+1,basic_no_format,183,.,13,2.0,cot,76.0,812,2.0
+1,basic_no_format,184, The,623,2.0,cot,77.0,813,2.0
+1,basic_no_format,185, answer,6052,2.0,cot,78.0,814,2.0
+1,basic_no_format,186, should,1757,2.0,cot,79.0,815,2.0
+1,basic_no_format,187, recommend,7013,2.0,cot,80.0,816,2.0
+1,basic_no_format,188, a,261,2.0,cot,81.0,817,2.0
+1,basic_no_format,189, few,3120,2.0,cot,82.0,818,2.0
+1,basic_no_format,190, discrimin,50254,2.0,cot,83.0,819,2.0
+1,basic_no_format,191,ating,1365,2.0,cot,84.0,820,2.0
+1,basic_no_format,192, checks,22097,2.0,cot,85.0,821,2.0
+1,basic_no_format,193, and,326,2.0,cot,86.0,822,2.0
+1,basic_no_format,194, make,1520,2.0,cot,87.0,823,2.0
+1,basic_no_format,195, the,290,2.0,cot,88.0,824,2.0
+1,basic_no_format,196, observed,20395,2.0,cot,89.0,825,2.0
+1,basic_no_format,197, diss,32434,2.0,cot,90.0,826,2.0
+1,basic_no_format,198,ociation,29498,2.0,cot,91.0,827,2.0
+1,basic_no_format,199, visible,15263,2.0,cot,92.0,828,2.0
+1,basic_no_format,200, in,306,2.0,cot,93.0,829,2.0
+1,basic_no_format,201, the,290,2.0,cot,94.0,830,2.0
+1,basic_no_format,202, report,3019,2.0,cot,95.0,831,2.0
+1,basic_no_format,203, without,2935,2.0,cot,96.0,832,2.0
+1,basic_no_format,204, claiming,45729,2.0,cot,97.0,833,2.0
+1,basic_no_format,205, that,484,2.0,cot,98.0,834,2.0
+1,basic_no_format,206, every,1753,2.0,cot,99.0,835,2.0
+1,basic_no_format,207, role,5430,2.0,cot,100.0,836,2.0
+1,basic_no_format,208, representation,22311,2.0,cot,101.0,837,2.0
+1,basic_no_format,209, is,382,2.0,cot,102.0,838,2.0
+1,basic_no_format,210, behavior,12741,2.0,cot,103.0,839,2.0
+1,basic_no_format,211,ally,2146,2.0,cot,104.0,840,2.0
+1,basic_no_format,212, irrelevant,77671,2.0,cot,105.0,841,2.0
+1,basic_no_format,213,".
+",558,2.0,cot,106.0,842,2.0
+1,basic_no_format,214,Verify,37762,3.0,assistant,1.0,843,3.0
+1,basic_no_format,215, that,484,3.0,assistant,2.0,844,3.0
+1,basic_no_format,216, the,290,3.0,assistant,3.0,845,3.0
+1,basic_no_format,217, intended,15663,3.0,assistant,4.0,846,3.0
+1,basic_no_format,218, activation,28961,3.0,assistant,5.0,847,3.0
+1,basic_no_format,219, edit,9204,3.0,assistant,6.0,848,3.0
+1,basic_no_format,220, was,673,3.0,assistant,7.0,849,3.0
+1,basic_no_format,221, applied,13335,3.0,assistant,8.0,850,3.0
+1,basic_no_format,222, and,326,3.0,assistant,9.0,851,3.0
+1,basic_no_format,223, inspect,36665,3.0,assistant,10.0,852,3.0
+1,basic_no_format,224, the,290,3.0,assistant,11.0,853,3.0
+1,basic_no_format,225, complete,5533,3.0,assistant,12.0,854,3.0
+1,basic_no_format,226, generated,13768,3.0,assistant,13.0,855,3.0
+1,basic_no_format,227, answers,14716,3.0,assistant,14.0,856,3.0
+1,basic_no_format,228, using,2360,3.0,assistant,15.0,857,3.0
+1,basic_no_format,229, a,261,3.0,assistant,16.0,858,3.0
+1,basic_no_format,230, fixed,13213,3.0,assistant,17.0,859,3.0
+1,basic_no_format,231, behavioral,56770,3.0,assistant,18.0,860,3.0
+1,basic_no_format,232, rule,10652,3.0,assistant,19.0,861,3.0
+1,basic_no_format,233,.,13,3.0,assistant,20.0,862,3.0
+1,basic_no_format,234, Then,7801,3.0,assistant,21.0,863,3.0
+1,basic_no_format,235, show,2356,3.0,assistant,22.0,864,3.0
+1,basic_no_format,236, the,290,3.0,assistant,23.0,865,3.0
+1,basic_no_format,237, read,1729,3.0,assistant,24.0,866,3.0
+1,basic_no_format,238,out,468,3.0,assistant,25.0,867,3.0
+1,basic_no_format,239, change,3343,3.0,assistant,26.0,868,3.0
+1,basic_no_format,240, and,326,3.0,assistant,27.0,869,3.0
+1,basic_no_format,241, behavioral,56770,3.0,assistant,28.0,870,3.0
+1,basic_no_format,242, outcome,24192,3.0,assistant,29.0,871,3.0
+1,basic_no_format,243, together,4717,3.0,assistant,30.0,872,3.0
+1,basic_no_format,244,.,13,3.0,assistant,31.0,873,3.0
+1,basic_no_format,245, The,623,3.0,assistant,32.0,874,3.0
+1,basic_no_format,246, immediate,22158,3.0,assistant,33.0,875,3.0
+1,basic_no_format,247, finding,12129,3.0,assistant,34.0,876,3.0
+1,basic_no_format,248, is,382,3.0,assistant,35.0,877,3.0
+1,basic_no_format,249, that,484,3.0,assistant,36.0,878,3.0
+1,basic_no_format,250, this,495,3.0,assistant,37.0,879,3.0
+1,basic_no_format,251, intervention,32206,3.0,assistant,38.0,880,3.0
+1,basic_no_format,252, changed,9180,3.0,assistant,39.0,881,3.0
+1,basic_no_format,253, this,495,3.0,assistant,40.0,882,3.0
+1,basic_no_format,254, probe,31925,3.0,assistant,41.0,883,3.0
+1,basic_no_format,255, score,8429,3.0,assistant,42.0,884,3.0
+1,basic_no_format,256, without,2935,3.0,assistant,43.0,885,3.0
+1,basic_no_format,257, producing,24168,3.0,assistant,44.0,886,3.0
+1,basic_no_format,258, the,290,3.0,assistant,45.0,887,3.0
+1,basic_no_format,259, desired,18450,3.0,assistant,46.0,888,3.0
+1,basic_no_format,260, behavior,12741,3.0,assistant,47.0,889,3.0
+1,basic_no_format,261, in,306,3.0,assistant,48.0,890,3.0
+1,basic_no_format,262, the,290,3.0,assistant,49.0,891,3.0
+1,basic_no_format,263, tested,18591,3.0,assistant,50.0,892,3.0
+1,basic_no_format,264, cases,7911,3.0,assistant,51.0,893,3.0
+1,basic_no_format,265,.,13,3.0,assistant,52.0,894,3.0
+1,basic_no_format,266, Useful,91124,3.0,assistant,53.0,895,3.0
+1,basic_no_format,267, follow,2622,3.0,assistant,54.0,896,3.0
+1,basic_no_format,268,-ups,37005,3.0,assistant,55.0,897,3.0
+1,basic_no_format,269, include,3931,3.0,assistant,56.0,898,3.0
+1,basic_no_format,270, moving,10067,3.0,assistant,57.0,899,3.0
+1,basic_no_format,271, the,290,3.0,assistant,58.0,900,3.0
+1,basic_no_format,272, intervention,32206,3.0,assistant,59.0,901,3.0
+1,basic_no_format,273, to,316,3.0,assistant,60.0,902,3.0
+1,basic_no_format,274, a,261,3.0,assistant,61.0,903,3.0
+1,basic_no_format,275, justified,78757,3.0,assistant,62.0,904,3.0
+1,basic_no_format,276, alternative,13319,3.0,assistant,63.0,905,3.0
+1,basic_no_format,277, location,5100,3.0,assistant,64.0,906,3.0
+1,basic_no_format,278,",",11,3.0,assistant,65.0,907,3.0
+1,basic_no_format,279, varying,44689,3.0,assistant,66.0,908,3.0
+1,basic_no_format,280, its,1617,3.0,assistant,67.0,909,3.0
+1,basic_no_format,281, timing,31922,3.0,assistant,68.0,910,3.0
+1,basic_no_format,282,",",11,3.0,assistant,69.0,911,3.0
+1,basic_no_format,283, and,326,3.0,assistant,70.0,912,3.0
+1,basic_no_format,284, comparing,42171,3.0,assistant,71.0,913,3.0
+1,basic_no_format,285, with,483,3.0,assistant,72.0,914,3.0
+1,basic_no_format,286, a,261,3.0,assistant,73.0,915,3.0
+1,basic_no_format,287, simple,4705,3.0,assistant,74.0,916,3.0
+1,basic_no_format,288, instruction,21179,3.0,assistant,75.0,917,3.0
+1,basic_no_format,289, baseline,51356,3.0,assistant,76.0,918,3.0
+1,basic_no_format,290,.,13,3.0,assistant,77.0,919,3.0
+1,basic_no_format,291, Preserve,140469,3.0,assistant,78.0,920,3.0
+1,basic_no_format,292, the,290,3.0,assistant,79.0,921,3.0
+1,basic_no_format,293, original,4756,3.0,assistant,80.0,922,3.0
+1,basic_no_format,294, result,1534,3.0,assistant,81.0,923,3.0
+1,basic_no_format,295, even,1952,3.0,assistant,82.0,924,3.0
+1,basic_no_format,296, if,538,3.0,assistant,83.0,925,3.0
+1,basic_no_format,297, a,261,3.0,assistant,84.0,926,3.0
+1,basic_no_format,298, later,4849,3.0,assistant,85.0,927,3.0
+1,basic_no_format,299, setting,9258,3.0,assistant,86.0,928,3.0
+1,basic_no_format,300, works,5882,3.0,assistant,87.0,929,3.0
+1,basic_no_format,301,.,13,3.0,assistant,88.0,930,3.0
+1,basic_no_format,302, It,1225,3.0,assistant,89.0,931,3.0
+1,basic_no_format,303, identifies,59674,3.0,assistant,90.0,932,3.0
+1,basic_no_format,304, a,261,3.0,assistant,91.0,933,3.0
+1,basic_no_format,305, limitation,37039,3.0,assistant,92.0,934,3.0
+1,basic_no_format,306, of,328,3.0,assistant,93.0,935,3.0
+1,basic_no_format,307, the,290,3.0,assistant,94.0,936,3.0
+1,basic_no_format,308, current,2208,3.0,assistant,95.0,937,3.0
+1,basic_no_format,309, measurement,27666,3.0,assistant,96.0,938,3.0
+1,basic_no_format,310,-inter,63516,3.0,assistant,97.0,939,3.0
+1,basic_no_format,311,vention,9584,3.0,assistant,98.0,940,3.0
+1,basic_no_format,312, pair,10610,3.0,assistant,99.0,941,3.0
+1,basic_no_format,313, and,326,3.0,assistant,100.0,942,3.0
+1,basic_no_format,314, helps,9335,3.0,assistant,101.0,943,3.0
+1,basic_no_format,315, prevent,7332,3.0,assistant,102.0,944,3.0
+1,basic_no_format,316, a,261,3.0,assistant,103.0,945,3.0
+1,basic_no_format,317, strong,5532,3.0,assistant,104.0,946,3.0
+1,basic_no_format,318, internal,8812,3.0,assistant,105.0,947,3.0
+1,basic_no_format,319, score,8429,3.0,assistant,106.0,948,3.0
+1,basic_no_format,320, shift,12847,3.0,assistant,107.0,949,3.0
+1,basic_no_format,321, from,591,3.0,assistant,108.0,950,3.0
+1,basic_no_format,322, being,2447,3.0,assistant,109.0,951,3.0
+1,basic_no_format,323, mistaken,70793,3.0,assistant,110.0,952,3.0
+1,basic_no_format,324, for,395,3.0,assistant,111.0,953,3.0
+1,basic_no_format,325, a,261,3.0,assistant,112.0,954,3.0
+1,basic_no_format,326, successful,9359,3.0,assistant,113.0,955,3.0
+1,basic_no_format,327, behavioral,56770,3.0,assistant,114.0,956,3.0
+1,basic_no_format,328, control,3580,3.0,assistant,115.0,957,3.0
+1,basic_no_format,329,".
+",558,3.0,assistant,116.0,958,3.0
+1,basic_no_format,330,Thanks,14897,4.0,user,1.0,959,4.0
+1,basic_no_format,331,!,0,4.0,user,2.0,960,4.0
+1,basic_no_format,332, How,3253,4.0,user,3.0,961,4.0
+1,basic_no_format,333, can,665,4.0,user,4.0,962,4.0
+1,basic_no_format,334, I,357,4.0,user,5.0,963,4.0
+1,basic_no_format,335, make,1520,4.0,user,6.0,964,4.0
+1,basic_no_format,336, that,484,4.0,user,7.0,965,4.0
+1,basic_no_format,337, finding,12129,4.0,user,8.0,966,4.0
+1,basic_no_format,338, the,290,4.0,user,9.0,967,4.0
+1,basic_no_format,339, center,6170,4.0,user,10.0,968,4.0
+1,basic_no_format,340, of,328,4.0,user,11.0,969,4.0
+1,basic_no_format,341, the,290,4.0,user,12.0,970,4.0
+1,basic_no_format,342, M,391,4.0,user,13.0,971,4.0
+1,basic_no_format,343,ATS,42222,4.0,user,14.0,972,4.0
+1,basic_no_format,344, report,3019,4.0,user,15.0,973,4.0
+1,basic_no_format,345, without,2935,4.0,user,16.0,974,4.0
+1,basic_no_format,346, sounding,86078,4.0,user,17.0,975,4.0
+1,basic_no_format,347, as,472,4.0,user,18.0,976,4.0
+1,basic_no_format,348, though,5495,4.0,user,19.0,977,4.0
+1,basic_no_format,349, the,290,4.0,user,20.0,978,4.0
+1,basic_no_format,350, project,2993,4.0,user,21.0,979,4.0
+1,basic_no_format,351, was,673,4.0,user,22.0,980,4.0
+1,basic_no_format,352, only,1606,4.0,user,23.0,981,4.0
+1,basic_no_format,353, a,261,4.0,user,24.0,982,4.0
+1,basic_no_format,354, collection,5801,4.0,user,25.0,983,4.0
+1,basic_no_format,355, of,328,4.0,user,26.0,984,4.0
+1,basic_no_format,356, things,3283,4.0,user,27.0,985,4.0
+1,basic_no_format,357, that,484,4.0,user,28.0,986,4.0
+1,basic_no_format,358, did,2242,4.0,user,29.0,987,4.0
+1,basic_no_format,359, not,625,4.0,user,30.0,988,4.0
+1,basic_no_format,360, work,1101,4.0,user,31.0,989,4.0
+1,basic_no_format,361,?,30,4.0,user,32.0,990,4.0
+1,basic_no_format,362, I'd,18754,4.0,user,33.0,991,4.0
+1,basic_no_format,363, like,1299,4.0,user,34.0,992,4.0
+1,basic_no_format,364, the,290,4.0,user,35.0,993,4.0
+1,basic_no_format,365, reader,10958,4.0,user,36.0,994,4.0
+1,basic_no_format,366, to,316,4.0,user,37.0,995,4.0
+1,basic_no_format,367, leave,7668,4.0,user,38.0,996,4.0
+1,basic_no_format,368, with,483,4.0,user,39.0,997,4.0
+1,basic_no_format,369, a,261,4.0,user,40.0,998,4.0
+1,basic_no_format,370, concrete,19230,4.0,user,41.0,999,4.0
+1,basic_no_format,371, lesson,23552,4.0,user,42.0,1000,4.0
+1,basic_no_format,372,".
+",558,4.0,user,43.0,1001,4.0
+1,basic_no_format,373,The,976,5.0,cot,1.0,1002,5.0
+1,basic_no_format,374, user,1825,5.0,cot,2.0,1003,5.0
+1,basic_no_format,375, wants,10648,5.0,cot,3.0,1004,5.0
+1,basic_no_format,376, a,261,5.0,cot,4.0,1005,5.0
+1,basic_no_format,377, narrative,34777,5.0,cot,5.0,1006,5.0
+1,basic_no_format,378, organized,23291,5.0,cot,6.0,1007,5.0
+1,basic_no_format,379, around,2846,5.0,cot,7.0,1008,5.0
+1,basic_no_format,380, what,1412,5.0,cot,8.0,1009,5.0
+1,basic_no_format,381, was,673,5.0,cot,9.0,1010,5.0
+1,basic_no_format,382, learned,13717,5.0,cot,10.0,1011,5.0
+1,basic_no_format,383, rather,7542,5.0,cot,11.0,1012,5.0
+1,basic_no_format,384, than,1572,5.0,cot,12.0,1013,5.0
+1,basic_no_format,385, the,290,5.0,cot,13.0,1014,5.0
+1,basic_no_format,386, chronology,197404,5.0,cot,14.0,1015,5.0
+1,basic_no_format,387, of,328,5.0,cot,15.0,1016,5.0
+1,basic_no_format,388, attempts,27747,5.0,cot,16.0,1017,5.0
+1,basic_no_format,389,.,13,5.0,cot,17.0,1018,5.0
+1,basic_no_format,390, I,357,5.0,cot,18.0,1019,5.0
+1,basic_no_format,391, should,1757,5.0,cot,19.0,1020,5.0
+1,basic_no_format,392, state,2608,5.0,cot,20.0,1021,5.0
+1,basic_no_format,393, the,290,5.0,cot,21.0,1022,5.0
+1,basic_no_format,394, relationship,6301,5.0,cot,22.0,1023,5.0
+1,basic_no_format,395, being,2447,5.0,cot,23.0,1024,5.0
+1,basic_no_format,396, tested,18591,5.0,cot,24.0,1025,5.0
+1,basic_no_format,397,",",11,5.0,cot,25.0,1026,5.0
+1,basic_no_format,398, the,290,5.0,cot,26.0,1027,5.0
+1,basic_no_format,399, evidence,11716,5.0,cot,27.0,1028,5.0
+1,basic_no_format,400, that,484,5.0,cot,28.0,1029,5.0
+1,basic_no_format,401, distinguishes,189092,5.0,cot,29.0,1030,5.0
+1,basic_no_format,402, two,1920,5.0,cot,30.0,1031,5.0
+1,basic_no_format,403, quantities,49540,5.0,cot,31.0,1032,5.0
+1,basic_no_format,404,",",11,5.0,cot,32.0,1033,5.0
+1,basic_no_format,405, and,326,5.0,cot,33.0,1034,5.0
+1,basic_no_format,406, the,290,5.0,cot,34.0,1035,5.0
+1,basic_no_format,407, practical,17377,5.0,cot,35.0,1036,5.0
+1,basic_no_format,408, consequence,52575,5.0,cot,36.0,1037,5.0
+1,basic_no_format,409, for,395,5.0,cot,37.0,1038,5.0
+1,basic_no_format,410, later,4849,5.0,cot,38.0,1039,5.0
+1,basic_no_format,411, experiments,35437,5.0,cot,39.0,1040,5.0
+1,basic_no_format,412,.,13,5.0,cot,40.0,1041,5.0
+1,basic_no_format,413, The,623,5.0,cot,41.0,1042,5.0
+1,basic_no_format,414, report,3019,5.0,cot,42.0,1043,5.0
+1,basic_no_format,415, can,665,5.0,cot,43.0,1044,5.0
+1,basic_no_format,416, be,413,5.0,cot,44.0,1045,5.0
+1,basic_no_format,417, affirmative,159284,5.0,cot,45.0,1046,5.0
+1,basic_no_format,418, about,1078,5.0,cot,46.0,1047,5.0
+1,basic_no_format,419, a,261,5.0,cot,47.0,1048,5.0
+1,basic_no_format,420, demonstrated,31756,5.0,cot,48.0,1049,5.0
+1,basic_no_format,421, diss,32434,5.0,cot,49.0,1050,5.0
+1,basic_no_format,422,ociation,29498,5.0,cot,50.0,1051,5.0
+1,basic_no_format,423, while,2049,5.0,cot,51.0,1052,5.0
+1,basic_no_format,424, remaining,15448,5.0,cot,52.0,1053,5.0
+1,basic_no_format,425, narrow,24125,5.0,cot,53.0,1054,5.0
+1,basic_no_format,426, about,1078,5.0,cot,54.0,1055,5.0
+1,basic_no_format,427, its,1617,5.0,cot,55.0,1056,5.0
+1,basic_no_format,428, scope,12645,5.0,cot,56.0,1057,5.0
+1,basic_no_format,429,.,13,5.0,cot,57.0,1058,5.0
+1,basic_no_format,430, A,355,5.0,cot,58.0,1059,5.0
+1,basic_no_format,431, side,4307,5.0,cot,59.0,1060,5.0
+1,basic_no_format,432,-by,23541,5.0,cot,60.0,1061,5.0
+1,basic_no_format,433,-side,34433,5.0,cot,61.0,1062,5.0
+1,basic_no_format,434, figure,11310,5.0,cot,62.0,1063,5.0
+1,basic_no_format,435, gives,8967,5.0,cot,63.0,1064,5.0
+1,basic_no_format,436, the,290,5.0,cot,64.0,1065,5.0
+1,basic_no_format,437, lesson,23552,5.0,cot,65.0,1066,5.0
+1,basic_no_format,438, a,261,5.0,cot,66.0,1067,5.0
+1,basic_no_format,439, concrete,19230,5.0,cot,67.0,1068,5.0
+1,basic_no_format,440, anchor,31067,5.0,cot,68.0,1069,5.0
+1,basic_no_format,441,.,13,5.0,cot,69.0,1070,5.0
+1,basic_no_format,442, The,623,5.0,cot,70.0,1071,5.0
+1,basic_no_format,443, answer,6052,5.0,cot,71.0,1072,5.0
+1,basic_no_format,444, should,1757,5.0,cot,72.0,1073,5.0
+1,basic_no_format,445, avoid,8397,5.0,cot,73.0,1074,5.0
+1,basic_no_format,446, universal,29983,5.0,cot,74.0,1075,5.0
+1,basic_no_format,447, claims,14846,5.0,cot,75.0,1076,5.0
+1,basic_no_format,448, from,591,5.0,cot,76.0,1077,5.0
+1,basic_no_format,449, a,261,5.0,cot,77.0,1078,5.0
+1,basic_no_format,450, small,3291,5.0,cot,78.0,1079,5.0
+1,basic_no_format,451, case,1890,5.0,cot,79.0,1080,5.0
+1,basic_no_format,452, set,920,5.0,cot,80.0,1081,5.0
+1,basic_no_format,453, and,326,5.0,cot,81.0,1082,5.0
+1,basic_no_format,454, explain,16644,5.0,cot,82.0,1083,5.0
+1,basic_no_format,455, why,4436,5.0,cot,83.0,1084,5.0
+1,basic_no_format,456, preserving,74564,5.0,cot,84.0,1085,5.0
+1,basic_no_format,457, the,290,5.0,cot,85.0,1086,5.0
+1,basic_no_format,458, adverse,45641,5.0,cot,86.0,1087,5.0
+1,basic_no_format,459, result,1534,5.0,cot,87.0,1088,5.0
+1,basic_no_format,460, improves,45865,5.0,cot,88.0,1089,5.0
+1,basic_no_format,461, the,290,5.0,cot,89.0,1090,5.0
+1,basic_no_format,462, research,4176,5.0,cot,90.0,1091,5.0
+1,basic_no_format,463, direction,9262,5.0,cot,91.0,1092,5.0
+1,basic_no_format,464, rather,7542,5.0,cot,92.0,1093,5.0
+1,basic_no_format,465, than,1572,5.0,cot,93.0,1094,5.0
+1,basic_no_format,466, merely,26624,5.0,cot,94.0,1095,5.0
+1,basic_no_format,467, satisfying,52718,5.0,cot,95.0,1096,5.0
+1,basic_no_format,468, a,261,5.0,cot,96.0,1097,5.0
+1,basic_no_format,469, reporting,20790,5.0,cot,97.0,1098,5.0
+1,basic_no_format,470, convention,39395,5.0,cot,98.0,1099,5.0
+1,basic_no_format,471,".
+",558,5.0,cot,99.0,1100,5.0
+1,basic_no_format,472,Build,12893,6.0,assistant,1.0,1101,6.0
+1,basic_no_format,473, the,290,6.0,assistant,2.0,1102,6.0
+1,basic_no_format,474, report,3019,6.0,assistant,3.0,1103,6.0
+1,basic_no_format,475, around,2846,6.0,assistant,4.0,1104,6.0
+1,basic_no_format,476, the,290,6.0,assistant,5.0,1105,6.0
+1,basic_no_format,477, distinction,48685,6.0,assistant,6.0,1106,6.0
+1,basic_no_format,478, the,290,6.0,assistant,7.0,1107,6.0
+1,basic_no_format,479, experiment,12527,6.0,assistant,8.0,1108,6.0
+1,basic_no_format,480, reveals,34901,6.0,assistant,9.0,1109,6.0
+1,basic_no_format,481,.,13,6.0,assistant,10.0,1110,6.0
+1,basic_no_format,482, Begin,32775,6.0,assistant,11.0,1111,6.0
+1,basic_no_format,483, with,483,6.0,assistant,12.0,1112,6.0
+1,basic_no_format,484, the,290,6.0,assistant,13.0,1113,6.0
+1,basic_no_format,485, intended,15663,6.0,assistant,14.0,1114,6.0
+1,basic_no_format,486, link,3461,6.0,assistant,15.0,1115,6.0
+1,basic_no_format,487, between,2870,6.0,assistant,16.0,1116,6.0
+1,basic_no_format,488, the,290,6.0,assistant,17.0,1117,6.0
+1,basic_no_format,489, role,5430,6.0,assistant,18.0,1118,6.0
+1,basic_no_format,490, read,1729,6.0,assistant,19.0,1119,6.0
+1,basic_no_format,491,out,468,6.0,assistant,20.0,1120,6.0
+1,basic_no_format,492, and,326,6.0,assistant,21.0,1121,6.0
+1,basic_no_format,493, instruction,21179,6.0,assistant,22.0,1122,6.0
+1,basic_no_format,494,-follow,156275,6.0,assistant,23.0,1123,6.0
+1,basic_no_format,495,ing,289,6.0,assistant,24.0,1124,6.0
+1,basic_no_format,496, behavior,12741,6.0,assistant,25.0,1125,6.0
+1,basic_no_format,497,.,13,6.0,assistant,26.0,1126,6.0
+1,basic_no_format,498, Then,7801,6.0,assistant,27.0,1127,6.0
+1,basic_no_format,499, show,2356,6.0,assistant,28.0,1128,6.0
+1,basic_no_format,500, the,290,6.0,assistant,29.0,1129,6.0
+1,basic_no_format,501, intervention,32206,6.0,assistant,30.0,1130,6.0
+1,basic_no_format,502,",",11,6.0,assistant,31.0,1131,6.0
+1,basic_no_format,503, the,290,6.0,assistant,32.0,1132,6.0
+1,basic_no_format,504, measured,26489,6.0,assistant,33.0,1133,6.0
+1,basic_no_format,505, score,8429,6.0,assistant,34.0,1134,6.0
+1,basic_no_format,506, change,3343,6.0,assistant,35.0,1135,6.0
+1,basic_no_format,507,",",11,6.0,assistant,36.0,1136,6.0
+1,basic_no_format,508, and,326,6.0,assistant,37.0,1137,6.0
+1,basic_no_format,509, the,290,6.0,assistant,38.0,1138,6.0
+1,basic_no_format,510, unchanged,73928,6.0,assistant,39.0,1139,6.0
+1,basic_no_format,511, or,503,6.0,assistant,40.0,1140,6.0
+1,basic_no_format,512, undesirable,121055,6.0,assistant,41.0,1141,6.0
+1,basic_no_format,513, behavior,12741,6.0,assistant,42.0,1142,6.0
+1,basic_no_format,514, in,306,6.0,assistant,43.0,1143,6.0
+1,basic_no_format,515, the,290,6.0,assistant,44.0,1144,6.0
+1,basic_no_format,516, same,2684,6.0,assistant,45.0,1145,6.0
+1,basic_no_format,517, figure,11310,6.0,assistant,46.0,1146,6.0
+1,basic_no_format,518, or,503,6.0,assistant,47.0,1147,6.0
+1,basic_no_format,519, table,3293,6.0,assistant,48.0,1148,6.0
+1,basic_no_format,520,.,13,6.0,assistant,49.0,1149,6.0
+1,basic_no_format,521, Explain,115474,6.0,assistant,50.0,1150,6.0
+1,basic_no_format,522, what,1412,6.0,assistant,51.0,1151,6.0
+1,basic_no_format,523, that,484,6.0,assistant,52.0,1152,6.0
+1,basic_no_format,524, means,4748,6.0,assistant,53.0,1153,6.0
+1,basic_no_format,525, for,395,6.0,assistant,54.0,1154,6.0
+1,basic_no_format,526, the,290,6.0,assistant,55.0,1155,6.0
+1,basic_no_format,527, next,2613,6.0,assistant,56.0,1156,6.0
+1,basic_no_format,528, research,4176,6.0,assistant,57.0,1157,6.0
+1,basic_no_format,529, decision,8660,6.0,assistant,58.0,1158,6.0
+1,basic_no_format,530,:,25,6.0,assistant,59.0,1159,6.0
+1,basic_no_format,531, the,290,6.0,assistant,60.0,1160,6.0
+1,basic_no_format,532, current,2208,6.0,assistant,61.0,1161,6.0
+1,basic_no_format,533, probe,31925,6.0,assistant,62.0,1162,6.0
+1,basic_no_format,534, score,8429,6.0,assistant,63.0,1163,6.0
+1,basic_no_format,535, is,382,6.0,assistant,64.0,1164,6.0
+1,basic_no_format,536, insufficient,67567,6.0,assistant,65.0,1165,6.0
+1,basic_no_format,537, as,472,6.0,assistant,66.0,1166,6.0
+1,basic_no_format,538, the,290,6.0,assistant,67.0,1167,6.0
+1,basic_no_format,539, sole,15139,6.0,assistant,68.0,1168,6.0
+1,basic_no_format,540, success,3505,6.0,assistant,69.0,1169,6.0
+1,basic_no_format,541, criterion,71270,6.0,assistant,70.0,1170,6.0
+1,basic_no_format,542, for,395,6.0,assistant,71.0,1171,6.0
+1,basic_no_format,543, this,495,6.0,assistant,72.0,1172,6.0
+1,basic_no_format,544, intervention,32206,6.0,assistant,73.0,1173,6.0
+1,basic_no_format,545,.,13,6.0,assistant,74.0,1174,6.0
+1,basic_no_format,546, State,5388,6.0,assistant,75.0,1175,6.0
+1,basic_no_format,547, the,290,6.0,assistant,76.0,1176,6.0
+1,basic_no_format,548, tested,18591,6.0,assistant,77.0,1177,6.0
+1,basic_no_format,549, scope,12645,6.0,assistant,78.0,1178,6.0
+1,basic_no_format,550, and,326,6.0,assistant,79.0,1179,6.0
+1,basic_no_format,551, the,290,6.0,assistant,80.0,1180,6.0
+1,basic_no_format,552, checks,22097,6.0,assistant,81.0,1181,6.0
+1,basic_no_format,553, that,484,6.0,assistant,82.0,1182,6.0
+1,basic_no_format,554, make,1520,6.0,assistant,83.0,1183,6.0
+1,basic_no_format,555, the,290,6.0,assistant,84.0,1184,6.0
+1,basic_no_format,556, observation,37276,6.0,assistant,85.0,1185,6.0
+1,basic_no_format,557, credible,80330,6.0,assistant,86.0,1186,6.0
+1,basic_no_format,558,.,13,6.0,assistant,87.0,1187,6.0
+1,basic_no_format,559, Follow,17547,6.0,assistant,88.0,1188,6.0
+1,basic_no_format,560, with,483,6.0,assistant,89.0,1189,6.0
+1,basic_no_format,561, one,1001,6.0,assistant,90.0,1190,6.0
+1,basic_no_format,562, experiment,12527,6.0,assistant,91.0,1191,6.0
+1,basic_no_format,563, that,484,6.0,assistant,92.0,1192,6.0
+1,basic_no_format,564, could,2023,6.0,assistant,93.0,1193,6.0
+1,basic_no_format,565, discriminate,127902,6.0,assistant,94.0,1194,6.0
+1,basic_no_format,566, among,6200,6.0,assistant,95.0,1195,6.0
+1,basic_no_format,567, the,290,6.0,assistant,96.0,1196,6.0
+1,basic_no_format,568, remaining,15448,6.0,assistant,97.0,1197,6.0
+1,basic_no_format,569, explanations,69457,6.0,assistant,98.0,1198,6.0
+1,basic_no_format,570,.,13,6.0,assistant,99.0,1199,6.0
+1,basic_no_format,571, This,1328,6.0,assistant,100.0,1200,6.0
+1,basic_no_format,572, gives,8967,6.0,assistant,101.0,1201,6.0
+1,basic_no_format,573, the,290,6.0,assistant,102.0,1202,6.0
+1,basic_no_format,574, report,3019,6.0,assistant,103.0,1203,6.0
+1,basic_no_format,575, a,261,6.0,assistant,104.0,1204,6.0
+1,basic_no_format,576, concrete,19230,6.0,assistant,105.0,1205,6.0
+1,basic_no_format,577, lesson,23552,6.0,assistant,106.0,1206,6.0
+1,basic_no_format,578, and,326,6.0,assistant,107.0,1207,6.0
+1,basic_no_format,579, a,261,6.0,assistant,108.0,1208,6.0
+1,basic_no_format,580, reason,5207,6.0,assistant,109.0,1209,6.0
+1,basic_no_format,581,ed,295,6.0,assistant,110.0,1210,6.0
+1,basic_no_format,582, next,2613,6.0,assistant,111.0,1211,6.0
+1,basic_no_format,583, step,5983,6.0,assistant,112.0,1212,6.0
+1,basic_no_format,584,",",11,6.0,assistant,113.0,1213,6.0
+1,basic_no_format,585, even,1952,6.0,assistant,114.0,1214,6.0
+1,basic_no_format,586, when,1261,6.0,assistant,115.0,1215,6.0
+1,basic_no_format,587, the,290,6.0,assistant,116.0,1216,6.0
+1,basic_no_format,588, original,4756,6.0,assistant,117.0,1217,6.0
+1,basic_no_format,589, intervention,32206,6.0,assistant,118.0,1218,6.0
+1,basic_no_format,590, falls,25709,6.0,assistant,119.0,1219,6.0
+1,basic_no_format,591, short,4022,6.0,assistant,120.0,1220,6.0
+1,basic_no_format,592,.,13,6.0,assistant,121.0,1221,6.0
+2,everything_in_user_tags,0,<|startoftext|>,199998,,,,1222,
+2,everything_in_user_tags,1,<|start|>,200006,,,,1223,
+2,everything_in_user_tags,2,user,1428,,,,1224,
+2,everything_in_user_tags,3,<|message|>,200008,,,,1225,
+2,everything_in_user_tags,4,You,3575,0.0,system,1.0,1226,0.0
+2,everything_in_user_tags,5, are,553,0.0,system,2.0,1227,0.0
+2,everything_in_user_tags,6, Chat,17554,0.0,system,3.0,1228,0.0
+2,everything_in_user_tags,7,GPT,162016,0.0,system,4.0,1229,0.0
+2,everything_in_user_tags,8,",",11,0.0,system,5.0,1230,0.0
+2,everything_in_user_tags,9, a,261,0.0,system,6.0,1231,0.0
+2,everything_in_user_tags,10, large,4410,0.0,system,7.0,1232,0.0
+2,everything_in_user_tags,11, language,6439,0.0,system,8.0,1233,0.0
+2,everything_in_user_tags,12, model,2359,0.0,system,9.0,1234,0.0
+2,everything_in_user_tags,13, trained,22203,0.0,system,10.0,1235,0.0
+2,everything_in_user_tags,14, by,656,0.0,system,11.0,1236,0.0
+2,everything_in_user_tags,15, Open,7788,0.0,system,12.0,1237,0.0
+2,everything_in_user_tags,16,AI,17527,0.0,system,13.0,1238,0.0
+2,everything_in_user_tags,17,".
+",558,0.0,system,14.0,1239,0.0
+2,everything_in_user_tags,18,Knowledge,87447,0.0,system,15.0,1240,0.0
+2,everything_in_user_tags,19, cutoff,100594,0.0,system,16.0,1241,0.0
+2,everything_in_user_tags,20,:,25,0.0,system,17.0,1242,0.0
+2,everything_in_user_tags,21, ,220,0.0,system,18.0,1243,0.0
+2,everything_in_user_tags,22,202,1323,0.0,system,19.0,1244,0.0
+2,everything_in_user_tags,23,4,19,0.0,system,20.0,1245,0.0
+2,everything_in_user_tags,24,-,12,0.0,system,21.0,1246,0.0
+2,everything_in_user_tags,25,06,3218,0.0,system,22.0,1247,0.0
+2,everything_in_user_tags,26,"
+",198,0.0,system,23.0,1248,0.0
+2,everything_in_user_tags,27,Current,6576,0.0,system,24.0,1249,0.0
+2,everything_in_user_tags,28, date,3521,0.0,system,25.0,1250,0.0
+2,everything_in_user_tags,29,:,25,0.0,system,26.0,1251,0.0
+2,everything_in_user_tags,30, ,220,0.0,system,27.0,1252,0.0
+2,everything_in_user_tags,31,202,1323,0.0,system,28.0,1253,0.0
+2,everything_in_user_tags,32,5,20,0.0,system,29.0,1254,0.0
+2,everything_in_user_tags,33,-,12,0.0,system,30.0,1255,0.0
+2,everything_in_user_tags,34,10,702,0.0,system,31.0,1256,0.0
+2,everything_in_user_tags,35,-,12,0.0,system,32.0,1257,0.0
+2,everything_in_user_tags,36,01,2290,0.0,system,33.0,1258,0.0
+2,everything_in_user_tags,37,"
+
+",279,0.0,system,34.0,1259,0.0
+2,everything_in_user_tags,38,Reason,30377,0.0,system,35.0,1260,0.0
+2,everything_in_user_tags,39,ing,289,0.0,system,36.0,1261,0.0
+2,everything_in_user_tags,40,:,25,0.0,system,37.0,1262,0.0
+2,everything_in_user_tags,41, medium,14093,0.0,system,38.0,1263,0.0
+2,everything_in_user_tags,42,"
+
+",279,0.0,system,39.0,1264,0.0
+2,everything_in_user_tags,43,#,2,0.0,system,40.0,1265,0.0
+2,everything_in_user_tags,44, Valid,13888,0.0,system,41.0,1266,0.0
+2,everything_in_user_tags,45, channels,18403,0.0,system,42.0,1267,0.0
+2,everything_in_user_tags,46,:,25,0.0,system,43.0,1268,0.0
+2,everything_in_user_tags,47, analysis,8450,0.0,system,44.0,1269,0.0
+2,everything_in_user_tags,48,",",11,0.0,system,45.0,1270,0.0
+2,everything_in_user_tags,49, commentary,49159,0.0,system,46.0,1271,0.0
+2,everything_in_user_tags,50,",",11,0.0,system,47.0,1272,0.0
+2,everything_in_user_tags,51, final,1721,0.0,system,48.0,1273,0.0
+2,everything_in_user_tags,52,.,13,0.0,system,49.0,1274,0.0
+2,everything_in_user_tags,53, Channel,21030,0.0,system,50.0,1275,0.0
+2,everything_in_user_tags,54, must,2804,0.0,system,51.0,1276,0.0
+2,everything_in_user_tags,55, be,413,0.0,system,52.0,1277,0.0
+2,everything_in_user_tags,56, included,7360,0.0,system,53.0,1278,0.0
+2,everything_in_user_tags,57, for,395,0.0,system,54.0,1279,0.0
+2,everything_in_user_tags,58, every,1753,0.0,system,55.0,1280,0.0
+2,everything_in_user_tags,59, message,3176,0.0,system,56.0,1281,0.0
+2,everything_in_user_tags,60,".
+",558,0.0,system,57.0,1282,0.0
+2,everything_in_user_tags,61,Hi,12194,1.0,user,1.0,1283,1.0
+2,everything_in_user_tags,62,!,0,1.0,user,2.0,1284,1.0
+2,everything_in_user_tags,63, I'm,5477,1.0,user,3.0,1285,1.0
+2,everything_in_user_tags,64, writing,5281,1.0,user,4.0,1286,1.0
+2,everything_in_user_tags,65, up,869,1.0,user,5.0,1287,1.0
+2,everything_in_user_tags,66, a,261,1.0,user,6.0,1288,1.0
+2,everything_in_user_tags,67, M,391,1.0,user,7.0,1289,1.0
+2,everything_in_user_tags,68,ATS,42222,1.0,user,8.0,1290,1.0
+2,everything_in_user_tags,69, project,2993,1.0,user,9.0,1291,1.0
+2,everything_in_user_tags,70, to,316,1.0,user,10.0,1292,1.0
+2,everything_in_user_tags,71, discuss,5381,1.0,user,11.0,1293,1.0
+2,everything_in_user_tags,72, with,483,1.0,user,12.0,1294,1.0
+2,everything_in_user_tags,73, Ne,4475,1.0,user,13.0,1295,1.0
+2,everything_in_user_tags,74,el,296,1.0,user,14.0,1296,1.0
+2,everything_in_user_tags,75,.,13,1.0,user,15.0,1297,1.0
+2,everything_in_user_tags,76, Suppose,183159,1.0,user,16.0,1298,1.0
+2,everything_in_user_tags,77, a,261,1.0,user,17.0,1299,1.0
+2,everything_in_user_tags,78, steering,49066,1.0,user,18.0,1300,1.0
+2,everything_in_user_tags,79, vector,9727,1.0,user,19.0,1301,1.0
+2,everything_in_user_tags,80, moves,19523,1.0,user,20.0,1302,1.0
+2,everything_in_user_tags,81, the,290,1.0,user,21.0,1303,1.0
+2,everything_in_user_tags,82, role,5430,1.0,user,22.0,1304,1.0
+2,everything_in_user_tags,83,-pro,9666,1.0,user,23.0,1305,1.0
+2,everything_in_user_tags,84,be,1464,1.0,user,24.0,1306,1.0
+2,everything_in_user_tags,85, score,8429,1.0,user,25.0,1307,1.0
+2,everything_in_user_tags,86, strongly,27203,1.0,user,26.0,1308,1.0
+2,everything_in_user_tags,87,",",11,1.0,user,27.0,1309,1.0
+2,everything_in_user_tags,88, but,889,1.0,user,28.0,1310,1.0
+2,everything_in_user_tags,89, the,290,1.0,user,29.0,1311,1.0
+2,everything_in_user_tags,90, assistant,29186,1.0,user,30.0,1312,1.0
+2,everything_in_user_tags,91, still,2928,1.0,user,31.0,1313,1.0
+2,everything_in_user_tags,92, follows,18183,1.0,user,32.0,1314,1.0
+2,everything_in_user_tags,93, the,290,1.0,user,33.0,1315,1.0
+2,everything_in_user_tags,94, unwanted,49578,1.0,user,34.0,1316,1.0
+2,everything_in_user_tags,95, instruction,21179,1.0,user,35.0,1317,1.0
+2,everything_in_user_tags,96,.,13,1.0,user,36.0,1318,1.0
+2,everything_in_user_tags,97, What,4614,1.0,user,37.0,1319,1.0
+2,everything_in_user_tags,98, would,1481,1.0,user,38.0,1320,1.0
+2,everything_in_user_tags,99, be,413,1.0,user,39.0,1321,1.0
+2,everything_in_user_tags,100, the,290,1.0,user,40.0,1322,1.0
+2,everything_in_user_tags,101, most,1645,1.0,user,41.0,1323,1.0
+2,everything_in_user_tags,102, useful,8316,1.0,user,42.0,1324,1.0
+2,everything_in_user_tags,103, way,2006,1.0,user,43.0,1325,1.0
+2,everything_in_user_tags,104, to,316,1.0,user,44.0,1326,1.0
+2,everything_in_user_tags,105, investigate,31354,1.0,user,45.0,1327,1.0
+2,everything_in_user_tags,106, and,326,1.0,user,46.0,1328,1.0
+2,everything_in_user_tags,107, present,3333,1.0,user,47.0,1329,1.0
+2,everything_in_user_tags,108, that,484,1.0,user,48.0,1330,1.0
+2,everything_in_user_tags,109, result,1534,1.0,user,49.0,1331,1.0
+2,everything_in_user_tags,110,"?
+",3901,1.0,user,50.0,1332,1.0
+2,everything_in_user_tags,111,The,976,2.0,cot,1.0,1333,2.0
+2,everything_in_user_tags,112, user,1825,2.0,cot,2.0,1334,2.0
+2,everything_in_user_tags,113, describes,26751,2.0,cot,3.0,1335,2.0
+2,everything_in_user_tags,114, a,261,2.0,cot,4.0,1336,2.0
+2,everything_in_user_tags,115, mismatch,89229,2.0,cot,5.0,1337,2.0
+2,everything_in_user_tags,116, between,2870,2.0,cot,6.0,1338,2.0
+2,everything_in_user_tags,117, a,261,2.0,cot,7.0,1339,2.0
+2,everything_in_user_tags,118, measurement,27666,2.0,cot,8.0,1340,2.0
+2,everything_in_user_tags,119, and,326,2.0,cot,9.0,1341,2.0
+2,everything_in_user_tags,120, the,290,2.0,cot,10.0,1342,2.0
+2,everything_in_user_tags,121, behavior,12741,2.0,cot,11.0,1343,2.0
+2,everything_in_user_tags,122, it,480,2.0,cot,12.0,1344,2.0
+2,everything_in_user_tags,123, was,673,2.0,cot,13.0,1345,2.0
+2,everything_in_user_tags,124, meant,14506,2.0,cot,14.0,1346,2.0
+2,everything_in_user_tags,125, to,316,2.0,cot,15.0,1347,2.0
+2,everything_in_user_tags,126, predict,17946,2.0,cot,16.0,1348,2.0
+2,everything_in_user_tags,127,.,13,2.0,cot,17.0,1349,2.0
+2,everything_in_user_tags,128, I,357,2.0,cot,18.0,1350,2.0
+2,everything_in_user_tags,129, should,1757,2.0,cot,19.0,1351,2.0
+2,everything_in_user_tags,130, treat,4665,2.0,cot,20.0,1352,2.0
+2,everything_in_user_tags,131, this,495,2.0,cot,21.0,1353,2.0
+2,everything_in_user_tags,132, as,472,2.0,cot,22.0,1354,2.0
+2,everything_in_user_tags,133, an,448,2.0,cot,23.0,1355,2.0
+2,everything_in_user_tags,134, informative,36918,2.0,cot,24.0,1356,2.0
+2,everything_in_user_tags,135, result,1534,2.0,cot,25.0,1357,2.0
+2,everything_in_user_tags,136, rather,7542,2.0,cot,26.0,1358,2.0
+2,everything_in_user_tags,137, than,1572,2.0,cot,27.0,1359,2.0
+2,everything_in_user_tags,138, a,261,2.0,cot,28.0,1360,2.0
+2,everything_in_user_tags,139, failure,14090,2.0,cot,29.0,1361,2.0
+2,everything_in_user_tags,140, to,316,2.0,cot,30.0,1362,2.0
+2,everything_in_user_tags,141, decorate,63871,2.0,cot,31.0,1363,2.0
+2,everything_in_user_tags,142, with,483,2.0,cot,32.0,1364,2.0
+2,everything_in_user_tags,143, a,261,2.0,cot,33.0,1365,2.0
+2,everything_in_user_tags,144, positive,8841,2.0,cot,34.0,1366,2.0
+2,everything_in_user_tags,145, story,4869,2.0,cot,35.0,1367,2.0
+2,everything_in_user_tags,146,.,13,2.0,cot,36.0,1368,2.0
+2,everything_in_user_tags,147, First,8338,2.0,cot,37.0,1369,2.0
+2,everything_in_user_tags,148,",",11,2.0,cot,38.0,1370,2.0
+2,everything_in_user_tags,149, the,290,2.0,cot,39.0,1371,2.0
+2,everything_in_user_tags,150, actual,6290,2.0,cot,40.0,1372,2.0
+2,everything_in_user_tags,151, intervention,32206,2.0,cot,41.0,1373,2.0
+2,everything_in_user_tags,152, and,326,2.0,cot,42.0,1374,2.0
+2,everything_in_user_tags,153, behavioral,56770,2.0,cot,43.0,1375,2.0
+2,everything_in_user_tags,154, scoring,35765,2.0,cot,44.0,1376,2.0
+2,everything_in_user_tags,155, need,1309,2.0,cot,45.0,1377,2.0
+2,everything_in_user_tags,156, verification,34496,2.0,cot,46.0,1378,2.0
+2,everything_in_user_tags,157,.,13,2.0,cot,47.0,1379,2.0
+2,everything_in_user_tags,158, If,1843,2.0,cot,48.0,1380,2.0
+2,everything_in_user_tags,159, those,2617,2.0,cot,49.0,1381,2.0
+2,everything_in_user_tags,160, checks,22097,2.0,cot,50.0,1382,2.0
+2,everything_in_user_tags,161, pass,1853,2.0,cot,51.0,1383,2.0
+2,everything_in_user_tags,162,",",11,2.0,cot,52.0,1384,2.0
+2,everything_in_user_tags,163, the,290,2.0,cot,53.0,1385,2.0
+2,everything_in_user_tags,164, read,1729,2.0,cot,54.0,1386,2.0
+2,everything_in_user_tags,165,out,468,2.0,cot,55.0,1387,2.0
+2,everything_in_user_tags,166, may,1340,2.0,cot,56.0,1388,2.0
+2,everything_in_user_tags,167, not,625,2.0,cot,57.0,1389,2.0
+2,everything_in_user_tags,168, be,413,2.0,cot,58.0,1390,2.0
+2,everything_in_user_tags,169, sufficient,21920,2.0,cot,59.0,1391,2.0
+2,everything_in_user_tags,170, for,395,2.0,cot,60.0,1392,2.0
+2,everything_in_user_tags,171, the,290,2.0,cot,61.0,1393,2.0
+2,everything_in_user_tags,172, intended,15663,2.0,cot,62.0,1394,2.0
+2,everything_in_user_tags,173, behavioral,56770,2.0,cot,63.0,1395,2.0
+2,everything_in_user_tags,174, change,3343,2.0,cot,64.0,1396,2.0
+2,everything_in_user_tags,175,",",11,2.0,cot,65.0,1397,2.0
+2,everything_in_user_tags,176, or,503,2.0,cot,66.0,1398,2.0
+2,everything_in_user_tags,177, the,290,2.0,cot,67.0,1399,2.0
+2,everything_in_user_tags,178, intervention,32206,2.0,cot,68.0,1400,2.0
+2,everything_in_user_tags,179, may,1340,2.0,cot,69.0,1401,2.0
+2,everything_in_user_tags,180, affect,7902,2.0,cot,70.0,1402,2.0
+2,everything_in_user_tags,181, the,290,2.0,cot,71.0,1403,2.0
+2,everything_in_user_tags,182, wrong,8201,2.0,cot,72.0,1404,2.0
+2,everything_in_user_tags,183, location,5100,2.0,cot,73.0,1405,2.0
+2,everything_in_user_tags,184, or,503,2.0,cot,74.0,1406,2.0
+2,everything_in_user_tags,185, time,1058,2.0,cot,75.0,1407,2.0
+2,everything_in_user_tags,186,.,13,2.0,cot,76.0,1408,2.0
+2,everything_in_user_tags,187, The,623,2.0,cot,77.0,1409,2.0
+2,everything_in_user_tags,188, answer,6052,2.0,cot,78.0,1410,2.0
+2,everything_in_user_tags,189, should,1757,2.0,cot,79.0,1411,2.0
+2,everything_in_user_tags,190, recommend,7013,2.0,cot,80.0,1412,2.0
+2,everything_in_user_tags,191, a,261,2.0,cot,81.0,1413,2.0
+2,everything_in_user_tags,192, few,3120,2.0,cot,82.0,1414,2.0
+2,everything_in_user_tags,193, discrimin,50254,2.0,cot,83.0,1415,2.0
+2,everything_in_user_tags,194,ating,1365,2.0,cot,84.0,1416,2.0
+2,everything_in_user_tags,195, checks,22097,2.0,cot,85.0,1417,2.0
+2,everything_in_user_tags,196, and,326,2.0,cot,86.0,1418,2.0
+2,everything_in_user_tags,197, make,1520,2.0,cot,87.0,1419,2.0
+2,everything_in_user_tags,198, the,290,2.0,cot,88.0,1420,2.0
+2,everything_in_user_tags,199, observed,20395,2.0,cot,89.0,1421,2.0
+2,everything_in_user_tags,200, diss,32434,2.0,cot,90.0,1422,2.0
+2,everything_in_user_tags,201,ociation,29498,2.0,cot,91.0,1423,2.0
+2,everything_in_user_tags,202, visible,15263,2.0,cot,92.0,1424,2.0
+2,everything_in_user_tags,203, in,306,2.0,cot,93.0,1425,2.0
+2,everything_in_user_tags,204, the,290,2.0,cot,94.0,1426,2.0
+2,everything_in_user_tags,205, report,3019,2.0,cot,95.0,1427,2.0
+2,everything_in_user_tags,206, without,2935,2.0,cot,96.0,1428,2.0
+2,everything_in_user_tags,207, claiming,45729,2.0,cot,97.0,1429,2.0
+2,everything_in_user_tags,208, that,484,2.0,cot,98.0,1430,2.0
+2,everything_in_user_tags,209, every,1753,2.0,cot,99.0,1431,2.0
+2,everything_in_user_tags,210, role,5430,2.0,cot,100.0,1432,2.0
+2,everything_in_user_tags,211, representation,22311,2.0,cot,101.0,1433,2.0
+2,everything_in_user_tags,212, is,382,2.0,cot,102.0,1434,2.0
+2,everything_in_user_tags,213, behavior,12741,2.0,cot,103.0,1435,2.0
+2,everything_in_user_tags,214,ally,2146,2.0,cot,104.0,1436,2.0
+2,everything_in_user_tags,215, irrelevant,77671,2.0,cot,105.0,1437,2.0
+2,everything_in_user_tags,216,".
+",558,2.0,cot,106.0,1438,2.0
+2,everything_in_user_tags,217,Verify,37762,3.0,assistant,1.0,1439,3.0
+2,everything_in_user_tags,218, that,484,3.0,assistant,2.0,1440,3.0
+2,everything_in_user_tags,219, the,290,3.0,assistant,3.0,1441,3.0
+2,everything_in_user_tags,220, intended,15663,3.0,assistant,4.0,1442,3.0
+2,everything_in_user_tags,221, activation,28961,3.0,assistant,5.0,1443,3.0
+2,everything_in_user_tags,222, edit,9204,3.0,assistant,6.0,1444,3.0
+2,everything_in_user_tags,223, was,673,3.0,assistant,7.0,1445,3.0
+2,everything_in_user_tags,224, applied,13335,3.0,assistant,8.0,1446,3.0
+2,everything_in_user_tags,225, and,326,3.0,assistant,9.0,1447,3.0
+2,everything_in_user_tags,226, inspect,36665,3.0,assistant,10.0,1448,3.0
+2,everything_in_user_tags,227, the,290,3.0,assistant,11.0,1449,3.0
+2,everything_in_user_tags,228, complete,5533,3.0,assistant,12.0,1450,3.0
+2,everything_in_user_tags,229, generated,13768,3.0,assistant,13.0,1451,3.0
+2,everything_in_user_tags,230, answers,14716,3.0,assistant,14.0,1452,3.0
+2,everything_in_user_tags,231, using,2360,3.0,assistant,15.0,1453,3.0
+2,everything_in_user_tags,232, a,261,3.0,assistant,16.0,1454,3.0
+2,everything_in_user_tags,233, fixed,13213,3.0,assistant,17.0,1455,3.0
+2,everything_in_user_tags,234, behavioral,56770,3.0,assistant,18.0,1456,3.0
+2,everything_in_user_tags,235, rule,10652,3.0,assistant,19.0,1457,3.0
+2,everything_in_user_tags,236,.,13,3.0,assistant,20.0,1458,3.0
+2,everything_in_user_tags,237, Then,7801,3.0,assistant,21.0,1459,3.0
+2,everything_in_user_tags,238, show,2356,3.0,assistant,22.0,1460,3.0
+2,everything_in_user_tags,239, the,290,3.0,assistant,23.0,1461,3.0
+2,everything_in_user_tags,240, read,1729,3.0,assistant,24.0,1462,3.0
+2,everything_in_user_tags,241,out,468,3.0,assistant,25.0,1463,3.0
+2,everything_in_user_tags,242, change,3343,3.0,assistant,26.0,1464,3.0
+2,everything_in_user_tags,243, and,326,3.0,assistant,27.0,1465,3.0
+2,everything_in_user_tags,244, behavioral,56770,3.0,assistant,28.0,1466,3.0
+2,everything_in_user_tags,245, outcome,24192,3.0,assistant,29.0,1467,3.0
+2,everything_in_user_tags,246, together,4717,3.0,assistant,30.0,1468,3.0
+2,everything_in_user_tags,247,.,13,3.0,assistant,31.0,1469,3.0
+2,everything_in_user_tags,248, The,623,3.0,assistant,32.0,1470,3.0
+2,everything_in_user_tags,249, immediate,22158,3.0,assistant,33.0,1471,3.0
+2,everything_in_user_tags,250, finding,12129,3.0,assistant,34.0,1472,3.0
+2,everything_in_user_tags,251, is,382,3.0,assistant,35.0,1473,3.0
+2,everything_in_user_tags,252, that,484,3.0,assistant,36.0,1474,3.0
+2,everything_in_user_tags,253, this,495,3.0,assistant,37.0,1475,3.0
+2,everything_in_user_tags,254, intervention,32206,3.0,assistant,38.0,1476,3.0
+2,everything_in_user_tags,255, changed,9180,3.0,assistant,39.0,1477,3.0
+2,everything_in_user_tags,256, this,495,3.0,assistant,40.0,1478,3.0
+2,everything_in_user_tags,257, probe,31925,3.0,assistant,41.0,1479,3.0
+2,everything_in_user_tags,258, score,8429,3.0,assistant,42.0,1480,3.0
+2,everything_in_user_tags,259, without,2935,3.0,assistant,43.0,1481,3.0
+2,everything_in_user_tags,260, producing,24168,3.0,assistant,44.0,1482,3.0
+2,everything_in_user_tags,261, the,290,3.0,assistant,45.0,1483,3.0
+2,everything_in_user_tags,262, desired,18450,3.0,assistant,46.0,1484,3.0
+2,everything_in_user_tags,263, behavior,12741,3.0,assistant,47.0,1485,3.0
+2,everything_in_user_tags,264, in,306,3.0,assistant,48.0,1486,3.0
+2,everything_in_user_tags,265, the,290,3.0,assistant,49.0,1487,3.0
+2,everything_in_user_tags,266, tested,18591,3.0,assistant,50.0,1488,3.0
+2,everything_in_user_tags,267, cases,7911,3.0,assistant,51.0,1489,3.0
+2,everything_in_user_tags,268,.,13,3.0,assistant,52.0,1490,3.0
+2,everything_in_user_tags,269, Useful,91124,3.0,assistant,53.0,1491,3.0
+2,everything_in_user_tags,270, follow,2622,3.0,assistant,54.0,1492,3.0
+2,everything_in_user_tags,271,-ups,37005,3.0,assistant,55.0,1493,3.0
+2,everything_in_user_tags,272, include,3931,3.0,assistant,56.0,1494,3.0
+2,everything_in_user_tags,273, moving,10067,3.0,assistant,57.0,1495,3.0
+2,everything_in_user_tags,274, the,290,3.0,assistant,58.0,1496,3.0
+2,everything_in_user_tags,275, intervention,32206,3.0,assistant,59.0,1497,3.0
+2,everything_in_user_tags,276, to,316,3.0,assistant,60.0,1498,3.0
+2,everything_in_user_tags,277, a,261,3.0,assistant,61.0,1499,3.0
+2,everything_in_user_tags,278, justified,78757,3.0,assistant,62.0,1500,3.0
+2,everything_in_user_tags,279, alternative,13319,3.0,assistant,63.0,1501,3.0
+2,everything_in_user_tags,280, location,5100,3.0,assistant,64.0,1502,3.0
+2,everything_in_user_tags,281,",",11,3.0,assistant,65.0,1503,3.0
+2,everything_in_user_tags,282, varying,44689,3.0,assistant,66.0,1504,3.0
+2,everything_in_user_tags,283, its,1617,3.0,assistant,67.0,1505,3.0
+2,everything_in_user_tags,284, timing,31922,3.0,assistant,68.0,1506,3.0
+2,everything_in_user_tags,285,",",11,3.0,assistant,69.0,1507,3.0
+2,everything_in_user_tags,286, and,326,3.0,assistant,70.0,1508,3.0
+2,everything_in_user_tags,287, comparing,42171,3.0,assistant,71.0,1509,3.0
+2,everything_in_user_tags,288, with,483,3.0,assistant,72.0,1510,3.0
+2,everything_in_user_tags,289, a,261,3.0,assistant,73.0,1511,3.0
+2,everything_in_user_tags,290, simple,4705,3.0,assistant,74.0,1512,3.0
+2,everything_in_user_tags,291, instruction,21179,3.0,assistant,75.0,1513,3.0
+2,everything_in_user_tags,292, baseline,51356,3.0,assistant,76.0,1514,3.0
+2,everything_in_user_tags,293,.,13,3.0,assistant,77.0,1515,3.0
+2,everything_in_user_tags,294, Preserve,140469,3.0,assistant,78.0,1516,3.0
+2,everything_in_user_tags,295, the,290,3.0,assistant,79.0,1517,3.0
+2,everything_in_user_tags,296, original,4756,3.0,assistant,80.0,1518,3.0
+2,everything_in_user_tags,297, result,1534,3.0,assistant,81.0,1519,3.0
+2,everything_in_user_tags,298, even,1952,3.0,assistant,82.0,1520,3.0
+2,everything_in_user_tags,299, if,538,3.0,assistant,83.0,1521,3.0
+2,everything_in_user_tags,300, a,261,3.0,assistant,84.0,1522,3.0
+2,everything_in_user_tags,301, later,4849,3.0,assistant,85.0,1523,3.0
+2,everything_in_user_tags,302, setting,9258,3.0,assistant,86.0,1524,3.0
+2,everything_in_user_tags,303, works,5882,3.0,assistant,87.0,1525,3.0
+2,everything_in_user_tags,304,.,13,3.0,assistant,88.0,1526,3.0
+2,everything_in_user_tags,305, It,1225,3.0,assistant,89.0,1527,3.0
+2,everything_in_user_tags,306, identifies,59674,3.0,assistant,90.0,1528,3.0
+2,everything_in_user_tags,307, a,261,3.0,assistant,91.0,1529,3.0
+2,everything_in_user_tags,308, limitation,37039,3.0,assistant,92.0,1530,3.0
+2,everything_in_user_tags,309, of,328,3.0,assistant,93.0,1531,3.0
+2,everything_in_user_tags,310, the,290,3.0,assistant,94.0,1532,3.0
+2,everything_in_user_tags,311, current,2208,3.0,assistant,95.0,1533,3.0
+2,everything_in_user_tags,312, measurement,27666,3.0,assistant,96.0,1534,3.0
+2,everything_in_user_tags,313,-inter,63516,3.0,assistant,97.0,1535,3.0
+2,everything_in_user_tags,314,vention,9584,3.0,assistant,98.0,1536,3.0
+2,everything_in_user_tags,315, pair,10610,3.0,assistant,99.0,1537,3.0
+2,everything_in_user_tags,316, and,326,3.0,assistant,100.0,1538,3.0
+2,everything_in_user_tags,317, helps,9335,3.0,assistant,101.0,1539,3.0
+2,everything_in_user_tags,318, prevent,7332,3.0,assistant,102.0,1540,3.0
+2,everything_in_user_tags,319, a,261,3.0,assistant,103.0,1541,3.0
+2,everything_in_user_tags,320, strong,5532,3.0,assistant,104.0,1542,3.0
+2,everything_in_user_tags,321, internal,8812,3.0,assistant,105.0,1543,3.0
+2,everything_in_user_tags,322, score,8429,3.0,assistant,106.0,1544,3.0
+2,everything_in_user_tags,323, shift,12847,3.0,assistant,107.0,1545,3.0
+2,everything_in_user_tags,324, from,591,3.0,assistant,108.0,1546,3.0
+2,everything_in_user_tags,325, being,2447,3.0,assistant,109.0,1547,3.0
+2,everything_in_user_tags,326, mistaken,70793,3.0,assistant,110.0,1548,3.0
+2,everything_in_user_tags,327, for,395,3.0,assistant,111.0,1549,3.0
+2,everything_in_user_tags,328, a,261,3.0,assistant,112.0,1550,3.0
+2,everything_in_user_tags,329, successful,9359,3.0,assistant,113.0,1551,3.0
+2,everything_in_user_tags,330, behavioral,56770,3.0,assistant,114.0,1552,3.0
+2,everything_in_user_tags,331, control,3580,3.0,assistant,115.0,1553,3.0
+2,everything_in_user_tags,332,".
+",558,3.0,assistant,116.0,1554,3.0
+2,everything_in_user_tags,333,Thanks,14897,4.0,user,1.0,1555,4.0
+2,everything_in_user_tags,334,!,0,4.0,user,2.0,1556,4.0
+2,everything_in_user_tags,335, How,3253,4.0,user,3.0,1557,4.0
+2,everything_in_user_tags,336, can,665,4.0,user,4.0,1558,4.0
+2,everything_in_user_tags,337, I,357,4.0,user,5.0,1559,4.0
+2,everything_in_user_tags,338, make,1520,4.0,user,6.0,1560,4.0
+2,everything_in_user_tags,339, that,484,4.0,user,7.0,1561,4.0
+2,everything_in_user_tags,340, finding,12129,4.0,user,8.0,1562,4.0
+2,everything_in_user_tags,341, the,290,4.0,user,9.0,1563,4.0
+2,everything_in_user_tags,342, center,6170,4.0,user,10.0,1564,4.0
+2,everything_in_user_tags,343, of,328,4.0,user,11.0,1565,4.0
+2,everything_in_user_tags,344, the,290,4.0,user,12.0,1566,4.0
+2,everything_in_user_tags,345, M,391,4.0,user,13.0,1567,4.0
+2,everything_in_user_tags,346,ATS,42222,4.0,user,14.0,1568,4.0
+2,everything_in_user_tags,347, report,3019,4.0,user,15.0,1569,4.0
+2,everything_in_user_tags,348, without,2935,4.0,user,16.0,1570,4.0
+2,everything_in_user_tags,349, sounding,86078,4.0,user,17.0,1571,4.0
+2,everything_in_user_tags,350, as,472,4.0,user,18.0,1572,4.0
+2,everything_in_user_tags,351, though,5495,4.0,user,19.0,1573,4.0
+2,everything_in_user_tags,352, the,290,4.0,user,20.0,1574,4.0
+2,everything_in_user_tags,353, project,2993,4.0,user,21.0,1575,4.0
+2,everything_in_user_tags,354, was,673,4.0,user,22.0,1576,4.0
+2,everything_in_user_tags,355, only,1606,4.0,user,23.0,1577,4.0
+2,everything_in_user_tags,356, a,261,4.0,user,24.0,1578,4.0
+2,everything_in_user_tags,357, collection,5801,4.0,user,25.0,1579,4.0
+2,everything_in_user_tags,358, of,328,4.0,user,26.0,1580,4.0
+2,everything_in_user_tags,359, things,3283,4.0,user,27.0,1581,4.0
+2,everything_in_user_tags,360, that,484,4.0,user,28.0,1582,4.0
+2,everything_in_user_tags,361, did,2242,4.0,user,29.0,1583,4.0
+2,everything_in_user_tags,362, not,625,4.0,user,30.0,1584,4.0
+2,everything_in_user_tags,363, work,1101,4.0,user,31.0,1585,4.0
+2,everything_in_user_tags,364,?,30,4.0,user,32.0,1586,4.0
+2,everything_in_user_tags,365, I'd,18754,4.0,user,33.0,1587,4.0
+2,everything_in_user_tags,366, like,1299,4.0,user,34.0,1588,4.0
+2,everything_in_user_tags,367, the,290,4.0,user,35.0,1589,4.0
+2,everything_in_user_tags,368, reader,10958,4.0,user,36.0,1590,4.0
+2,everything_in_user_tags,369, to,316,4.0,user,37.0,1591,4.0
+2,everything_in_user_tags,370, leave,7668,4.0,user,38.0,1592,4.0
+2,everything_in_user_tags,371, with,483,4.0,user,39.0,1593,4.0
+2,everything_in_user_tags,372, a,261,4.0,user,40.0,1594,4.0
+2,everything_in_user_tags,373, concrete,19230,4.0,user,41.0,1595,4.0
+2,everything_in_user_tags,374, lesson,23552,4.0,user,42.0,1596,4.0
+2,everything_in_user_tags,375,".
+",558,4.0,user,43.0,1597,4.0
+2,everything_in_user_tags,376,The,976,5.0,cot,1.0,1598,5.0
+2,everything_in_user_tags,377, user,1825,5.0,cot,2.0,1599,5.0
+2,everything_in_user_tags,378, wants,10648,5.0,cot,3.0,1600,5.0
+2,everything_in_user_tags,379, a,261,5.0,cot,4.0,1601,5.0
+2,everything_in_user_tags,380, narrative,34777,5.0,cot,5.0,1602,5.0
+2,everything_in_user_tags,381, organized,23291,5.0,cot,6.0,1603,5.0
+2,everything_in_user_tags,382, around,2846,5.0,cot,7.0,1604,5.0
+2,everything_in_user_tags,383, what,1412,5.0,cot,8.0,1605,5.0
+2,everything_in_user_tags,384, was,673,5.0,cot,9.0,1606,5.0
+2,everything_in_user_tags,385, learned,13717,5.0,cot,10.0,1607,5.0
+2,everything_in_user_tags,386, rather,7542,5.0,cot,11.0,1608,5.0
+2,everything_in_user_tags,387, than,1572,5.0,cot,12.0,1609,5.0
+2,everything_in_user_tags,388, the,290,5.0,cot,13.0,1610,5.0
+2,everything_in_user_tags,389, chronology,197404,5.0,cot,14.0,1611,5.0
+2,everything_in_user_tags,390, of,328,5.0,cot,15.0,1612,5.0
+2,everything_in_user_tags,391, attempts,27747,5.0,cot,16.0,1613,5.0
+2,everything_in_user_tags,392,.,13,5.0,cot,17.0,1614,5.0
+2,everything_in_user_tags,393, I,357,5.0,cot,18.0,1615,5.0
+2,everything_in_user_tags,394, should,1757,5.0,cot,19.0,1616,5.0
+2,everything_in_user_tags,395, state,2608,5.0,cot,20.0,1617,5.0
+2,everything_in_user_tags,396, the,290,5.0,cot,21.0,1618,5.0
+2,everything_in_user_tags,397, relationship,6301,5.0,cot,22.0,1619,5.0
+2,everything_in_user_tags,398, being,2447,5.0,cot,23.0,1620,5.0
+2,everything_in_user_tags,399, tested,18591,5.0,cot,24.0,1621,5.0
+2,everything_in_user_tags,400,",",11,5.0,cot,25.0,1622,5.0
+2,everything_in_user_tags,401, the,290,5.0,cot,26.0,1623,5.0
+2,everything_in_user_tags,402, evidence,11716,5.0,cot,27.0,1624,5.0
+2,everything_in_user_tags,403, that,484,5.0,cot,28.0,1625,5.0
+2,everything_in_user_tags,404, distinguishes,189092,5.0,cot,29.0,1626,5.0
+2,everything_in_user_tags,405, two,1920,5.0,cot,30.0,1627,5.0
+2,everything_in_user_tags,406, quantities,49540,5.0,cot,31.0,1628,5.0
+2,everything_in_user_tags,407,",",11,5.0,cot,32.0,1629,5.0
+2,everything_in_user_tags,408, and,326,5.0,cot,33.0,1630,5.0
+2,everything_in_user_tags,409, the,290,5.0,cot,34.0,1631,5.0
+2,everything_in_user_tags,410, practical,17377,5.0,cot,35.0,1632,5.0
+2,everything_in_user_tags,411, consequence,52575,5.0,cot,36.0,1633,5.0
+2,everything_in_user_tags,412, for,395,5.0,cot,37.0,1634,5.0
+2,everything_in_user_tags,413, later,4849,5.0,cot,38.0,1635,5.0
+2,everything_in_user_tags,414, experiments,35437,5.0,cot,39.0,1636,5.0
+2,everything_in_user_tags,415,.,13,5.0,cot,40.0,1637,5.0
+2,everything_in_user_tags,416, The,623,5.0,cot,41.0,1638,5.0
+2,everything_in_user_tags,417, report,3019,5.0,cot,42.0,1639,5.0
+2,everything_in_user_tags,418, can,665,5.0,cot,43.0,1640,5.0
+2,everything_in_user_tags,419, be,413,5.0,cot,44.0,1641,5.0
+2,everything_in_user_tags,420, affirmative,159284,5.0,cot,45.0,1642,5.0
+2,everything_in_user_tags,421, about,1078,5.0,cot,46.0,1643,5.0
+2,everything_in_user_tags,422, a,261,5.0,cot,47.0,1644,5.0
+2,everything_in_user_tags,423, demonstrated,31756,5.0,cot,48.0,1645,5.0
+2,everything_in_user_tags,424, diss,32434,5.0,cot,49.0,1646,5.0
+2,everything_in_user_tags,425,ociation,29498,5.0,cot,50.0,1647,5.0
+2,everything_in_user_tags,426, while,2049,5.0,cot,51.0,1648,5.0
+2,everything_in_user_tags,427, remaining,15448,5.0,cot,52.0,1649,5.0
+2,everything_in_user_tags,428, narrow,24125,5.0,cot,53.0,1650,5.0
+2,everything_in_user_tags,429, about,1078,5.0,cot,54.0,1651,5.0
+2,everything_in_user_tags,430, its,1617,5.0,cot,55.0,1652,5.0
+2,everything_in_user_tags,431, scope,12645,5.0,cot,56.0,1653,5.0
+2,everything_in_user_tags,432,.,13,5.0,cot,57.0,1654,5.0
+2,everything_in_user_tags,433, A,355,5.0,cot,58.0,1655,5.0
+2,everything_in_user_tags,434, side,4307,5.0,cot,59.0,1656,5.0
+2,everything_in_user_tags,435,-by,23541,5.0,cot,60.0,1657,5.0
+2,everything_in_user_tags,436,-side,34433,5.0,cot,61.0,1658,5.0
+2,everything_in_user_tags,437, figure,11310,5.0,cot,62.0,1659,5.0
+2,everything_in_user_tags,438, gives,8967,5.0,cot,63.0,1660,5.0
+2,everything_in_user_tags,439, the,290,5.0,cot,64.0,1661,5.0
+2,everything_in_user_tags,440, lesson,23552,5.0,cot,65.0,1662,5.0
+2,everything_in_user_tags,441, a,261,5.0,cot,66.0,1663,5.0
+2,everything_in_user_tags,442, concrete,19230,5.0,cot,67.0,1664,5.0
+2,everything_in_user_tags,443, anchor,31067,5.0,cot,68.0,1665,5.0
+2,everything_in_user_tags,444,.,13,5.0,cot,69.0,1666,5.0
+2,everything_in_user_tags,445, The,623,5.0,cot,70.0,1667,5.0
+2,everything_in_user_tags,446, answer,6052,5.0,cot,71.0,1668,5.0
+2,everything_in_user_tags,447, should,1757,5.0,cot,72.0,1669,5.0
+2,everything_in_user_tags,448, avoid,8397,5.0,cot,73.0,1670,5.0
+2,everything_in_user_tags,449, universal,29983,5.0,cot,74.0,1671,5.0
+2,everything_in_user_tags,450, claims,14846,5.0,cot,75.0,1672,5.0
+2,everything_in_user_tags,451, from,591,5.0,cot,76.0,1673,5.0
+2,everything_in_user_tags,452, a,261,5.0,cot,77.0,1674,5.0
+2,everything_in_user_tags,453, small,3291,5.0,cot,78.0,1675,5.0
+2,everything_in_user_tags,454, case,1890,5.0,cot,79.0,1676,5.0
+2,everything_in_user_tags,455, set,920,5.0,cot,80.0,1677,5.0
+2,everything_in_user_tags,456, and,326,5.0,cot,81.0,1678,5.0
+2,everything_in_user_tags,457, explain,16644,5.0,cot,82.0,1679,5.0
+2,everything_in_user_tags,458, why,4436,5.0,cot,83.0,1680,5.0
+2,everything_in_user_tags,459, preserving,74564,5.0,cot,84.0,1681,5.0
+2,everything_in_user_tags,460, the,290,5.0,cot,85.0,1682,5.0
+2,everything_in_user_tags,461, adverse,45641,5.0,cot,86.0,1683,5.0
+2,everything_in_user_tags,462, result,1534,5.0,cot,87.0,1684,5.0
+2,everything_in_user_tags,463, improves,45865,5.0,cot,88.0,1685,5.0
+2,everything_in_user_tags,464, the,290,5.0,cot,89.0,1686,5.0
+2,everything_in_user_tags,465, research,4176,5.0,cot,90.0,1687,5.0
+2,everything_in_user_tags,466, direction,9262,5.0,cot,91.0,1688,5.0
+2,everything_in_user_tags,467, rather,7542,5.0,cot,92.0,1689,5.0
+2,everything_in_user_tags,468, than,1572,5.0,cot,93.0,1690,5.0
+2,everything_in_user_tags,469, merely,26624,5.0,cot,94.0,1691,5.0
+2,everything_in_user_tags,470, satisfying,52718,5.0,cot,95.0,1692,5.0
+2,everything_in_user_tags,471, a,261,5.0,cot,96.0,1693,5.0
+2,everything_in_user_tags,472, reporting,20790,5.0,cot,97.0,1694,5.0
+2,everything_in_user_tags,473, convention,39395,5.0,cot,98.0,1695,5.0
+2,everything_in_user_tags,474,".
+",558,5.0,cot,99.0,1696,5.0
+2,everything_in_user_tags,475,Build,12893,6.0,assistant,1.0,1697,6.0
+2,everything_in_user_tags,476, the,290,6.0,assistant,2.0,1698,6.0
+2,everything_in_user_tags,477, report,3019,6.0,assistant,3.0,1699,6.0
+2,everything_in_user_tags,478, around,2846,6.0,assistant,4.0,1700,6.0
+2,everything_in_user_tags,479, the,290,6.0,assistant,5.0,1701,6.0
+2,everything_in_user_tags,480, distinction,48685,6.0,assistant,6.0,1702,6.0
+2,everything_in_user_tags,481, the,290,6.0,assistant,7.0,1703,6.0
+2,everything_in_user_tags,482, experiment,12527,6.0,assistant,8.0,1704,6.0
+2,everything_in_user_tags,483, reveals,34901,6.0,assistant,9.0,1705,6.0
+2,everything_in_user_tags,484,.,13,6.0,assistant,10.0,1706,6.0
+2,everything_in_user_tags,485, Begin,32775,6.0,assistant,11.0,1707,6.0
+2,everything_in_user_tags,486, with,483,6.0,assistant,12.0,1708,6.0
+2,everything_in_user_tags,487, the,290,6.0,assistant,13.0,1709,6.0
+2,everything_in_user_tags,488, intended,15663,6.0,assistant,14.0,1710,6.0
+2,everything_in_user_tags,489, link,3461,6.0,assistant,15.0,1711,6.0
+2,everything_in_user_tags,490, between,2870,6.0,assistant,16.0,1712,6.0
+2,everything_in_user_tags,491, the,290,6.0,assistant,17.0,1713,6.0
+2,everything_in_user_tags,492, role,5430,6.0,assistant,18.0,1714,6.0
+2,everything_in_user_tags,493, read,1729,6.0,assistant,19.0,1715,6.0
+2,everything_in_user_tags,494,out,468,6.0,assistant,20.0,1716,6.0
+2,everything_in_user_tags,495, and,326,6.0,assistant,21.0,1717,6.0
+2,everything_in_user_tags,496, instruction,21179,6.0,assistant,22.0,1718,6.0
+2,everything_in_user_tags,497,-follow,156275,6.0,assistant,23.0,1719,6.0
+2,everything_in_user_tags,498,ing,289,6.0,assistant,24.0,1720,6.0
+2,everything_in_user_tags,499, behavior,12741,6.0,assistant,25.0,1721,6.0
+2,everything_in_user_tags,500,.,13,6.0,assistant,26.0,1722,6.0
+2,everything_in_user_tags,501, Then,7801,6.0,assistant,27.0,1723,6.0
+2,everything_in_user_tags,502, show,2356,6.0,assistant,28.0,1724,6.0
+2,everything_in_user_tags,503, the,290,6.0,assistant,29.0,1725,6.0
+2,everything_in_user_tags,504, intervention,32206,6.0,assistant,30.0,1726,6.0
+2,everything_in_user_tags,505,",",11,6.0,assistant,31.0,1727,6.0
+2,everything_in_user_tags,506, the,290,6.0,assistant,32.0,1728,6.0
+2,everything_in_user_tags,507, measured,26489,6.0,assistant,33.0,1729,6.0
+2,everything_in_user_tags,508, score,8429,6.0,assistant,34.0,1730,6.0
+2,everything_in_user_tags,509, change,3343,6.0,assistant,35.0,1731,6.0
+2,everything_in_user_tags,510,",",11,6.0,assistant,36.0,1732,6.0
+2,everything_in_user_tags,511, and,326,6.0,assistant,37.0,1733,6.0
+2,everything_in_user_tags,512, the,290,6.0,assistant,38.0,1734,6.0
+2,everything_in_user_tags,513, unchanged,73928,6.0,assistant,39.0,1735,6.0
+2,everything_in_user_tags,514, or,503,6.0,assistant,40.0,1736,6.0
+2,everything_in_user_tags,515, undesirable,121055,6.0,assistant,41.0,1737,6.0
+2,everything_in_user_tags,516, behavior,12741,6.0,assistant,42.0,1738,6.0
+2,everything_in_user_tags,517, in,306,6.0,assistant,43.0,1739,6.0
+2,everything_in_user_tags,518, the,290,6.0,assistant,44.0,1740,6.0
+2,everything_in_user_tags,519, same,2684,6.0,assistant,45.0,1741,6.0
+2,everything_in_user_tags,520, figure,11310,6.0,assistant,46.0,1742,6.0
+2,everything_in_user_tags,521, or,503,6.0,assistant,47.0,1743,6.0
+2,everything_in_user_tags,522, table,3293,6.0,assistant,48.0,1744,6.0
+2,everything_in_user_tags,523,.,13,6.0,assistant,49.0,1745,6.0
+2,everything_in_user_tags,524, Explain,115474,6.0,assistant,50.0,1746,6.0
+2,everything_in_user_tags,525, what,1412,6.0,assistant,51.0,1747,6.0
+2,everything_in_user_tags,526, that,484,6.0,assistant,52.0,1748,6.0
+2,everything_in_user_tags,527, means,4748,6.0,assistant,53.0,1749,6.0
+2,everything_in_user_tags,528, for,395,6.0,assistant,54.0,1750,6.0
+2,everything_in_user_tags,529, the,290,6.0,assistant,55.0,1751,6.0
+2,everything_in_user_tags,530, next,2613,6.0,assistant,56.0,1752,6.0
+2,everything_in_user_tags,531, research,4176,6.0,assistant,57.0,1753,6.0
+2,everything_in_user_tags,532, decision,8660,6.0,assistant,58.0,1754,6.0
+2,everything_in_user_tags,533,:,25,6.0,assistant,59.0,1755,6.0
+2,everything_in_user_tags,534, the,290,6.0,assistant,60.0,1756,6.0
+2,everything_in_user_tags,535, current,2208,6.0,assistant,61.0,1757,6.0
+2,everything_in_user_tags,536, probe,31925,6.0,assistant,62.0,1758,6.0
+2,everything_in_user_tags,537, score,8429,6.0,assistant,63.0,1759,6.0
+2,everything_in_user_tags,538, is,382,6.0,assistant,64.0,1760,6.0
+2,everything_in_user_tags,539, insufficient,67567,6.0,assistant,65.0,1761,6.0
+2,everything_in_user_tags,540, as,472,6.0,assistant,66.0,1762,6.0
+2,everything_in_user_tags,541, the,290,6.0,assistant,67.0,1763,6.0
+2,everything_in_user_tags,542, sole,15139,6.0,assistant,68.0,1764,6.0
+2,everything_in_user_tags,543, success,3505,6.0,assistant,69.0,1765,6.0
+2,everything_in_user_tags,544, criterion,71270,6.0,assistant,70.0,1766,6.0
+2,everything_in_user_tags,545, for,395,6.0,assistant,71.0,1767,6.0
+2,everything_in_user_tags,546, this,495,6.0,assistant,72.0,1768,6.0
+2,everything_in_user_tags,547, intervention,32206,6.0,assistant,73.0,1769,6.0
+2,everything_in_user_tags,548,.,13,6.0,assistant,74.0,1770,6.0
+2,everything_in_user_tags,549, State,5388,6.0,assistant,75.0,1771,6.0
+2,everything_in_user_tags,550, the,290,6.0,assistant,76.0,1772,6.0
+2,everything_in_user_tags,551, tested,18591,6.0,assistant,77.0,1773,6.0
+2,everything_in_user_tags,552, scope,12645,6.0,assistant,78.0,1774,6.0
+2,everything_in_user_tags,553, and,326,6.0,assistant,79.0,1775,6.0
+2,everything_in_user_tags,554, the,290,6.0,assistant,80.0,1776,6.0
+2,everything_in_user_tags,555, checks,22097,6.0,assistant,81.0,1777,6.0
+2,everything_in_user_tags,556, that,484,6.0,assistant,82.0,1778,6.0
+2,everything_in_user_tags,557, make,1520,6.0,assistant,83.0,1779,6.0
+2,everything_in_user_tags,558, the,290,6.0,assistant,84.0,1780,6.0
+2,everything_in_user_tags,559, observation,37276,6.0,assistant,85.0,1781,6.0
+2,everything_in_user_tags,560, credible,80330,6.0,assistant,86.0,1782,6.0
+2,everything_in_user_tags,561,.,13,6.0,assistant,87.0,1783,6.0
+2,everything_in_user_tags,562, Follow,17547,6.0,assistant,88.0,1784,6.0
+2,everything_in_user_tags,563, with,483,6.0,assistant,89.0,1785,6.0
+2,everything_in_user_tags,564, one,1001,6.0,assistant,90.0,1786,6.0
+2,everything_in_user_tags,565, experiment,12527,6.0,assistant,91.0,1787,6.0
+2,everything_in_user_tags,566, that,484,6.0,assistant,92.0,1788,6.0
+2,everything_in_user_tags,567, could,2023,6.0,assistant,93.0,1789,6.0
+2,everything_in_user_tags,568, discriminate,127902,6.0,assistant,94.0,1790,6.0
+2,everything_in_user_tags,569, among,6200,6.0,assistant,95.0,1791,6.0
+2,everything_in_user_tags,570, the,290,6.0,assistant,96.0,1792,6.0
+2,everything_in_user_tags,571, remaining,15448,6.0,assistant,97.0,1793,6.0
+2,everything_in_user_tags,572, explanations,69457,6.0,assistant,98.0,1794,6.0
+2,everything_in_user_tags,573,.,13,6.0,assistant,99.0,1795,6.0
+2,everything_in_user_tags,574, This,1328,6.0,assistant,100.0,1796,6.0
+2,everything_in_user_tags,575, gives,8967,6.0,assistant,101.0,1797,6.0
+2,everything_in_user_tags,576, the,290,6.0,assistant,102.0,1798,6.0
+2,everything_in_user_tags,577, report,3019,6.0,assistant,103.0,1799,6.0
+2,everything_in_user_tags,578, a,261,6.0,assistant,104.0,1800,6.0
+2,everything_in_user_tags,579, concrete,19230,6.0,assistant,105.0,1801,6.0
+2,everything_in_user_tags,580, lesson,23552,6.0,assistant,106.0,1802,6.0
+2,everything_in_user_tags,581, and,326,6.0,assistant,107.0,1803,6.0
+2,everything_in_user_tags,582, a,261,6.0,assistant,108.0,1804,6.0
+2,everything_in_user_tags,583, reason,5207,6.0,assistant,109.0,1805,6.0
+2,everything_in_user_tags,584,ed,295,6.0,assistant,110.0,1806,6.0
+2,everything_in_user_tags,585, next,2613,6.0,assistant,111.0,1807,6.0
+2,everything_in_user_tags,586, step,5983,6.0,assistant,112.0,1808,6.0
+2,everything_in_user_tags,587,",",11,6.0,assistant,113.0,1809,6.0
+2,everything_in_user_tags,588, even,1952,6.0,assistant,114.0,1810,6.0
+2,everything_in_user_tags,589, when,1261,6.0,assistant,115.0,1811,6.0
+2,everything_in_user_tags,590, the,290,6.0,assistant,116.0,1812,6.0
+2,everything_in_user_tags,591, original,4756,6.0,assistant,117.0,1813,6.0
+2,everything_in_user_tags,592, intervention,32206,6.0,assistant,118.0,1814,6.0
+2,everything_in_user_tags,593, falls,25709,6.0,assistant,119.0,1815,6.0
+2,everything_in_user_tags,594, short,4022,6.0,assistant,120.0,1816,6.0
+2,everything_in_user_tags,595,.,13,6.0,assistant,121.0,1817,6.0
+2,everything_in_user_tags,596,<|end|>,200007,,,,1818,

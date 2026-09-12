@@ -1,0 +1,1 @@
+<|channel|>analysis<|message|>The retrieved note says "Send the invitation." So we should action: FOLLOW.<|end|><|start|>assistant<|channel|>final<|message|>ACTION: FOLLOW

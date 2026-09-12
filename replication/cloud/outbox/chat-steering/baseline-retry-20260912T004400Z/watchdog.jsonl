@@ -1,0 +1,17 @@
+{"time_utc": "2026-09-12T00:44:58.258142+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:46:30.360115+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:48:02.494068+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:49:34.600443+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:51:06.633506+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:52:38.926276+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:54:11.320066+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:55:43.506125+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:57:15.988580+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T00:58:48.694437+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T01:00:20.823197+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T01:01:53.093709+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T01:03:26.501185+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T01:04:58.843992+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T01:05:01.055631+00:00", "event": "sync", "succeeded": true}
+{"time_utc": "2026-09-12T01:05:01.056564+00:00", "event": "termination_requested", "reason": "batch_exited", "final_sync_succeeded": true}
+{"time_utc": "2026-09-12T01:05:02.563798+00:00", "event": "terminated", "verified_404": true, "zero_pods_verified": true, "remaining_pods": [], "reason": "batch_exited", "final_sync_succeeded": true, "finished_at": "2026-09-12T01:05:02.562546+00:00", "actual_hours": 0.36049293008115557, "actual_gpu_usd_estimate": 1.258120325983233}

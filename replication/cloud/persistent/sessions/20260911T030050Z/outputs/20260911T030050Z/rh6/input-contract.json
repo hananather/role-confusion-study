@@ -1,0 +1,28 @@
+{
+  "mode": "rh6",
+  "n_items": 1200,
+  "layers": [
+    8,
+    12,
+    16
+  ],
+  "spaces": [
+    "sucat",
+    "uat"
+  ],
+  "probe_file": "/workspace/results/20260911T030050Z/probes-full/probes.npz",
+  "probe_present": true,
+  "probe_split": "prompt",
+  "input_sha256": {
+    "/workspace/replication/rh/out/rh6-readings/prefills.json": "be9254d581e88715478bfd825b56058558fba2babe09f7cb2d204ceccd2468aa",
+    "/workspace/replication/rh/out/rh6-readings/page_substitutions.json": "03de252bbd6e2dc36942ab4f136763e5b05494edc8218686ba4d067335908349"
+  },
+  "total_stored_tokens": null,
+  "n_templates": 100,
+  "inherited_span_ends_past_text": 750,
+  "probe_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "source_sha256": "fbeaf0922ad036fe48e788ff3ea758088fd613781575d40fadce0fb6287a4033",
+  "legacy_analysis_sha256": "aadb0885361ca3f50bf6b73c1562f5c891a00616842667473bf47e15ae0f8b1d",
+  "authors_commit": "ec333c40fd43fe991e1ebf66765051b6d7e35784",
+  "limit": null
+}

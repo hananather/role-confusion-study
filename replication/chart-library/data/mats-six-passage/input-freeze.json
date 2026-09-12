@@ -1,0 +1,215 @@
+{
+  "frozen_utc": "2026-09-12T01:40:17.772216+00:00",
+  "stage": "Distill",
+  "north_star": "A readable paper-style example of the role-probe measurement; no population inference from selection.",
+  "criteria": "The user requested multiple examples and visual selection. I preserve all 12 outcomes and label the featured plot as selected after inspection. Clarity, role-band separation, readable text and six-passage structure guide the choice.",
+  "authorship": "All candidates are authored illustrative conversations, not real conversations with Neel or model-generated outputs. No quotation of Neel is claimed.",
+  "n_candidates": 12,
+  "candidate_source_sha256": "db994cf70a4ee4149652878e078eb83736c633e47830e993f9a16e3a03efd3e2",
+  "candidates": [
+    {
+      "id": "mats-01",
+      "title": "Choosing one question",
+      "files": {
+        "original-messages.json": "53bda1eef9e37d9967bcac18bc98bf0cf6e07e9bb18f4ea0a49a24e80240e675",
+        "rendered-prompts-and-token-ids.json": "ff4281e78dde18edcf3d9d4aa236c62adece1f4e0001fef853d36d0e6cda40b3",
+        "all-tokens-and-labels.csv": "0457100680313fc9997e976da2bef4a5f295360d045349c23d215ebf498f9445",
+        "display-index.csv": "7d5abb46af11812296af38c48913d40c6989008f2a90a1dcc8bd2d0d299fbc4e",
+        "display-selection.json": "7b9777773d9b01f58266a1fe204ba2c6bcbe9dc2ce404845e966685f9496e93b"
+      },
+      "forward_tokens": [
+        594,
+        558,
+        562
+      ],
+      "display_tokens_each": 495
+    },
+    {
+      "id": "mats-02",
+      "title": "Choosing a baseline",
+      "files": {
+        "original-messages.json": "dd006b5e73a2b27510b7e9580023cc9f8256ba0a94a51483af032e9ef0d51ee2",
+        "rendered-prompts-and-token-ids.json": "0449786e19476a514a53603fb20493c19ebbc9b8521a0efb00c62e4af0f07cfa",
+        "all-tokens-and-labels.csv": "b572fc05b24b34408159a387a86951894e868b3d3feb488d4fe6cff5c1ae8f4b",
+        "display-index.csv": "f0779f8e964584bc704acabc38ab55b78aba04a40d005c1a1c0e9a8442cfa528",
+        "display-selection.json": "286a9c2589a3e6f192ec3c84ba6bb79f33c3c3bd7e6116e89a053af6e9b289a9"
+      },
+      "forward_tokens": [
+        612,
+        576,
+        580
+      ],
+      "display_tokens_each": 513
+    },
+    {
+      "id": "mats-03",
+      "title": "Designing a readable figure",
+      "files": {
+        "original-messages.json": "cf79195aac766ab3a248030b058e2c6f51b8d4b149461fc0fafb05d7921cdac6",
+        "rendered-prompts-and-token-ids.json": "2d846d770b5a664e3fbf4182412908c3eead8711e22b18551f95f34eb59d9f47",
+        "all-tokens-and-labels.csv": "45c6a214104d9d572c9247f0694ef13196c087ca0989fedaae8318d82a720692",
+        "display-index.csv": "57b5b261b22d0bf917ddcdc4aa0152344c4ad8aec637b7c4cc924277f1f1b5b6",
+        "display-selection.json": "ee27e1583b35965e23c10b1a09abd5e58da29ae5d027ae85a161cca1385b464e"
+      },
+      "forward_tokens": [
+        615,
+        579,
+        583
+      ],
+      "display_tokens_each": 516
+    },
+    {
+      "id": "mats-04",
+      "title": "Investigating a replication gap",
+      "files": {
+        "original-messages.json": "3f4840a6feb30fbd7660fdffcd9d9761c40bbe9d48b7a9d70ec84ca263f6441c",
+        "rendered-prompts-and-token-ids.json": "dff210398c902e84ff2d70743728e7817116ef840b67e0337be533866623036e",
+        "all-tokens-and-labels.csv": "fe2adbc97e17e0d7d3eb7d2d276dc76c1a4c73b1efa27034a3c888b008909973",
+        "display-index.csv": "57545d0ea35884ca14ac46d00b4874dbac46e9b955538cc28ce2f5e38f557a8e",
+        "display-selection.json": "f173bcd67e5f69f78ac27a4d17cd392aa05a4ae99fc5cfdbd8404ff3cded6948"
+      },
+      "forward_tokens": [
+        619,
+        583,
+        587
+      ],
+      "display_tokens_each": 520
+    },
+    {
+      "id": "mats-05",
+      "title": "Choosing an ablation",
+      "files": {
+        "original-messages.json": "43f9f10d399333eba4d32b667e02feeb9937e21ad4d2348471ad569742f81cbb",
+        "rendered-prompts-and-token-ids.json": "b3bc8fb3660638bdee835cb1cf71c72c39e8a15d208e764c0736943605a5cf10",
+        "all-tokens-and-labels.csv": "ee908cc9271a7c83333009b78ac5730e9df887bd77b34b1612639ba1e410dc3b",
+        "display-index.csv": "cc31d175455851b300fdc88806a13912f83829f2e9e78ea262a82a00558f747c",
+        "display-selection.json": "23ef8418a38d8f3832dcac5bffdaeed6b561ea9d21dc15be607560e6bdd3fafc"
+      },
+      "forward_tokens": [
+        619,
+        583,
+        587
+      ],
+      "display_tokens_each": 517
+    },
+    {
+      "id": "mats-06",
+      "title": "Keeping a held-out set separate",
+      "files": {
+        "original-messages.json": "aae4b938efda9d49506dfae3292f904873e697efcfc24621529a7b2c0b4bd0ce",
+        "rendered-prompts-and-token-ids.json": "7c895048611c5c0729e7a014b21092352f2386957d7d5134954e10163ed9feae",
+        "all-tokens-and-labels.csv": "e5208f36383555818d4af6b527e7fc6f80e7abcc07b7aa0385df2af98a5e76bc",
+        "display-index.csv": "6d2f08d234c1877745299a3811eab69b07e7c09ee36f1a22fda0209157c7b8d9",
+        "display-selection.json": "0aeb16d97a7153bfac1c30896282e5e824a7bd6435b246b5848f3cc8377dc7c4"
+      },
+      "forward_tokens": [
+        616,
+        580,
+        584
+      ],
+      "display_tokens_each": 517
+    },
+    {
+      "id": "mats-07",
+      "title": "Interpreting a steering vector",
+      "files": {
+        "original-messages.json": "19eb9091da1b990e12af26f997c3036eac45dcc8dac973a66880a9eea6c12cea",
+        "rendered-prompts-and-token-ids.json": "c4fd4a1345d6272d07dc441d38dc46fc6e21d76dfbc752fd7d56b48b39ba4888",
+        "all-tokens-and-labels.csv": "2c7b66943ab8044263a43ab3b6a45287dba2b54b231140c7a522d5f2927ddfc9",
+        "display-index.csv": "38f593cbe69a75b8869b314b023b735bdef084acb922ef72d9e76263f1d4baaa",
+        "display-selection.json": "e6a3505cae366e316ab4d6523809c197ddc9541cd7d64f28317905068c8d7dd8"
+      },
+      "forward_tokens": [
+        626,
+        590,
+        594
+      ],
+      "display_tokens_each": 527
+    },
+    {
+      "id": "mats-08",
+      "title": "Testing the measurement pipeline",
+      "files": {
+        "original-messages.json": "b5b2c6b503ad8402afd3e73b68e761a26f717b5f14445f6e7b530908832e4a5d",
+        "rendered-prompts-and-token-ids.json": "3566f7f9d64430c100a8c0f54ee579cb5b4ec8f768e9ce4afcd4efb6efac621f",
+        "all-tokens-and-labels.csv": "477775d4d0a591f7ef14ab5f8a944ce894035dd73dab78f3046c6553c8f8854b",
+        "display-index.csv": "801395b19da7968d437b2f931e91b7b4d5b1f6d4b5e6dd4290ec32fd1e991c36",
+        "display-selection.json": "632ffd1da82b144eb7db58cb8df346f42f500431f9f770fb4e930a0137fc25a6"
+      },
+      "forward_tokens": [
+        626,
+        590,
+        594
+      ],
+      "display_tokens_each": 525
+    },
+    {
+      "id": "mats-09",
+      "title": "Designing a text replacement control",
+      "files": {
+        "original-messages.json": "4dc948dd811f8059b1d4224d8bb1d2ae5afdee8f5326dffc63aab5bcdaad5d57",
+        "rendered-prompts-and-token-ids.json": "d9f8a28639bfe95bb54e8146279ce424fa0e63502e42c36f6a8a9a409e00ddeb",
+        "all-tokens-and-labels.csv": "41d02e2cbf0c79894fb575e74c498322facc7ae03a9e619e216b822171a87592",
+        "display-index.csv": "247e606131e665deeb47bc4ae5757bedc0a11302d602ec1caf818d99db70e3a1",
+        "display-selection.json": "03b4e7a3903e03b7c28793531a707fa56bc87d9712484d55dba3b2c05292b114"
+      },
+      "forward_tokens": [
+        618,
+        582,
+        586
+      ],
+      "display_tokens_each": 519
+    },
+    {
+      "id": "mats-10",
+      "title": "Aggregating token-level scores",
+      "files": {
+        "original-messages.json": "d1c467ecee51a21ed8ec17cc5bb437d7b2c87ff06860c38a251840ca8f0acf17",
+        "rendered-prompts-and-token-ids.json": "9294096831375f387b779a95db7d5c6fbc0aa8f862dff04d4184b0b90923767a",
+        "all-tokens-and-labels.csv": "079a3d3f0547a6e3920a0ea123b0d0f1fa3e1b4d6906d6697333f5ccb757e1d3",
+        "display-index.csv": "33a966132090a1d4340ab11c2235a97df42f6f8b1f087b94f48f5bdf2e63a5db",
+        "display-selection.json": "50a963788464825d66dd3811b887db1b0222586e33b67d16b3a3a8d6e6700a7f"
+      },
+      "forward_tokens": [
+        625,
+        589,
+        593
+      ],
+      "display_tokens_each": 524
+    },
+    {
+      "id": "mats-11",
+      "title": "Learning from an adverse result",
+      "files": {
+        "original-messages.json": "7e134f1847397ea0bba143f69d0ea5c6eee34b2c1ddea43ee334dd1454d7b7b3",
+        "rendered-prompts-and-token-ids.json": "5b5415bfbb09f409fba1dfe70b7f840f4bb5d0a616203323a3d4d1231a3e71d3",
+        "all-tokens-and-labels.csv": "ee1fc4c6e86ec565a5f01afbfa722e188e14b7e71716bb63230fdbe244276c8c",
+        "display-index.csv": "a4c08ccc32ee0159c08d0c4059f8c0a0eebe953cafac3b811a10ca2d39947d42",
+        "display-selection.json": "535a5d2186a04c4e865f1809729c5d5e929db1fd84f070a8bf31624423df832e"
+      },
+      "forward_tokens": [
+        629,
+        593,
+        597
+      ],
+      "display_tokens_each": 529
+    },
+    {
+      "id": "mats-12",
+      "title": "Selecting an illustrative example",
+      "files": {
+        "original-messages.json": "6eba8a05bc48845b9dc6626151cf20c323da8e4c7d875937ee86d3fa30f9d2cc",
+        "rendered-prompts-and-token-ids.json": "550cec5603105b1f314de6ed51de4fd2e5099d8febe50dc9019f70d9d0064b4c",
+        "all-tokens-and-labels.csv": "8c9c8904357b0bbfafb4734935ec6d5b0641b23530e36f13739827dec20c87b9",
+        "display-index.csv": "c7e5d67e80f874283f3ee6ee9d88e1355fa5b6de386d53270a51901ccc12ab10",
+        "display-selection.json": "64990a0f1ef2caba67609a4862e56dd0670467d39904257ce4898171e33c22c7"
+      },
+      "forward_tokens": [
+        625,
+        589,
+        593
+      ],
+      "display_tokens_each": 526
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "completed_utc": "2026-09-12T01:41:51.508893+00:00",
+  "n_candidates": 12,
+  "n_model_forwards": 36,
+  "elapsed_seconds": 80.70901203155518,
+  "peak_memory_gb": 12.757560244,
+  "model_snapshot": "773a7da77e569019bb0fd17a554b263738d669a3",
+  "model_id": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "tokenizer_snapshot": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "probe_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "probe_key": "suca_L12",
+  "class_order": [
+    "system",
+    "user",
+    "cot",
+    "assistant"
+  ],
+  "hook": "zero-based layer12 post_attention_layernorm output, pre-MLP",
+  "runtime": "MLX",
+  "activation_dtypes": [
+    "mlx.core.bfloat16"
+  ],
+  "storage_dtype": "float16",
+  "projection_dtype": "float64",
+  "batch_size": 1,
+  "no_generation": true,
+  "input_freeze_sha256": "cbb022e75af1c837b5fc13572900d226a186a6c8a3fc8bb24d69a1b0634bb52b",
+  "script_sha256": "5402ce369eceb8578aa7343d95c833c971f0c0e05de25c7777d3984e79f85898",
+  "versions": {
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3",
+    "numpy": "2.5.3",
+    "transformers": "5.17.0"
+  },
+  "forwards": [
+    {
+      "candidate": "mats-01",
+      "condition": "proper_tags",
+      "tokens": 594,
+      "seconds": 2.5854389667510986
+    },
+    {
+      "candidate": "mats-01",
+      "condition": "basic_no_format",
+      "tokens": 558,
+      "seconds": 1.639786958694458
+    },
+    {
+      "candidate": "mats-01",
+      "condition": "everything_in_user_tags",
+      "tokens": 562,
+      "seconds": 1.8908088207244873
+    },
+    {
+      "candidate": "mats-02",
+      "condition": "proper_tags",
+      "tokens": 612,
+      "seconds": 1.7826151847839355
+    },
+    {
+      "candidate": "mats-02",
+      "condition": "basic_no_format",
+      "tokens": 576,
+      "seconds": 1.8287019729614258
+    },
+    {
+      "candidate": "mats-02",
+      "condition": "everything_in_user_tags",
+      "tokens": 580,
+      "seconds": 1.5959692001342773
+    },
+    {
+      "candidate": "mats-03",
+      "condition": "proper_tags",
+      "tokens": 615,
+      "seconds": 1.6075000762939453
+    },
+    {
+      "candidate": "mats-03",
+      "condition": "basic_no_format",
+      "tokens": 579,
+      "seconds": 1.5918989181518555
+    },
+    {
+      "candidate": "mats-03",
+      "condition": "everything_in_user_tags",
+      "tokens": 583,
+      "seconds": 1.7467608451843262
+    },
+    {
+      "candidate": "mats-04",
+      "condition": "proper_tags",
+      "tokens": 619,
+      "seconds": 2.0886619091033936
+    },
+    {
+      "candidate": "mats-04",
+      "condition": "basic_no_format",
+      "tokens": 583,
+      "seconds": 1.6997051239013672
+    },
+    {
+      "candidate": "mats-04",
+      "condition": "everything_in_user_tags",
+      "tokens": 587,
+      "seconds": 1.6548171043395996
+    },
+    {
+      "candidate": "mats-05",
+      "condition": "proper_tags",
+      "tokens": 619,
+      "seconds": 2.212074041366577
+    },
+    {
+      "candidate": "mats-05",
+      "condition": "basic_no_format",
+      "tokens": 583,
+      "seconds": 2.1383800506591797
+    },
+    {
+      "candidate": "mats-05",
+      "condition": "everything_in_user_tags",
+      "tokens": 587,
+      "seconds": 2.5054500102996826
+    },
+    {
+      "candidate": "mats-06",
+      "condition": "proper_tags",
+      "tokens": 616,
+      "seconds": 2.2406561374664307
+    },
+    {
+      "candidate": "mats-06",
+      "condition": "basic_no_format",
+      "tokens": 580,
+      "seconds": 2.2189078330993652
+    },
+    {
+      "candidate": "mats-06",
+      "condition": "everything_in_user_tags",
+      "tokens": 584,
+      "seconds": 2.2258460521698
+    },
+    {
+      "candidate": "mats-07",
+      "condition": "proper_tags",
+      "tokens": 626,
+      "seconds": 2.3441431522369385
+    },
+    {
+      "candidate": "mats-07",
+      "condition": "basic_no_format",
+      "tokens": 590,
+      "seconds": 2.353653907775879
+    },
+    {
+      "candidate": "mats-07",
+      "condition": "everything_in_user_tags",
+      "tokens": 594,
+      "seconds": 2.35748291015625
+    },
+    {
+      "candidate": "mats-08",
+      "condition": "proper_tags",
+      "tokens": 626,
+      "seconds": 2.4199700355529785
+    },
+    {
+      "candidate": "mats-08",
+      "condition": "basic_no_format",
+      "tokens": 590,
+      "seconds": 2.3008368015289307
+    },
+    {
+      "candidate": "mats-08",
+      "condition": "everything_in_user_tags",
+      "tokens": 594,
+      "seconds": 2.3087217807769775
+    },
+    {
+      "candidate": "mats-09",
+      "condition": "proper_tags",
+      "tokens": 618,
+      "seconds": 2.490628719329834
+    },
+    {
+      "candidate": "mats-09",
+      "condition": "basic_no_format",
+      "tokens": 582,
+      "seconds": 2.2748641967773438
+    },
+    {
+      "candidate": "mats-09",
+      "condition": "everything_in_user_tags",
+      "tokens": 586,
+      "seconds": 2.392709732055664
+    },
+    {
+      "candidate": "mats-10",
+      "condition": "proper_tags",
+      "tokens": 625,
+      "seconds": 2.390826940536499
+    },
+    {
+      "candidate": "mats-10",
+      "condition": "basic_no_format",
+      "tokens": 589,
+      "seconds": 2.224703073501587
+    },
+    {
+      "candidate": "mats-10",
+      "condition": "everything_in_user_tags",
+      "tokens": 593,
+      "seconds": 2.1821959018707275
+    },
+    {
+      "candidate": "mats-11",
+      "condition": "proper_tags",
+      "tokens": 629,
+      "seconds": 2.335239887237549
+    },
+    {
+      "candidate": "mats-11",
+      "condition": "basic_no_format",
+      "tokens": 593,
+      "seconds": 2.4417121410369873
+    },
+    {
+      "candidate": "mats-11",
+      "condition": "everything_in_user_tags",
+      "tokens": 597,
+      "seconds": 2.2611007690429688
+    },
+    {
+      "candidate": "mats-12",
+      "condition": "proper_tags",
+      "tokens": 625,
+      "seconds": 1.7091012001037598
+    },
+    {
+      "candidate": "mats-12",
+      "condition": "basic_no_format",
+      "tokens": 589,
+      "seconds": 1.6708648204803467
+    },
+    {
+      "candidate": "mats-12",
+      "condition": "everything_in_user_tags",
+      "tokens": 593,
+      "seconds": 1.7366759777069092
+    }
+  ],
+  "interpretation": "Twelve authored candidate illustrations selected for display after measurement. Not an independent sample for population inference. Existing gardening runtime control applies to this same model/probe configuration; it does not establish calibration."
+}

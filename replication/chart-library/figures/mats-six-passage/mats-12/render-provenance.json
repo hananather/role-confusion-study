@@ -1,0 +1,86 @@
+{
+  "candidate": "mats-12",
+  "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-six-passage/mats-12/displayed-rows.csv",
+  "source_sha256": "98783802366b86322bcfac254eb30819b5c9b61a187fceb9bab9665217a5fcc6",
+  "renderer_sha256": "cf31dc0a6b7c43862c63f632fb1498d639b1da84d5b5f2f5c6c3f4a242fa0557",
+  "n_display_tokens_per_condition": 526,
+  "n_points_by_condition": {
+    "proper_tags": 526,
+    "basic_no_format": 526,
+    "everything_in_user_tags": 526
+  },
+  "passages": [
+    {
+      "seg_ix": 1,
+      "role": "user",
+      "role_number": 1,
+      "start_display_token_ix": 1,
+      "n_tokens": 47,
+      "excerpt": "Hello!\n I'm\u2026"
+    },
+    {
+      "seg_ix": 2,
+      "role": "cot",
+      "role_number": 1,
+      "start_display_token_ix": 48,
+      "n_tokens": 102,
+      "excerpt": "The user\n wants a\u2026"
+    },
+    {
+      "seg_ix": 3,
+      "role": "assistant",
+      "role_number": 1,
+      "start_display_token_ix": 150,
+      "n_tokens": 111,
+      "excerpt": "Choose an\n illustration for\u2026"
+    },
+    {
+      "seg_ix": 4,
+      "role": "user",
+      "role_number": 2,
+      "start_display_token_ix": 261,
+      "n_tokens": 44,
+      "excerpt": "Great.\n What\u2026"
+    },
+    {
+      "seg_ix": 5,
+      "role": "cot",
+      "role_number": 2,
+      "start_display_token_ix": 305,
+      "n_tokens": 102,
+      "excerpt": "The user\n needs\u2026"
+    },
+    {
+      "seg_ix": 6,
+      "role": "assistant",
+      "role_number": 2,
+      "start_display_token_ix": 407,
+      "n_tokens": 120,
+      "excerpt": "A compact caption\n can say: role-probe\u2026"
+    }
+  ],
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "excerpt_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "font_source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf",
+  "font_embedding": "TrueType in PDF; glyph paths in SVG",
+  "size_inches": [
+    6.75,
+    3.6
+  ],
+  "selection_disclosure": "One of 12 measured illustrative examples.",
+  "artist_values_exactly_match_csv": true,
+  "artifact_sha256": {
+    "mats-12.pdf": "1032de1dd89a44746d33bf4ae17e210b5a792fcb45c6ad054944cd3275bf01eb",
+    "mats-12.png": "fc4c73fada4db32644804179755ade4f7d1fa98b0660de2dfdba1fb79a6c1606",
+    "mats-12.svg": "67aa0abedf6002a1c67823db4776b96496092c06f359b0f234177cdcfc8a468e"
+  }
+}

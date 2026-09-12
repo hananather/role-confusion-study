@@ -1,0 +1,159 @@
+You have loaded an FP4 model on CPU and have a CUDA/XPU device available, make sure to set your model on a GPU/XPU device in order to run your model. To remove this warning, pass device_map = 'cuda' or device_map = 'xpu'. 
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 1445.40it/s]
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 1676.38it/s]
+Fetching 41 files:   0%|          | 0/41 [00:00<?, ?it/s]Fetching 41 files: 100%|██████████| 41/41 [00:00<00:00, 3372.69it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Fetching 41 files:   0%|          | 0/41 [00:00<?, ?it/s][AFetching 41 files: 100%|██████████| 41/41 [00:00<00:00, 3102.02it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.18s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:01<00:00,  1.08it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.56it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.35it/s]
+Expert precision: FloatType(bitwidth_exponent=2, bitwidth_mantissa=1, is_signed=True)
+Attention implementation: kernels-community/vllm-flash-attn3
+LM loss: 3.984269618988037
+Hidden states layers (pre-mlp | post-layer): 24 | 24
+Hidden state size (pre-mlp | post-layer): torch.Size([1280, 2880]) | torch.Size([1280, 2880])
+Verified custom forward pass successfully matches original model output!
+I completed 10/1200 rh6 inputs in 34.8s
+I completed 20/1200 rh6 inputs in 40.9s
+I completed 30/1200 rh6 inputs in 44.4s
+I completed 40/1200 rh6 inputs in 50.5s
+I completed 50/1200 rh6 inputs in 54.8s
+I completed 60/1200 rh6 inputs in 57.8s
+I completed 70/1200 rh6 inputs in 61.6s
+I completed 80/1200 rh6 inputs in 65.4s
+I completed 90/1200 rh6 inputs in 69.4s
+I completed 100/1200 rh6 inputs in 74.0s
+I completed 110/1200 rh6 inputs in 79.1s
+I completed 120/1200 rh6 inputs in 83.9s
+I completed 130/1200 rh6 inputs in 88.2s
+I completed 140/1200 rh6 inputs in 92.9s
+I completed 150/1200 rh6 inputs in 97.4s
+I completed 160/1200 rh6 inputs in 102.6s
+I completed 170/1200 rh6 inputs in 108.2s
+I completed 180/1200 rh6 inputs in 111.1s
+I completed 190/1200 rh6 inputs in 115.1s
+I completed 200/1200 rh6 inputs in 118.6s
+I completed 210/1200 rh6 inputs in 123.0s
+I completed 220/1200 rh6 inputs in 126.6s
+I completed 230/1200 rh6 inputs in 131.1s
+I completed 240/1200 rh6 inputs in 134.4s
+I completed 250/1200 rh6 inputs in 138.9s
+I completed 260/1200 rh6 inputs in 143.9s
+I completed 270/1200 rh6 inputs in 146.8s
+I completed 280/1200 rh6 inputs in 151.6s
+I completed 290/1200 rh6 inputs in 154.6s
+I completed 300/1200 rh6 inputs in 158.1s
+I completed 310/1200 rh6 inputs in 161.6s
+I completed 320/1200 rh6 inputs in 167.5s
+I completed 330/1200 rh6 inputs in 172.3s
+I completed 340/1200 rh6 inputs in 176.3s
+I completed 350/1200 rh6 inputs in 179.5s
+I completed 360/1200 rh6 inputs in 182.5s
+I completed 370/1200 rh6 inputs in 186.3s
+I completed 380/1200 rh6 inputs in 189.3s
+I completed 390/1200 rh6 inputs in 193.5s
+I completed 400/1200 rh6 inputs in 196.2s
+I completed 410/1200 rh6 inputs in 199.2s
+I completed 420/1200 rh6 inputs in 202.1s
+I completed 430/1200 rh6 inputs in 205.0s
+I completed 440/1200 rh6 inputs in 208.8s
+I completed 450/1200 rh6 inputs in 211.8s
+I completed 460/1200 rh6 inputs in 215.6s
+I completed 470/1200 rh6 inputs in 218.7s
+I completed 480/1200 rh6 inputs in 222.4s
+I completed 490/1200 rh6 inputs in 227.7s
+I completed 500/1200 rh6 inputs in 231.4s
+I completed 510/1200 rh6 inputs in 236.5s
+I completed 520/1200 rh6 inputs in 240.7s
+I completed 530/1200 rh6 inputs in 244.0s
+I completed 540/1200 rh6 inputs in 247.8s
+I completed 550/1200 rh6 inputs in 250.7s
+I completed 560/1200 rh6 inputs in 254.4s
+I completed 570/1200 rh6 inputs in 260.3s
+I completed 580/1200 rh6 inputs in 264.8s
+I completed 590/1200 rh6 inputs in 269.9s
+I completed 600/1200 rh6 inputs in 273.4s
+I completed 610/1200 rh6 inputs in 276.4s
+I completed 620/1200 rh6 inputs in 279.8s
+I completed 630/1200 rh6 inputs in 283.2s
+I completed 640/1200 rh6 inputs in 285.7s
+I completed 650/1200 rh6 inputs in 289.8s
+I completed 660/1200 rh6 inputs in 292.7s
+I completed 670/1200 rh6 inputs in 300.3s
+I completed 680/1200 rh6 inputs in 303.5s
+I completed 690/1200 rh6 inputs in 306.3s
+I completed 700/1200 rh6 inputs in 311.3s
+I completed 710/1200 rh6 inputs in 315.5s
+I completed 720/1200 rh6 inputs in 319.4s
+I completed 730/1200 rh6 inputs in 322.4s
+I completed 740/1200 rh6 inputs in 326.2s
+I completed 750/1200 rh6 inputs in 329.8s
+I completed 760/1200 rh6 inputs in 334.2s
+I completed 770/1200 rh6 inputs in 336.7s
+I completed 780/1200 rh6 inputs in 339.4s
+I completed 790/1200 rh6 inputs in 342.4s
+I completed 800/1200 rh6 inputs in 347.7s
+I completed 810/1200 rh6 inputs in 351.4s
+I completed 820/1200 rh6 inputs in 354.4s
+I completed 830/1200 rh6 inputs in 357.4s
+I completed 840/1200 rh6 inputs in 360.4s
+I completed 850/1200 rh6 inputs in 364.2s
+I completed 860/1200 rh6 inputs in 367.1s
+I completed 870/1200 rh6 inputs in 370.8s
+I completed 880/1200 rh6 inputs in 373.7s
+I completed 890/1200 rh6 inputs in 376.7s
+I completed 900/1200 rh6 inputs in 380.3s
+I completed 910/1200 rh6 inputs in 383.4s
+I completed 920/1200 rh6 inputs in 387.2s
+I completed 930/1200 rh6 inputs in 391.4s
+I completed 940/1200 rh6 inputs in 393.9s
+I completed 950/1200 rh6 inputs in 396.6s
+I completed 960/1200 rh6 inputs in 399.5s
+I completed 970/1200 rh6 inputs in 402.3s
+I completed 980/1200 rh6 inputs in 405.2s
+I completed 990/1200 rh6 inputs in 407.9s
+I completed 1000/1200 rh6 inputs in 410.7s
+I completed 1010/1200 rh6 inputs in 413.7s
+I completed 1020/1200 rh6 inputs in 416.7s
+I completed 1030/1200 rh6 inputs in 420.2s
+I completed 1040/1200 rh6 inputs in 424.7s
+I completed 1050/1200 rh6 inputs in 427.9s
+I completed 1060/1200 rh6 inputs in 430.9s
+I completed 1070/1200 rh6 inputs in 433.7s
+I completed 1080/1200 rh6 inputs in 436.7s
+I completed 1090/1200 rh6 inputs in 441.1s
+I completed 1100/1200 rh6 inputs in 447.0s
+I completed 1110/1200 rh6 inputs in 452.3s
+I completed 1120/1200 rh6 inputs in 456.1s
+I completed 1130/1200 rh6 inputs in 459.0s
+I completed 1140/1200 rh6 inputs in 462.8s
+I completed 1150/1200 rh6 inputs in 465.4s
+I completed 1160/1200 rh6 inputs in 468.3s
+I completed 1170/1200 rh6 inputs in 472.2s
+I completed 1180/1200 rh6 inputs in 475.3s
+I completed 1190/1200 rh6 inputs in 478.0s
+I completed 1200/1200 rh6 inputs in 480.7s
+[analyze] user-turn effects on Userness (space sucat), command spans vs null, layer x order:
+construction                         command                     command-minus-null                              null_ctrl                    
+contrast                  permission-neutral prohibition-neutral permission-neutral prohibition-neutral permission-neutral prohibition-neutral
+layer order span  command                                                                                                                     
+8     A     slot1 exfil                0.006               0.001              0.001              -0.001              0.005               0.002
+            slot2 marker               0.001               0.003             -0.002               0.003              0.003               0.001
+      B     slot1 marker               0.019               0.004              0.011              -0.000              0.007               0.004
+            slot2 exfil                0.018               0.001              0.018               0.001              0.000              -0.000
+12    A     slot1 exfil                0.004               0.002              0.001              -0.001              0.003               0.003
+            slot2 marker              -0.008               0.009             -0.009               0.005              0.001               0.004
+      B     slot1 marker              -0.011               0.004             -0.014              -0.001              0.003               0.004
+            slot2 exfil                0.019               0.004              0.020               0.002             -0.002               0.002
+16    A     slot1 exfil               -0.008              -0.016             -0.007              -0.002             -0.001              -0.014
+            slot2 marker               0.068              -0.019              0.067              -0.005              0.001              -0.014
+      B     slot1 marker               0.123              -0.017              0.129              -0.001             -0.006              -0.016
+            slot2 exfil                0.019              -0.009              0.017              -0.002              0.003              -0.007
+[analyze] order effect on Userness (slot1 - slot2), sucat:
+construction  command                        null_ctrl                       
+user_turn     neutral permission prohibition   neutral permission prohibition
+layer command                                                                
+8     exfil     0.034      0.022       0.034     0.034      0.039       0.035
+      marker    0.024      0.042       0.024     0.017      0.021       0.020
+12    exfil     0.026      0.012       0.024     0.055      0.059       0.056
+      marker    0.045      0.042       0.040     0.036      0.038       0.036
+16    exfil     0.085      0.058       0.078     0.146      0.143       0.139
+      marker    0.023      0.077       0.024     0.062      0.055       0.060

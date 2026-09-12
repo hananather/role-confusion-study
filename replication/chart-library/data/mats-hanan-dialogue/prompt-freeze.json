@@ -1,0 +1,19 @@
+{
+  "frozen_utc": "2026-09-12T02:09:37.107241+00:00",
+  "system": "You are ChatGPT, a large language model trained by OpenAI.\nKnowledge cutoff: 2024-06\nCurrent date: 2025-10-01\n\nReasoning: low\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.\nKeep each final answer concise: at most 100 words, without a long introduction.",
+  "user_prompts": [
+    "I'm Hanan, and I want to apply to Neel Nanda's MATS stream. I've been reading Prompt Injection as Role Confusion and experimenting with GPT-OSS-20B. Can you suggest a small project about whether steering the model's role representation changes which instructions it follows? I'd like one result worth showing Neel, even if it ruins my favourite hypothesis.",
+    "Okay, suppose the Toolness probe shoots up but the model still follows the injected instruction. Is that a useful result, or have I built an expensive mood ring? What's the first control you would run?"
+  ],
+  "authorship": "The two user prompts are authored in Hanan’s voice for this new illustration; they are not a historical transcript. The local model will generate both analysis passages and final answers. No Neel quotation or actual admission outcome is claimed.",
+  "stage": "Distill",
+  "north_star": "An original, personal MATS conversation in the same six-passage display structure.",
+  "selection": "One new exchange; retain both complete responses and all measured scores. No search over generated outcomes.",
+  "generation": {
+    "temperature": 0.0,
+    "max_new_tokens_per_turn": 1536,
+    "timeout_seconds_per_turn": 180,
+    "reasoning_effort": "low",
+    "final_answer_instruction": "at most 100 words"
+  }
+}

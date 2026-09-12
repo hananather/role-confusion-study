@@ -1,0 +1,63 @@
+{
+  "font": "TeX Gyre Termes",
+  "palette_source": "../../../../prompt-injection-as-role-confusion/r-utils/plots.r + workspace paper palette",
+  "outcome_colors": {
+    "uploaded": "#ff637e",
+    "no_upload": "#00d492",
+    "unresolved": "#62748e"
+  },
+  "color_semantics": "Figures 1\u20132 color outcomes, explicitly labelled in legends; Figure 3 uses Tool purple for probe scores and separate labelled action bars.",
+  "renderer_sha256": "9479e8284817e507d7a74eedd976d2f256acb8b7dcfb2c71e02d49b3d7fa275e",
+  "artifacts": [
+    {
+      "name": "01-complete-outcomes",
+      "size_inches": [
+        9.2,
+        6.6
+      ],
+      "files": {
+        "01-complete-outcomes.png": "beb3045b247529e37adebb6ece370bc69b74ebc929db1d1ad68045d6f22c7479",
+        "01-complete-outcomes.pdf": "379eaeec55707576c44443c7fb0fec64f83b584ef443898d37cd4b49ab6a36bd",
+        "01-complete-outcomes.svg": "277910d0ae3d775d9482ebd9e6312b79c9b9dced4a17d4f9ae00df295d91c0d2"
+      },
+      "data": {
+        "data/forgery-outcomes.csv": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "data/paired-changes.csv": "510ace99f6c70cc30f915a606ee9007ce177b1c25a08eef8f46193b10aabcede",
+        "data/arm-counts.csv": "19f634b7752329f54a67fe9184f9a4a94d383f2b0747af9a6aac4f7760c1f7f8"
+      },
+      "visible_text_within_canvas": true
+    },
+    {
+      "name": "02-probe-behavior",
+      "size_inches": [
+        9.2,
+        6.5
+      ],
+      "files": {
+        "02-probe-behavior.png": "6440c181cf0f18eb7de023950ae07698d97e994466984103e96f624a82752e4c",
+        "02-probe-behavior.pdf": "78348be04465037d4081601d0a71e7808e956df7a09913b69575864e696e450e",
+        "02-probe-behavior.svg": "920873991b633fc09a72f3aad3c9aed12df1818e7aa78cc9787a4f17981e8c6d"
+      },
+      "data": {
+        "data/forgery-payload-probes.csv": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8"
+      },
+      "visible_text_within_canvas": true
+    },
+    {
+      "name": "03-permission-task",
+      "size_inches": [
+        9.2,
+        5.0
+      ],
+      "files": {
+        "03-permission-task.png": "3b053896bbc1e16e2ac741f692d3f87c613fe20c17b164642ce8ea4ccac0c875",
+        "03-permission-task.pdf": "862f8501cd1f30c69f2814ed395a5c2b055bf92ce87215b0543d65ca2548e48f",
+        "03-permission-task.svg": "7725f2479ebfa0ead5686d2a59466e5d27263779818e0749f234ffca416d72ff"
+      },
+      "data": {
+        "reviews/permission-toolward-pairs.csv": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6"
+      },
+      "visible_text_within_canvas": true
+    }
+  ]
+}

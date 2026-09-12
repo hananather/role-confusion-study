@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-09-04",
+  "requested_outcome": "paper context with verbatim blog posts and key comments",
+  "status": "partial: paper separately converted; full web transcripts pending supplied exports",
+  "source_access": [
+    "web primary-page reads",
+    "public rendered browser DOM for comment IDs, dates and counts"
+  ],
+  "extraction_attempt": {
+    "tool": "Defuddle",
+    "result": "HTTP 429; no full transcript saved"
+  },
+  "selection": "three core linked posts plus two technical references linked in original discussion; comments selected for methods, author replies, corrections, and scope",
+  "license_status": "no explicit suitable full-text reuse license verified",
+  "completion_requirement": "user-supplied exports including expanded comments, or verified suitable reuse permission",
+  "posts": [
+    {
+      "title": "Steering Role Confusion",
+      "authors": [
+        "Kevin Zhang",
+        "Daniel Lee",
+        "Jaewoo Park"
+      ],
+      "url": "https://www.lesswrong.com/posts/uz9pFutDAT7trygM9/steering-role-confusion",
+      "post_id": "uz9pFutDAT7trygM9",
+      "published_date": "2026-08-20",
+      "published_at_utc": "2026-08-20T02:09:49.319Z",
+      "checked_at": "2026-09-04",
+      "local_path": "steering-role-confusion.md",
+      "source_type": "public blog post",
+      "preservation": "reading note, not verbatim transcript",
+      "full_text_archived": false,
+      "displayed_comment_count": 1,
+      "rendered_comments_inspected": 1,
+      "comment_coverage": "public rendered discussion inspected",
+      "selected_comments": [
+        {
+          "post_id": "uz9pFutDAT7trygM9",
+          "comment_id": "ss47krH2oN4XFHEme",
+          "parent_comment_id": null,
+          "author": "charles_ye",
+          "posted_at_utc": "2026-08-20T19:22:45.622Z",
+          "url": "https://www.lesswrong.com/posts/uz9pFutDAT7trygM9?commentId=ss47krH2oN4XFHEme",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        }
+      ],
+      "sha256": "305b42954fb2d0fbcf3cdc0d2b03456e6dd41366f5646c51d9f0af32544e4d7f"
+    },
+    {
+      "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles)",
+      "authors": [
+        "charles_ye",
+        "Jasmine C."
+      ],
+      "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you",
+      "post_id": "d8xDGzCEYE639qqEv",
+      "published_date": "2026-06-22",
+      "published_at_utc": "2026-06-22T14:09:23.537Z",
+      "checked_at": "2026-09-04",
+      "local_path": "original-explainer.md",
+      "source_type": "public blog post",
+      "preservation": "reading note, not verbatim transcript",
+      "full_text_archived": false,
+      "displayed_comment_count": 62,
+      "rendered_comments_inspected": 62,
+      "comment_coverage": "public rendered discussion inspected",
+      "selected_comments": [
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "rkGY5feyJS3gAENZZ",
+          "parent_comment_id": null,
+          "author": "Brendan Long",
+          "posted_at_utc": "2026-06-22T22:14:13.423Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=rkGY5feyJS3gAENZZ",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "SaFFTj9XF5pfodtTu",
+          "parent_comment_id": "rkGY5feyJS3gAENZZ",
+          "author": "charles_ye",
+          "posted_at_utc": "2026-06-22T22:34:49.622Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=SaFFTj9XF5pfodtTu",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "bmtveJh2D5dzYooh3",
+          "parent_comment_id": "SaFFTj9XF5pfodtTu",
+          "author": "dgros",
+          "posted_at_utc": "2026-06-24T01:33:54.893Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=bmtveJh2D5dzYooh3",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "vECtiK9cY2YgFpRSd",
+          "parent_comment_id": "rkGY5feyJS3gAENZZ",
+          "author": "yael",
+          "posted_at_utc": "2026-06-25T17:32:13.309Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=vECtiK9cY2YgFpRSd",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "sfKqreXtCMfsAcCS9",
+          "parent_comment_id": "vECtiK9cY2YgFpRSd",
+          "author": "Ayesha Imran",
+          "posted_at_utc": "2026-07-16T10:14:13.375Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=sfKqreXtCMfsAcCS9",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "8euCGnqELWtbRCKRA",
+          "parent_comment_id": null,
+          "author": "Logan Riggs",
+          "posted_at_utc": "2026-06-22T18:27:56.462Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=8euCGnqELWtbRCKRA",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "aikSGqBTEX7F5NH53",
+          "parent_comment_id": null,
+          "author": "Will Duncan",
+          "posted_at_utc": "2026-06-25T11:59:25.148Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=aikSGqBTEX7F5NH53",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "YpRkFSc4wdSQZhpri",
+          "parent_comment_id": "aikSGqBTEX7F5NH53",
+          "author": "Jasmine C.",
+          "posted_at_utc": "2026-06-28T21:30:16.285Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=YpRkFSc4wdSQZhpri",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "N36RrW3pGaHM3zwL9",
+          "parent_comment_id": "YpRkFSc4wdSQZhpri",
+          "author": "Will Duncan",
+          "posted_at_utc": "2026-08-06T19:23:50.822Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=N36RrW3pGaHM3zwL9",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "aHxTLr3Fc39HH5xBs",
+          "parent_comment_id": null,
+          "author": "Jake Ward",
+          "posted_at_utc": "2026-06-22T21:52:30.750Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=aHxTLr3Fc39HH5xBs",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "HetjvDrGa8E3mGSTM",
+          "parent_comment_id": "aHxTLr3Fc39HH5xBs",
+          "author": "Clément Dumas",
+          "posted_at_utc": "2026-06-22T22:11:44.549Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=HetjvDrGa8E3mGSTM",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "S4hYTnLuWXrFAy6dz",
+          "parent_comment_id": "HetjvDrGa8E3mGSTM",
+          "author": "Jake Ward",
+          "posted_at_utc": "2026-06-22T22:39:50.918Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=S4hYTnLuWXrFAy6dz",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "AdMGWhwR2tmnXHixj",
+          "parent_comment_id": null,
+          "author": "p.b.",
+          "posted_at_utc": "2026-07-10T07:36:07.039Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=AdMGWhwR2tmnXHixj",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "d8xDGzCEYE639qqEv",
+          "comment_id": "4auRfKLv5Bvrk4FeK",
+          "parent_comment_id": null,
+          "author": "Max von Hippel",
+          "posted_at_utc": "2026-09-02T09:28:38.374Z",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv?commentId=4auRfKLv5Bvrk4FeK",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        }
+      ],
+      "sha256": "d2cf8fba771f7d3adc8118cab5c411cc469c68236f357c54af1c4b10ca61dd88"
+    },
+    {
+      "title": "Role confusion: sounding like the cause is indistinguishable from being it.",
+      "authors": [
+        "Owain Mogford"
+      ],
+      "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk/role-confusion-sounding-like-the-cause-is-indistinguishable",
+      "post_id": "rJcX5Qc3toMmMqtvk",
+      "published_date": "2026-06-29",
+      "published_at_utc": null,
+      "checked_at": "2026-09-04",
+      "local_path": "replication-and-response.md",
+      "source_type": "public blog post",
+      "preservation": "reading note, not verbatim transcript",
+      "full_text_archived": false,
+      "displayed_comment_count": 10,
+      "rendered_comments_inspected": 10,
+      "comment_coverage": "public rendered discussion inspected",
+      "selected_comments": [
+        {
+          "post_id": "rJcX5Qc3toMmMqtvk",
+          "comment_id": "mqAwiuaNvv72kgKBG",
+          "parent_comment_id": null,
+          "author": "charles_ye",
+          "posted_at_utc": "2026-06-29T21:32:00.751Z",
+          "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk?commentId=mqAwiuaNvv72kgKBG",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "rJcX5Qc3toMmMqtvk",
+          "comment_id": "pcMCEXAJ6qspFFxxL",
+          "parent_comment_id": "mqAwiuaNvv72kgKBG",
+          "author": "charles_ye",
+          "posted_at_utc": "2026-06-29T22:15:02.086Z",
+          "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk?commentId=pcMCEXAJ6qspFFxxL",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "rJcX5Qc3toMmMqtvk",
+          "comment_id": "9eyvZ3G6H2c9thvqM",
+          "parent_comment_id": "pcMCEXAJ6qspFFxxL",
+          "author": "Owain Mogford",
+          "posted_at_utc": "2026-06-30T14:14:43.980Z",
+          "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk?commentId=9eyvZ3G6H2c9thvqM",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "rJcX5Qc3toMmMqtvk",
+          "comment_id": "mv6vTW2peRbs5m8qn",
+          "parent_comment_id": null,
+          "author": "David Africa",
+          "posted_at_utc": "2026-06-29T22:39:07.746Z",
+          "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk?commentId=mv6vTW2peRbs5m8qn",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        },
+        {
+          "post_id": "rJcX5Qc3toMmMqtvk",
+          "comment_id": "fjoywA4ikTng6Jt6D",
+          "parent_comment_id": "wxCvpdfujsBtNHQSg",
+          "author": "Lydia Nottingham",
+          "posted_at_utc": "2026-07-21T17:58:42.197Z",
+          "url": "https://www.lesswrong.com/posts/rJcX5Qc3toMmMqtvk?commentId=fjoywA4ikTng6Jt6D",
+          "preservation": "selected paraphrase and permalink; full text not archived"
+        }
+      ],
+      "sha256": "96b9c9da817ad0f5a45f1b602d70a2adf84dc2b45beb3006574370f5e78193cb"
+    },
+    {
+      "title": "Role embeddings: making authorship more salient to LLMs",
+      "authors": [
+        "Nina Panickssery",
+        "Christopher Ackerman"
+      ],
+      "url": "https://www.lesswrong.com/posts/HEzNZ9gvgYwT3aZFS/role-embeddings-making-authorship-more-salient-to-llms",
+      "post_id": "HEzNZ9gvgYwT3aZFS",
+      "published_date": "2025-01-07",
+      "published_at_utc": null,
+      "checked_at": "2026-09-04",
+      "local_path": "role-embeddings.md",
+      "source_type": "public blog post",
+      "preservation": "reading note, not verbatim transcript",
+      "full_text_archived": false,
+      "displayed_comment_count": null,
+      "rendered_comments_inspected": null,
+      "comment_coverage": "not audited",
+      "selected_comments": [],
+      "sha256": "8eef670b487d38a51d903f82aa21e2c6d996a248c93f82fed69a5a8770364670"
+    },
+    {
+      "title": "Evaluating using Mock Tool Calls to Quarantine Untrusted Prompt Inputs",
+      "authors": [
+        "dgros"
+      ],
+      "url": "https://www.lesswrong.com/posts/GPMZaRmxxNb8o2aGo/evaluating-using-mock-tool-calls-to-quarantine-untrusted-2",
+      "post_id": "GPMZaRmxxNb8o2aGo",
+      "published_date": "2026-06-05",
+      "published_at_utc": null,
+      "checked_at": "2026-09-04",
+      "local_path": "mock-tool-calls.md",
+      "source_type": "public blog post",
+      "preservation": "reading note, not verbatim transcript",
+      "full_text_archived": false,
+      "displayed_comment_count": null,
+      "rendered_comments_inspected": null,
+      "comment_coverage": "not audited",
+      "selected_comments": [],
+      "sha256": "d6a32a70ccb28af7bfe3ef3aca8fec608bd1e1a010ff2b15218782775e9e2294"
+    }
+  ]
+}

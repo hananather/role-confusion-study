@@ -1,0 +1,13 @@
+# Pod venv for cloud/job_*.py. Linux x86_64, Python 3.11, CUDA GPU with compute capability >= 7.5.
+# The authors' pins (prompt-injection-as-role-confusion) as recorded in
+# role-steering/experiment/first-20260904/source/requirements-gpu.txt; modal dropped (no sandboxes here).
+# python -m pip install -r requirements-pod.txt
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.9.1+cu128
+triton==3.5.1
+transformers==4.57.5
+accelerate==1.12.0
+kernels==0.11.5
+safetensors==0.7.0
+numpy==2.2.6
+pyyaml==6.0.2

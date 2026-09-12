@@ -1,0 +1,4 @@
+[build] neutral: 3 base texts from runs/full-249/prompts.parquet (first 3 question_ix)
+[build] n per condition {'bare_t100': 3, 'bos2_t100': 3, 'nobos': 3, 'none': 3, 'sys_t1': 3, 'sys_t100': 3, 'sys_t150': 2, 'sys_t25': 3, 'sys_t50': 3, 'user_t100': 3}; dropped (len <= insert index) {'none': 0, 'sys_t1': 0, 'sys_t25': 0, 'sys_t50': 0, 'sys_t100': 0, 'sys_t150': 1, 'user_t100': 0, 'bare_t100': 0, 'bos2_t100': 0, 'nobos': 0}
+[build] mean tokens/prompt 209.0, total 6062, round trip exact on all: True
+[build] wrote appendix-k/runs/smoke-neutral/prompts.parquet

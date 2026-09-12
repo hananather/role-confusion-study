@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/workspace/replication/cloud/persistent/appendix_e_cuda.py", line 247, in run
+    if "mxfp4" not in type(expert).__name__.lower() or expert.down_proj.dtype.is_floating_point:
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FloatType' object has no attribute 'is_floating_point'

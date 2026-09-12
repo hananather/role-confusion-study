@@ -1,0 +1,111 @@
+{
+  "created_at": "2026-09-12T01:10:17.755833+00:00",
+  "scope": "I freeze scientific outputs and derived review files separately from operational logs after verified final sync.",
+  "files": [
+    {
+      "path": "results/DONE.json",
+      "bytes": 183,
+      "sha256": "14de224e0b01f33d6bda43a142396e3a7148d3c20123771924fc0eee3e35f0f9"
+    },
+    {
+      "path": "results/baseline-runtime-pilot.json",
+      "bytes": 49091,
+      "sha256": "f916718e4b52d7554da7640abdbbb682ff220121e124cdfeea3a1272509786aa"
+    },
+    {
+      "path": "results/cache-preflight.json",
+      "bytes": 2063,
+      "sha256": "50fc0da010337b9f1bc69c5c0d0983709cd8f43acc078a512ca879f4be3b5d41"
+    },
+    {
+      "path": "results/decisions.json",
+      "bytes": 180,
+      "sha256": "ff091a6c083be63e8adf0722f9dacfdb60745c44902470e60328d240b1d03c3f"
+    },
+    {
+      "path": "results/generations.jsonl",
+      "bytes": 2545497,
+      "sha256": "57cd0771d992e246ca7cf481fb11021bf5f82343bc4693cfa73796c71f6c8063"
+    },
+    {
+      "path": "results/judge-selection.json",
+      "bytes": 80237,
+      "sha256": "4724420e5fc778cb21300b499dcab258e8f37ea3b7b647588533a5ac698dda22"
+    },
+    {
+      "path": "results/pilot-result.json",
+      "bytes": 49331,
+      "sha256": "daf186e861cd0ce3bd9647dc1f0d836d3a2c636288c39d69e0dd645184dd5cc6"
+    },
+    {
+      "path": "results/probe-readout.csv",
+      "bytes": 1154,
+      "sha256": "ebeff3bacd5e5be7c3e1cb6304dc4ca629219ba056e6d78617b3cc987da0057b"
+    },
+    {
+      "path": "results/protocol-manifest.json",
+      "bytes": 3523,
+      "sha256": "ea35b366c5a2cfef20590ae6f9e96c1a78d9207a6f1e5122e185432f854bbdc8"
+    },
+    {
+      "path": "results/runtime-metadata.json",
+      "bytes": 5785,
+      "sha256": "b562a29d7f3d9e7c756d09fda23936000b8f7884c698dc3e9b45c1c87c295921"
+    },
+    {
+      "path": "results/summary.csv",
+      "bytes": 566,
+      "sha256": "647dfbc0b10fd837abcfdcbfd6fd5399c09c3e3f4e9c7fa01b8474839ae8adab"
+    },
+    {
+      "path": "review/cost.json",
+      "bytes": 1539,
+      "sha256": "75fb806f19f2cd737c9db91f9a80d6fdea100829ed47e7ad053ad8ec815b5034"
+    },
+    {
+      "path": "review/index/README.md",
+      "bytes": 1883,
+      "sha256": "f64d15fe8e63d9e7cd137905cc0e581a1092d326dbaf2a2f0e6a1afcc9fa48a4"
+    },
+    {
+      "path": "review/index/arm-counts.csv",
+      "bytes": 453,
+      "sha256": "8a6a9de41f371f903af293ff83512eb0b95f7aabad68aebe62d2aa8dce6461b4"
+    },
+    {
+      "path": "review/index/coverage.json",
+      "bytes": 2042,
+      "sha256": "11706580035f6226c1b47fa2d59dd0ccea201db7ccc188e3db82998ed21d9cba"
+    },
+    {
+      "path": "review/index/prompt-arm-index.csv",
+      "bytes": 36859,
+      "sha256": "eeac8701b1970af5af9544eb33264d0ebf1b9301be763d345c92853d3fec06cd"
+    },
+    {
+      "path": "review/index/prompt-arm-matrix.csv",
+      "bytes": 8806,
+      "sha256": "a13a23b6f1fab3b5e8b5322257668caf499fdcc472479a7d4ae539a65bcf00fc"
+    },
+    {
+      "path": "review/integrity.json",
+      "bytes": 2846,
+      "sha256": "9007fbf318d18510ebd1b98b68eb7f86a07c5c19f961a30906d047e6c16a772a"
+    },
+    {
+      "path": "review/raw-sample-selection.json",
+      "bytes": 380,
+      "sha256": "4ce1ba416530f23991a6b9f3a1ae38e9b09ac58d46dca829487c364a987aff7e"
+    },
+    {
+      "path": "review/raw-samples.md",
+      "bytes": 5217,
+      "sha256": "da7b38ea5a391274f3212d360d14d4515f61de6cdef1e6ab36e14525ce47df53"
+    },
+    {
+      "path": "review/trajectories.html",
+      "bytes": 2615646,
+      "sha256": "876a053687742b0927cc3e3419352e608d48772ed7d8b9668b2a1ca948012ada"
+    }
+  ]
+}

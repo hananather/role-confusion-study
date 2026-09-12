@@ -1,0 +1,9 @@
+{
+  "index": 192,
+  "n_tokens": 99,
+  "next_token": " The",
+  "time_utc": "2026-09-11T04:42:27.634269+00:00",
+  "token_rows": 297,
+  "prompt_ix": 30,
+  "condition": "sys_t25"
+}

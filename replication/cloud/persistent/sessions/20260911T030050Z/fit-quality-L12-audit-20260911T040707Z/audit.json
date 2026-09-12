@@ -1,0 +1,74 @@
+{
+  "captured_utc": "2026-09-11T04:07:07.787786+00:00",
+  "progress_at_capture": {
+    "time_utc": "2026-09-11T04:06:40.570059+00:00",
+    "phase": "fit",
+    "done": 227,
+    "total": 384,
+    "sec_per_probe": 6.8,
+    "layer": 14
+  },
+  "scope": "I compare all eight completed layer-12 prompt-split held-out accuracies with the archived independent H200 reproduction. I do not change or rerun the recipe.",
+  "n_matched_metrics": 8,
+  "maximum_absolute_difference_percentage_points": 0.04549725544715777,
+  "all_reference_accuracies_round_to_local_log": true,
+  "all_token_denominators_equal": true,
+  "gardening_probe_suca_L12": {
+    "layer_ix": 12,
+    "role_space": "suca",
+    "local_fit_index": 199,
+    "local_accuracy_log_rounded": 0.703,
+    "local_nll_log_rounded": 0.727,
+    "local_test_token_rows": 53615,
+    "reference_correct_tokens": 37711,
+    "reference_test_token_rows": 53615,
+    "reference_accuracy_from_confusions": 0.7033665951692624,
+    "difference_percentage_points": -0.0366595169262407,
+    "absolute_difference_percentage_points": 0.0366595169262407,
+    "denominators_equal": true,
+    "reference_rounds_to_local_log_accuracy": true,
+    "local_warning_count": 1
+  },
+  "verdict": "I find reassuring agreement on all eight layer-12 held-out accuracies at the precision of the local log, including the suca probe required for gardening. I find no material accuracy mismatch that warrants changing or interrupting the run.",
+  "formulas": {
+    "reference_accuracy": "sum(count where role==pred) / sum(count) within layer12 and role_space",
+    "difference_percentage_points": "100 * (local rounded log accuracy - reference confusion-derived accuracy)",
+    "denominator": "held-out labeled content-token rows for that role-space split",
+    "local_log_rounding": "Accuracy is printed to three decimals, so rounding alone accounts for up to0.05 percentage point."
+  },
+  "qualifications": [
+    "I compare with an independent H200 reproduction, not the original paper-trained artifact.",
+    "Equal token denominators do not independently establish identical test group IDs in the historical H200 run.",
+    "The warnings do not establish solver convergence; matching accuracy does not establish coefficient equality, calibration or matching gardening probabilities.",
+    "The logged suca negative log likelihood0.727 has no historical counterpart in this confusion CSV, so I do not claim NLL agreement.",
+    "The native-pickle convergence/finite-coefficient audit and the actual gardening forward/figures remain separate checks."
+  ],
+  "sources": {
+    "local_train_log": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/train.log",
+      "captured_sha256": "82269c6d6a67589cf4a36e25651bde8fbe3de638052bceec6f61a186a39187f4",
+      "observed_file_mtime_utc": "2026-09-11T04:06:44+00:00"
+    },
+    "stage_log": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/stage-logs/probes-full.log",
+      "captured_sha256": "bb128e9a80f2b77f9d87e37778b3882c0bec7c01e8a816a2e928423619e1c7e8",
+      "observed_file_mtime_utc": "2026-09-11T04:06:44+00:00"
+    },
+    "split_audit": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/split-audit.json",
+      "captured_sha256": "99527a96e2db30b8bd65c6ccaa39549924fec5751506f5006a7a5cf7c517746d",
+      "observed_file_mtime_utc": "2026-09-11T04:06:40+00:00"
+    },
+    "progress": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/progress.json",
+      "captured_sha256": "b302219bf3e93663fcd69c4fa30067b06c1147cfd43a817b63570f603ab91e7a",
+      "observed_file_mtime_utc": "2026-09-11T04:06:40+00:00"
+    },
+    "reference_confusions": {
+      "absolute_path": "/Users/hananather/Desktop/MATS 12.0/replication/reference/role-confusion-extension/deliverables/acc_by_role_gptoss-20b.csv",
+      "captured_sha256": "6e2884bfbf264a2fdf53ff63a32dd8a48928bbf1b01d7079f6fb8e112bed5aa3",
+      "observed_file_mtime_utc": "2026-09-10T21:34:05.814091+00:00"
+    }
+  },
+  "prior_preserved_audit": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/fit-quality-audit-20260911T034823Z"
+}

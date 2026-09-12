@@ -1,0 +1,101 @@
+{
+  "layout": "Six columns, one per complete passage, connected to the corresponding plot interval.",
+  "full_transcript": true,
+  "transcript_text": [
+    "I'm Hanan, and I want to apply to Neel Nanda's MATS stream. I've been reading Prompt Injection as Role Confusion and experimenting with GPT-OSS-20B. The paper trains linear probes to read chat roles, such as User and Tool, from hidden activations. I can add a Tool-minus-User steering vector to those activations while the model reads a tool response containing an injected instruction. Can you suggest one small project testing whether this changes which instructions it follows? I'd like one result worth showing Neel, even if it ruins my favourite hypothesis.",
+    "We need to propose a small project to test whether adding a Tool-minus-User steering vector changes instruction following. Should be a concrete experiment: pick a set of prompts with injected instructions, run baseline, run with steering vector, measure compliance. Use GPT-OSS-20B. Use linear probe to identify role activations, then add vector. Evaluate on a small set of instruction-following tasks. Provide a single result metric: e.g., compliance rate or difference in logit scores. Provide a concise suggestion.",
+    "Mini\u2011experiment: \u201cSteering\u2011Vector Compliance Test\u201d\n\n1. Select a small instruction set (e.g., 10 prompts that ask the model to follow a specific rule: \u201cNever mention the word foo\u201d or \u201cAlways answer in two sentences\u201d).  \n2. Baseline run: Feed each prompt to GPT\u2011OSS\u201120B, record the generated text and compute a compliance score (1\u202f=\u202ffully compliant, 0\u202f=\u202fnon\u2011compliant).  \n3. Steering run: For each prompt, identify the hidden activation slice that the linear probe labels as Tool (or User). Add the pre\u2011computed Tool\u2011minus\u2011User steering vector to that slice before decoding. Generate the response and compute the same compliance score.  \n4. Analysis: Compute the mean compliance difference \u0394\u202f=\u202f(steering\u202f\u2013\u202fbaseline). A statistically significant positive \u0394 (e.g., \u0394\u202f>\u202f0.2 with p\u202f<\u202f0.05) would show that the steering vector biases the model toward following the injected instruction.  \n5. Result to show Neel: A single table of compliance scores per prompt, with a clear \u0394 and a p\u2011value, plus a short narrative explaining whether the steering vector increased or decreased instruction following. This concrete, reproducible metric will let you demonstrate the effect (or lack thereof) of your hypothesis.",
+    "Okay, suppose the Toolness probe shoots up but the model still follows the injected instruction. Is that a useful result, or have I built an expensive mood ring? What's the first control you would run?",
+    "Need to explain that if probe indicates toolness but instruction still followed, indicates probe not capturing causal role. It's still useful to show that probe activation doesn't guarantee behavior. First control: test whether the steering vector actually changes the probe activation (i.e., measure probe output before/after). Also test a random vector to see if any vector changes behavior. Also test a baseline with no steering. Provide suggestion.",
+    "If the Toolness probe spikes yet the model still obeys the injected instruction, you\u2019ve shown that the probe\u2019s signal is not causally linked to the behavior you\u2019re trying to steer. That\u2019s a valuable finding: it tells you that the probe is a diagnostic marker, not a control knob. In other words, the \u201cmood ring\u201d is telling you the model sees the tool role, but that perception alone doesn\u2019t alter its policy.\n\nFirst control to run\n\n1. Probe\u2011activation sanity check  \n   Run the same prompts with the steering vector applied, then immediately feed the hidden activations into the probe.  \n   - If the probe\u2019s Tool score rises as expected, you\u2019ve confirmed that the vector is indeed moving the activations into the probe\u2019s \u201ctool\u201d subspace.  \n   - If the score does not change, the vector is ineffective or the probe is mis\u2011aligned.\n\n2. Behavioral baseline with a random vector  \n   Apply a random 100\u2011dimensional vector (same norm as your steering vector) to the same hidden slice and generate responses.  \n   - If the random vector produces no systematic change in compliance, you can attribute any effect you see with the engineered vector to its specific direction rather than to a generic perturbation.\n\nThese two controls let you separate \u201cprobe activation\u201d from \u201cbehavioral change\u201d and will strengthen the claim that the steering vector\u2019s effect (or lack thereof) is meaningful."
+  ],
+  "text_processing": "Markdown emphasis markers removed for presentation; every original word retained.",
+  "title": "Reasoning-role scores across dialogue formats",
+  "n_points_per_panel": 578,
+  "points_exactly_match_csv": true,
+  "source_sha256": "f8a449751eaf6959126eab8d741b3718cfb355dc092727b34fc715ec34e57f4f",
+  "renderer_sha256": "81b66a44ed059673004ae6f0881a2cb89248cc9ca4d17bd8682c7be3745d690f",
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "text_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    11.7,
+    12.0
+  ],
+  "text_extents": [
+    {
+      "label": "User 1",
+      "bounds_inches": [
+        0.8775000000000001,
+        5.041180555555554,
+        1.544375,
+        2.5188194444444463
+      ],
+      "font_size_points": 8.3
+    },
+    {
+      "label": "CoT 1",
+      "bounds_inches": [
+        2.6325,
+        5.306319444444443,
+        1.58828125,
+        2.2536805555555572
+      ],
+      "font_size_points": 8.3
+    },
+    {
+      "label": "Assistant 1",
+      "bounds_inches": [
+        4.3875,
+        1.8595138888888902,
+        1.5818750000000001,
+        5.70048611111111
+      ],
+      "font_size_points": 8.3
+    },
+    {
+      "label": "User 2",
+      "bounds_inches": [
+        6.142499999999999,
+        6.764583333333334,
+        1.5690625000000002,
+        0.7954166666666662
+      ],
+      "font_size_points": 8.3
+    },
+    {
+      "label": "CoT 2",
+      "bounds_inches": [
+        7.897499999999999,
+        5.571458333333332,
+        1.5804687499999996,
+        1.9885416666666682
+      ],
+      "font_size_points": 8.3
+    },
+    {
+      "label": "Assistant 2",
+      "bounds_inches": [
+        9.6525,
+        0.7989583333333429,
+        1.5871875000000006,
+        6.7610416666666575
+      ],
+      "font_size_points": 8.3
+    }
+  ],
+  "min_transcript_font_size_points": 8.3,
+  "artifact_sha256": {
+    "six-full-columns.pdf": "d4a32fba059eef816b705616aad9e74f2e2de45980c99bad941597cb22223f9c",
+    "six-full-columns.png": "8489854c9423d68f8b4ac0a45446ca5c85457ac3cd8e07fa834eecb675e621d5",
+    "six-full-columns.svg": "d80b1e3647b0e12b56202e00d31bfaf6604490588e39353a294a0923e706cb39"
+  }
+}

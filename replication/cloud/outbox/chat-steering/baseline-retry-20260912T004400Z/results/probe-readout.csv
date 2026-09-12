@@ -1,0 +1,11 @@
+stage,arm_id,variant,kind,split,max_new_tokens,role,n_prompts_with_readout,mean_prompt_probability,site,timing
+1,s1-none-L12-a0-all,base,harmful,selection,5000,system,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,selection,5000,user,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,selection,5000,cot,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,selection,5000,assistant,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,selection,5000,tool,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,holdout,5000,system,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,holdout,5000,user,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,holdout,5000,cot,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,holdout,5000,assistant,0,,L12.post_attention_layernorm,upstream_of_edit
+1,s1-none-L12-a0-all,base,harmful,holdout,5000,tool,0,,L12.post_attention_layernorm,upstream_of_edit

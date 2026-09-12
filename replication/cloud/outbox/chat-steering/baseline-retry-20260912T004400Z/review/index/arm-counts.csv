@@ -1,0 +1,3 @@
+arm_id,stage,variant,kind,split,layer,alpha,mask,max_new_tokens,matrix_column,rows,unique_prompts,final_started,final_ended,final_ended_unknown,censored,censoring_unknown,raw_output_present,cot_present,final_text_present,generation_tokens
+s1-none-L12-a0-all,1,base,harmful,selection,12,0.0,all,5000,arm_001,100,100,99,99,0,1,0,100,100,99,31623
+s1-none-L12-a0-all,1,base,harmful,holdout,12,0.0,all,5000,arm_002,213,213,210,210,0,3,0,213,213,210,58506

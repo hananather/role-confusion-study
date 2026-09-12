@@ -1,0 +1,122 @@
+{
+  "all-tokens-and-labels.csv": {
+    "sha256": "9140e9c3bf9b86884bb0d46507f61a0252d412877e2b5e9f657820981d46f6d1",
+    "bytes": 2434882
+  },
+  "analysis-resume-inputs.json": {
+    "sha256": "ceffa0ff8ae77d83cb41cf00e22489ef8d7ba8fdb7c5003ad591ca3292eca1e7",
+    "bytes": 1654
+  },
+  "custom-chat-template.jinja": {
+    "sha256": "bcbbcd100a56ad723921990706697a40df73870d00f93746f00759f6f87994c9",
+    "bytes": 16578
+  },
+  "figure-20-22-displayed-rows.csv": {
+    "sha256": "3906f1053f54cb90fb678791f82ac50599b858d8a71d5102adc7b8a47b91c154",
+    "bytes": 704284
+  },
+  "figure-20-proper_tags.pdf": {
+    "sha256": "ceab6b42d45e83f15b309b7160d7ff4e2abaee9f4ed082eb17b994bb42e9bfc2",
+    "bytes": 33485
+  },
+  "figure-20-proper_tags.png": {
+    "sha256": "e714816746ee8bc9383bcd76b7d3eb2c3e930304fe9afc7fab6aaf0dbd9e50c9",
+    "bytes": 118298
+  },
+  "figure-21-basic_no_format.pdf": {
+    "sha256": "bdba3c6102c4b7ab59af526a49d381637f33b039c541059da3c57c718dc225d2",
+    "bytes": 34305
+  },
+  "figure-21-basic_no_format.png": {
+    "sha256": "906de9bb356c3ff5423ab9991940561ec34ec05ceadf7bf04f72d9e543249f8c",
+    "bytes": 122242
+  },
+  "figure-22-everything_in_user_tags.pdf": {
+    "sha256": "17427e79d0c1e05365b88d70ffcc8df3c2a3bba16ee0fe19809f7ded980b4f44",
+    "bytes": 34289
+  },
+  "figure-22-everything_in_user_tags.png": {
+    "sha256": "e80e2d20d94e50b16cfcd7b82300b5f2baa448813b7e1fba65f7f39e3b1ccc5d",
+    "bytes": 120603
+  },
+  "figure-7-all-role-subset.csv": {
+    "sha256": "b1e8c6abc5efb686828ed00b7de540fdaadb232421ded5f2464a90546fad789b",
+    "bytes": 602859
+  },
+  "figure-7-common-token-positions.csv": {
+    "sha256": "2243610e1791fadfcae7e8978e634336c1054c59730cc292ce17de5eef036ecf",
+    "bytes": 4654
+  },
+  "figure-7-cotness-overview.pdf": {
+    "sha256": "7c3fa2210fe65366c78bbbedfc944acc9d59fb394f1ca146fdfaf41025488f3b",
+    "bytes": 30247
+  },
+  "figure-7-cotness-overview.png": {
+    "sha256": "5a497af03c2566859b57a0969ca382bd203f47c617410e9fc0655ec0ea3d3c40",
+    "bytes": 111966
+  },
+  "figure-7-displayed-rows.csv": {
+    "sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+    "bytes": 154782
+  },
+  "figure-rendering.json": {
+    "sha256": "72499d871f1f2aa4d189cc6692696cc436806a19fc894e6c7501ade79f43f9bb",
+    "bytes": 5861
+  },
+  "gardening-layer12-float16.npy": {
+    "sha256": "7bdb41f4075fc1c6c956054f3392bf78bf376eb043b1bd0f9ac7a0d00495bc0a",
+    "bytes": 16076288
+  },
+  "mean-recomputation-check.json": {
+    "sha256": "3ea09bdbfeef69dc036e153e743c06c168650ac493cd89b5eb56104c1daff9f5",
+    "bytes": 377
+  },
+  "mean-role-probabilities.csv": {
+    "sha256": "e2eaabcc2c4054b6d9d7c35849b70a2287221628c9b46223044d54d52abc35eb",
+    "bytes": 11605
+  },
+  "metadata.json": {
+    "sha256": "f79dbd94fe77d60b0da0e63a4569050ca07fa5be1851f07b270b9e81de4fd335",
+    "bytes": 101824
+  },
+  "native-probabilities-unrounded.npy": {
+    "sha256": "a1c6fae79985c5b1140d56962748322ec246dc1c4a3d431088c0dc02406b414a",
+    "bytes": 44048
+  },
+  "native-probability-sample-indices.npy": {
+    "sha256": "e8609b9f974f087b09a260c3c9fbdfe3ab1c2e22a0cce3e473b819f09d81de64",
+    "bytes": 22088
+  },
+  "original-messages.json": {
+    "sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+    "bytes": 4485
+  },
+  "projection-rows-with-segments.csv": {
+    "sha256": "8eff017946d448e9514010fa6f915cc22c678e5310f2a47dcbffdbe4de44c192",
+    "bytes": 1046003
+  },
+  "prompt-basic_no_format.txt": {
+    "sha256": "c692119461b28d6088201a89806287e6d7eac82912cd3ecab5f6d777c4234fc3",
+    "bytes": 3701
+  },
+  "prompt-everything_in_user_tags.txt": {
+    "sha256": "23f6e273897ed336f23a50b315c9adcfdc1aff1da7fd43b57f83b721e6339cab",
+    "bytes": 3732
+  },
+  "prompt-proper_tags.txt": {
+    "sha256": "6ff6c4b292de8beca8a954c94852e2af10fcda44d33aaa7e28d4c97da7622889",
+    "bytes": 4007
+  },
+  "published-comparison.csv": {
+    "sha256": "e1e537c438a97ea5324d13cc63916f56ca28a3e1406c32ae119e63af541e2e35",
+    "bytes": 8488
+  },
+  "rendered-prompts-and-token-ids.json": {
+    "sha256": "5ca2c6e2e9a492627e66c9ff17d4a35cb145fbfc03e66cf6167a151766012152",
+    "bytes": 180839
+  },
+  "tomato-role-projections-gptoss-20b.csv": {
+    "sha256": "18b4ab9c913a19783af0c7d3b2146f6def0b9e162810fe05479e316b24435f2c",
+    "bytes": 944512
+  }
+}

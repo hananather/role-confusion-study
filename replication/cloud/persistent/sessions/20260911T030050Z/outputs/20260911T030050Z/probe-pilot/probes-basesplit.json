@@ -1,0 +1,3808 @@
+{
+  "split_by": "base",
+  "C": 0.005,
+  "penalty": "l2",
+  "fit_intercept": true,
+  "max_iter": 5000,
+  "linesearch_max_iter": 100,
+  "objective": "cuML L2 logistic regression, the authors' fit_lr unchanged (NB02 cell 18)",
+  "solver": "cuml.linear_model.LogisticRegression (QN / L-BFGS), inside sklearn.pipeline.Pipeline",
+  "split_rule": "cuml.train_test_split(unique question_ix, test_size=0.1, random_state=123) [extension: grouped by base text]",
+  "binary_convention": "one coefficient row for two classes (cuML/sklearn): logit > 0 means class index 1 of roles_map",
+  "role_char": {
+    "s": "system",
+    "u": "user",
+    "c": "cot",
+    "a": "assistant",
+    "t": "tool"
+  },
+  "results": [
+    {
+      "role_space": "ua",
+      "layer_ix": 0,
+      "acc": 0.5837,
+      "nll": 0.672067,
+      "acc_by_role": {
+        "assistant": 0.5743,
+        "user": 0.5932
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 1,
+      "acc": 0.7827,
+      "nll": 0.571915,
+      "acc_by_role": {
+        "assistant": 0.7812,
+        "user": 0.7842
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 2,
+      "acc": 0.8976,
+      "nll": 0.432533,
+      "acc_by_role": {
+        "assistant": 0.9044,
+        "user": 0.8909
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 3,
+      "acc": 0.9296,
+      "nll": 0.348531,
+      "acc_by_role": {
+        "assistant": 0.9273,
+        "user": 0.9319
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 4,
+      "acc": 0.9187,
+      "nll": 0.354619,
+      "acc_by_role": {
+        "assistant": 0.9157,
+        "user": 0.9217
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 5,
+      "acc": 0.9302,
+      "nll": 0.331893,
+      "acc_by_role": {
+        "assistant": 0.926,
+        "user": 0.9344
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 6,
+      "acc": 0.9872,
+      "nll": 0.184232,
+      "acc_by_role": {
+        "assistant": 0.9868,
+        "user": 0.9876
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 7,
+      "acc": 0.9999,
+      "nll": 0.06523,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 0.9997
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 8,
+      "acc": 0.9997,
+      "nll": 0.057447,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 0.9995
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 9,
+      "acc": 1.0,
+      "nll": 0.059863,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 10,
+      "acc": 1.0,
+      "nll": 0.06625,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 11,
+      "acc": 0.9997,
+      "nll": 0.061654,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 12,
+      "acc": 0.9999,
+      "nll": 0.063304,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 13,
+      "acc": 1.0,
+      "nll": 0.061526,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 14,
+      "acc": 0.9999,
+      "nll": 0.035714,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 15,
+      "acc": 1.0,
+      "nll": 0.02164,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 16,
+      "acc": 1.0,
+      "nll": 0.019199,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 17,
+      "acc": 1.0,
+      "nll": 0.02015,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 18,
+      "acc": 1.0,
+      "nll": 0.022697,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 19,
+      "acc": 1.0,
+      "nll": 0.023626,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 20,
+      "acc": 0.9999,
+      "nll": 0.031085,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "user": 1.0
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 21,
+      "acc": 0.9999,
+      "nll": 0.026314,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 0.9997
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 22,
+      "acc": 0.9993,
+      "nll": 0.035016,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "user": 0.9995
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ua",
+      "layer_ix": 23,
+      "acc": 0.9999,
+      "nll": 0.019202,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "user": 0.9997
+      },
+      "n_train": 7404,
+      "n_test": 7404,
+      "n_inputs": 7404,
+      "coef_shape": [
+        1,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 0,
+      "acc": 0.4343,
+      "nll": 1.059021,
+      "acc_by_role": {
+        "assistant": 0.3196,
+        "tool": 0.4784,
+        "user": 0.5049
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 1,
+      "acc": 0.7459,
+      "nll": 0.815674,
+      "acc_by_role": {
+        "assistant": 0.7104,
+        "tool": 0.7858,
+        "user": 0.7415
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 2,
+      "acc": 0.8373,
+      "nll": 0.650637,
+      "acc_by_role": {
+        "assistant": 0.7969,
+        "tool": 0.8212,
+        "user": 0.8938
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 3,
+      "acc": 0.8937,
+      "nll": 0.516673,
+      "acc_by_role": {
+        "assistant": 0.8652,
+        "tool": 0.8817,
+        "user": 0.9341
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 4,
+      "acc": 0.8905,
+      "nll": 0.514729,
+      "acc_by_role": {
+        "assistant": 0.8504,
+        "tool": 0.8909,
+        "user": 0.9303
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 5,
+      "acc": 0.9142,
+      "nll": 0.472214,
+      "acc_by_role": {
+        "assistant": 0.8906,
+        "tool": 0.9192,
+        "user": 0.9327
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 6,
+      "acc": 0.9737,
+      "nll": 0.299667,
+      "acc_by_role": {
+        "assistant": 0.9811,
+        "tool": 0.9635,
+        "user": 0.9765
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 7,
+      "acc": 0.9994,
+      "nll": 0.115536,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "tool": 0.9989,
+        "user": 0.9995
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 8,
+      "acc": 0.9993,
+      "nll": 0.102658,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "tool": 0.9992,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 9,
+      "acc": 0.9994,
+      "nll": 0.105485,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "tool": 0.9992,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 10,
+      "acc": 0.9977,
+      "nll": 0.117352,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "tool": 0.9962,
+        "user": 0.9973
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 11,
+      "acc": 0.9992,
+      "nll": 0.111383,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "tool": 0.9986,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 12,
+      "acc": 0.9987,
+      "nll": 0.118658,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "tool": 0.9984,
+        "user": 0.9989
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 13,
+      "acc": 0.9982,
+      "nll": 0.116913,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "tool": 0.997,
+        "user": 0.9978
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 14,
+      "acc": 0.9994,
+      "nll": 0.083833,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "tool": 0.9989,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 15,
+      "acc": 0.9998,
+      "nll": 0.048445,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "tool": 0.9997,
+        "user": 0.9997
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 16,
+      "acc": 0.9998,
+      "nll": 0.045235,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "tool": 0.9997,
+        "user": 0.9997
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 17,
+      "acc": 0.9998,
+      "nll": 0.052939,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "tool": 1.0,
+        "user": 0.9995
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 18,
+      "acc": 0.9997,
+      "nll": 0.061114,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "tool": 0.9997,
+        "user": 0.9997
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 19,
+      "acc": 0.9995,
+      "nll": 0.06787,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "tool": 0.9997,
+        "user": 0.9995
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 20,
+      "acc": 0.9987,
+      "nll": 0.089965,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "tool": 0.9995,
+        "user": 0.9978
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 21,
+      "acc": 0.9993,
+      "nll": 0.071027,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "tool": 0.9997,
+        "user": 0.9984
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 22,
+      "acc": 0.998,
+      "nll": 0.092544,
+      "acc_by_role": {
+        "assistant": 0.9981,
+        "tool": 0.9986,
+        "user": 0.9973
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uat",
+      "layer_ix": 23,
+      "acc": 0.9999,
+      "nll": 0.046654,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "tool": 1.0,
+        "user": 0.9997
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 0,
+      "acc": 0.4151,
+      "nll": 1.068685,
+      "acc_by_role": {
+        "assistant": 0.2977,
+        "cot": 0.3871,
+        "user": 0.5605
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 1,
+      "acc": 0.6246,
+      "nll": 0.918456,
+      "acc_by_role": {
+        "assistant": 0.5095,
+        "cot": 0.5627,
+        "user": 0.8017
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 2,
+      "acc": 0.717,
+      "nll": 0.749596,
+      "acc_by_role": {
+        "assistant": 0.5862,
+        "cot": 0.6418,
+        "user": 0.923
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 3,
+      "acc": 0.8015,
+      "nll": 0.625545,
+      "acc_by_role": {
+        "assistant": 0.7104,
+        "cot": 0.7453,
+        "user": 0.9489
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 4,
+      "acc": 0.7808,
+      "nll": 0.639962,
+      "acc_by_role": {
+        "assistant": 0.6858,
+        "cot": 0.7175,
+        "user": 0.9392
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 5,
+      "acc": 0.8257,
+      "nll": 0.579715,
+      "acc_by_role": {
+        "assistant": 0.7669,
+        "cot": 0.765,
+        "user": 0.9452
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 6,
+      "acc": 0.9478,
+      "nll": 0.360653,
+      "acc_by_role": {
+        "assistant": 0.9519,
+        "cot": 0.9095,
+        "user": 0.9819
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 7,
+      "acc": 0.997,
+      "nll": 0.153786,
+      "acc_by_role": {
+        "assistant": 0.9986,
+        "cot": 0.9932,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 8,
+      "acc": 0.9983,
+      "nll": 0.130342,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9959,
+        "user": 0.9995
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 9,
+      "acc": 0.9983,
+      "nll": 0.134794,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9954,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 10,
+      "acc": 0.9968,
+      "nll": 0.148915,
+      "acc_by_role": {
+        "assistant": 0.9984,
+        "cot": 0.993,
+        "user": 0.9989
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 11,
+      "acc": 0.9971,
+      "nll": 0.141835,
+      "acc_by_role": {
+        "assistant": 0.9978,
+        "cot": 0.9938,
+        "user": 0.9997
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 12,
+      "acc": 0.9955,
+      "nll": 0.151149,
+      "acc_by_role": {
+        "assistant": 0.9962,
+        "cot": 0.9911,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 13,
+      "acc": 0.9958,
+      "nll": 0.149118,
+      "acc_by_role": {
+        "assistant": 0.9978,
+        "cot": 0.9916,
+        "user": 0.9978
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 14,
+      "acc": 0.999,
+      "nll": 0.094083,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9973,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 15,
+      "acc": 1.0,
+      "nll": 0.056911,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 1.0,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 16,
+      "acc": 1.0,
+      "nll": 0.055003,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 1.0,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 17,
+      "acc": 0.9998,
+      "nll": 0.062204,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9995,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 18,
+      "acc": 0.9995,
+      "nll": 0.069851,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9989,
+        "user": 0.9997
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 19,
+      "acc": 0.9994,
+      "nll": 0.076361,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9986,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 20,
+      "acc": 0.9978,
+      "nll": 0.096515,
+      "acc_by_role": {
+        "assistant": 0.9981,
+        "cot": 0.9965,
+        "user": 0.9989
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 21,
+      "acc": 0.9992,
+      "nll": 0.078194,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9984,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 22,
+      "acc": 0.9983,
+      "nll": 0.097264,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9962,
+        "user": 0.9989
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "uca",
+      "layer_ix": 23,
+      "acc": 0.9997,
+      "nll": 0.05433,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9995,
+        "user": 0.9997
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.7
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 0,
+      "acc": 0.341,
+      "nll": 1.350254,
+      "acc_by_role": {
+        "assistant": 0.1848,
+        "cot": 0.2358,
+        "tool": 0.4452,
+        "user": 0.4984
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 1,
+      "acc": 0.6147,
+      "nll": 1.105069,
+      "acc_by_role": {
+        "assistant": 0.4598,
+        "cot": 0.4849,
+        "tool": 0.7798,
+        "user": 0.7345
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 2,
+      "acc": 0.6983,
+      "nll": 0.937735,
+      "acc_by_role": {
+        "assistant": 0.5159,
+        "cot": 0.577,
+        "tool": 0.8028,
+        "user": 0.8974
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 3,
+      "acc": 0.7889,
+      "nll": 0.779258,
+      "acc_by_role": {
+        "assistant": 0.678,
+        "cot": 0.6834,
+        "tool": 0.8625,
+        "user": 0.9317
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 4,
+      "acc": 0.7765,
+      "nll": 0.784775,
+      "acc_by_role": {
+        "assistant": 0.6556,
+        "cot": 0.6567,
+        "tool": 0.8701,
+        "user": 0.9238
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 5,
+      "acc": 0.816,
+      "nll": 0.718728,
+      "acc_by_role": {
+        "assistant": 0.7531,
+        "cot": 0.6967,
+        "tool": 0.8855,
+        "user": 0.9287
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 6,
+      "acc": 0.93,
+      "nll": 0.489553,
+      "acc_by_role": {
+        "assistant": 0.9471,
+        "cot": 0.8612,
+        "tool": 0.9408,
+        "user": 0.9711
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 7,
+      "acc": 0.9931,
+      "nll": 0.218888,
+      "acc_by_role": {
+        "assistant": 0.9978,
+        "cot": 0.9816,
+        "tool": 0.9941,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 8,
+      "acc": 0.9948,
+      "nll": 0.193693,
+      "acc_by_role": {
+        "assistant": 0.9986,
+        "cot": 0.9865,
+        "tool": 0.9951,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 9,
+      "acc": 0.9929,
+      "nll": 0.203365,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "cot": 0.9808,
+        "tool": 0.9924,
+        "user": 0.9992
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 10,
+      "acc": 0.987,
+      "nll": 0.225369,
+      "acc_by_role": {
+        "assistant": 0.9981,
+        "cot": 0.9697,
+        "tool": 0.9833,
+        "user": 0.997
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 11,
+      "acc": 0.9881,
+      "nll": 0.218435,
+      "acc_by_role": {
+        "assistant": 0.997,
+        "cot": 0.9719,
+        "tool": 0.9849,
+        "user": 0.9986
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 12,
+      "acc": 0.9831,
+      "nll": 0.237043,
+      "acc_by_role": {
+        "assistant": 0.9954,
+        "cot": 0.9616,
+        "tool": 0.9781,
+        "user": 0.9973
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 13,
+      "acc": 0.9821,
+      "nll": 0.236871,
+      "acc_by_role": {
+        "assistant": 0.997,
+        "cot": 0.9595,
+        "tool": 0.9757,
+        "user": 0.9962
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 14,
+      "acc": 0.9932,
+      "nll": 0.165843,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9846,
+        "tool": 0.9895,
+        "user": 0.9995
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 15,
+      "acc": 0.9972,
+      "nll": 0.10834,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9949,
+        "tool": 0.9946,
+        "user": 0.9995
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 16,
+      "acc": 0.9976,
+      "nll": 0.107565,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9938,
+        "tool": 0.997,
+        "user": 0.9997
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 17,
+      "acc": 0.9952,
+      "nll": 0.123011,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9868,
+        "tool": 0.9951,
+        "user": 0.9992
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 18,
+      "acc": 0.9935,
+      "nll": 0.142636,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9841,
+        "tool": 0.9914,
+        "user": 0.9992
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 19,
+      "acc": 0.9881,
+      "nll": 0.16581,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "cot": 0.9722,
+        "tool": 0.9822,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 20,
+      "acc": 0.9801,
+      "nll": 0.20782,
+      "acc_by_role": {
+        "assistant": 0.9965,
+        "cot": 0.9533,
+        "tool": 0.973,
+        "user": 0.9976
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 21,
+      "acc": 0.9882,
+      "nll": 0.165057,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9741,
+        "tool": 0.9811,
+        "user": 0.9981
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 22,
+      "acc": 0.982,
+      "nll": 0.204799,
+      "acc_by_role": {
+        "assistant": 0.9959,
+        "cot": 0.9587,
+        "tool": 0.9765,
+        "user": 0.997
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "ucat",
+      "layer_ix": 23,
+      "acc": 0.9938,
+      "nll": 0.128024,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9846,
+        "tool": 0.9908,
+        "user": 0.9997
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.9
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 0,
+      "acc": 0.4131,
+      "nll": 1.069898,
+      "acc_by_role": {
+        "assistant": 0.5521,
+        "system": 0.329,
+        "user": 0.3582
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 1,
+      "acc": 0.6215,
+      "nll": 0.92622,
+      "acc_by_role": {
+        "assistant": 0.7963,
+        "system": 0.5173,
+        "user": 0.5508
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 2,
+      "acc": 0.6892,
+      "nll": 0.777074,
+      "acc_by_role": {
+        "assistant": 0.9314,
+        "system": 0.5132,
+        "user": 0.6229
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 3,
+      "acc": 0.8024,
+      "nll": 0.644805,
+      "acc_by_role": {
+        "assistant": 0.9317,
+        "system": 0.6923,
+        "user": 0.7834
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 4,
+      "acc": 0.7982,
+      "nll": 0.651987,
+      "acc_by_role": {
+        "assistant": 0.9152,
+        "system": 0.691,
+        "user": 0.7885
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 5,
+      "acc": 0.8394,
+      "nll": 0.592645,
+      "acc_by_role": {
+        "assistant": 0.9173,
+        "system": 0.7601,
+        "user": 0.8406
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 6,
+      "acc": 0.933,
+      "nll": 0.395599,
+      "acc_by_role": {
+        "assistant": 0.9843,
+        "system": 0.8898,
+        "user": 0.9249
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 7,
+      "acc": 0.9904,
+      "nll": 0.195601,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9822,
+        "user": 0.9889
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 8,
+      "acc": 0.9869,
+      "nll": 0.189382,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "system": 0.9789,
+        "user": 0.9827
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 9,
+      "acc": 0.9881,
+      "nll": 0.183721,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "system": 0.9816,
+        "user": 0.9835
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 10,
+      "acc": 0.9852,
+      "nll": 0.191285,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "system": 0.9751,
+        "user": 0.9808
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 11,
+      "acc": 0.9919,
+      "nll": 0.164471,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9854,
+        "user": 0.9903
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 12,
+      "acc": 0.9894,
+      "nll": 0.173382,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "system": 0.9808,
+        "user": 0.9884
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 13,
+      "acc": 0.993,
+      "nll": 0.156754,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "system": 0.9876,
+        "user": 0.9919
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 14,
+      "acc": 0.9994,
+      "nll": 0.100668,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9989,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 15,
+      "acc": 1.0,
+      "nll": 0.049399,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 1.0,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 16,
+      "acc": 1.0,
+      "nll": 0.04654,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 1.0,
+        "user": 1.0
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 17,
+      "acc": 0.9996,
+      "nll": 0.053329,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 1.0,
+        "user": 0.9989
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 18,
+      "acc": 0.9997,
+      "nll": 0.062554,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 1.0,
+        "user": 0.9992
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 19,
+      "acc": 0.9991,
+      "nll": 0.067187,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "system": 0.9992,
+        "user": 0.9984
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 20,
+      "acc": 0.9975,
+      "nll": 0.091756,
+      "acc_by_role": {
+        "assistant": 0.9984,
+        "system": 0.9973,
+        "user": 0.9968
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 21,
+      "acc": 0.9991,
+      "nll": 0.075365,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9995,
+        "user": 0.9978
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 22,
+      "acc": 0.9972,
+      "nll": 0.103298,
+      "acc_by_role": {
+        "assistant": 0.9976,
+        "system": 0.9968,
+        "user": 0.9973
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "sua",
+      "layer_ix": 23,
+      "acc": 0.9997,
+      "nll": 0.053916,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9997,
+        "user": 0.9995
+      },
+      "n_train": 11106,
+      "n_test": 11106,
+      "n_inputs": 11106,
+      "coef_shape": [
+        3,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 0,
+      "acc": 0.3424,
+      "nll": 1.345829,
+      "acc_by_role": {
+        "assistant": 0.309,
+        "system": 0.2777,
+        "tool": 0.4706,
+        "user": 0.3123
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 1,
+      "acc": 0.616,
+      "nll": 1.105887,
+      "acc_by_role": {
+        "assistant": 0.6915,
+        "system": 0.48,
+        "tool": 0.788,
+        "user": 0.5043
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 2,
+      "acc": 0.6811,
+      "nll": 0.938506,
+      "acc_by_role": {
+        "assistant": 0.7985,
+        "system": 0.4919,
+        "tool": 0.8212,
+        "user": 0.6126
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 3,
+      "acc": 0.7926,
+      "nll": 0.77479,
+      "acc_by_role": {
+        "assistant": 0.8536,
+        "system": 0.6594,
+        "tool": 0.8747,
+        "user": 0.7828
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 4,
+      "acc": 0.7898,
+      "nll": 0.77646,
+      "acc_by_role": {
+        "assistant": 0.8309,
+        "system": 0.6521,
+        "tool": 0.8822,
+        "user": 0.7939
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 5,
+      "acc": 0.832,
+      "nll": 0.714852,
+      "acc_by_role": {
+        "assistant": 0.8766,
+        "system": 0.7115,
+        "tool": 0.9001,
+        "user": 0.8398
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 6,
+      "acc": 0.9135,
+      "nll": 0.521139,
+      "acc_by_role": {
+        "assistant": 0.9776,
+        "system": 0.8166,
+        "tool": 0.929,
+        "user": 0.9308
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 7,
+      "acc": 0.9829,
+      "nll": 0.269364,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "system": 0.9541,
+        "tool": 0.9895,
+        "user": 0.9887
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 8,
+      "acc": 0.98,
+      "nll": 0.261568,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "system": 0.9484,
+        "tool": 0.9889,
+        "user": 0.9838
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 9,
+      "acc": 0.9825,
+      "nll": 0.252158,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "system": 0.9573,
+        "tool": 0.9876,
+        "user": 0.9857
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 10,
+      "acc": 0.9762,
+      "nll": 0.268852,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "system": 0.9438,
+        "tool": 0.9819,
+        "user": 0.9797
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 11,
+      "acc": 0.982,
+      "nll": 0.245992,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "system": 0.96,
+        "tool": 0.9795,
+        "user": 0.9889
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 12,
+      "acc": 0.9787,
+      "nll": 0.260135,
+      "acc_by_role": {
+        "assistant": 0.9984,
+        "system": 0.9554,
+        "tool": 0.9746,
+        "user": 0.9865
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 13,
+      "acc": 0.9801,
+      "nll": 0.245495,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "system": 0.9589,
+        "tool": 0.9733,
+        "user": 0.9895
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 14,
+      "acc": 0.993,
+      "nll": 0.178583,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9878,
+        "tool": 0.9862,
+        "user": 0.9978
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 15,
+      "acc": 0.9974,
+      "nll": 0.110368,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9968,
+        "tool": 0.9935,
+        "user": 0.9995
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 16,
+      "acc": 0.9966,
+      "nll": 0.11564,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.993,
+        "tool": 0.9938,
+        "user": 0.9995
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 17,
+      "acc": 0.9924,
+      "nll": 0.136904,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9876,
+        "tool": 0.983,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 18,
+      "acc": 0.9895,
+      "nll": 0.159508,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "system": 0.9822,
+        "tool": 0.977,
+        "user": 0.9992
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.7
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 19,
+      "acc": 0.9822,
+      "nll": 0.181286,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "system": 0.9668,
+        "tool": 0.9643,
+        "user": 0.9984
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 20,
+      "acc": 0.9741,
+      "nll": 0.227078,
+      "acc_by_role": {
+        "assistant": 0.9968,
+        "system": 0.9571,
+        "tool": 0.9462,
+        "user": 0.9965
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 21,
+      "acc": 0.9845,
+      "nll": 0.182727,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "system": 0.9724,
+        "tool": 0.9687,
+        "user": 0.9981
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 22,
+      "acc": 0.9733,
+      "nll": 0.22968,
+      "acc_by_role": {
+        "assistant": 0.9959,
+        "system": 0.9554,
+        "tool": 0.9449,
+        "user": 0.997
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.8
+    },
+    {
+      "role_space": "suat",
+      "layer_ix": 23,
+      "acc": 0.9949,
+      "nll": 0.127519,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "system": 0.9903,
+        "tool": 0.9903,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 0,
+      "acc": 0.3269,
+      "nll": 1.353168,
+      "acc_by_role": {
+        "assistant": 0.2782,
+        "cot": 0.3717,
+        "system": 0.3093,
+        "user": 0.3482
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.2
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 1,
+      "acc": 0.5281,
+      "nll": 1.185252,
+      "acc_by_role": {
+        "assistant": 0.4916,
+        "cot": 0.5629,
+        "system": 0.5105,
+        "user": 0.5473
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 2,
+      "acc": 0.5929,
+      "nll": 1.008238,
+      "acc_by_role": {
+        "assistant": 0.5789,
+        "cot": 0.6548,
+        "system": 0.5097,
+        "user": 0.6283
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 3,
+      "acc": 0.7258,
+      "nll": 0.854683,
+      "acc_by_role": {
+        "assistant": 0.6929,
+        "cot": 0.7423,
+        "system": 0.6786,
+        "user": 0.7893
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 4,
+      "acc": 0.7118,
+      "nll": 0.867653,
+      "acc_by_role": {
+        "assistant": 0.6661,
+        "cot": 0.712,
+        "system": 0.6777,
+        "user": 0.7912
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 5,
+      "acc": 0.769,
+      "nll": 0.792882,
+      "acc_by_role": {
+        "assistant": 0.7509,
+        "cot": 0.7426,
+        "system": 0.7399,
+        "user": 0.8428
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.3
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 6,
+      "acc": 0.9027,
+      "nll": 0.549832,
+      "acc_by_role": {
+        "assistant": 0.9516,
+        "cot": 0.882,
+        "system": 0.856,
+        "user": 0.9211
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 7,
+      "acc": 0.9859,
+      "nll": 0.274388,
+      "acc_by_role": {
+        "assistant": 0.9976,
+        "cot": 0.987,
+        "system": 0.9714,
+        "user": 0.9876
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 8,
+      "acc": 0.9833,
+      "nll": 0.252377,
+      "acc_by_role": {
+        "assistant": 0.9976,
+        "cot": 0.9895,
+        "system": 0.9641,
+        "user": 0.9822
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 9,
+      "acc": 0.9836,
+      "nll": 0.25772,
+      "acc_by_role": {
+        "assistant": 0.9989,
+        "cot": 0.9854,
+        "system": 0.966,
+        "user": 0.9841
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 10,
+      "acc": 0.9778,
+      "nll": 0.272121,
+      "acc_by_role": {
+        "assistant": 0.9968,
+        "cot": 0.9762,
+        "system": 0.9581,
+        "user": 0.9803
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 11,
+      "acc": 0.9845,
+      "nll": 0.248529,
+      "acc_by_role": {
+        "assistant": 0.9976,
+        "cot": 0.9787,
+        "system": 0.9719,
+        "user": 0.99
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 12,
+      "acc": 0.9802,
+      "nll": 0.265974,
+      "acc_by_role": {
+        "assistant": 0.9954,
+        "cot": 0.9743,
+        "system": 0.9635,
+        "user": 0.9876
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 13,
+      "acc": 0.9838,
+      "nll": 0.250932,
+      "acc_by_role": {
+        "assistant": 0.997,
+        "cot": 0.9749,
+        "system": 0.9727,
+        "user": 0.9905
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 14,
+      "acc": 0.9968,
+      "nll": 0.159259,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9924,
+        "system": 0.9957,
+        "user": 0.9995
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 15,
+      "acc": 0.9998,
+      "nll": 0.088258,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9995,
+        "system": 0.9997,
+        "user": 1.0
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 16,
+      "acc": 0.9997,
+      "nll": 0.08943,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9995,
+        "system": 0.9995,
+        "user": 0.9997
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 17,
+      "acc": 0.999,
+      "nll": 0.103541,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9973,
+        "system": 0.9997,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 18,
+      "acc": 0.9982,
+      "nll": 0.11994,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9949,
+        "system": 0.9995,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 19,
+      "acc": 0.9967,
+      "nll": 0.136379,
+      "acc_by_role": {
+        "assistant": 0.9986,
+        "cot": 0.9941,
+        "system": 0.9962,
+        "user": 0.9978
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 20,
+      "acc": 0.9916,
+      "nll": 0.176271,
+      "acc_by_role": {
+        "assistant": 0.9957,
+        "cot": 0.9846,
+        "system": 0.99,
+        "user": 0.9962
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 21,
+      "acc": 0.9944,
+      "nll": 0.149066,
+      "acc_by_role": {
+        "assistant": 0.9995,
+        "cot": 0.9873,
+        "system": 0.993,
+        "user": 0.9978
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 22,
+      "acc": 0.9886,
+      "nll": 0.190773,
+      "acc_by_role": {
+        "assistant": 0.9957,
+        "cot": 0.9795,
+        "system": 0.9819,
+        "user": 0.9973
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "suca",
+      "layer_ix": 23,
+      "acc": 0.9976,
+      "nll": 0.11121,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9949,
+        "system": 0.9968,
+        "user": 0.9989
+      },
+      "n_train": 14808,
+      "n_test": 14808,
+      "n_inputs": 14808,
+      "coef_shape": [
+        4,
+        2880
+      ],
+      "sec": 0.7
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 0,
+      "acc": 0.2868,
+      "nll": 1.569638,
+      "acc_by_role": {
+        "assistant": 0.1804,
+        "cot": 0.2331,
+        "system": 0.2715,
+        "tool": 0.4398,
+        "user": 0.309
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 1,
+      "acc": 0.5374,
+      "nll": 1.319675,
+      "acc_by_role": {
+        "assistant": 0.4446,
+        "cot": 0.4887,
+        "system": 0.4716,
+        "tool": 0.778,
+        "user": 0.5041
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 2,
+      "acc": 0.6012,
+      "nll": 1.137769,
+      "acc_by_role": {
+        "assistant": 0.5097,
+        "cot": 0.5843,
+        "system": 0.4895,
+        "tool": 0.8039,
+        "user": 0.6189
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 3,
+      "acc": 0.7281,
+      "nll": 0.95867,
+      "acc_by_role": {
+        "assistant": 0.6613,
+        "cot": 0.6831,
+        "system": 0.6534,
+        "tool": 0.8566,
+        "user": 0.7863
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 4,
+      "acc": 0.7193,
+      "nll": 0.966507,
+      "acc_by_role": {
+        "assistant": 0.6391,
+        "cot": 0.6545,
+        "system": 0.6464,
+        "tool": 0.8652,
+        "user": 0.7915
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 5,
+      "acc": 0.7677,
+      "nll": 0.892412,
+      "acc_by_role": {
+        "assistant": 0.7437,
+        "cot": 0.6842,
+        "system": 0.6996,
+        "tool": 0.8725,
+        "user": 0.8387
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.4
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 6,
+      "acc": 0.8867,
+      "nll": 0.656007,
+      "acc_by_role": {
+        "assistant": 0.9471,
+        "cot": 0.849,
+        "system": 0.8025,
+        "tool": 0.9103,
+        "user": 0.9246
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 7,
+      "acc": 0.9788,
+      "nll": 0.337019,
+      "acc_by_role": {
+        "assistant": 0.9973,
+        "cot": 0.9776,
+        "system": 0.9462,
+        "tool": 0.9849,
+        "user": 0.9881
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 8,
+      "acc": 0.9769,
+      "nll": 0.316893,
+      "acc_by_role": {
+        "assistant": 0.9973,
+        "cot": 0.9827,
+        "system": 0.9395,
+        "tool": 0.9843,
+        "user": 0.9806
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 9,
+      "acc": 0.9771,
+      "nll": 0.31933,
+      "acc_by_role": {
+        "assistant": 0.9986,
+        "cot": 0.9703,
+        "system": 0.9476,
+        "tool": 0.9833,
+        "user": 0.986
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 10,
+      "acc": 0.9675,
+      "nll": 0.343991,
+      "acc_by_role": {
+        "assistant": 0.9976,
+        "cot": 0.9598,
+        "system": 0.9319,
+        "tool": 0.9708,
+        "user": 0.9773
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 11,
+      "acc": 0.9736,
+      "nll": 0.323444,
+      "acc_by_role": {
+        "assistant": 0.997,
+        "cot": 0.963,
+        "system": 0.95,
+        "tool": 0.9711,
+        "user": 0.9868
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 12,
+      "acc": 0.9659,
+      "nll": 0.348252,
+      "acc_by_role": {
+        "assistant": 0.9951,
+        "cot": 0.9506,
+        "system": 0.9414,
+        "tool": 0.9579,
+        "user": 0.9846
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 13,
+      "acc": 0.9673,
+      "nll": 0.336374,
+      "acc_by_role": {
+        "assistant": 0.9965,
+        "cot": 0.9481,
+        "system": 0.9476,
+        "tool": 0.9543,
+        "user": 0.9897
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.7
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 14,
+      "acc": 0.987,
+      "nll": 0.237798,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "cot": 0.9808,
+        "system": 0.9827,
+        "tool": 0.9741,
+        "user": 0.9981
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.7
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 15,
+      "acc": 0.9949,
+      "nll": 0.153305,
+      "acc_by_role": {
+        "assistant": 1.0,
+        "cot": 0.9938,
+        "system": 0.9935,
+        "tool": 0.9876,
+        "user": 0.9995
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.7
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 16,
+      "acc": 0.9936,
+      "nll": 0.160601,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9916,
+        "system": 0.9924,
+        "tool": 0.9849,
+        "user": 0.9995
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.7
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 17,
+      "acc": 0.9885,
+      "nll": 0.186112,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9843,
+        "system": 0.986,
+        "tool": 0.9743,
+        "user": 0.9981
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 18,
+      "acc": 0.9847,
+      "nll": 0.217733,
+      "acc_by_role": {
+        "assistant": 0.9992,
+        "cot": 0.9792,
+        "system": 0.9827,
+        "tool": 0.9635,
+        "user": 0.9989
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 19,
+      "acc": 0.9729,
+      "nll": 0.252627,
+      "acc_by_role": {
+        "assistant": 0.9986,
+        "cot": 0.9679,
+        "system": 0.9654,
+        "tool": 0.9349,
+        "user": 0.9976
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 20,
+      "acc": 0.9587,
+      "nll": 0.314172,
+      "acc_by_role": {
+        "assistant": 0.9951,
+        "cot": 0.9446,
+        "system": 0.9546,
+        "tool": 0.9033,
+        "user": 0.9957
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.5
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 21,
+      "acc": 0.9757,
+      "nll": 0.254361,
+      "acc_by_role": {
+        "assistant": 0.9986,
+        "cot": 0.9662,
+        "system": 0.9681,
+        "tool": 0.9479,
+        "user": 0.9978
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.8
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 22,
+      "acc": 0.9619,
+      "nll": 0.315179,
+      "acc_by_role": {
+        "assistant": 0.9943,
+        "cot": 0.9484,
+        "system": 0.9471,
+        "tool": 0.923,
+        "user": 0.9965
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.6
+    },
+    {
+      "role_space": "sucat",
+      "layer_ix": 23,
+      "acc": 0.9896,
+      "nll": 0.190807,
+      "acc_by_role": {
+        "assistant": 0.9997,
+        "cot": 0.9808,
+        "system": 0.9862,
+        "tool": 0.9824,
+        "user": 0.9986
+      },
+      "n_train": 18510,
+      "n_test": 18510,
+      "n_inputs": 18510,
+      "coef_shape": [
+        5,
+        2880
+      ],
+      "sec": 0.7
+    }
+  ],
+  "source": "NB02 cells 1-20, commit ec333c40fd43fe991e1ebf66765051b6d7e35784",
+  "model_prefix": "gptoss-20b",
+  "layers": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "attn_implementation": "kernels-community/vllm-flash-attn3",
+  "expert_dtype": "FloatType(bitwidth_exponent=2, bitwidth_mantissa=1, is_signed=True)",
+  "n_docs": {
+    "total": 9,
+    "dolma3": 7,
+    "c4": 2
+  },
+  "role_counts": {
+    "assistant": 3702,
+    "cot": 3702,
+    "system": 3702,
+    "tool": 3702,
+    "user": 3702
+  },
+  "pilot": 10
+}

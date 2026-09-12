@@ -1,0 +1,23 @@
+[project]
+name = "role-confusion-eval"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "inspect-ai>=0.3",
+    "openai>=3.7.0",
+    "httpx",
+    "pyyaml",
+    "torch",
+    "transformers>=4.56",
+    "accelerate",
+    "kernels==0.16.0",
+    "beautifulsoup4",
+    "lxml",
+    "python-dotenv",
+    "numpy",
+    "scikit-learn",
+    "matplotlib>=3.11.1",
+    "scipy>=1.17.1",
+    "marimo>=0.24.0",
+    "nbformat>=5.11.1",
+]

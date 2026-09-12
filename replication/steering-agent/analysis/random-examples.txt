@@ -1,0 +1,4 @@
+seed 20260911, drawn from 30 finished episodes
+agent-hijacking/runs/ten-20260911/002-standard
+steering-agent/runs/forgery5-tool_minus_cot-a8/004-forgery
+steering-agent/runs/forgery5-tool_minus_cot-a8-all/001-forgery

@@ -1,0 +1,14 @@
+You have loaded an FP4 model on CPU and have a CUDA/XPU device available, make sure to set your model on a GPU/XPU device in order to run your model. To remove this warning, pass device_map = 'cuda' or device_map = 'xpu'. 
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 1003.18it/s]
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 1756.78it/s]
+Fetching 41 files:   0%|          | 0/41 [00:00<?, ?it/s]Fetching 41 files: 100%|██████████| 41/41 [00:00<00:00, 2663.34it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Fetching 41 files:   0%|          | 0/41 [00:00<?, ?it/s][AFetching 41 files: 100%|██████████| 41/41 [00:00<00:00, 3490.78it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.16s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:01<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.57it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.36it/s]
+Expert precision: FloatType(bitwidth_exponent=2, bitwidth_mantissa=1, is_signed=True)
+Attention implementation: kernels-community/vllm-flash-attn3
+LM loss: 3.984269618988037
+Hidden states layers (pre-mlp | post-layer): 24 | 24
+Hidden state size (pre-mlp | post-layer): torch.Size([1280, 2880]) | torch.Size([1280, 2880])
+Verified custom forward pass successfully matches original model output!
+I completed 6/6 appendix-k inputs in 33.7s

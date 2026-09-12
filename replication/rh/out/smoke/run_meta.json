@@ -1,0 +1,24 @@
+{
+  "probes": "runs/dev-10/probes.npz",
+  "layers": [
+    8,
+    12,
+    16
+  ],
+  "spaces": [
+    "sucat",
+    "uat"
+  ],
+  "n_prefills": 3,
+  "n_tokens": [
+    3151,
+    3175,
+    3172
+  ],
+  "next_tokens": [
+    "<|channel|>",
+    "<|channel|>",
+    "<|channel|>"
+  ],
+  "site": "post_attention_layernorm output (pre-MLP), MLX mlx-community/gpt-oss-20b-MXFP4-Q8, batch 1"
+}

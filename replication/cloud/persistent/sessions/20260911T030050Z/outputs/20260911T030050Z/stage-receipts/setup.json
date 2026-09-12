@@ -1,0 +1,7 @@
+{
+  "stage_sha256": "45ba879a639e06e85c7bb0ddf6d801744bc7a0842dfe15a3b048b457c048ba0b",
+  "status": "complete",
+  "started_at": "2026-09-11T03:10:09.100306+00:00",
+  "completed_at": "2026-09-11T03:15:42.418584+00:00",
+  "output": "/workspace/results/20260911T030050Z/setup"
+}

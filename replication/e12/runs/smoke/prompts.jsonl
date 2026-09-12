@@ -1,0 +1,2 @@
+{"prompt_id": 0, "source": "tatsu-lab/alpaca:dce01c9b08f87459cf36a430d809084718273017", "instruction": "Write a definition for the term \"machine learning\"."}
+{"prompt_id": 1, "source": "tatsu-lab/alpaca:dce01c9b08f87459cf36a430d809084718273017", "instruction": "How can bioinformatics predict gene function?"}

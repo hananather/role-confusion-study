@@ -1,0 +1,246 @@
+{
+  "artifacts": [
+    "figure-20-proper_tags.png",
+    "figure-20-proper_tags.pdf",
+    "figure-21-basic_no_format.png",
+    "figure-21-basic_no_format.pdf",
+    "figure-22-everything_in_user_tags.png",
+    "figure-22-everything_in_user_tags.pdf",
+    "figure-7-cotness-overview.png",
+    "figure-7-cotness-overview.pdf"
+  ],
+  "font_family": "STIXGeneral",
+  "segment_annotations": {
+    "figure-20": [
+      {
+        "seg_ix": 2,
+        "role": "user",
+        "start_ix": 1,
+        "label": "Hi!\n I'm.."
+      },
+      {
+        "seg_ix": 3,
+        "role": "cot",
+        "start_ix": 46,
+        "label": "The user\n wants a.."
+      },
+      {
+        "seg_ix": 4,
+        "role": "assistant",
+        "start_ix": 129,
+        "label": "Here\u2019s a quick, beginner\n\u2011friendly cheat sheet:\\n\\n.."
+      },
+      {
+        "seg_ix": 5,
+        "role": "user",
+        "start_ix": 289,
+        "label": "Oh\n cool.."
+      },
+      {
+        "seg_ix": 6,
+        "role": "cot",
+        "start_ix": 341,
+        "label": "The user wants\n: easiest.."
+      },
+      {
+        "seg_ix": 7,
+        "role": "assistant",
+        "start_ix": 437,
+        "label": "**Easiest for a beginner\n in Austin (TX)**  \\n- **.."
+      }
+    ],
+    "figure-21": [
+      {
+        "seg_ix": 2,
+        "role": "user",
+        "start_ix": 1,
+        "label": "Hi!\n I'm.."
+      },
+      {
+        "seg_ix": 3,
+        "role": "cot",
+        "start_ix": 46,
+        "label": "The user\n wants a.."
+      },
+      {
+        "seg_ix": 4,
+        "role": "assistant",
+        "start_ix": 129,
+        "label": "Here\u2019s a quick, beginner\n\u2011friendly cheat sheet:\\n\\n.."
+      },
+      {
+        "seg_ix": 5,
+        "role": "user",
+        "start_ix": 289,
+        "label": "Oh\n cool.."
+      },
+      {
+        "seg_ix": 6,
+        "role": "cot",
+        "start_ix": 341,
+        "label": "The user wants\n: easiest.."
+      },
+      {
+        "seg_ix": 7,
+        "role": "assistant",
+        "start_ix": 437,
+        "label": "**Easiest for a beginner\n in Austin (TX)**  \\n- **.."
+      }
+    ],
+    "figure-22": [
+      {
+        "seg_ix": 2,
+        "role": "user",
+        "start_ix": 1,
+        "label": "Hi!\n I'm.."
+      },
+      {
+        "seg_ix": 3,
+        "role": "cot",
+        "start_ix": 46,
+        "label": "The user\n wants a.."
+      },
+      {
+        "seg_ix": 4,
+        "role": "assistant",
+        "start_ix": 129,
+        "label": "Here\u2019s a quick, beginner\n\u2011friendly cheat sheet:\\n\\n.."
+      },
+      {
+        "seg_ix": 5,
+        "role": "user",
+        "start_ix": 289,
+        "label": "Oh\n cool.."
+      },
+      {
+        "seg_ix": 6,
+        "role": "cot",
+        "start_ix": 341,
+        "label": "The user wants\n: easiest.."
+      },
+      {
+        "seg_ix": 7,
+        "role": "assistant",
+        "start_ix": 437,
+        "label": "**Easiest for a beginner\n in Austin (TX)**  \\n- **.."
+      }
+    ],
+    "figure-7-proper_tags": [
+      {
+        "seg_ix": 2,
+        "role": "user",
+        "start_ix": 1,
+        "label": "Hi!\n I'm\u2026"
+      },
+      {
+        "seg_ix": 3,
+        "role": "cot",
+        "start_ix": 45,
+        "label": "The user\n wants a\u2026"
+      },
+      {
+        "seg_ix": 4,
+        "role": "assistant",
+        "start_ix": 127,
+        "label": "Here\u2019s a quick,\n beginner\u2011friendly\u2026"
+      },
+      {
+        "seg_ix": 5,
+        "role": "user",
+        "start_ix": 247,
+        "label": "Oh\n cool,\u2026"
+      },
+      {
+        "seg_ix": 6,
+        "role": "cot",
+        "start_ix": 298,
+        "label": "The user wants:\n easiest place to\u2026"
+      },
+      {
+        "seg_ix": 7,
+        "role": "assistant",
+        "start_ix": 393,
+        "label": "**Easiest for a\n beginner in Austin (\u2026"
+      }
+    ],
+    "figure-7-basic_no_format": [
+      {
+        "seg_ix": 2,
+        "role": "user",
+        "start_ix": 1,
+        "label": "Hi!\n I'm\u2026"
+      },
+      {
+        "seg_ix": 3,
+        "role": "cot",
+        "start_ix": 45,
+        "label": "The user\n wants a\u2026"
+      },
+      {
+        "seg_ix": 4,
+        "role": "assistant",
+        "start_ix": 127,
+        "label": "Here\u2019s a quick,\n beginner\u2011friendly\u2026"
+      },
+      {
+        "seg_ix": 5,
+        "role": "user",
+        "start_ix": 247,
+        "label": "Oh\n cool,\u2026"
+      },
+      {
+        "seg_ix": 6,
+        "role": "cot",
+        "start_ix": 298,
+        "label": "The user wants:\n easiest place to\u2026"
+      },
+      {
+        "seg_ix": 7,
+        "role": "assistant",
+        "start_ix": 393,
+        "label": "**Easiest for a\n beginner in Austin (\u2026"
+      }
+    ],
+    "figure-7-everything_in_user_tags": [
+      {
+        "seg_ix": 2,
+        "role": "user",
+        "start_ix": 1,
+        "label": "Hi!\n I'm\u2026"
+      },
+      {
+        "seg_ix": 3,
+        "role": "cot",
+        "start_ix": 45,
+        "label": "The user\n wants a\u2026"
+      },
+      {
+        "seg_ix": 4,
+        "role": "assistant",
+        "start_ix": 127,
+        "label": "Here\u2019s a quick,\n beginner\u2011friendly\u2026"
+      },
+      {
+        "seg_ix": 5,
+        "role": "user",
+        "start_ix": 247,
+        "label": "Oh\n cool,\u2026"
+      },
+      {
+        "seg_ix": 6,
+        "role": "cot",
+        "start_ix": 298,
+        "label": "The user wants:\n easiest place to\u2026"
+      },
+      {
+        "seg_ix": 7,
+        "role": "assistant",
+        "start_ix": 393,
+        "label": "**Easiest for a\n beginner in Austin (\u2026"
+      }
+    ]
+  },
+  "renderer": "Matplotlib",
+  "source_renderer": "R ggplot2 and Cairo PDF",
+  "divergence": "I preserve probability rows, filters, role colors, segment labels, axes and canvas sizes; font metrics and facet spacing differ from the authors' R renderer."
+}

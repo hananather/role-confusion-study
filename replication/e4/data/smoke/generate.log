@@ -1,0 +1,8 @@
+[data] 2 conversations, 3 user turns, by dataset {'oasst': 2}, turns per conv {1: 1, 2: 1} (5s)
+[model] mlx-community/gpt-oss-20b-MXFP4-Q8 loaded, eos ids [199999, 200002, 200012], mlx 0.32.2
+[round 0] 2 turns to generate, 0 already done or failed
+[prompt] first prompt 88 tokens, starts '<|start|>system<|message|>You are ChatGPT,'
+[round 0 batch 0] 2 prompts, 4913 new tokens in 181s = 27.1 tok/s (batch throughput), finish {'stop': np.int64(2)}, cumulative 27.1 tok/s, failed convs 0
+[round 1] 1 turns to generate, 0 already done or failed
+[round 1 batch 0] 1 prompts, 2407 new tokens in 113s = 21.4 tok/s (batch throughput), finish {'stop': np.int64(1)}, cumulative 24.9 tok/s, failed convs 0
+[done] clean 2 convs (3 turns), dropped 0; 7320 new tokens in 4.9 min = 24.9 tok/s; mean 2439.0 new tokens/turn; wrote e4/data/smoke/gptoss-20b.csv

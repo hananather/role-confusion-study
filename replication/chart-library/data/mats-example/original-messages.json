@@ -1,0 +1,6 @@
+[
+  "You are ChatGPT, a large language model trained by OpenAI.\nKnowledge cutoff: 2024-06\nCurrent date: 2025-10-01\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.",
+  "For a MATS project with Neel, how can I turn a broad idea into one clear research question?",
+  "The user is asking how to scope a research project. I should connect the choice of experiments to the claim they want to test. A small project can be informative if it has a clear baseline and a result that would change the conclusion. I should recommend one question first, then explain when more experiments are useful.",
+  "Start with one question you can answer clearly. Write down your claim, a simple baseline, and what evidence would change your mind. Run the smallest experiment that distinguishes the competing explanations. Add experiments when they resolve a specific uncertainty, and report results that contradict your initial idea too."
+]

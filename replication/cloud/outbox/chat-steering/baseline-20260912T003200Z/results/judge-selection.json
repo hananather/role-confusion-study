@@ -1,0 +1,11 @@
+{
+  "all_stage1_and6": [],
+  "random_stage2_to5": [],
+  "human_30": [],
+  "random_state": 123,
+  "judge_model": null,
+  "judge_completed": false,
+  "human_completed": false,
+  "source": "authors harm-classifier.yaml verbatim; each frozen final-channel text",
+  "censoring": "I retain censored flags regardless of a judge label."
+}

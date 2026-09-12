@@ -1,0 +1,14 @@
+{
+  "reviewer": "04",
+  "lens": "Numerical accuracy, denominators, rounded claims, and figure/text consistency",
+  "report_sha256": "022c1f4958500451a8568f2749e7878964f69607b023c692130acac016c7db4b",
+  "recommendations": [
+    {
+      "id": "04-r1-01",
+      "passage": "The numerical audit independently reconstructed all 30,720 offset probabilities, 30 plotted passage means, 24 permission contrasts and their interval bounds, and 240 recall values from saved records.",
+      "concern": "The phrase “30 plotted passage means” counts the rows in offset-dose-response.csv rather than the scalar means shown in Figure 4. The file has 30 direction × offset × original-role groups, each containing a mean Userness and a mean Toolness. Figure 4 therefore plots 60 probability means: four panels × three original-role curves × five evaluated offsets. The numerical values themselves reproduce correctly.",
+      "suggested_change": "Replace “30 plotted passage means” with “60 plotted probability means across 30 passage groups,” or with “30 passage-group rows, each containing mean Userness and Toolness.” Keep the other reported audit counts."
+    }
+  ],
+  "verdict": "revise"
+}

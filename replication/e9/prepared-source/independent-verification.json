@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "verification": "I independently executed only the frozen authors NB01 selection functions against in-memory copies of the same cached train data; load_dataset was replaced by a local-only function. ToxicChat used the actual datasets.Dataset.shuffle implementation on an in-memory Dataset.",
+  "authors_oasst_full_path_ids_match_all_100": true,
+  "authors_oasst_truncated_user_turns_match_all_100": true,
+  "authors_toxicchat_seed1234_text_order_matches_all_100": true,
+  "all_two_turn_bounds_pass": true,
+  "no_dataset_cache_files_on_reference_toxicchat_dataset": true,
+  "reference_loader_calls": [
+    {
+      "name": "OpenAssistant/oasst1",
+      "args": [],
+      "kwargs": {
+        "split": "train",
+        "streaming": false
+      }
+    },
+    {
+      "name": "lmsys/toxic-chat",
+      "args": [
+        "toxicchat1123"
+      ],
+      "kwargs": {
+        "split": "train"
+      }
+    }
+  ],
+  "runtime": {
+    "python": "3.12.0",
+    "numpy": "2.5.3",
+    "pyarrow": "25.0.1",
+    "datasets": "5.0.1"
+  },
+  "verified_artifact_sha256": {
+    "conversations.jsonl": "1aaad5c29bc4d7dde7ebe9587647d7e2ff18ce7e751d29ea4f5892a4d1cae21c",
+    "user_queries.csv": "18874993000cd1d9599dd532676e59f3c4bfe85bafb5276e97e5286d8fdbf266",
+    "smoke-conversations.jsonl": "c78ff2496492445f9e5b3465091fdc3e62f3b67609529d1766d40010f4e2c3d8",
+    "smoke-user_queries.csv": "a555c4a6d6354b0027f60cbe47dd9f69ffe7a8658489b12a81c9772407daa810",
+    "manifest.json": "feee6dbd35bc4931ffa3b8d697cbffe1edbb1b6b62cf32142e7cbdd1f8290693"
+  }
+}

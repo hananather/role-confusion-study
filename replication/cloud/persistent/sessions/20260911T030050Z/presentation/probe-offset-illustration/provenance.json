@@ -1,0 +1,146 @@
+{
+  "evidence_type": "offline derived probe-response illustration; not a model steering run",
+  "sources": [
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/gardening-layer12-float16.npy",
+      "sha256": "7bdb41f4075fc1c6c956054f3392bf78bf376eb043b1bd0f9ac7a0d00495bc0a"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/probes.npz",
+      "sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/all-tokens-and-labels.csv",
+      "sha256": "9140e9c3bf9b86884bb0d46507f61a0252d412877e2b5e9f657820981d46f6d1"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129"
+    }
+  ],
+  "role_order": [
+    "system",
+    "user",
+    "cot",
+    "assistant",
+    "tool"
+  ],
+  "probe": "prompt-split sucat_L12",
+  "activation_site": "post_attention_layernorm / pre-MLP",
+  "reference_population": "every forwarded token in everything_in_user_tags",
+  "reference_token_count": 921,
+  "reference_median_activation_norm": 45.24711366617226,
+  "displayed_tokens": 512,
+  "arbitrary_illustration_fractions": [
+    0.01,
+    0.05
+  ],
+  "formula": "h_prime = h + sign * fraction * median_norm * w_role / norm(w_role)",
+  "precision": "saved float16 activations and float32 probe weights promoted to float64 for local arithmetic",
+  "new_model_forward": false,
+  "downstream_continuation": false,
+  "behavior_measured": false,
+  "role_weight_caveat": "I use the raw saved classifier rows; individual rows depend on the chosen equivalent softmax representation. The User-minus-Tool row difference is invariant to a common row shift.",
+  "subtraction_caveat": "I apply a constant opposite offset, not removal of the activation projection along a direction.",
+  "validation": [
+    {
+      "fraction": 0.01,
+      "role": "user",
+      "sign": -1,
+      "max_logit_identity_error": 3.375077994860476e-14
+    },
+    {
+      "fraction": 0.01,
+      "role": "user",
+      "sign": 0,
+      "max_logit_identity_error": 0.0
+    },
+    {
+      "fraction": 0.01,
+      "role": "user",
+      "sign": 1,
+      "max_logit_identity_error": 3.4638958368304884e-14
+    },
+    {
+      "fraction": 0.01,
+      "role": "tool",
+      "sign": -1,
+      "max_logit_identity_error": 3.241851231905457e-14
+    },
+    {
+      "fraction": 0.01,
+      "role": "tool",
+      "sign": 0,
+      "max_logit_identity_error": 0.0
+    },
+    {
+      "fraction": 0.01,
+      "role": "tool",
+      "sign": 1,
+      "max_logit_identity_error": 3.3306690738754696e-14
+    },
+    {
+      "fraction": 0.05,
+      "role": "user",
+      "sign": -1,
+      "max_logit_identity_error": 7.105427357601002e-14
+    },
+    {
+      "fraction": 0.05,
+      "role": "user",
+      "sign": 0,
+      "max_logit_identity_error": 0.0
+    },
+    {
+      "fraction": 0.05,
+      "role": "user",
+      "sign": 1,
+      "max_logit_identity_error": 4.973799150320701e-14
+    },
+    {
+      "fraction": 0.05,
+      "role": "tool",
+      "sign": -1,
+      "max_logit_identity_error": 8.970602038971265e-14
+    },
+    {
+      "fraction": 0.05,
+      "role": "tool",
+      "sign": 0,
+      "max_logit_identity_error": 0.0
+    },
+    {
+      "fraction": 0.05,
+      "role": "tool",
+      "sign": 1,
+      "max_logit_identity_error": 7.904787935331115e-14
+    }
+  ],
+  "paper_style": {
+    "point_colors": {
+      "system": "#90a1b9",
+      "user": "#00a6f4",
+      "cot": "#fd9a00",
+      "assistant": "#00d492"
+    },
+    "text_colors": {
+      "system": "#62748e",
+      "user": "#0084d1",
+      "cot": "#e17100",
+      "assistant": "#009966"
+    },
+    "font_family": "TeX Gyre Termes",
+    "sources": [
+      {
+        "path": "/Users/hananather/Desktop/MATS 12.0/prompt-injection-as-role-confusion/r-utils/plots.r",
+        "sha256": "59f2c9c4f1c6a970882809d954941bce1276e3de1fee408f255fda2e15c25059"
+      },
+      {
+        "path": "/Users/hananather/Desktop/MATS 12.0/prompt-injection-as-role-confusion/experiments/role-analysis/04-tomato-probe-results.ipynb",
+        "sha256": "28791ab56bccf359119341a56abad36983a2c8c1de0ddf46150bd8f7e6f0c59e"
+      }
+    ],
+    "semantics": "I color points by original source passage, not by measured target role.",
+    "rendering_boundary": "I use Matplotlib with the exact source palette and font; layout adapts to the comparison and is not pixel-identical to R/ggplot2."
+  }
+}

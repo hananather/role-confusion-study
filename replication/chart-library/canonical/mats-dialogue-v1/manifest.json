@@ -1,0 +1,86 @@
+{
+  "id": "mats-dialogue-v1",
+  "status": "user-approved canonical illustration",
+  "frozen_at": "2026-09-12T02:48:27.294552+00:00",
+  "approved_use": "Default original six-passage MATS illustration and plotting reference for future derivatives.",
+  "roles": [
+    "User 1",
+    "CoT 1",
+    "Assistant 1",
+    "User 2",
+    "CoT 2",
+    "Assistant 2"
+  ],
+  "condition_order": [
+    "proper_tags",
+    "basic_no_format",
+    "everything_in_user_tags"
+  ],
+  "display_tokens_per_condition": 578,
+  "model": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "probe": "suca_L12 prompt-split",
+  "layout": "35-degree complete opening excerpts; full transcript retained",
+  "scientific_scope": "One selected illustrative exchange; no population or behavioral steering inference. Model-generated advice remains unedited input, not endorsed methods.",
+  "files": [
+    {
+      "file": "figure.png",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-hanan-dialogue-v2/mats-hanan-dialogue-v2.png",
+      "sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d"
+    },
+    {
+      "file": "figure.pdf",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-hanan-dialogue-v2/mats-hanan-dialogue-v2.pdf",
+      "sha256": "ab2ed2a02ae8567a97426b6e93afa20c9fe12dd7ba5dd8b4339e30c4f1862044"
+    },
+    {
+      "file": "figure.svg",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-hanan-dialogue-v2/mats-hanan-dialogue-v2.svg",
+      "sha256": "22e35e14164953e1e658c2a41a8a0e3911b43dd6e3f1151f7b031b3dc2ce5564"
+    },
+    {
+      "file": "render-provenance.json",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/mats-hanan-dialogue-v2/render-provenance.json",
+      "sha256": "1d448b4961f0da6d2c5a4fcd58e355d166486e2fab5934eb541c313d92c8fe30"
+    },
+    {
+      "file": "original-messages.json",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/original-messages.json",
+      "sha256": "8578b612f9b54da6361b9aa0c549bc911bdb307d0c44fc62621bd5f4ceaed0f4"
+    },
+    {
+      "file": "conversation.md",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/conversation.md",
+      "sha256": "2ceb734acace4d1e42cd47f4f02ea37b2d20f898082de02d1b4cf97a0b255bf4"
+    },
+    {
+      "file": "displayed-rows.csv",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/displayed-rows.csv",
+      "sha256": "f8a449751eaf6959126eab8d741b3718cfb355dc092727b34fc715ec34e57f4f"
+    },
+    {
+      "file": "token-probabilities.csv",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/token-probabilities.csv",
+      "sha256": "0440ceef5126694db042d195a8d38d2240801a33f544d477a8bc8bbd51ce154c"
+    },
+    {
+      "file": "prompt-freeze.json",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/prompt-freeze.json",
+      "sha256": "4cd43fe8c9ed9300abe080dd51961ccdc95c877782b94af5c8d0a1f167c2c1f3"
+    },
+    {
+      "file": "measurement-freeze.json",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/measurement-freeze.json",
+      "sha256": "39351af5bb050775fd3a8da364c0cb793d8da810587996da1bbd10713ba13122"
+    },
+    {
+      "file": "provenance.json",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/provenance.json",
+      "sha256": "f1641cef259d741f66ea57715b9977ef312d1aca503747c946563f61a665b250"
+    },
+    {
+      "file": "audit.md",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/mats-hanan-dialogue-v2/audit.md",
+      "sha256": "bb22f89a173ccadfd429f745acf8f131d0184dbfd299e4603960ec5fca7e2d6e"
+    }
+  ]
+}

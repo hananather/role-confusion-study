@@ -1,0 +1,13 @@
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+generation 1 128 3.8
+generation 1 256 5.6
+generation 1 384 7.4
+Completed generation 1 406 stop
+generation 2 128 2.8
+generation 2 256 4.6
+generation 2 384 6.4
+Completed generation 2 399 stop
+measurement proper_tags 1078 1.49
+measurement basic_no_format 1042 1.46
+measurement everything_in_user_tags 1046 1.45
+Complete; model releases on exit.

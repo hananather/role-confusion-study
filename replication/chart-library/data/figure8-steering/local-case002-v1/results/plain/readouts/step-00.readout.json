@@ -1,0 +1,31 @@
+{
+  "prompt_tokens": 214,
+  "generated_tokens": 549,
+  "forwarded_positions": 763,
+  "stored_known_positions": 763,
+  "omitted_forward_positions_without_returned_id": 0,
+  "unforwarded_input_count": 0,
+  "unforwarded_final_tokens": [],
+  "finish_reason": "stop",
+  "input_token_alignment": true,
+  "stats": {
+    "prompt_tokens": 214,
+    "page_span_tokens": 0,
+    "payload_span_tokens": 0,
+    "hook_calls": 551,
+    "hook_positions_seen": 763,
+    "edited_positions": 0.0,
+    "offset_mismatch_calls": 0,
+    "probe_means": {
+      "page": {
+        "n_tokens": 0
+      },
+      "header": {
+        "n_tokens": 0
+      },
+      "payload": {
+        "n_tokens": 0
+      }
+    }
+  }
+}
