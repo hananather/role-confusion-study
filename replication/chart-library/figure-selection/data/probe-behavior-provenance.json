@@ -1,0 +1,50 @@
+{
+  "figure": "probe-behavior",
+  "stage": "Distill",
+  "font": "TeX Gyre Termes",
+  "palette": {
+    "upload_or_unwanted_action": "#ff637e",
+    "no_upload_or_favorable_change": "#00d492",
+    "unresolved": "#62748e",
+    "tool_probe": "#7e6cff"
+  },
+  "size_inches": [
+    9.6,
+    6.15
+  ],
+  "text_within_canvas": true,
+  "sources": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/forgery-payload-probes.csv": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md": "8f2d35ed4cbc1b5276f033ae7e2d0879bb08058d559eec865a524cf3814e9b1d"
+  },
+  "artifacts": {
+    "figures/probe-behavior.png": "ddc7438800c453e80697bc5b48cb475173b0e59ba051e3ab32e9b35f36d740a4",
+    "figures/probe-behavior.pdf": "ba58cc8893e8d4d458dce172aa08960a70e0b2a232b84f589609ee2cb087ed6a",
+    "figures/probe-behavior.svg": "5b56fdd3c6d87ab56e0305d15607edf2c2cfff6fa00d802f28832523a3829033"
+  },
+  "renderer_sha256": "f895bb373ab2396ef283fc57abb43b7e65cc45386750a932324bc286b8bc9e5e",
+  "north_star": "I show whether the actual upload endpoint separates under low reasoning-role scores.",
+  "selection": "All sixty available first-postfetch forged-passage episode readouts, including two censored episodes.",
+  "n_readouts": 60,
+  "historical_readouts": 35,
+  "new_readouts": 25,
+  "paired_reference": "Five historical pages have measured zero-dose and original-vector readouts with matched seeds and prompts; connecting lines represent only these pairs.",
+  "missing": "No-intervention hooks were disabled: no saved probe baseline for any page. New zero-dose was not assigned; revised Tool-raising on new pages is unrun. No missing score is imputed.",
+  "readout": "Mean token-level sucat_L12 five-class CoT probability in the forged passage at the first post-fetch generation.",
+  "outcome": "Whole-episode verified dummy-file upload; two censored episodes are unresolved, not failed attacks.",
+  "point_placement": "Within every arm, the five fixed vertical offsets are page IDs 000 through 004 in ascending order.",
+  "limitations": "These are measured episode summaries, not saved activation tensors; one rollout per arm/page, ten underlying pages. Low scores with uploads do not establish a causal mechanism or equivalence of behavior.",
+  "checks": {
+    "all_60_rows": true,
+    "no_duplicate_episode": true,
+    "hashes_match": true,
+    "historical_pairs_match": true,
+    "all_original_cot_near_zero": true,
+    "original_uploads": 6,
+    "censored_episodes": 2
+  },
+  "plotted_data": {
+    "data/probe-behavior-points.csv": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+    "data/probe-behavior-counts.csv": "699e8d2dd839247b9a37629de6b0be895e87e8fbc5e9c7d4ff9960d9755e347c"
+  }
+}

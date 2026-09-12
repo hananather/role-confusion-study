@@ -2,28 +2,46 @@
   "document_url": "https://docs.google.com/document/d/1TLSxlahSmb6FD6uMXVcJpR8a8gyn6xIJvX3adARmJQI/edit?tab=t.0",
   "title": "MTS12",
   "tab_id": "t.0",
-  "revision_id": "ANLCKQksjsYLy5BjCP5IM-NK4GKmltb3QGDCNU_feX-sH7Dc_1DjYetWPLehG6QZipplyPNWgjDq7ANnXueafTL2aiWNm20MvWAfAZdjnw",
-  "captured_at": "2026-09-12T07:10:28.853672+00:00",
+  "revision_id": "ANLCKQmgQ8HmAMBE28k8GI_3Eq8QsbgWVJg-QZG1QeIuhinnGi5hdPzgJBDuzQcMJYqBK3vUkWQP4bnPSokf-bjIN-bYsBjwvWi0kDGoJQ",
+  "captured_at": "2026-09-12T07:49:56.309498+00:00",
   "source": "Google Drive connector native Google Docs readback",
-  "scope": "Full document tab, including the section labeled Working notes. I preserve text and order; this does not mark draft notes as accepted conclusions.",
+  "scope": "Full document tab t.0, preserving the final text, order, links and six figures.",
   "formatting_changes": [
-    "I map Google Docs headings, emphasis, hyperlinks and lists to Markdown.",
+    "I map headings, emphasis, hyperlinks, rich-link titles and lists to Markdown.",
     "I map page breaks and soft line breaks to continuous Markdown spacing.",
-    "I retain role words but omit Google Docs font and ink styling.",
-    "I escape Markdown and HTML punctuation without changing rendered text."
+    "I retain wording and figures while omitting font, ink and page-layout styling.",
+    "I escape Markdown and HTML punctuation without changing rendered text.",
+    "I replace temporary Google image URLs with local image paths."
   ],
   "checks": {
     "rendered_text_matches_source_after_whitespace_normalization": true,
-    "source_paragraphs": 92,
-    "headings": 11,
+    "source_paragraphs": 110,
+    "headings": 21,
     "ordered_method_steps": 6,
-    "hyperlinks": 6,
+    "hyperlinks": 13,
     "hyperlink_targets_and_order_preserved": true,
-    "images": 0,
-    "tables": 0
+    "rich_link_titles_preserved": 1,
+    "images": 6,
+    "image_order_and_positions_preserved": true,
+    "tables": 0,
+    "active_local_links": 169
   },
-  "source_json_sha256": "3e7420ca11de99916728c84b56d4ba522e7e10de4a944084fcf2eed52828e599",
-  "readme_sha256": "e54cae96665c1815966f15086ef092332933e4a7279c4b0482d5ccac082af8bf",
-  "original_readme_preserved_as": "REPOSITORY.md",
-  "google_doc_modified": false
+  "source_json_sha256": "316bfad66297d5b28e501dc70648906befd4d5db2e47e1358b6ae7154eb69f3f",
+  "readme_sha256": "d37673b3e06cd1a807cfe7e1eefc2025c392569809dc2c122b6173e2db679144",
+  "google_doc_modified": false,
+  "preceding_repository_commit": "83d7f0b14d17e3f3d08489c7627e716190b78a60",
+  "raw_source_json_sha256": "93fa444c512d27eb4045a5747f1e82c5b3d3bd3b69028498677841a5cc2e031d",
+  "snapshot_redactions": {
+    "temporary_image_content_uris": [
+      "kix.gn2t0x3sguqj",
+      "kix.gxn6mggqo09c",
+      "kix.usmd2miy696u",
+      "kix.xo01hywjmqi5",
+      "kix.y8a8h0mtag8u",
+      "kix.y8j7cuxi50ux"
+    ],
+    "image_sources": "images.json"
+  },
+  "converter": "../../scripts/export_readme.py",
+  "converter_sha256": "0846d45fa52d6e943e6c9000218701af6159d0da5dee428c6173e36221e47181"
 }

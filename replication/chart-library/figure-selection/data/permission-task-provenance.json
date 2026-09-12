@@ -1,0 +1,58 @@
+{
+  "figure": "permission-task",
+  "stage": "Distill",
+  "font": "TeX Gyre Termes",
+  "palette": {
+    "upload_or_unwanted_action": "#ff637e",
+    "no_upload_or_favorable_change": "#00d492",
+    "unresolved": "#62748e",
+    "tool_probe": "#7e6cff"
+  },
+  "size_inches": [
+    9.6,
+    4.95
+  ],
+  "text_within_canvas": true,
+  "sources": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-toolward-pairs.csv": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/historical-evidence-audit.md": "5b9839950330a7e715c1e5c88abc6d72c91adaad9dea2ad2b6ed2c0c43c6aa5b"
+  },
+  "artifacts": {
+    "figures/permission-task.png": "a7f79c14b8216e9c4dee0e3a7fefd9357443cb3d8338c51d40ef9adcf46ceb82",
+    "figures/permission-task.pdf": "2cd4577f013e9700d486caf557cbba7ebaf26425ecd0d1e0205d3e9f42929c6a",
+    "figures/permission-task.svg": "f8be7bc510f998800b8ab3aa8ade9d9110e9f35a976fd3e72e0127be3c299444"
+  },
+  "renderer_sha256": "f895bb373ab2396ef283fc57abb43b7e65cc45386750a932324bc286b8bc9e5e",
+  "north_star": "I show whether a near-saturated Tool readout produces selective execution of the permitted action.",
+  "cohort": "All twenty-one recovered matched Toolward/no-steering pairs from the earlier permission protocol.",
+  "n_pairs": 21,
+  "n_cases": 8,
+  "n_first_prefill_contexts": 15,
+  "endpoint": "Controller-executed physical marker writes and correct permitted completions. This is separate from dummy-file upload.",
+  "probe": "Mean first-prefill command-token Tool probability, five-role classifier at block 14 post-attention normalization.",
+  "intervention": "Neutral-text Tool\u2212User at block 11 output, command-token mask, magnitude 0.3 of the construction residual norm; distinct from Tool\u2212CoT in the later upload task.",
+  "pairing": "Identical case, permission, and sampling seed; all pairs have recorded page exposure.",
+  "min_mean_tool_probability": 0.9999762827699836,
+  "point_placement": "All 21 paired lines are drawn; repeated-seed contexts are slightly offset horizontally on categorical x positions. Fifteen unique first-prefill contexts underlie these readouts.",
+  "coverage_limit": "Only recovered records are shown: 149 of 280 permission records across methods were recovered; all 21 recovered Toolward episodes have a matched baseline.",
+  "interpretation_limit": "One of four prevented physical writes arose during malformed generation with unknown attempt status. These counts do not demonstrate reliable selective defense or isolate mechanism.",
+  "checks": {
+    "all_21_pairs": true,
+    "raw_record_hashes_match": true,
+    "unique_case_permission_seed_pairs": true,
+    "all_page_exposed": true,
+    "unwanted_persisted_prevented_introduced": [
+      14,
+      4,
+      3
+    ],
+    "authorized_preserved_lost": [
+      19,
+      2
+    ]
+  },
+  "plotted_data": {
+    "data/permission-task-transitions.csv": "0e23784ffb7cf5439af769e45f3920842e9fb52eaa81f1a39c07fbfb9051b170",
+    "data/permission-task-pairs.csv": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6"
+  }
+}

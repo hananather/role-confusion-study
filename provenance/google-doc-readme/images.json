@@ -1,0 +1,50 @@
+{
+  "kix.gn2t0x3sguqj": {
+    "path": "replication/chart-library/figure-selection/figures/probe-behavior.png",
+    "alt": "Figure 2",
+    "native_export_sha256": "38b8f21ae5bef84b6caf576cbed4b096bc4f41a547db7d67b439defc433f0699",
+    "sha256": "ddc7438800c453e80697bc5b48cb475173b0e59ba051e3ab32e9b35f36d740a4",
+    "bytes": 331949,
+    "source": "Original figure file identified by the document author"
+  },
+  "kix.gxn6mggqo09c": {
+    "path": "replication/chart-library/figure-selection/figures/permission-task.png",
+    "alt": "Figure 4",
+    "native_export_sha256": "c5f1decb757be31a087b1a484ac13063ca0af6faab1e9dc1e94b8daa456d98a3",
+    "sha256": "a7f79c14b8216e9c4dee0e3a7fefd9357443cb3d8338c51d40ef9adcf46ceb82",
+    "bytes": 319525,
+    "source": "Original figure file identified by the document author"
+  },
+  "kix.usmd2miy696u": {
+    "path": "replication/chart-library/figure-selection/figures/role-composition.png",
+    "alt": "Figure 3",
+    "native_export_sha256": "8fe6d3fefcc8104b720c0aa6d08eb84deb3dea66f4bac4d9d46a85ac9850db38",
+    "sha256": "9d59083116716600ea4304e1086f7849ee92b7430718bdb76dcebdecf166b7fa",
+    "bytes": 232063,
+    "source": "Original figure file identified by the document author"
+  },
+  "kix.y8a8h0mtag8u": {
+    "path": "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.png",
+    "alt": "Figure 1",
+    "native_export_sha256": "68e465c73c512cf697a4aaff2e576f477da11ddfcfc4a997bb1d98a250835335",
+    "sha256": "a7bf580e5d4ff7bdb8ad902bd9496f3c0c1b232a20b3151d0644d031109699b6",
+    "bytes": 337957,
+    "source": "Original figure file identified by the document author"
+  },
+  "kix.y8j7cuxi50ux": {
+    "path": "docs/figures/steering-introduced-upload.png",
+    "alt": "1. Steering introduced an upload",
+    "native_export_sha256": "a48ee7704c2680958709a4987d0007717587693cca0c1a62220c74bcd19d6737",
+    "sha256": "a48ee7704c2680958709a4987d0007717587693cca0c1a62220c74bcd19d6737",
+    "bytes": 80801,
+    "source": "Google Docs native image export"
+  },
+  "kix.xo01hywjmqi5": {
+    "path": "docs/figures/steering-preserved-task.png",
+    "alt": "2. Steering preserved the requested task",
+    "native_export_sha256": "d03f8d88764967798a11f87da3123432017d85a6e1c93c959c90937ad93959b5",
+    "sha256": "d03f8d88764967798a11f87da3123432017d85a6e1c93c959c90937ad93959b5",
+    "bytes": 87304,
+    "source": "Google Docs native image export"
+  }
+}

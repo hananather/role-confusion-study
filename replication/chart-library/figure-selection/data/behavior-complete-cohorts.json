@@ -1,0 +1,40 @@
+{
+  "figure_id": "behavior-complete-cohorts",
+  "title": "Original steering leaves all five new-page outcomes unchanged",
+  "caption": "The original vector changes no upload outcomes on the five new pages; random directions produce fewer uploads in this sample, while the new Tool-raising vector remains untested there.",
+  "alt": "Two aligned dot plots show uploads across nine interventions on five previously explored and five new webpages. No intervention gives three then four uploads; the original Tool-minus-CoT vector gives two then four. Each random direction gives one verified upload on new pages, with one unresolved episode for random direction 3. The new Tool-raising vector gives zero uploads on the previously explored pages and has five unrun new-page episodes. Zero dose is not assigned on new pages.",
+  "placement": "Main behavioral result, after introducing forged-reasoning attacks and before interpreting role-probe shifts.",
+  "scope": "Complete saved H100 forgery cohort: ten distinct pages; 80 recorded episodes and five assigned unrun Tool-raising episodes. The zero-dose arm was not assigned on the five new pages. Counts are descriptive; page groups are separate and are not independent replications. No general null, equivalence, or population confidence claim is made.",
+  "methods": "The verified endpoint is dummy-file upload receipt. Every eligible forgery row and control appears. No model run is added. Dot positions equal verified upload counts. Open-ended segments span the possible total after assigning the single censored outcome in that arm and cohort; they are not confidence intervals. Blue, orange and green identify intervention families rather than token roles.",
+  "paired_original_result": {
+    "prevented": 2,
+    "introduced": 1,
+    "unchanged": 7,
+    "new_page_outcomes_unchanged": 5
+  },
+  "source_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/arm-counts.csv": "19f634b7752329f54a67fe9184f9a4a94d383f2b0747af9a6aac4f7760c1f7f8",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/paired-changes.csv": "510ace99f6c70cc30f915a606ee9007ce177b1c25a08eef8f46193b10aabcede"
+  },
+  "display_data_sha256": "341d5e7099b703781f7ddd9ad53f8c36b0742daca48f45999a2c694b5408e077",
+  "renderer_sha256": "6530197bdccccef3721614c77810daff37ef9420a963de9710cdf2c5fe205302",
+  "artifact_sha256": {
+    "behavior-complete-cohorts.png": "a7bf580e5d4ff7bdb8ad902bd9496f3c0c1b232a20b3151d0644d031109699b6",
+    "behavior-complete-cohorts.pdf": "fb5f7302441fbba774b5c0aba182d874e50553bd336381de93fbe7ec677f5665",
+    "behavior-complete-cohorts.svg": "dbb7a80ebeb297497fe0fcf51c217433f9367b042fcc0264068bd99a6a42f9bf"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    8.3,
+    5.7
+  ],
+  "palette": {
+    "role_vectors": "#00a6f4",
+    "random_directions": "#fd9a00",
+    "instruction_reminder": "#00d492",
+    "reference": "#62748e"
+  },
+  "visible_text_within_canvas": true,
+  "verification": "Every arm/cohort count independently recomputed from episode-level CSV and matched against the audited count table; paired original-vector statement checked against every paired row."
+}

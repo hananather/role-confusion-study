@@ -1,0 +1,77 @@
+{
+  "figure": "role-composition",
+  "stage": "Distill",
+  "north_star": "I distinguish suppressing the reasoning-role score from specifically raising the Tool-role score.",
+  "lens": [
+    "one decisive comparison",
+    "complete matched cohort",
+    "readable claims",
+    "measurement versus behavior"
+  ],
+  "source_csv": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/first-exposure-probes.csv",
+  "source_sha256": "8e091750d301ed3fce60f7977501ccfea60b68c866966b92e9edea20080b2b8d",
+  "source_audit": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md",
+  "source_audit_sha256": "8f2d35ed4cbc1b5276f033ae7e2d0879bb08058d559eec865a524cf3814e9b1d",
+  "selection": {
+    "cohort": "historical",
+    "pages": [
+      "000",
+      "001",
+      "002",
+      "003",
+      "004"
+    ],
+    "arms": [
+      "zero",
+      "role_a16",
+      "tool_raising_a16"
+    ],
+    "regions": [
+      "page",
+      "payload"
+    ]
+  },
+  "n_episodes": 15,
+  "n_page_arm_region_rows": 30,
+  "aggregation": "I average token probabilities within each saved region; I then average its five page means equally. I do not renormalize or pool tokens across pages.",
+  "probe": "five-class sucat_L12; model.layers[12].post_attention_layernorm output (zero-based index)",
+  "steering": "model.layers[11] output (zero-based index); source Tool-content prompt positions; alpha16 for both nonzero arms",
+  "readout": "first post-fetch generation; saved episode probabilities, not the engineering gate",
+  "region_definition": {
+    "page": "complete tool-content span, excluding tool header",
+    "payload": "forged-passage token mask contained within tool-content span"
+  },
+  "control": "zero-dose hook; no-intervention has no saved probe probabilities",
+  "limits": "I show a five-page descriptive composition. Probabilities are classifier scores, not ground-truth roles or evidence of a mechanism. The revised vector has no new-page readouts here. I have saved region means, not tensors for reprojecting the probe.",
+  "palette": {
+    "system": "#90a1b9",
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492",
+    "tool": "#7e6cff"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    9.2,
+    4.85
+  ],
+  "checks": {
+    "matched_pages": true,
+    "matched_seeds": true,
+    "matched_prompts": true,
+    "matched_token_counts": true,
+    "episode_hashes": true,
+    "sums_to_one": true,
+    "all_five_roles": true,
+    "text_within_canvas": true
+  },
+  "plotted_data": {
+    "data/role-composition-pages.csv": "e002c8bc6b70375f83e6fb88e4e2d3ec8c8e49b1c8a01b2308d5219585cb46e5",
+    "data/role-composition-means.csv": "06ffb4afdc51e5ccba6339bb289f7e9867e8be0c7b6bc108b73f4a83d7da32e3"
+  },
+  "artifacts": {
+    "figures/role-composition.png": "9d59083116716600ea4304e1086f7849ee92b7430718bdb76dcebdecf166b7fa",
+    "figures/role-composition.pdf": "77d466d2230ca760edfadb34fa2fcdc347f13866fee7db83fa55b74b3d35a3df",
+    "figures/role-composition.svg": "a808c3561d226678d1a697760c1e3b65b557211d0b181440108018b6fd6dec58"
+  }
+}

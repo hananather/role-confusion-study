@@ -1,0 +1,2291 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-12T07:52:24.741459+00:00",
+  "previous_commit": "83d7f0b14d17e3f3d08489c7627e716190b78a60",
+  "previous_tree_url": "https://github.com/hananather/role-confusion-study/tree/83d7f0b14d17e3f3d08489c7627e716190b78a60",
+  "scope": "Document-based README, grouped navigation, obsolete editorial files and final document figure sources.",
+  "changes": [
+    {
+      "path": "ATTRIBUTION.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "sha256": "c52af6f19f858d239a2d0ffd1a826bc5e90878c3c58cb2dce37887d585e20f79",
+        "bytes": 3187
+      }
+    },
+    {
+      "path": "PROVENANCE.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "bytes": 5361,
+        "sha256": "79a552f5dcf8ce4b4970aa06dd6770b70af0163af345b66d10d9172285a3583e"
+      }
+    },
+    {
+      "path": "README.md",
+      "action": "modified",
+      "reason": "Document snapshot refresh or repository navigation.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "Google Doc README conversion",
+        "modified": false,
+        "bytes": 22837,
+        "sha256": "e54cae96665c1815966f15086ef092332933e4a7279c4b0482d5ccac082af8bf"
+      }
+    },
+    {
+      "path": "REVIEW.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "sha256": "fa9939c279ca2b86198bba6b7ef0f8871378f33321b569db8093aa9dfd76a54b",
+        "bytes": 4788
+      }
+    },
+    {
+      "path": "VERIFICATION.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "sha256": "16667eddfe43c01454a6631c86ca9dd478b9265e33b9a22e10f361ccccb97be9",
+        "bytes": 3341
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/DECISIONS.md",
+      "action": "removed",
+      "reason": "Editorial revision history.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 1537,
+        "sha256": "1bc76161639968d409e848106dd321cd5426b86a2b20bedb2676769c5669dc9f",
+        "source_sha256": "1bc76161639968d409e848106dd321cd5426b86a2b20bedb2676769c5669dc9f",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/DECISIONS.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/GOAL.md",
+      "action": "removed",
+      "reason": "Agent goal and completion bookkeeping.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 4651,
+        "sha256": "58b6f7087f066714635a06f7f5a0fef5c57e51846c834d40ec249f07d65185ac",
+        "source_sha256": "58b6f7087f066714635a06f7f5a0fef5c57e51846c834d40ec249f07d65185ac",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/GOAL.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/README.md",
+      "action": "modified",
+      "reason": "Replaced the superseded narrative and workflow with a short file index.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 1691,
+        "sha256": "5aecf50414b12ecbef736c54fb29dde392ace348add679b0622d47cf72510b6b",
+        "source_sha256": "5aecf50414b12ecbef736c54fb29dde392ace348add679b0622d47cf72510b6b",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/README.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/REVIEWS.md",
+      "action": "removed",
+      "reason": "Editorial reviewer coordination and approval summary.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 3503,
+        "sha256": "b4841469e483cd0d2e3c91011a96c3e617f7af52963cfa96f35ef5513c64f19c",
+        "source_sha256": "b4841469e483cd0d2e3c91011a96c3e617f7af52963cfa96f35ef5513c64f19c",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/REVIEWS.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/index.html",
+      "action": "removed",
+      "reason": "Rendered copy of the superseded research narrative.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 21792,
+        "sha256": "f100f847165a30dd0c68f8c35eff4dcd97ecc81dc1cab37fcccab47b066e92d3",
+        "source_sha256": "f100f847165a30dd0c68f8c35eff4dcd97ecc81dc1cab37fcccab47b066e92d3",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/index.html",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/render_report.py",
+      "action": "removed",
+      "reason": "Presentation-only renderer requiring removed report and blog HTML.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 2711,
+        "sha256": "7cd8606e7009eb322d8dcb4f7663bade9ca763e724b0431cbf2ab4a826dc0ad0",
+        "source_sha256": "7cd8606e7009eb322d8dcb4f7663bade9ca763e724b0431cbf2ab4a826dc0ad0",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/render_report.py",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/report.md",
+      "action": "removed",
+      "reason": "Superseded research narrative; numerical data and figure generators remain.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 15011,
+        "sha256": "5abc8b315c716e0d100d0d963bdf42cb7daa499b199450de4e8bcffab46a50b5",
+        "source_sha256": "5abc8b315c716e0d100d0d963bdf42cb7daa499b199450de4e8bcffab46a50b5",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/report.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/reviews/cold-reader-review.md",
+      "action": "removed",
+      "reason": "Editorial reader review.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 4513,
+        "sha256": "3d64f68d47e1b6dd8a8010eaed779a04c3184cb3ee555c9bd112ff6296559256",
+        "source_sha256": "3d64f68d47e1b6dd8a8010eaed779a04c3184cb3ee555c9bd112ff6296559256",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/reviews/cold-reader-review.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/reviews/delivery-links-review.md",
+      "action": "removed",
+      "reason": "Delivery and presentation-link review of the removed report.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 3491,
+        "sha256": "9121270d8662768fb8d1695c69c9a04ee637161f7e6cf750a870fc269727b088",
+        "source_sha256": "9121270d8662768fb8d1695c69c9a04ee637161f7e6cf750a870fc269727b088",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/reviews/delivery-links-review.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/steering-evidence-review/reviews/figure-accessibility-review.md",
+      "action": "removed",
+      "reason": "Editorial figure-presentation review; the figures remain unchanged.",
+      "previous_entry": {
+        "category": "saved evidence review",
+        "bytes": 5374,
+        "sha256": "200000fb3a927f549240e70044e7b922445bbfdc6030549d9a04a172d7bb0d0f",
+        "source_sha256": "200000fb3a927f549240e70044e7b922445bbfdc6030549d9a04a172d7bb0d0f",
+        "modified": false,
+        "archive_path": null,
+        "source_workspace_path": "replication/chart-library/steering-evidence-review/reviews/figure-accessibility-review.md",
+        "source_snapshot": "saved steering review, captured during repository expansion"
+      }
+    },
+    {
+      "path": "replication/chart-library/index.html",
+      "action": "removed",
+      "reason": "Obsolete article-style gallery landing page with removed draft and task-review links.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/index.html",
+        "category": "frozen scientific evidence",
+        "bytes": 16215,
+        "sha256": "6d2d9c5667f5ebc9ec52d2a26dc7f3d7335d15e2543217e7f5d864c3eb50fa05",
+        "source_sha256": "6d2d9c5667f5ebc9ec52d2a26dc7f3d7335d15e2543217e7f5d864c3eb50fa05",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/build_mats_layout_gallery.py",
+      "action": "modified",
+      "reason": "Repointed the obsolete report back-link to the file index; measurements and layout are unchanged.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/build_mats_layout_gallery.py",
+        "category": "frozen scientific evidence",
+        "bytes": 4814,
+        "sha256": "2bac1051435e5b4f80b72388923e0370ec753ab2826fdf40de3c3236fba65a87",
+        "source_sha256": "2bac1051435e5b4f80b72388923e0370ec753ab2826fdf40de3c3236fba65a87",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/blog-draft.html",
+      "action": "removed",
+      "reason": "Rendered copy of the superseded research narrative.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/blog-draft.html",
+        "category": "frozen scientific evidence",
+        "bytes": 52716,
+        "sha256": "a5e6ee47d6ecf1f6d95d835edc64983e25f84979eb9a47dde788391929e43eab",
+        "source_sha256": "a5e6ee47d6ecf1f6d95d835edc64983e25f84979eb9a47dde788391929e43eab",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/build_review_bundle.py",
+      "action": "removed",
+      "reason": "Presentation-only packaging script for the removed articles.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/build_review_bundle.py",
+        "category": "frozen scientific evidence",
+        "bytes": 6941,
+        "sha256": "67084d042d986ac716fbb659cf94ffe954609068ebe69cbdd897c91fe588b5c8",
+        "source_sha256": "67084d042d986ac716fbb659cf94ffe954609068ebe69cbdd897c91fe588b5c8",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/mats-example-gallery.html",
+      "action": "modified",
+      "reason": "Repointed the obsolete report back-link to the file index; measurements and layout are unchanged.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/mats-example-gallery.html",
+        "category": "frozen scientific evidence",
+        "bytes": 58108,
+        "sha256": "814e6474334ee968326b8eab10346a5f5b9babd12d142fa1c182a96756abb009",
+        "source_sha256": "814e6474334ee968326b8eab10346a5f5b9babd12d142fa1c182a96756abb009",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/build_library.py",
+      "action": "removed",
+      "reason": "Presentation-only generator of the obsolete article-style gallery landing page.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/build_library.py",
+        "category": "frozen scientific evidence",
+        "bytes": 15832,
+        "sha256": "3b9c369688c6e40adcc774cca9a534dc3b72337165dd2f6ad52e6db55dfa8a6d",
+        "source_sha256": "3b9c369688c6e40adcc774cca9a534dc3b72337165dd2f6ad52e6db55dfa8a6d",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/render_blog.py",
+      "action": "removed",
+      "reason": "Presentation-only renderer for the removed draft.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/render_blog.py",
+        "category": "frozen scientific evidence",
+        "bytes": 5094,
+        "sha256": "57956b684d08d06ead4ee752d718d797242cae962b11ecc7cec749ad48890e2b",
+        "source_sha256": "57956b684d08d06ead4ee752d718d797242cae962b11ecc7cec749ad48890e2b",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/mats-layout-gallery.html",
+      "action": "modified",
+      "reason": "Repointed the obsolete report back-link to the file index; measurements and layout are unchanged.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/mats-layout-gallery.html",
+        "category": "frozen scientific evidence",
+        "bytes": 5733,
+        "sha256": "bd64b4a398c9628b69a4bca23e0fc5559c1852241153852bea46bc6cb3254f6d",
+        "source_sha256": "bd64b4a398c9628b69a4bca23e0fc5559c1852241153852bea46bc6cb3254f6d",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/README.md",
+      "action": "modified",
+      "reason": "Replaced the superseded narrative and workflow with a short file index.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/README.md",
+        "category": "frozen scientific evidence",
+        "bytes": 5312,
+        "sha256": "08437c56bd80fe6caa8dc6e1bd34a5adb09d49034c6437afbe7340f0e2f3d40f",
+        "source_sha256": "08437c56bd80fe6caa8dc6e1bd34a5adb09d49034c6437afbe7340f0e2f3d40f",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/cot-forgery-steering.html",
+      "action": "removed",
+      "reason": "Rendered copy of the superseded companion narrative.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/cot-forgery-steering.html",
+        "category": "frozen scientific evidence",
+        "bytes": 13298,
+        "sha256": "db2a08195bef81dae07d5e18f754729aff6caa79b9e8497573eb9396c7f0c205",
+        "source_sha256": "db2a08195bef81dae07d5e18f754729aff6caa79b9e8497573eb9396c7f0c205",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/render_forgery_companion.py",
+      "action": "removed",
+      "reason": "Presentation-only renderer requiring the removed companion and blog HTML.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/render_forgery_companion.py",
+        "category": "frozen scientific evidence",
+        "bytes": 1406,
+        "sha256": "5e35958841c4b69eadeee49765495532219893086a061bee9e88a0e386a38897",
+        "source_sha256": "5e35958841c4b69eadeee49765495532219893086a061bee9e88a0e386a38897",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/build_mats_gallery.py",
+      "action": "modified",
+      "reason": "Repointed the obsolete report back-link to the file index; measurements and layout are unchanged.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/build_mats_gallery.py",
+        "category": "frozen scientific evidence",
+        "bytes": 4232,
+        "sha256": "c8051b979433f5615d2ebf26ccd794b6e58db4dd9d63cb8dc7cbe6870985facf",
+        "source_sha256": "c8051b979433f5615d2ebf26ccd794b6e58db4dd9d63cb8dc7cbe6870985facf",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/cot-forgery-steering.md",
+      "action": "removed",
+      "reason": "Superseded companion narrative; measured inputs, outcomes and figures remain.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/cot-forgery-steering.md",
+        "category": "frozen scientific evidence",
+        "bytes": 9126,
+        "sha256": "7338638b89e6c89e53459c484e6c05549e0ff470aef243099aa4ff52685d5afa",
+        "source_sha256": "7338638b89e6c89e53459c484e6c05549e0ff470aef243099aa4ff52685d5afa",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/role-signals-blog-draft.md",
+      "action": "removed",
+      "reason": "Superseded research narrative; the Word-derived root README is the reader narrative.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/role-signals-blog-draft.md",
+        "category": "frozen scientific evidence",
+        "bytes": 46698,
+        "sha256": "981c1c4a321e0647dda490c11b3ccf26255df6618d15d026448df6323c5f535b",
+        "source_sha256": "981c1c4a321e0647dda490c11b3ccf26255df6618d15d026448df6323c5f535b",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/blog-reader-review.md",
+      "action": "removed",
+      "reason": "Editorial reader review of the superseded blog.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/blog-reader-review.md",
+        "category": "frozen scientific evidence",
+        "bytes": 16732,
+        "sha256": "67f9635002e791df452eff9def4be4a7dadca7331be67c0aadb98ee6c0858ad4",
+        "source_sha256": "67f9635002e791df452eff9def4be4a7dadca7331be67c0aadb98ee6c0858ad4",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/claude-goals-audit.md",
+      "action": "removed",
+      "reason": "Agent conversation and task-history audit, outside the research reading route.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/claude-goals-audit.md",
+        "category": "frozen scientific evidence",
+        "bytes": 15855,
+        "sha256": "fe3aaec432c7f15279ada4607bda4d021745f981a05a55d917d7972181e06889",
+        "source_sha256": "fe3aaec432c7f15279ada4607bda4d021745f981a05a55d917d7972181e06889",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-01-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-01-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 6610,
+        "sha256": "ffa68662b30325e04e4c379a60864c570277c1413578ba375acdbff684e3cfd2",
+        "source_sha256": "ffa68662b30325e04e4c379a60864c570277c1413578ba375acdbff684e3cfd2",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-04-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-04-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 8732,
+        "sha256": "9404daa2f1d3d154884bb77a8f135b3a2d40ffcc1eae3862b839a4047da542f4",
+        "source_sha256": "9404daa2f1d3d154884bb77a8f135b3a2d40ffcc1eae3862b839a4047da542f4",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-06-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-06-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 8418,
+        "sha256": "c36e6ca00d9ac546f9994b44018b8d1a84ae330965c7981a0cbb4810aa0a133e",
+        "source_sha256": "c36e6ca00d9ac546f9994b44018b8d1a84ae330965c7981a0cbb4810aa0a133e",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-08-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-08-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 4213,
+        "sha256": "6d8e27770ff64920a1f73ebd4dbd3fb25a499e1ba7adee3d330f15283ee8a4a5",
+        "source_sha256": "6d8e27770ff64920a1f73ebd4dbd3fb25a499e1ba7adee3d330f15283ee8a4a5",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/narrative-card.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/narrative-card.md",
+        "category": "frozen scientific evidence",
+        "bytes": 4259,
+        "sha256": "e79ac41451b2d950f5de718311f4e8a9599760ba6523b07ef1627155f74e338f",
+        "source_sha256": "e79ac41451b2d950f5de718311f4e8a9599760ba6523b07ef1627155f74e338f",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-02-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-02-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 15329,
+        "sha256": "126c7c6fdd5e93ebbd7890adb347f0a218279188f4a3bb719bbbd7ce20da47a9",
+        "source_sha256": "126c7c6fdd5e93ebbd7890adb347f0a218279188f4a3bb719bbbd7ce20da47a9",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-09-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-09-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 5411,
+        "sha256": "0dad8be87e6a087877881cd7ea50cb80551ddb562eb78495de1a6111bb229438",
+        "source_sha256": "0dad8be87e6a087877881cd7ea50cb80551ddb562eb78495de1a6111bb229438",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-10-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-10-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 6404,
+        "sha256": "8f535edc8f2701f4c582e405c125979989d28c6e78ba850aac56453323862fd3",
+        "source_sha256": "8f535edc8f2701f4c582e405c125979989d28c6e78ba850aac56453323862fd3",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-07-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-07-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 12673,
+        "sha256": "e037adcf5b5665c2b2e617d2d0804e8c3817a54bab4dd6453c5283a8a3286302",
+        "source_sha256": "e037adcf5b5665c2b2e617d2d0804e8c3817a54bab4dd6453c5283a8a3286302",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-05-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-05-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 11332,
+        "sha256": "d688a42919d894b79bf81a146bd3190ea67909230f9c47c68a5ac7516a9500c9",
+        "source_sha256": "d688a42919d894b79bf81a146bd3190ea67909230f9c47c68a5ac7516a9500c9",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-02-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-02-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 11137,
+        "sha256": "06509dec64dfc53c47c13c500d6847a913373e51af1ac9ef3ed6ba555ed2f09a",
+        "source_sha256": "06509dec64dfc53c47c13c500d6847a913373e51af1ac9ef3ed6ba555ed2f09a",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-01-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-01-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 11863,
+        "sha256": "2b082685b40d7fd70421001eacc287c5d4bbd6518ea2a2148b693e68eda8ee48",
+        "source_sha256": "2b082685b40d7fd70421001eacc287c5d4bbd6518ea2a2148b693e68eda8ee48",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-03-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-03-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 4833,
+        "sha256": "d9521c4aae80467c13d9a7b78b46d6fcd40df420a501e5819555faf4483af01c",
+        "source_sha256": "d9521c4aae80467c13d9a7b78b46d6fcd40df420a501e5819555faf4483af01c",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/reviewer-instructions.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/reviewer-instructions.md",
+        "category": "frozen scientific evidence",
+        "bytes": 2974,
+        "sha256": "dcf09612530a99d6782eea16e03291ea9e6edb8abdcf194156c9e4998e705895",
+        "source_sha256": "dcf09612530a99d6782eea16e03291ea9e6edb8abdcf194156c9e4998e705895",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-03-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-03-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 11704,
+        "sha256": "722d4fecd81004da944b28317039b3bcb6830b40b6d7c9e0d05a02228f1f7e23",
+        "source_sha256": "722d4fecd81004da944b28317039b3bcb6830b40b6d7c9e0d05a02228f1f7e23",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/README.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/README.md",
+        "category": "frozen scientific evidence",
+        "bytes": 1121,
+        "sha256": "7b3bcbe2d0bd0310d22bf2d673c2bcba51b0137bbaa992481b0cb12fcdc8fe70",
+        "source_sha256": "7b3bcbe2d0bd0310d22bf2d673c2bcba51b0137bbaa992481b0cb12fcdc8fe70",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-06-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-06-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 1896,
+        "sha256": "ca72b99d357d0b24ae531eb41fc36fa8906b78d908fd4269b2848b8c4b8f76a1",
+        "source_sha256": "ca72b99d357d0b24ae531eb41fc36fa8906b78d908fd4269b2848b8c4b8f76a1",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-07-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-07-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 8308,
+        "sha256": "d311ad4a969c970ca77a747fe0e5db4c14b349259c221a4d78976b0751fae869",
+        "source_sha256": "d311ad4a969c970ca77a747fe0e5db4c14b349259c221a4d78976b0751fae869",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-09-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-09-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 9140,
+        "sha256": "decfe27d03665f8fd8d9a3a8504a7175a0f4eb3bf1d21325caea69f2ffb5641e",
+        "source_sha256": "decfe27d03665f8fd8d9a3a8504a7175a0f4eb3bf1d21325caea69f2ffb5641e",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-10-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-10-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 12020,
+        "sha256": "70480a99ef80fab0e5c3eba51dc263099b27f20f0fbd38b8602c0ce93e631349",
+        "source_sha256": "70480a99ef80fab0e5c3eba51dc263099b27f20f0fbd38b8602c0ce93e631349",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-05-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-05-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 4930,
+        "sha256": "5ba12f5c3715097a17d600683e35c612ce34b01b5a78453094d3e5b87cedd893",
+        "source_sha256": "5ba12f5c3715097a17d600683e35c612ce34b01b5a78453094d3e5b87cedd893",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-08-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-08-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 8604,
+        "sha256": "d80006a5af88d2260d79a6eff81dcaa21880ca5fa7d48a5bfdb5cbb57b707794",
+        "source_sha256": "d80006a5af88d2260d79a6eff81dcaa21880ca5fa7d48a5bfdb5cbb57b707794",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/review-04-r1.json",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/review-04-r1.json",
+        "category": "frozen scientific evidence",
+        "bytes": 1197,
+        "sha256": "f806490045a5956b81bb52de01d1b73b6e30a32ea70c349a9112dd5d26d5cae8",
+        "source_sha256": "f806490045a5956b81bb52de01d1b73b6e30a32ea70c349a9112dd5d26d5cae8",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/review/report-v0.2/draft-r1.md",
+      "action": "removed",
+      "reason": "Obsolete editorial draft, review instructions and reviewer workflow.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/review/report-v0.2/draft-r1.md",
+        "category": "frozen scientific evidence",
+        "bytes": 31594,
+        "sha256": "022c1f4958500451a8568f2749e7878964f69607b023c692130acac016c7db4b",
+        "source_sha256": "022c1f4958500451a8568f2749e7878964f69607b023c692130acac016c7db4b",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/data/mats-example/READY.md",
+      "action": "removed",
+      "reason": "Stale pre-run operational status note.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/data/mats-example/READY.md",
+        "category": "frozen scientific evidence",
+        "bytes": 2062,
+        "sha256": "6f4658bf2551ae5b27af8379aa424bd323208707ce5586180b1b849363d1d697",
+        "source_sha256": "6f4658bf2551ae5b27af8379aa424bd323208707ce5586180b1b849363d1d697",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/data/mats-example/pre-run-status.md",
+      "action": "removed",
+      "reason": "Stale pre-run operational status note.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/data/mats-example/pre-run-status.md",
+        "category": "frozen scientific evidence",
+        "bytes": 2815,
+        "sha256": "9f24646d819246015ef8682f2212b86051b07ca23b06264ff42729c286278126",
+        "source_sha256": "9f24646d819246015ef8682f2212b86051b07ca23b06264ff42729c286278126",
+        "modified": false
+      }
+    },
+    {
+      "path": "replication/chart-library/data/mats-example/prior-model-status.md",
+      "action": "removed",
+      "reason": "Stale model-process status note.",
+      "previous_entry": {
+        "archive_path": "desktop/replication/chart-library/data/mats-example/prior-model-status.md",
+        "category": "frozen scientific evidence",
+        "bytes": 521,
+        "sha256": "324c719be35f27bfc4b2e9f3cb71d4d9ff0dd4dc49fd941af97839ad3aa3c298",
+        "source_sha256": "324c719be35f27bfc4b2e9f3cb71d4d9ff0dd4dc49fd941af97839ad3aa3c298",
+        "modified": false
+      }
+    },
+    {
+      "path": "CURRENT.md",
+      "action": "modified",
+      "reason": "Document snapshot refresh or repository navigation.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "bytes": 886,
+        "sha256": "a0ddb0dc06458dc166adb1cb956025d81fdeb939a03d28d88c2d575367e66617"
+      }
+    },
+    {
+      "path": "EXPERIMENTS.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "bytes": 16285,
+        "sha256": "348f46dfcd8d825bb042ba3567d65b0672898ed4e3abff323f444eb502296e5f"
+      }
+    },
+    {
+      "path": "REPORT.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "sha256": "0af9c7b371e950141c44f3493b5f6fb993ab7ce318651515160ac92f427afad0",
+        "bytes": 16559
+      }
+    },
+    {
+      "path": "REPRODUCING.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "sha256": "deeeb1539c55b11acaf5056a599cc92e16e4e70f88a07355fc48d1087fb3379c",
+        "bytes": 4006
+      }
+    },
+    {
+      "path": "provenance/report-reading-copy.json",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "sha256": "b9f4f0c304b4ee67de8619c7e6243daf067703187b8582982043b4baa3bf24a5",
+        "bytes": 5654
+      }
+    },
+    {
+      "path": "REPOSITORY.md",
+      "action": "removed",
+      "reason": "Superseded research narratives and root navigation; supporting documentation is grouped under docs.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "review packaging",
+        "modified": false,
+        "bytes": 4111,
+        "sha256": "e2048244ca51d2481d8cdfd928e90e79caf9b56b050e3da3833d5d82fb5c18fb"
+      }
+    },
+    {
+      "path": "provenance/google-doc-readme/document.json",
+      "action": "modified",
+      "reason": "Document snapshot refresh or repository navigation.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "Google Doc README conversion",
+        "modified": false,
+        "bytes": 440603,
+        "sha256": "3e7420ca11de99916728c84b56d4ba522e7e10de4a944084fcf2eed52828e599"
+      }
+    },
+    {
+      "path": "provenance/google-doc-readme/document-text.txt",
+      "action": "modified",
+      "reason": "Document snapshot refresh or repository navigation.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "Google Doc README conversion",
+        "modified": false,
+        "bytes": 22273,
+        "sha256": "89f5986f4b4c8edf1c5911f2b1f2e6f1146ccc2ac7c989611dba48255943afce"
+      }
+    },
+    {
+      "path": "provenance/google-doc-readme/conversion.json",
+      "action": "modified",
+      "reason": "Document snapshot refresh or repository navigation.",
+      "previous_entry": {
+        "archive_path": null,
+        "category": "Google Doc README conversion",
+        "modified": false,
+        "bytes": 1437,
+        "sha256": "2a3af787b6d40deef011cd22fbed5ff563fa6f581b142d5af987d8b5cc1a37cc"
+      }
+    }
+  ],
+  "supporting_document_moves": {
+    "ATTRIBUTION.md": "docs/attribution.md",
+    "EXPERIMENTS.md": "docs/experiments.md",
+    "PROVENANCE.md": "docs/provenance.md",
+    "REPRODUCING.md": "docs/reproducing.md",
+    "REVIEW.md": "docs/review.md",
+    "VERIFICATION.md": "docs/verification.md"
+  },
+  "document_conversion_checks": {
+    "rendered_text_matches_source_after_whitespace_normalization": true,
+    "source_paragraphs": 110,
+    "headings": 21,
+    "ordered_method_steps": 6,
+    "hyperlinks": 13,
+    "hyperlink_targets_and_order_preserved": true,
+    "rich_link_titles_preserved": 1,
+    "images": 6,
+    "image_order_and_positions_preserved": true,
+    "tables": 0,
+    "active_local_links": 169
+  },
+  "figures": {
+    "files": [
+      {
+        "path": "replication/chart-library/figure-selection/render_behavior_summary.py",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_behavior_summary.py",
+        "sha256": "6530197bdccccef3721614c77810daff37ef9420a963de9710cdf2c5fe205302",
+        "bytes": 11131,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/render_probe_and_permission.py",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_probe_and_permission.py",
+        "sha256": "f895bb373ab2396ef283fc57abb43b7e65cc45386750a932324bc286b8bc9e5e",
+        "bytes": 17025,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/render_role_composition.py",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_role_composition.py",
+        "sha256": "3919f16038d351bc37321c3a9d48bf150e99f23fdeacdd102e617ae6797d6a7b",
+        "bytes": 9602,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.png",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/behavior-complete-cohorts.png",
+        "sha256": "a7bf580e5d4ff7bdb8ad902bd9496f3c0c1b232a20b3151d0644d031109699b6",
+        "bytes": 337957,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.pdf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/behavior-complete-cohorts.pdf",
+        "sha256": "fb5f7302441fbba774b5c0aba182d874e50553bd336381de93fbe7ec677f5665",
+        "bytes": 34975,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.svg",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/behavior-complete-cohorts.svg",
+        "sha256": "dbb7a80ebeb297497fe0fcf51c217433f9367b042fcc0264068bd99a6a42f9bf",
+        "bytes": 161954,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/probe-behavior.png",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-behavior.png",
+        "sha256": "ddc7438800c453e80697bc5b48cb475173b0e59ba051e3ab32e9b35f36d740a4",
+        "bytes": 331949,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/probe-behavior.pdf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-behavior.pdf",
+        "sha256": "ba58cc8893e8d4d458dce172aa08960a70e0b2a232b84f589609ee2cb087ed6a",
+        "bytes": 27714,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/probe-behavior.svg",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-behavior.svg",
+        "sha256": "5b56fdd3c6d87ab56e0305d15607edf2c2cfff6fa00d802f28832523a3829033",
+        "bytes": 143283,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/role-composition.png",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/role-composition.png",
+        "sha256": "9d59083116716600ea4304e1086f7849ee92b7430718bdb76dcebdecf166b7fa",
+        "bytes": 232063,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/role-composition.pdf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/role-composition.pdf",
+        "sha256": "77d466d2230ca760edfadb34fa2fcdc347f13866fee7db83fa55b74b3d35a3df",
+        "bytes": 23227,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/role-composition.svg",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/role-composition.svg",
+        "sha256": "a808c3561d226678d1a697760c1e3b65b557211d0b181440108018b6fd6dec58",
+        "bytes": 129720,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/permission-task.png",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/permission-task.png",
+        "sha256": "a7f79c14b8216e9c4dee0e3a7fefd9357443cb3d8338c51d40ef9adcf46ceb82",
+        "bytes": 319525,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/permission-task.pdf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/permission-task.pdf",
+        "sha256": "2cd4577f013e9700d486caf557cbba7ebaf26425ecd0d1e0205d3e9f42929c6a",
+        "bytes": 28597,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/permission-task.svg",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/permission-task.svg",
+        "sha256": "f8be7bc510f998800b8ab3aa8ade9d9110e9f35a976fd3e72e0127be3c299444",
+        "bytes": 135168,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/behavior-complete-cohorts.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/behavior-complete-cohorts.json",
+        "sha256": "7bbbf4eb13251ca31509a596648ed74ba6dda205d1190b0887d52e826169ceaa",
+        "bytes": 3415,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/behavior-source-arm-counts.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/behavior-source-arm-counts.csv",
+        "sha256": "19f634b7752329f54a67fe9184f9a4a94d383f2b0747af9a6aac4f7760c1f7f8",
+        "bytes": 1212,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/behavior-source-forgery-outcomes.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/behavior-source-forgery-outcomes.csv",
+        "sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "bytes": 46966,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/behavior-source-paired-changes.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/behavior-source-paired-changes.csv",
+        "sha256": "510ace99f6c70cc30f915a606ee9007ce177b1c25a08eef8f46193b10aabcede",
+        "bytes": 5478,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/behavior-summary.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/behavior-summary.csv",
+        "sha256": "341d5e7099b703781f7ddd9ad53f8c36b0742daca48f45999a2c694b5408e077",
+        "bytes": 1159,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/permission-task-pairs.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/permission-task-pairs.csv",
+        "sha256": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6",
+        "bytes": 10140,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/permission-task-provenance.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/permission-task-provenance.json",
+        "sha256": "00f5f95e524560253a36b33687c69a8cfc579bd711c4ec81f4eb9d735cff75a7",
+        "bytes": 3204,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/permission-task-transitions.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/permission-task-transitions.csv",
+        "sha256": "0e23784ffb7cf5439af769e45f3920842e9fb52eaa81f1a39c07fbfb9051b170",
+        "bytes": 303,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/probe-behavior-counts.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/probe-behavior-counts.csv",
+        "sha256": "699e8d2dd839247b9a37629de6b0be895e87e8fbc5e9c7d4ff9960d9755e347c",
+        "bytes": 390,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/probe-behavior-points.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/probe-behavior-points.csv",
+        "sha256": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+        "bytes": 28440,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/probe-behavior-provenance.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/probe-behavior-provenance.json",
+        "sha256": "d95de73d39effcdcce566e67aba19e399d2032520dd1b303bc14b677a7183a75",
+        "bytes": 2873,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/role-composition-means.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/role-composition-means.csv",
+        "sha256": "06ffb4afdc51e5ccba6339bb289f7e9867e8be0c7b6bc108b73f4a83d7da32e3",
+        "bytes": 5106,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/role-composition-pages.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/role-composition-pages.csv",
+        "sha256": "e002c8bc6b70375f83e6fb88e4e2d3ec8c8e49b1c8a01b2308d5219585cb46e5",
+        "bytes": 14034,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/role-composition-provenance.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/role-composition-provenance.json",
+        "sha256": "61f00ee300be222a67f1153dc66e7b09b20b433ee1a217324725a80735e80b25",
+        "bytes": 3132,
+        "kind": "preserved source bytes"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/README.md",
+        "source_path": null,
+        "sha256": "5ab051433756faec65e04ae87a59021b63a1d7cce948165f53e1afdf1c999572",
+        "bytes": 455,
+        "kind": "new literal file index"
+      }
+    ],
+    "font_checks": [
+      {
+        "path": "replication/chart-library/fonts/termes-ttf/texgyretermes-regular.ttf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-regular.ttf",
+        "source_sha256": "544c4cc2e61cb9ca287d4826e736e809a129e1301517d23c9e205ac8896e9a3d",
+        "repo_sha256": "544c4cc2e61cb9ca287d4826e736e809a129e1301517d23c9e205ac8896e9a3d",
+        "matches": true
+      },
+      {
+        "path": "replication/chart-library/fonts/termes-ttf/texgyretermes-bold.ttf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-bold.ttf",
+        "source_sha256": "99e9829fc46ef8eac4fc93f4452eeb334ea7ff1933fea27059455ab15c978add",
+        "repo_sha256": "99e9829fc46ef8eac4fc93f4452eeb334ea7ff1933fea27059455ab15c978add",
+        "matches": true
+      },
+      {
+        "path": "replication/chart-library/fonts/termes-ttf/texgyretermes-italic.ttf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-italic.ttf",
+        "source_sha256": "3dbdabacb0e2639d2f2b513a9c717693de2bb54e0f4ce9011378fa57870869d9",
+        "repo_sha256": "3dbdabacb0e2639d2f2b513a9c717693de2bb54e0f4ce9011378fa57870869d9",
+        "matches": true
+      },
+      {
+        "path": "replication/chart-library/fonts/termes-ttf/texgyretermes-bolditalic.ttf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-bolditalic.ttf",
+        "source_sha256": "8e05a89e2ee1191f8c89ca749ba516511c096e0cfa49c2e5ab1d7478a9a8dc52",
+        "repo_sha256": "8e05a89e2ee1191f8c89ca749ba516511c096e0cfa49c2e5ab1d7478a9a8dc52",
+        "matches": true
+      }
+    ],
+    "hash_checks": [
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv",
+        "repo_path": "replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv",
+        "expected_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "observed_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/arm-counts.csv",
+        "repo_path": "replication/chart-library/steering-evidence-review/data/arm-counts.csv",
+        "expected_sha256": "19f634b7752329f54a67fe9184f9a4a94d383f2b0747af9a6aac4f7760c1f7f8",
+        "observed_sha256": "19f634b7752329f54a67fe9184f9a4a94d383f2b0747af9a6aac4f7760c1f7f8",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/paired-changes.csv",
+        "repo_path": "replication/chart-library/steering-evidence-review/data/paired-changes.csv",
+        "expected_sha256": "510ace99f6c70cc30f915a606ee9007ce177b1c25a08eef8f46193b10aabcede",
+        "observed_sha256": "510ace99f6c70cc30f915a606ee9007ce177b1c25a08eef8f46193b10aabcede",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/behavior-complete-cohorts.png",
+        "repo_path": "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.png",
+        "expected_sha256": "a7bf580e5d4ff7bdb8ad902bd9496f3c0c1b232a20b3151d0644d031109699b6",
+        "observed_sha256": "a7bf580e5d4ff7bdb8ad902bd9496f3c0c1b232a20b3151d0644d031109699b6",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/behavior-complete-cohorts.pdf",
+        "repo_path": "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.pdf",
+        "expected_sha256": "fb5f7302441fbba774b5c0aba182d874e50553bd336381de93fbe7ec677f5665",
+        "observed_sha256": "fb5f7302441fbba774b5c0aba182d874e50553bd336381de93fbe7ec677f5665",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/behavior-complete-cohorts.svg",
+        "repo_path": "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.svg",
+        "expected_sha256": "dbb7a80ebeb297497fe0fcf51c217433f9367b042fcc0264068bd99a6a42f9bf",
+        "observed_sha256": "dbb7a80ebeb297497fe0fcf51c217433f9367b042fcc0264068bd99a6a42f9bf",
+        "matches": true
+      },
+      {
+        "kind": "renderer",
+        "source_path": "render_behavior_summary.py",
+        "repo_path": "replication/chart-library/figure-selection/render_behavior_summary.py",
+        "expected_sha256": "6530197bdccccef3721614c77810daff37ef9420a963de9710cdf2c5fe205302",
+        "observed_sha256": "6530197bdccccef3721614c77810daff37ef9420a963de9710cdf2c5fe205302",
+        "matches": true
+      },
+      {
+        "kind": "plotted_data",
+        "source_path": "data/behavior-summary.csv",
+        "repo_path": "replication/chart-library/figure-selection/data/behavior-summary.csv",
+        "expected_sha256": "341d5e7099b703781f7ddd9ad53f8c36b0742daca48f45999a2c694b5408e077",
+        "observed_sha256": "341d5e7099b703781f7ddd9ad53f8c36b0742daca48f45999a2c694b5408e077",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/forgery-payload-probes.csv",
+        "repo_path": "replication/chart-library/steering-evidence-review/data/forgery-payload-probes.csv",
+        "expected_sha256": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+        "observed_sha256": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md",
+        "repo_path": "replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md",
+        "expected_sha256": "8f2d35ed4cbc1b5276f033ae7e2d0879bb08058d559eec865a524cf3814e9b1d",
+        "observed_sha256": "8f2d35ed4cbc1b5276f033ae7e2d0879bb08058d559eec865a524cf3814e9b1d",
+        "matches": true
+      },
+      {
+        "kind": "plotted_data",
+        "source_path": "data/probe-behavior-points.csv",
+        "repo_path": "replication/chart-library/figure-selection/data/probe-behavior-points.csv",
+        "expected_sha256": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+        "observed_sha256": "84d335fba058ad92417daed03e70dc8fa9da4dc06f15dc17f07c37fc930551c8",
+        "matches": true
+      },
+      {
+        "kind": "plotted_data",
+        "source_path": "data/probe-behavior-counts.csv",
+        "repo_path": "replication/chart-library/figure-selection/data/probe-behavior-counts.csv",
+        "expected_sha256": "699e8d2dd839247b9a37629de6b0be895e87e8fbc5e9c7d4ff9960d9755e347c",
+        "observed_sha256": "699e8d2dd839247b9a37629de6b0be895e87e8fbc5e9c7d4ff9960d9755e347c",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/probe-behavior.png",
+        "repo_path": "replication/chart-library/figure-selection/figures/probe-behavior.png",
+        "expected_sha256": "ddc7438800c453e80697bc5b48cb475173b0e59ba051e3ab32e9b35f36d740a4",
+        "observed_sha256": "ddc7438800c453e80697bc5b48cb475173b0e59ba051e3ab32e9b35f36d740a4",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/probe-behavior.pdf",
+        "repo_path": "replication/chart-library/figure-selection/figures/probe-behavior.pdf",
+        "expected_sha256": "ba58cc8893e8d4d458dce172aa08960a70e0b2a232b84f589609ee2cb087ed6a",
+        "observed_sha256": "ba58cc8893e8d4d458dce172aa08960a70e0b2a232b84f589609ee2cb087ed6a",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/probe-behavior.svg",
+        "repo_path": "replication/chart-library/figure-selection/figures/probe-behavior.svg",
+        "expected_sha256": "5b56fdd3c6d87ab56e0305d15607edf2c2cfff6fa00d802f28832523a3829033",
+        "observed_sha256": "5b56fdd3c6d87ab56e0305d15607edf2c2cfff6fa00d802f28832523a3829033",
+        "matches": true
+      },
+      {
+        "kind": "renderer",
+        "source_path": "render_probe_and_permission.py",
+        "repo_path": "replication/chart-library/figure-selection/render_probe_and_permission.py",
+        "expected_sha256": "f895bb373ab2396ef283fc57abb43b7e65cc45386750a932324bc286b8bc9e5e",
+        "observed_sha256": "f895bb373ab2396ef283fc57abb43b7e65cc45386750a932324bc286b8bc9e5e",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-toolward-pairs.csv",
+        "repo_path": "replication/chart-library/steering-evidence-review/reviews/permission-toolward-pairs.csv",
+        "expected_sha256": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6",
+        "observed_sha256": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/historical-evidence-audit.md",
+        "repo_path": "replication/chart-library/steering-evidence-review/reviews/historical-evidence-audit.md",
+        "expected_sha256": "5b9839950330a7e715c1e5c88abc6d72c91adaad9dea2ad2b6ed2c0c43c6aa5b",
+        "observed_sha256": "5b9839950330a7e715c1e5c88abc6d72c91adaad9dea2ad2b6ed2c0c43c6aa5b",
+        "matches": true
+      },
+      {
+        "kind": "plotted_data",
+        "source_path": "data/permission-task-transitions.csv",
+        "repo_path": "replication/chart-library/figure-selection/data/permission-task-transitions.csv",
+        "expected_sha256": "0e23784ffb7cf5439af769e45f3920842e9fb52eaa81f1a39c07fbfb9051b170",
+        "observed_sha256": "0e23784ffb7cf5439af769e45f3920842e9fb52eaa81f1a39c07fbfb9051b170",
+        "matches": true
+      },
+      {
+        "kind": "plotted_data",
+        "source_path": "data/permission-task-pairs.csv",
+        "repo_path": "replication/chart-library/figure-selection/data/permission-task-pairs.csv",
+        "expected_sha256": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6",
+        "observed_sha256": "1221cfede5c68a60b21f7a197170ecc4f171a8c47e68e55afe76117642853fc6",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/permission-task.png",
+        "repo_path": "replication/chart-library/figure-selection/figures/permission-task.png",
+        "expected_sha256": "a7f79c14b8216e9c4dee0e3a7fefd9357443cb3d8338c51d40ef9adcf46ceb82",
+        "observed_sha256": "a7f79c14b8216e9c4dee0e3a7fefd9357443cb3d8338c51d40ef9adcf46ceb82",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/permission-task.pdf",
+        "repo_path": "replication/chart-library/figure-selection/figures/permission-task.pdf",
+        "expected_sha256": "2cd4577f013e9700d486caf557cbba7ebaf26425ecd0d1e0205d3e9f42929c6a",
+        "observed_sha256": "2cd4577f013e9700d486caf557cbba7ebaf26425ecd0d1e0205d3e9f42929c6a",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/permission-task.svg",
+        "repo_path": "replication/chart-library/figure-selection/figures/permission-task.svg",
+        "expected_sha256": "f8be7bc510f998800b8ab3aa8ade9d9110e9f35a976fd3e72e0127be3c299444",
+        "observed_sha256": "f8be7bc510f998800b8ab3aa8ade9d9110e9f35a976fd3e72e0127be3c299444",
+        "matches": true
+      },
+      {
+        "kind": "renderer",
+        "source_path": "render_probe_and_permission.py",
+        "repo_path": "replication/chart-library/figure-selection/render_probe_and_permission.py",
+        "expected_sha256": "f895bb373ab2396ef283fc57abb43b7e65cc45386750a932324bc286b8bc9e5e",
+        "observed_sha256": "f895bb373ab2396ef283fc57abb43b7e65cc45386750a932324bc286b8bc9e5e",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/first-exposure-probes.csv",
+        "repo_path": "replication/chart-library/steering-evidence-review/data/first-exposure-probes.csv",
+        "expected_sha256": "8e091750d301ed3fce60f7977501ccfea60b68c866966b92e9edea20080b2b8d",
+        "observed_sha256": "8e091750d301ed3fce60f7977501ccfea60b68c866966b92e9edea20080b2b8d",
+        "matches": true
+      },
+      {
+        "kind": "provenance_input",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md",
+        "repo_path": "replication/chart-library/steering-evidence-review/reviews/full-batch-audit.md",
+        "expected_sha256": "8f2d35ed4cbc1b5276f033ae7e2d0879bb08058d559eec865a524cf3814e9b1d",
+        "observed_sha256": "8f2d35ed4cbc1b5276f033ae7e2d0879bb08058d559eec865a524cf3814e9b1d",
+        "matches": true
+      },
+      {
+        "kind": "plotted_data",
+        "source_path": "data/role-composition-pages.csv",
+        "repo_path": "replication/chart-library/figure-selection/data/role-composition-pages.csv",
+        "expected_sha256": "e002c8bc6b70375f83e6fb88e4e2d3ec8c8e49b1c8a01b2308d5219585cb46e5",
+        "observed_sha256": "e002c8bc6b70375f83e6fb88e4e2d3ec8c8e49b1c8a01b2308d5219585cb46e5",
+        "matches": true
+      },
+      {
+        "kind": "plotted_data",
+        "source_path": "data/role-composition-means.csv",
+        "repo_path": "replication/chart-library/figure-selection/data/role-composition-means.csv",
+        "expected_sha256": "06ffb4afdc51e5ccba6339bb289f7e9867e8be0c7b6bc108b73f4a83d7da32e3",
+        "observed_sha256": "06ffb4afdc51e5ccba6339bb289f7e9867e8be0c7b6bc108b73f4a83d7da32e3",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/role-composition.png",
+        "repo_path": "replication/chart-library/figure-selection/figures/role-composition.png",
+        "expected_sha256": "9d59083116716600ea4304e1086f7849ee92b7430718bdb76dcebdecf166b7fa",
+        "observed_sha256": "9d59083116716600ea4304e1086f7849ee92b7430718bdb76dcebdecf166b7fa",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/role-composition.pdf",
+        "repo_path": "replication/chart-library/figure-selection/figures/role-composition.pdf",
+        "expected_sha256": "77d466d2230ca760edfadb34fa2fcdc347f13866fee7db83fa55b74b3d35a3df",
+        "observed_sha256": "77d466d2230ca760edfadb34fa2fcdc347f13866fee7db83fa55b74b3d35a3df",
+        "matches": true
+      },
+      {
+        "kind": "figure_artifact",
+        "source_path": "figures/role-composition.svg",
+        "repo_path": "replication/chart-library/figure-selection/figures/role-composition.svg",
+        "expected_sha256": "a808c3561d226678d1a697760c1e3b65b557211d0b181440108018b6fd6dec58",
+        "observed_sha256": "a808c3561d226678d1a697760c1e3b65b557211d0b181440108018b6fd6dec58",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/episode.json",
+        "expected_sha256": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09",
+        "observed_sha256": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/episode.json",
+        "expected_sha256": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520",
+        "observed_sha256": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/episode.json",
+        "expected_sha256": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2",
+        "observed_sha256": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/episode.json",
+        "expected_sha256": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08",
+        "observed_sha256": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/episode.json",
+        "expected_sha256": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e",
+        "observed_sha256": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/episode.json",
+        "expected_sha256": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078",
+        "observed_sha256": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/episode.json",
+        "expected_sha256": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58",
+        "observed_sha256": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/episode.json",
+        "expected_sha256": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1",
+        "observed_sha256": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/episode.json",
+        "expected_sha256": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86",
+        "observed_sha256": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/episode.json",
+        "expected_sha256": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3",
+        "observed_sha256": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/episode.json",
+        "expected_sha256": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba",
+        "observed_sha256": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/episode.json",
+        "expected_sha256": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422",
+        "observed_sha256": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/episode.json",
+        "expected_sha256": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0",
+        "observed_sha256": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/episode.json",
+        "expected_sha256": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3",
+        "observed_sha256": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/episode.json",
+        "expected_sha256": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c",
+        "observed_sha256": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/episode.json",
+        "expected_sha256": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f",
+        "observed_sha256": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/episode.json",
+        "expected_sha256": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c",
+        "observed_sha256": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/episode.json",
+        "expected_sha256": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9",
+        "observed_sha256": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/episode.json",
+        "expected_sha256": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68",
+        "observed_sha256": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/episode.json",
+        "expected_sha256": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869",
+        "observed_sha256": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/episode.json",
+        "expected_sha256": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e",
+        "observed_sha256": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/episode.json",
+        "expected_sha256": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880",
+        "observed_sha256": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/episode.json",
+        "expected_sha256": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b",
+        "observed_sha256": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/episode.json",
+        "expected_sha256": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43",
+        "observed_sha256": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/episode.json",
+        "expected_sha256": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11",
+        "observed_sha256": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/episode.json",
+        "expected_sha256": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9",
+        "observed_sha256": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/episode.json",
+        "expected_sha256": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1",
+        "observed_sha256": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/episode.json",
+        "expected_sha256": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977",
+        "observed_sha256": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/episode.json",
+        "expected_sha256": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2",
+        "observed_sha256": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/episode.json",
+        "expected_sha256": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58",
+        "observed_sha256": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_0_a16/episode.json",
+        "expected_sha256": "e2aa44f77d7f2fc41d625bc49d7bff63b3b6a8ce73a0f81385689eae85c22551",
+        "observed_sha256": "e2aa44f77d7f2fc41d625bc49d7bff63b3b6a8ce73a0f81385689eae85c22551",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_1_a16/episode.json",
+        "expected_sha256": "d741998c4d3c94a1bfc32ddd57d5554b428b848cea081fd5c6134f7807fda75d",
+        "observed_sha256": "d741998c4d3c94a1bfc32ddd57d5554b428b848cea081fd5c6134f7807fda75d",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_2_a16/episode.json",
+        "expected_sha256": "32ec8fbfc526f71f4c8c02c296aabde3c3c09824a5a00715f718870d09ee7d81",
+        "observed_sha256": "32ec8fbfc526f71f4c8c02c296aabde3c3c09824a5a00715f718870d09ee7d81",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/reverse_a16/episode.json",
+        "expected_sha256": "f8b6598230784c4b6f45ff4842c579d772ac9dce16a853971bee142831ce9f15",
+        "observed_sha256": "f8b6598230784c4b6f45ff4842c579d772ac9dce16a853971bee142831ce9f15",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/role_a16/episode.json",
+        "expected_sha256": "ede5305976b551ced2c2334576c44db195197c4c724b853dc15aba7304903c31",
+        "observed_sha256": "ede5305976b551ced2c2334576c44db195197c4c724b853dc15aba7304903c31",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_0_a16/episode.json",
+        "expected_sha256": "e6199aa888ff0265e1a45fdd3969370001bc0bad4c714a7fae61aea0e84c514f",
+        "observed_sha256": "e6199aa888ff0265e1a45fdd3969370001bc0bad4c714a7fae61aea0e84c514f",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_1_a16/episode.json",
+        "expected_sha256": "1f70f7662aa0eb0bfc6d0261f3415d2cb1e9db86b6d6ed654b01edaceab9de5d",
+        "observed_sha256": "1f70f7662aa0eb0bfc6d0261f3415d2cb1e9db86b6d6ed654b01edaceab9de5d",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_2_a16/episode.json",
+        "expected_sha256": "c0fd13248b0f123668ac3153caa8e40d91cfc4ad7fbb0615fce3f8549cbe489d",
+        "observed_sha256": "c0fd13248b0f123668ac3153caa8e40d91cfc4ad7fbb0615fce3f8549cbe489d",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/reverse_a16/episode.json",
+        "expected_sha256": "ac8a635a9adae1fd6055b9cf7c755666fce9f6994eb66383be1934c75cc83de6",
+        "observed_sha256": "ac8a635a9adae1fd6055b9cf7c755666fce9f6994eb66383be1934c75cc83de6",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/role_a16/episode.json",
+        "expected_sha256": "d8d32be96aeb79af7124616331019d08c0d22645fe6d9ea087a05a61edf8d547",
+        "observed_sha256": "d8d32be96aeb79af7124616331019d08c0d22645fe6d9ea087a05a61edf8d547",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_0_a16/episode.json",
+        "expected_sha256": "6b21ec400ebb575b1b350943f9de6cf65b087d4f01283efd56a26668fe169152",
+        "observed_sha256": "6b21ec400ebb575b1b350943f9de6cf65b087d4f01283efd56a26668fe169152",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_1_a16/episode.json",
+        "expected_sha256": "8e3d29ab7c34f2f7961c204f0b308f1afd552788a1698f1e82fe0766b0d1900a",
+        "observed_sha256": "8e3d29ab7c34f2f7961c204f0b308f1afd552788a1698f1e82fe0766b0d1900a",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_2_a16/episode.json",
+        "expected_sha256": "caf068bbef278c0f37e996e881c9c666221bbaefd85faa6d1d2d00cf7930db63",
+        "observed_sha256": "caf068bbef278c0f37e996e881c9c666221bbaefd85faa6d1d2d00cf7930db63",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/reverse_a16/episode.json",
+        "expected_sha256": "eb4bfba91c6b89fbdfcc9cbef6b87633f0d14cd5c3ab2c2e51eb53b357a28675",
+        "observed_sha256": "eb4bfba91c6b89fbdfcc9cbef6b87633f0d14cd5c3ab2c2e51eb53b357a28675",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/role_a16/episode.json",
+        "expected_sha256": "a19e4f6f504da0d297c8480943ec2a9b4a6e4f0d56ee39521c1d362f1059c44a",
+        "observed_sha256": "a19e4f6f504da0d297c8480943ec2a9b4a6e4f0d56ee39521c1d362f1059c44a",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_0_a16/episode.json",
+        "expected_sha256": "e54242fa21344e42ebfacc6553c9c16a862d21d3763b00131444e674bce7337e",
+        "observed_sha256": "e54242fa21344e42ebfacc6553c9c16a862d21d3763b00131444e674bce7337e",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_1_a16/episode.json",
+        "expected_sha256": "d1e30970272aa96bb85b38475e6674771376d0ee708c594d825f88e01ed2ae29",
+        "observed_sha256": "d1e30970272aa96bb85b38475e6674771376d0ee708c594d825f88e01ed2ae29",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_2_a16/episode.json",
+        "expected_sha256": "0e821511375491c03f973d1e74f9fa060fa90fba616bda70ae22a56e9eea1860",
+        "observed_sha256": "0e821511375491c03f973d1e74f9fa060fa90fba616bda70ae22a56e9eea1860",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/reverse_a16/episode.json",
+        "expected_sha256": "d0fcd3297196ee5f02e4d590c9f62ac80e6996a1bb6fab5149d5878587f186af",
+        "observed_sha256": "d0fcd3297196ee5f02e4d590c9f62ac80e6996a1bb6fab5149d5878587f186af",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/role_a16/episode.json",
+        "expected_sha256": "2431e00c0ad8948d4576087e37b343f6edb20ef96b73fc8b85d2196814cc4428",
+        "observed_sha256": "2431e00c0ad8948d4576087e37b343f6edb20ef96b73fc8b85d2196814cc4428",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_0_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_0_a16/episode.json",
+        "expected_sha256": "320ca77784e1230e2246eeca9a34b7a1986370c5e1c27f6f2def7c07d526cc6e",
+        "observed_sha256": "320ca77784e1230e2246eeca9a34b7a1986370c5e1c27f6f2def7c07d526cc6e",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_1_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_1_a16/episode.json",
+        "expected_sha256": "bd91809ea58dc225536fa07e294994135011bde96da0acb9cd45e03f486e32bf",
+        "observed_sha256": "bd91809ea58dc225536fa07e294994135011bde96da0acb9cd45e03f486e32bf",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_2_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_2_a16/episode.json",
+        "expected_sha256": "f4884384618f8c4f3c3ef622c15806031d7a2032f97d9d6d55af04326f13e986",
+        "observed_sha256": "f4884384618f8c4f3c3ef622c15806031d7a2032f97d9d6d55af04326f13e986",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/reverse_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/reverse_a16/episode.json",
+        "expected_sha256": "9ab34b542cb4c73fb7d63249fad27a9c32a73cadabef3bff1a637c4004b981e0",
+        "observed_sha256": "9ab34b542cb4c73fb7d63249fad27a9c32a73cadabef3bff1a637c4004b981e0",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/role_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/role_a16/episode.json",
+        "expected_sha256": "1c23da0dd908b820896ff4ebb1035caa6ebb68d71c5659d60b65d030a7ba0bca",
+        "observed_sha256": "1c23da0dd908b820896ff4ebb1035caa6ebb68d71c5659d60b65d030a7ba0bca",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/000-forgery/tool_raising_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/000-forgery/tool_raising_a16/episode.json",
+        "expected_sha256": "1b5c5757b21604ac292496aec18c2ff2b50e926d4112f5f9cb246abedfc5454a",
+        "observed_sha256": "1b5c5757b21604ac292496aec18c2ff2b50e926d4112f5f9cb246abedfc5454a",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/001-forgery/tool_raising_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/001-forgery/tool_raising_a16/episode.json",
+        "expected_sha256": "027cd279775be6e1ec23b7b5de15767ddd8c498d3d33274169c73fa8c095ca68",
+        "observed_sha256": "027cd279775be6e1ec23b7b5de15767ddd8c498d3d33274169c73fa8c095ca68",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/002-forgery/tool_raising_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/002-forgery/tool_raising_a16/episode.json",
+        "expected_sha256": "483d7380c376606492bc9db6426dd8474a612db1b9c83048942a80097da9f265",
+        "observed_sha256": "483d7380c376606492bc9db6426dd8474a612db1b9c83048942a80097da9f265",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/003-forgery/tool_raising_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/003-forgery/tool_raising_a16/episode.json",
+        "expected_sha256": "9a2ef382ace146788ab229e53821aa89af73f2c63bc5ada2ab85c265877ee1e3",
+        "observed_sha256": "9a2ef382ace146788ab229e53821aa89af73f2c63bc5ada2ab85c265877ee1e3",
+        "matches": true
+      },
+      {
+        "kind": "raw_episode",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/004-forgery/tool_raising_a16/episode.json",
+        "repo_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/004-forgery/tool_raising_a16/episode.json",
+        "expected_sha256": "f804ac2de09914570bc40ca622ac516efc4713460b2194d11d619ca04cb5f315",
+        "observed_sha256": "f804ac2de09914570bc40ca622ac516efc4713460b2194d11d619ca04cb5f315",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 143,
+        "expected_sha256": "b804e5cc19e51e7ff317cde22002da86f43f5a831104df57f580674863355d9b",
+        "observed_sha256": "b804e5cc19e51e7ff317cde22002da86f43f5a831104df57f580674863355d9b",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 141,
+        "expected_sha256": "a37105091b2d853282110a71a1f4148f10f5fb9cfa6615e01db53567f61d7009",
+        "observed_sha256": "a37105091b2d853282110a71a1f4148f10f5fb9cfa6615e01db53567f61d7009",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 81,
+        "expected_sha256": "7ec6c612588542dc857cb4bb38a5a1564c1820c775b3a0790bb433ff81f14685",
+        "observed_sha256": "7ec6c612588542dc857cb4bb38a5a1564c1820c775b3a0790bb433ff81f14685",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 84,
+        "expected_sha256": "6a2462e1125d2407c896b3fc0bee3407fb036657138f2f6ed85d49560f9d3295",
+        "observed_sha256": "6a2462e1125d2407c896b3fc0bee3407fb036657138f2f6ed85d49560f9d3295",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 4,
+        "expected_sha256": "e65f6daf88d29f093368d20cb01ec39948216c28dbd017b18482010125a50a39",
+        "observed_sha256": "e65f6daf88d29f093368d20cb01ec39948216c28dbd017b18482010125a50a39",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 10,
+        "expected_sha256": "f17a50810d8e8e352a7bee4894a8c8232ea6d5592d86f6d302d071476490297b",
+        "observed_sha256": "f17a50810d8e8e352a7bee4894a8c8232ea6d5592d86f6d302d071476490297b",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 71,
+        "expected_sha256": "51b41555a0c176a46f5f8d3f04fe8836fdadc8affb2a7d30ea038b676d3be702",
+        "observed_sha256": "51b41555a0c176a46f5f8d3f04fe8836fdadc8affb2a7d30ea038b676d3be702",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 76,
+        "expected_sha256": "e9734c38c71279b3ca949ee054e47bfba8c3b988e0e14720bb98ecb4160abdb4",
+        "observed_sha256": "e9734c38c71279b3ca949ee054e47bfba8c3b988e0e14720bb98ecb4160abdb4",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 1,
+        "expected_sha256": "9fd116a1cd19d4e94d21a5b537995c13e289a0219e15c9b2e0640a32d102a1d5",
+        "observed_sha256": "9fd116a1cd19d4e94d21a5b537995c13e289a0219e15c9b2e0640a32d102a1d5",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 6,
+        "expected_sha256": "4d006c65dddde317e563f4c3a00b35f68464d6f05687aedd1fad65880315be08",
+        "observed_sha256": "4d006c65dddde317e563f4c3a00b35f68464d6f05687aedd1fad65880315be08",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 108,
+        "expected_sha256": "45dfcab1b4d7508ca2f0b762d5a6b12659fc15f59f1cad9b029fce128ed2e9c0",
+        "observed_sha256": "45dfcab1b4d7508ca2f0b762d5a6b12659fc15f59f1cad9b029fce128ed2e9c0",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 103,
+        "expected_sha256": "b6ea1ccfda2673328ab1d338f3dc7c7e846ecbc98a83eeb4232e8ad5b97f296a",
+        "observed_sha256": "b6ea1ccfda2673328ab1d338f3dc7c7e846ecbc98a83eeb4232e8ad5b97f296a",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 112,
+        "expected_sha256": "16e00c7ac195e922e5c163d405e9936b10c61cb369b521475aeb34f6a78c37a1",
+        "observed_sha256": "16e00c7ac195e922e5c163d405e9936b10c61cb369b521475aeb34f6a78c37a1",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 102,
+        "expected_sha256": "cb95a68ec3ed61ed3c7d7c65a2f440f417056d5c891c6c389b5bbb2df16cfd02",
+        "observed_sha256": "cb95a68ec3ed61ed3c7d7c65a2f440f417056d5c891c6c389b5bbb2df16cfd02",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 63,
+        "expected_sha256": "cf1d00018c880111f0de93d9aef6bf3144e68313c659bfcc4ec6f49712748afb",
+        "observed_sha256": "cf1d00018c880111f0de93d9aef6bf3144e68313c659bfcc4ec6f49712748afb",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 58,
+        "expected_sha256": "54d695158bdd33a882b91841c6270b54472b783637d4858abb03a68c62a780ed",
+        "observed_sha256": "54d695158bdd33a882b91841c6270b54472b783637d4858abb03a68c62a780ed",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 64,
+        "expected_sha256": "f3b8f2dc41b5bd7061fa82a6b877132c1c72ec01b63ca19b4fb8dca12f89ef57",
+        "observed_sha256": "f3b8f2dc41b5bd7061fa82a6b877132c1c72ec01b63ca19b4fb8dca12f89ef57",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 59,
+        "expected_sha256": "938a4c7e08bdde3f26159ca284d297f0234eba2fb1ee718cfc10dddb4354ec13",
+        "observed_sha256": "938a4c7e08bdde3f26159ca284d297f0234eba2fb1ee718cfc10dddb4354ec13",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 95,
+        "expected_sha256": "c111681293bf517ce4508b3fa6218aa732c6e3b72e60a8c0100ecbaa47f768e3",
+        "observed_sha256": "c111681293bf517ce4508b3fa6218aa732c6e3b72e60a8c0100ecbaa47f768e3",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 87,
+        "expected_sha256": "a0905a7ef57ffe90cefbd4cbfb75e5e3fea2172041b950550230688592dfa8ab",
+        "observed_sha256": "a0905a7ef57ffe90cefbd4cbfb75e5e3fea2172041b950550230688592dfa8ab",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 115,
+        "expected_sha256": "5b23f384b585336b7a6b640100cbb0c06193498f8bee18d7e4cef7483449349f",
+        "observed_sha256": "5b23f384b585336b7a6b640100cbb0c06193498f8bee18d7e4cef7483449349f",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 120,
+        "expected_sha256": "c1252449c02351451f47d32f40f7070e2cd7ac6fdffc2812d5e493f7ea7af608",
+        "observed_sha256": "c1252449c02351451f47d32f40f7070e2cd7ac6fdffc2812d5e493f7ea7af608",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 96,
+        "expected_sha256": "52f8799b436de0bf20178262bf68d74feb85ba20d5e03e63caecf9c76a38a6b6",
+        "observed_sha256": "52f8799b436de0bf20178262bf68d74feb85ba20d5e03e63caecf9c76a38a6b6",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 85,
+        "expected_sha256": "e6d1d9456da46cdfa655a196d0421dd7bc8ac96ad4670fa43cb847c714dbfeb2",
+        "observed_sha256": "e6d1d9456da46cdfa655a196d0421dd7bc8ac96ad4670fa43cb847c714dbfeb2",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 116,
+        "expected_sha256": "fe9d57430b1621138913cce225225fa5b334118ca914c1cd6598625f17c3169b",
+        "observed_sha256": "fe9d57430b1621138913cce225225fa5b334118ca914c1cd6598625f17c3169b",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 117,
+        "expected_sha256": "7fd8dd19cc72631fad4bb969999e2bcb4ff6d1ad24bbc0c4335531d78a4f1605",
+        "observed_sha256": "7fd8dd19cc72631fad4bb969999e2bcb4ff6d1ad24bbc0c4335531d78a4f1605",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 38,
+        "expected_sha256": "31ed458f71f11743e951ea6fe41aa62e024c2a7ca8c4da619686d1f80554ac78",
+        "observed_sha256": "31ed458f71f11743e951ea6fe41aa62e024c2a7ca8c4da619686d1f80554ac78",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 39,
+        "expected_sha256": "ccb47b9bdaf3f35d99945f0433ad56e1ae15e2749fed73893a1d1a9775947c52",
+        "observed_sha256": "ccb47b9bdaf3f35d99945f0433ad56e1ae15e2749fed73893a1d1a9775947c52",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 18,
+        "expected_sha256": "18f42043ac0fd5813418010b81ae2476ee41343c8ee8670390cf5d31a4b2009d",
+        "observed_sha256": "18f42043ac0fd5813418010b81ae2476ee41343c8ee8670390cf5d31a4b2009d",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 19,
+        "expected_sha256": "7417e3e3a3979901634ac27964d4f0f55bdd06011fd3c30dd401203485d0a51b",
+        "observed_sha256": "7417e3e3a3979901634ac27964d4f0f55bdd06011fd3c30dd401203485d0a51b",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 31,
+        "expected_sha256": "7f7d75e1892dc6a029a1f2c83f70ea1bc17f83782f859c74e682a06338ce4fdc",
+        "observed_sha256": "7f7d75e1892dc6a029a1f2c83f70ea1bc17f83782f859c74e682a06338ce4fdc",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 33,
+        "expected_sha256": "5be81b43e88a9f767ffa9265c66ac500a97c782ca3da2259a33289d82b2e0338",
+        "observed_sha256": "5be81b43e88a9f767ffa9265c66ac500a97c782ca3da2259a33289d82b2e0338",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 24,
+        "expected_sha256": "10a65893f0aa61031dcd6be787bd86be9fba24a609b9e0764430247f6c7823ec",
+        "observed_sha256": "10a65893f0aa61031dcd6be787bd86be9fba24a609b9e0764430247f6c7823ec",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 17,
+        "expected_sha256": "3429335e306ce62bb68d73ec0505fe9270b98213cfe518a7b982d5b91aff3b1a",
+        "observed_sha256": "3429335e306ce62bb68d73ec0505fe9270b98213cfe518a7b982d5b91aff3b1a",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 47,
+        "expected_sha256": "f6f3d2c336f8ab2aacd2a660d2bea972e4e067cd7b53d4d6629f2517d34b792b",
+        "observed_sha256": "f6f3d2c336f8ab2aacd2a660d2bea972e4e067cd7b53d4d6629f2517d34b792b",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 54,
+        "expected_sha256": "714aabe64620bbfdf5dd605ab72b501d87e90f8ff9037efe2752457b31207511",
+        "observed_sha256": "714aabe64620bbfdf5dd605ab72b501d87e90f8ff9037efe2752457b31207511",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 43,
+        "expected_sha256": "8aca8090121f1d30e9beddb8fafa9b91087b887d925827b261de9a927e06fc4a",
+        "observed_sha256": "8aca8090121f1d30e9beddb8fafa9b91087b887d925827b261de9a927e06fc4a",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 45,
+        "expected_sha256": "076e861907b10fc3126ec442090347f25959327f1eca76020dfb35cae298b089",
+        "observed_sha256": "076e861907b10fc3126ec442090347f25959327f1eca76020dfb35cae298b089",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 135,
+        "expected_sha256": "f79441fc037aaedbdf09e31d04a0877c538596d31a759e942383ef6cb704aed2",
+        "observed_sha256": "f79441fc037aaedbdf09e31d04a0877c538596d31a759e942383ef6cb704aed2",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 138,
+        "expected_sha256": "42b2d120cb3f1dd328617f8656d7e1c56ad09029f1d2c0788371d8a6b31f202f",
+        "observed_sha256": "42b2d120cb3f1dd328617f8656d7e1c56ad09029f1d2c0788371d8a6b31f202f",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 131,
+        "expected_sha256": "7f2394c61d39cd5c43b7ac19d76fffed581af3999874c674849e91099d18da37",
+        "observed_sha256": "7f2394c61d39cd5c43b7ac19d76fffed581af3999874c674849e91099d18da37",
+        "matches": true
+      },
+      {
+        "kind": "permission_raw_record",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "line": 130,
+        "expected_sha256": "f7e14d51c4269717969b64b629f5629a826e95c479c7e72d3fcecd08bfdd65c8",
+        "observed_sha256": "f7e14d51c4269717969b64b629f5629a826e95c479c7e72d3fcecd08bfdd65c8",
+        "matches": true
+      }
+    ],
+    "unresolved_inputs": [],
+    "validation": {
+      "copied_bytes_match_sources": true,
+      "scripts_parsed_only": true,
+      "scripts_or_models_executed": false,
+      "hash_checks": 133,
+      "hash_checks_passed": 133,
+      "unique_raw_episode_files": 60,
+      "permission_raw_record_references": 42
+    },
+    "boundaries": [
+      "Historical absolute paths in renderers and CSVs were preserved. The audit resolves them through the existing export map and original Desktop prefix.",
+      "Renderers were not executed. Their fresh-clone runtime behavior has not been validated.",
+      "No doc-integration, private-layouts, galleries, editorial notes or prose-caption files were copied.",
+      "The selected JSON provenance metadata retains its original explanatory fields unchanged."
+    ]
+  },
+  "scientific_result_verification": {
+    "passed": true,
+    "indexed_artifacts": 2224,
+    "rows": 110,
+    "recorded": 100,
+    "unrun": 10,
+    "censored": 3
+  },
+  "repository_validation": {
+    "active_local_links": 169,
+    "missing_local_links": 0,
+    "root_markdown_files": 5,
+    "tracked_files": 12117,
+    "manifest_complete": true,
+    "documentation_whitespace_check": true
+  }
+}

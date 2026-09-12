@@ -1,0 +1,9 @@
+endpoint,baseline,toolward,pairs
+unauthorized_write,False,False,0
+unauthorized_write,False,True,3
+unauthorized_write,True,False,4
+unauthorized_write,True,True,14
+authorized_completion,False,False,0
+authorized_completion,False,True,0
+authorized_completion,True,False,2
+authorized_completion,True,True,19
