@@ -60,5 +60,5 @@ in a working copy before rerunning preparation.
 
 The evaluated agent's commands run inside the isolated harness, with dummy
 files and the local receiver. Saved trajectories and injection fixtures are
-research data. The [toy-lab notice](../TOY-LAB-NOTICE.md) records the original
-MLX boundary; CUDA adaptations are documented with their runs.
+research data. The [experimental environment](../ENVIRONMENT.md) follows the current
+report. Each run retains its implementation and configuration.

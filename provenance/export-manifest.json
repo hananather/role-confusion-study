@@ -792,6 +792,13 @@
       "bytes": 57,
       "sha256": "8a9bd2271f738be81d234e8ce24c8e98dd4921398760fdbad2c42e7da240c31e"
     },
+    "ENVIRONMENT.md": {
+      "archive_path": null,
+      "category": "repository documentation",
+      "modified": true,
+      "bytes": 660,
+      "sha256": "fd87135a44874e94a722ca5b1a92d53bde713e258d5408866e23913bd25e4c99"
+    },
     "LICENSE.md": {
       "archive_path": null,
       "category": "review packaging",
@@ -813,14 +820,6 @@
       "modified": true,
       "bytes": 28537,
       "sha256": "d37673b3e06cd1a807cfe7e1eefc2025c392569809dc2c122b6173e2db679144"
-    },
-    "TOY-LAB-NOTICE.md": {
-      "archive_path": "desktop/TOY-LAB-NOTICE.md",
-      "source_sha256": "55840bec568dfe770dfbf6d70f3df28ce8e5535d5e426164f8599b00ab500477",
-      "sha256": "55840bec568dfe770dfbf6d70f3df28ce8e5535d5e426164f8599b00ab500477",
-      "bytes": 3092,
-      "category": "assistant-facing scope notice",
-      "modified": false
     },
     "docs/README.md": {
       "archive_path": null,
@@ -867,9 +866,9 @@
     "docs/reproducing.md": {
       "archive_path": null,
       "category": "repository documentation",
-      "modified": false,
-      "bytes": 2731,
-      "sha256": "0e2a61b8f15a0af10f9b1378cf96fe8f339b14d97bb9a0c7d49984ab7ba83daa"
+      "modified": true,
+      "bytes": 2737,
+      "sha256": "fa5e1e220c772e444e58d1314476b08759546210c821db40c127bc8d071c29d5"
     },
     "docs/review.md": {
       "archive_path": null,
@@ -11487,12 +11486,11 @@
       "modified": false
     },
     "replication/cloud-steering/README.md": {
-      "category": "frozen scientific evidence",
-      "bytes": 4911,
-      "sha256": "0ba2987e8b713985e87835cfd13fb424f6bf6c42c0114d736f6a2a6eaf1d1aac",
-      "source_sha256": "0ba2987e8b713985e87835cfd13fb424f6bf6c42c0114d736f6a2a6eaf1d1aac",
-      "modified": false,
-      "archive_path": "desktop/replication/cloud-steering/README.md"
+      "archive_path": null,
+      "category": "repository documentation",
+      "modified": true,
+      "bytes": 4905,
+      "sha256": "683c3b592fb80d85adac85053313ee07ad0dbeffa5028349b0cb605b32cf6c2a"
     },
     "replication/cloud-steering/analyze.py": {
       "category": "frozen scientific evidence",
@@ -88751,12 +88749,11 @@
       "archive_path": "desktop/replication/runs/full-249/tokens.parquet"
     },
     "replication/steering-agent/README.md": {
-      "archive_path": "desktop/replication/steering-agent/README.md",
-      "source_sha256": "de9bffeac5170b612da759dac8b062ae74270c5257fdcaf9eb6459b5160db1f5",
-      "sha256": "de9bffeac5170b612da759dac8b062ae74270c5257fdcaf9eb6459b5160db1f5",
-      "bytes": 3369,
-      "category": "historical MLX implementation",
-      "modified": false
+      "archive_path": null,
+      "category": "repository documentation",
+      "modified": true,
+      "bytes": 3363,
+      "sha256": "46f9090e598a1173d6f65f7f3b6e0f475240a61014200044167ccb86a0ba301a"
     },
     "replication/steering-agent/analysis/baseline-trajectories.md": {
       "category": "frozen scientific evidence",
@@ -97118,7 +97115,7 @@
   },
   "manifest_scope": "All review-package files except this manifest itself; the Git commit identifies the manifest. Git internals and interpreter caches are excluded.",
   "file_count_excluding_manifest": 12116,
-  "bytes_excluding_manifest": 1529671405,
+  "bytes_excluding_manifest": 1529668967,
   "source_repository_commit": "cd9c9b30b6f342c7033ebd55d252176a94ef3666",
   "expansion": {
     "captured_at": "2026-09-12T06:51:11.706263+00:00",
@@ -97303,11 +97300,19 @@
       "private application and provider-operation records outside selected scientific trees"
     ]
   },
-  "updated_at": "2026-09-12T07:57:00.800611+00:00",
+  "updated_at": "2026-09-12T07:58:44.077390+00:00",
   "cleanup": {
     "record": "provenance/cleanup.json",
     "previous_commit": "83d7f0b14d17e3f3d08489c7627e716190b78a60",
     "document_conversion": "provenance/google-doc-readme/conversion.json",
     "image_map": "provenance/google-doc-readme/images.json"
+  },
+  "documentation_revision": {
+    "previous_commit": "8d086334d5d127776769aa0edcfab16f7d53b44f",
+    "environment_source": "README.md#proxy-task-and-attacker-control",
+    "navigation_only_changes": [
+      "replication/steering-agent/README.md",
+      "replication/cloud-steering/README.md"
+    ]
   }
 }

@@ -1,6 +1,6 @@
 # cloud-steering/
 
-> **Toy lab.** Six experiments that deepen the role-confusion steering study for Hanan's MATS 12.0 application, sized to run in parallel on a multi-GPU H100 pod. Local cached gpt-oss-20b, dummy secrets, loopback addresses in text only. No command is executed and no sandbox is used: each unit is one generation from a fixed post-fetch prompt, and the outcome is read from the emitted text. Runtime-only activation edits; weights never modified. See [`../../TOY-LAB-NOTICE.md`](../../TOY-LAB-NOTICE.md). `protocol.py` and the fixtures under any `data/` page set are model-facing and must never carry this notice.
+> **Toy lab.** Six experiments that deepen the role-confusion steering study for Hanan's MATS 12.0 application, sized to run in parallel on a multi-GPU H100 pod. Local cached gpt-oss-20b, dummy secrets, loopback addresses in text only. No command is executed and no sandbox is used: each unit is one generation from a fixed post-fetch prompt, and the outcome is read from the emitted text. Runtime-only activation edits; weights never modified. See [`../../ENVIRONMENT.md`](../../ENVIRONMENT.md). `protocol.py` and the fixtures under any `data/` page set are model-facing and must never carry this notice.
 
 ## Why this shape
 

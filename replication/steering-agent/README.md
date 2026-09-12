@@ -1,6 +1,6 @@
 # steering-agent/
 
-> **Toy lab.** Activation steering and patching experiments on the paper's Section 3.3 agent loop, for Hanan's MATS 12.0 application. Local cached gpt-oss-20b (MLX MXFP4-Q8), dummy `.env`, loopback receiver, network-isolated sandbox. Vectors are added in memory for one generation; weights are never changed. See [`../../TOY-LAB-NOTICE.md`](../../TOY-LAB-NOTICE.md). `harness/protocol.py` and everything under `runs/` are model-facing and must never carry this notice.
+> **Toy lab.** Activation steering and patching experiments on the paper's Section 3.3 agent loop, for Hanan's MATS 12.0 application. Local cached gpt-oss-20b (MLX MXFP4-Q8), dummy `.env`, loopback receiver, network-isolated sandbox. Vectors are added in memory for one generation; weights are never changed. See [`../../ENVIRONMENT.md`](../../ENVIRONMENT.md). `harness/protocol.py` and everything under `runs/` are model-facing and must never carry this notice.
 
 ## What is here
 
