@@ -832,9 +832,9 @@
     "docs/attribution.md": {
       "archive_path": null,
       "category": "repository documentation",
-      "modified": false,
-      "bytes": 2161,
-      "sha256": "e608afdbd076ead6fafee99919b9919f1d1f58889217123497510b02f07fe715"
+      "modified": true,
+      "bytes": 1982,
+      "sha256": "0118be715664dbff936e293a888453c64bc269bf057d7af47e24e673e7e77e1d"
     },
     "docs/experiments.md": {
       "archive_path": null,
@@ -97118,7 +97118,7 @@
   },
   "manifest_scope": "All review-package files except this manifest itself; the Git commit identifies the manifest. Git internals and interpreter caches are excluded.",
   "file_count_excluding_manifest": 12116,
-  "bytes_excluding_manifest": 1529671584,
+  "bytes_excluding_manifest": 1529671405,
   "source_repository_commit": "cd9c9b30b6f342c7033ebd55d252176a94ef3666",
   "expansion": {
     "captured_at": "2026-09-12T06:51:11.706263+00:00",
@@ -97303,7 +97303,7 @@
       "private application and provider-operation records outside selected scientific trees"
     ]
   },
-  "updated_at": "2026-09-12T07:52:53.266440+00:00",
+  "updated_at": "2026-09-12T07:57:00.800611+00:00",
   "cleanup": {
     "record": "provenance/cleanup.json",
     "previous_commit": "83d7f0b14d17e3f3d08489c7627e716190b78a60",
