@@ -802,9 +802,9 @@
     "LICENSE.md": {
       "archive_path": null,
       "category": "review packaging",
-      "modified": false,
-      "sha256": "85ddb3aa436706a5a08119b707ec0ddfc2cf6344f58fbfaca2d854a49217fa12",
-      "bytes": 579
+      "modified": true,
+      "sha256": "2dbe0de9e5a24fa470ba6ec9d16d2de0e9f26d09fe2c08b404a6ec6fbb39edb9",
+      "bytes": 561
     },
     "MAIN_PAPER.md": {
       "category": "frozen scientific evidence",
@@ -818,8 +818,8 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 28537,
-      "sha256": "d37673b3e06cd1a807cfe7e1eefc2025c392569809dc2c122b6173e2db679144"
+      "bytes": 37211,
+      "sha256": "5b6559d3fd4682de13da69668af0d06592dc531c6723edad29af2ebbfa6a548b"
     },
     "docs/README.md": {
       "archive_path": null,
@@ -832,8 +832,8 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 1982,
-      "sha256": "0118be715664dbff936e293a888453c64bc269bf057d7af47e24e673e7e77e1d"
+      "bytes": 1929,
+      "sha256": "a7776ad885ce76411a265e9e92fc3d098c29650c4195cd7fb71ebee03684790b"
     },
     "docs/experiments.md": {
       "archive_path": null,
@@ -859,16 +859,16 @@
     "docs/provenance.md": {
       "archive_path": null,
       "category": "repository documentation",
-      "modified": false,
-      "bytes": 2144,
-      "sha256": "266116a58cd7b326f25d714ed3e91e0c9e6b923da47cd987fb4ef73a465109bc"
+      "modified": true,
+      "bytes": 2081,
+      "sha256": "ba107d17ac7a3205c317ac1744fcef9645460630f6ec25828de90cd961c25f66"
     },
     "docs/reproducing.md": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 2737,
-      "sha256": "fa5e1e220c772e444e58d1314476b08759546210c821db40c127bc8d071c29d5"
+      "bytes": 2813,
+      "sha256": "88dec47ac03cd45a293d7d93d90a1dd03abc7aa73ac694d9d44330aab8a0a79b"
     },
     "docs/review.md": {
       "archive_path": null,
@@ -880,9 +880,9 @@
     "docs/verification.md": {
       "archive_path": null,
       "category": "repository documentation",
-      "modified": false,
-      "bytes": 1230,
-      "sha256": "038a99271b23d0c9894888414c100dfd6f696736d4a4fd7bc76cb44a6bfee6cf"
+      "modified": true,
+      "bytes": 1060,
+      "sha256": "819c3beb07fc2923b96b648bb0ab50dcc43f14843af54e1387a9e2021ba70f41"
     },
     "earlier-study/.gitignore": {
       "archive_path": "desktop/role-steering/.gitignore",
@@ -2156,6 +2156,13 @@
       "modified": false,
       "archive_path": "desktop/prompt-injection-as-role-confusion/utils/substring_assignments.py"
     },
+    "provenance/appendix-figures.json": {
+      "archive_path": null,
+      "category": "repository documentation",
+      "modified": true,
+      "bytes": 72488,
+      "sha256": "6f26413c5c589fb5c8a6701c18c8a8c69550ecc56406a292d327f74ad367f61a"
+    },
     "provenance/cleanup.json": {
       "archive_path": null,
       "category": "repository documentation",
@@ -2174,29 +2181,29 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 2108,
-      "sha256": "83835df0ed7ed0bd41cd0fb2e4aef6cd0aec7904298cebb59392ef3d35962e87"
+      "bytes": 2404,
+      "sha256": "9e07dba8cf15b4dbc3adc77ea7cc9c28269048bc68bf95ab6830ee05c424a871"
     },
     "provenance/google-doc-readme/document-text.txt": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 26871,
-      "sha256": "1815aec1ee54ce5d3b6226b8741d10f0f71f0eb5aaeee2b37301ad2a5e310982"
+      "bytes": 33540,
+      "sha256": "a77aa4c82740038e19d43dfc588e03768d5c341cefce82500700aff820d7e7c1"
     },
     "provenance/google-doc-readme/document.json": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 469314,
-      "sha256": "316bfad66297d5b28e501dc70648906befd4d5db2e47e1358b6ae7154eb69f3f"
+      "bytes": 696444,
+      "sha256": "faeb6ae70b81fae5f934e1ae0f2ea9fe11b3fcf9bc68eec7bd288e4d8d19b51b"
     },
     "provenance/google-doc-readme/images.json": {
       "archive_path": null,
       "category": "repository documentation",
-      "modified": false,
-      "bytes": 2412,
-      "sha256": "f7a00abf628e20f45edd1cc20f25f9e198795169f5946f90bcdb7a96ad9e322b"
+      "modified": true,
+      "bytes": 6131,
+      "sha256": "8f3380819df1b29a90f061727ef7f851e92d8fecc405b8e707c5ecb9b99fb184"
     },
     "provenance/verification.json": {
       "archive_path": null,
@@ -5859,34 +5866,31 @@
       "source_snapshot": "saved steering review, captured during repository expansion"
     },
     "replication/chart-library/canonical/mats-dialogue-v1/figure.pdf": {
-      "category": "saved evidence review",
-      "bytes": 41297,
-      "sha256": "ab2ed2a02ae8567a97426b6e93afa20c9fe12dd7ba5dd8b4339e30c4f1862044",
-      "source_sha256": "ab2ed2a02ae8567a97426b6e93afa20c9fe12dd7ba5dd8b4339e30c4f1862044",
-      "modified": false,
       "archive_path": null,
-      "source_workspace_path": "replication/chart-library/canonical/mats-dialogue-v1/figure.pdf",
-      "source_snapshot": "saved steering review, captured during repository expansion"
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/canonical/mats-dialogue-v1/figure.pdf",
+      "source_sha256": "ab2ed2a02ae8567a97426b6e93afa20c9fe12dd7ba5dd8b4339e30c4f1862044",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 41297,
+      "sha256": "ab2ed2a02ae8567a97426b6e93afa20c9fe12dd7ba5dd8b4339e30c4f1862044"
     },
     "replication/chart-library/canonical/mats-dialogue-v1/figure.png": {
-      "category": "saved evidence review",
-      "bytes": 1007063,
-      "sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
-      "source_sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
-      "modified": false,
       "archive_path": null,
-      "source_workspace_path": "replication/chart-library/canonical/mats-dialogue-v1/figure.png",
-      "source_snapshot": "saved steering review, captured during repository expansion"
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/canonical/mats-dialogue-v1/figure.png",
+      "source_sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 1007063,
+      "sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d"
     },
     "replication/chart-library/canonical/mats-dialogue-v1/figure.svg": {
-      "category": "saved evidence review",
-      "bytes": 372262,
-      "sha256": "22e35e14164953e1e658c2a41a8a0e3911b43dd6e3f1151f7b031b3dc2ce5564",
-      "source_sha256": "22e35e14164953e1e658c2a41a8a0e3911b43dd6e3f1151f7b031b3dc2ce5564",
-      "modified": false,
       "archive_path": null,
-      "source_workspace_path": "replication/chart-library/canonical/mats-dialogue-v1/figure.svg",
-      "source_snapshot": "saved steering review, captured during repository expansion"
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/canonical/mats-dialogue-v1/figure.svg",
+      "source_sha256": "22e35e14164953e1e658c2a41a8a0e3911b43dd6e3f1151f7b031b3dc2ce5564",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 372262,
+      "sha256": "22e35e14164953e1e658c2a41a8a0e3911b43dd6e3f1151f7b031b3dc2ce5564"
     },
     "replication/chart-library/canonical/mats-dialogue-v1/manifest.json": {
       "category": "saved evidence review",
@@ -9393,9 +9397,9 @@
     "replication/chart-library/figure-selection/README.md": {
       "archive_path": null,
       "category": "repository documentation",
-      "modified": false,
-      "bytes": 455,
-      "sha256": "5ab051433756faec65e04ae87a59021b63a1d7cce948165f53e1afdf1c999572"
+      "modified": true,
+      "bytes": 1126,
+      "sha256": "7f53bce655afb5932e6aa695bb46a464cb05fd66992141537f911e65bdc7bf8b"
     },
     "replication/chart-library/figure-selection/data/behavior-complete-cohorts.json": {
       "archive_path": null,
@@ -9441,6 +9445,42 @@
       "modified": false,
       "bytes": 1159,
       "sha256": "341d5e7099b703781f7ddd9ad53f8c36b0742daca48f45999a2c694b5408e077"
+    },
+    "replication/chart-library/figure-selection/data/gardening-provenance.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/gardening-provenance.json",
+      "source_sha256": "7681507e24bca0403357a442e97c846209b88ce578bbba8317491b46ef190423",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 5601,
+      "sha256": "7681507e24bca0403357a442e97c846209b88ce578bbba8317491b46ef190423"
+    },
+    "replication/chart-library/figure-selection/data/large-offsets-provenance.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/large-offsets-provenance.json",
+      "source_sha256": "4e394a4402dca0577ca3f18097a778dad34101872f12610cee77e9ce5d74aa2a",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 6150,
+      "sha256": "4e394a4402dca0577ca3f18097a778dad34101872f12610cee77e9ce5d74aa2a"
+    },
+    "replication/chart-library/figure-selection/data/measurement-plates.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/measurement-plates.json",
+      "source_sha256": "b16dff7e8456057cd9c6167f7ed67317dd0a9c39e9517bd4f25a7f85d2da2de4",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 22947,
+      "sha256": "b16dff7e8456057cd9c6167f7ed67317dd0a9c39e9517bd4f25a7f85d2da2de4"
+    },
+    "replication/chart-library/figure-selection/data/offset-dose-response-provenance.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/offset-dose-response-provenance.json",
+      "source_sha256": "629059371ae068bdee6db9c717b0f8199539a9e328e38503f6d6e781632246a5",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 2615,
+      "sha256": "629059371ae068bdee6db9c717b0f8199539a9e328e38503f6d6e781632246a5"
     },
     "replication/chart-library/figure-selection/data/permission-task-pairs.csv": {
       "archive_path": null,
@@ -9496,6 +9536,42 @@
       "bytes": 2873,
       "sha256": "d95de73d39effcdcce566e67aba19e399d2032520dd1b303bc14b677a7183a75"
     },
+    "replication/chart-library/figure-selection/data/probe-validation.csv": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/probe-validation.csv",
+      "source_sha256": "ba9cafc6c2d1e2b420fa4dc8579541076f0a336b7b011284a47de4e12c0acc83",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 10828,
+      "sha256": "ba9cafc6c2d1e2b420fa4dc8579541076f0a336b7b011284a47de4e12c0acc83"
+    },
+    "replication/chart-library/figure-selection/data/probe-validation.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/probe-validation.json",
+      "source_sha256": "627c35075038ff5139f89c34ee4aced7749bdea328c29f28a31cae25023f4f3b",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 3809,
+      "sha256": "627c35075038ff5139f89c34ee4aced7749bdea328c29f28a31cae25023f4f3b"
+    },
+    "replication/chart-library/figure-selection/data/rh6-readout.csv": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/rh6-readout.csv",
+      "source_sha256": "5d2c23858b4de37df4862d9319066d31abe7e69c171dcf3b98c9eac24590088f",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 5715,
+      "sha256": "5d2c23858b4de37df4862d9319066d31abe7e69c171dcf3b98c9eac24590088f"
+    },
+    "replication/chart-library/figure-selection/data/rh6-readout.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/rh6-readout.json",
+      "source_sha256": "083794db3a207e9cfcc16e1c649236d9bfb96a549e7bbd93e28cd9cecd5f1c21",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 3736,
+      "sha256": "083794db3a207e9cfcc16e1c649236d9bfb96a549e7bbd93e28cd9cecd5f1c21"
+    },
     "replication/chart-library/figure-selection/data/role-composition-means.csv": {
       "archive_path": null,
       "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/role-composition-means.csv",
@@ -9523,6 +9599,15 @@
       "bytes": 3132,
       "sha256": "61f00ee300be222a67f1153dc66e7b09b20b433ee1a217324725a80735e80b25"
     },
+    "replication/chart-library/figure-selection/data/small-offsets-provenance.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/small-offsets-provenance.json",
+      "source_sha256": "7d0b8543a6a501182d329de7a5dd842eb2e0e3a769096a5bcbf7e953ca2e4d74",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 6110,
+      "sha256": "7d0b8543a6a501182d329de7a5dd842eb2e0e3a769096a5bcbf7e953ca2e4d74"
+    },
     "replication/chart-library/figure-selection/figures/behavior-complete-cohorts.pdf": {
       "archive_path": null,
       "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/behavior-complete-cohorts.pdf",
@@ -9549,6 +9634,87 @@
       "modified": false,
       "bytes": 161954,
       "sha256": "dbb7a80ebeb297497fe0fcf51c217433f9367b042fcc0264068bd99a6a42f9bf"
+    },
+    "replication/chart-library/figure-selection/figures/gardening.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.pdf",
+      "source_sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 40205,
+      "sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34"
+    },
+    "replication/chart-library/figure-selection/figures/gardening.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.png",
+      "source_sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 514258,
+      "sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad"
+    },
+    "replication/chart-library/figure-selection/figures/gardening.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.svg",
+      "source_sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 191856,
+      "sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052"
+    },
+    "replication/chart-library/figure-selection/figures/large-offsets.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.pdf",
+      "source_sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 83467,
+      "sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a"
+    },
+    "replication/chart-library/figure-selection/figures/large-offsets.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.png",
+      "source_sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 670758,
+      "sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e"
+    },
+    "replication/chart-library/figure-selection/figures/large-offsets.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.svg",
+      "source_sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 742961,
+      "sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d"
+    },
+    "replication/chart-library/figure-selection/figures/offset-dose-response.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "source_sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 27768,
+      "sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36"
+    },
+    "replication/chart-library/figure-selection/figures/offset-dose-response.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "source_sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 387101,
+      "sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0"
+    },
+    "replication/chart-library/figure-selection/figures/offset-dose-response.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "source_sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 39345,
+      "sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a"
     },
     "replication/chart-library/figure-selection/figures/permission-task.pdf": {
       "archive_path": null,
@@ -9604,6 +9770,60 @@
       "bytes": 143283,
       "sha256": "5b56fdd3c6d87ab56e0305d15607edf2c2cfff6fa00d802f28832523a3829033"
     },
+    "replication/chart-library/figure-selection/figures/probe-validation.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-validation.pdf",
+      "source_sha256": "4cafa36445714a45486766d5e54beecf16d0c0daa6a18a737c2404efb3efbad1",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 28471,
+      "sha256": "4cafa36445714a45486766d5e54beecf16d0c0daa6a18a737c2404efb3efbad1"
+    },
+    "replication/chart-library/figure-selection/figures/probe-validation.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-validation.png",
+      "source_sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 376677,
+      "sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c"
+    },
+    "replication/chart-library/figure-selection/figures/probe-validation.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-validation.svg",
+      "source_sha256": "0647f2061d7fb66bbdd43893da4c348b0acd2bff1fa3d1c800140bbc9bab19e2",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 150684,
+      "sha256": "0647f2061d7fb66bbdd43893da4c348b0acd2bff1fa3d1c800140bbc9bab19e2"
+    },
+    "replication/chart-library/figure-selection/figures/rh6-readout.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.pdf",
+      "source_sha256": "807f8e9483093f20f9336802e30920d4d18deeff9edb18d5594a61ffb8389c72",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 26775,
+      "sha256": "807f8e9483093f20f9336802e30920d4d18deeff9edb18d5594a61ffb8389c72"
+    },
+    "replication/chart-library/figure-selection/figures/rh6-readout.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.png",
+      "source_sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 344134,
+      "sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3"
+    },
+    "replication/chart-library/figure-selection/figures/rh6-readout.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.svg",
+      "source_sha256": "5ec9bfb92ccbb5bc2de8aa41e60200bb479cab41e6be4befea40ac5a1b4713c3",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 143843,
+      "sha256": "5ec9bfb92ccbb5bc2de8aa41e60200bb479cab41e6be4befea40ac5a1b4713c3"
+    },
     "replication/chart-library/figure-selection/figures/role-composition.pdf": {
       "archive_path": null,
       "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/role-composition.pdf",
@@ -9631,6 +9851,42 @@
       "bytes": 129720,
       "sha256": "a808c3561d226678d1a697760c1e3b65b557211d0b181440108018b6fd6dec58"
     },
+    "replication/chart-library/figure-selection/figures/small-offsets.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.pdf",
+      "source_sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 87559,
+      "sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5"
+    },
+    "replication/chart-library/figure-selection/figures/small-offsets.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.png",
+      "source_sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 665114,
+      "sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368"
+    },
+    "replication/chart-library/figure-selection/figures/small-offsets.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.svg",
+      "source_sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 743112,
+      "sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73"
+    },
+    "replication/chart-library/figure-selection/render_appendix_diagnostics.py": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_appendix_diagnostics.py",
+      "source_sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 14382,
+      "sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584"
+    },
     "replication/chart-library/figure-selection/render_behavior_summary.py": {
       "archive_path": null,
       "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_behavior_summary.py",
@@ -9639,6 +9895,15 @@
       "modified": false,
       "bytes": 11131,
       "sha256": "6530197bdccccef3721614c77810daff37ef9420a963de9710cdf2c5fe205302"
+    },
+    "replication/chart-library/figure-selection/render_measurement_plates.py": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "source_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 12784,
+      "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81"
     },
     "replication/chart-library/figure-selection/render_probe_and_permission.py": {
       "archive_path": null,
@@ -9755,84 +10020,94 @@
       "modified": false
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf",
-      "category": "frozen scientific evidence",
-      "bytes": 65479,
-      "sha256": "5394a14cd1e5e302839f749ff36da87c5ed25ac0a9ec2b08ab79d5f8d2f51aec",
-      "source_sha256": "5394a14cd1e5e302839f749ff36da87c5ed25ac0a9ec2b08ab79d5f8d2f51aec",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf",
+      "source_sha256": "9dcdea09a6359be84a51132a4c9390c2e1ebe585ab20e067ad99c8252d3d9383",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 65797,
+      "sha256": "9dcdea09a6359be84a51132a4c9390c2e1ebe585ab20e067ad99c8252d3d9383"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
-      "category": "frozen scientific evidence",
-      "bytes": 1509183,
-      "sha256": "51ba3624a33c5bf7f8a4382bf8964768c0817de55e689c3d60a4818e2bab78f7",
-      "source_sha256": "51ba3624a33c5bf7f8a4382bf8964768c0817de55e689c3d60a4818e2bab78f7",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+      "source_sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 628918,
+      "sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg",
-      "category": "frozen scientific evidence",
-      "bytes": 453784,
-      "sha256": "93e17ee2cb0e03eda0c8ae4fbe91f454e54c769ac0485ea0735034be3b9538cd",
-      "source_sha256": "93e17ee2cb0e03eda0c8ae4fbe91f454e54c769ac0485ea0735034be3b9538cd",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg",
+      "source_sha256": "63b5ca1a3d556e958750e02782fcb6c32b58c6c1f37e7f85f254200579b58f72",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 455704,
+      "sha256": "63b5ca1a3d556e958750e02782fcb6c32b58c6c1f37e7f85f254200579b58f72"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
-      "category": "frozen scientific evidence",
-      "bytes": 777567,
-      "sha256": "332dc2b2ea6379583078b94cd2f6272f302f68507c312ef4b65245cb960db3d6",
-      "source_sha256": "332dc2b2ea6379583078b94cd2f6272f302f68507c312ef4b65245cb960db3d6",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+      "source_sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 348598,
+      "sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg",
-      "category": "frozen scientific evidence",
-      "bytes": 218144,
-      "sha256": "78b1ebbd0a694fba847c25faf01fd7c130046eb39dd5048b4ed75f33807e58c5",
-      "source_sha256": "78b1ebbd0a694fba847c25faf01fd7c130046eb39dd5048b4ed75f33807e58c5",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg",
+      "source_sha256": "c8f2cf92eb9e1cf2b07821ddc3ba6e788c8da51ad832c522920120713c07d3fc",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 220252,
+      "sha256": "c8f2cf92eb9e1cf2b07821ddc3ba6e788c8da51ad832c522920120713c07d3fc"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf",
-      "category": "frozen scientific evidence",
-      "bytes": 25481,
-      "sha256": "753872dbc15e393fd20b0b905723ac94fedf18ce26c17c3d3e20a00a92e882e5",
-      "source_sha256": "753872dbc15e393fd20b0b905723ac94fedf18ce26c17c3d3e20a00a92e882e5",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf",
+      "source_sha256": "f4367c118f6dd93d0f1d496cc1361d016ceb1981529c4d136cc649247dd7c207",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 25824,
+      "sha256": "f4367c118f6dd93d0f1d496cc1361d016ceb1981529c4d136cc649247dd7c207"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf",
-      "category": "frozen scientific evidence",
-      "bytes": 68546,
-      "sha256": "24d785eb63a57ec9b718a61e73bda7317c0f08aaafc66622d9fe873751813963",
-      "source_sha256": "24d785eb63a57ec9b718a61e73bda7317c0f08aaafc66622d9fe873751813963",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf",
+      "source_sha256": "549c952fc7fee88b8de7145d391f12956a8257250f2431591db55d7ccc40817d",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 68893,
+      "sha256": "549c952fc7fee88b8de7145d391f12956a8257250f2431591db55d7ccc40817d"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png",
-      "category": "frozen scientific evidence",
-      "bytes": 2461984,
-      "sha256": "f034435d50555801e5bfccb226c4c43698e0decdb87fd4b1597c491289f59a6b",
-      "source_sha256": "f034435d50555801e5bfccb226c4c43698e0decdb87fd4b1597c491289f59a6b",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png",
+      "source_sha256": "96c37ffb38a41bcf2d06ad1463beffcfe5422481cf3343f9defcfda199026292",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 1035540,
+      "sha256": "96c37ffb38a41bcf2d06ad1463beffcfe5422481cf3343f9defcfda199026292"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg",
-      "category": "frozen scientific evidence",
-      "bytes": 542585,
-      "sha256": "739d2c1fe2da83c555562e38a8c7b6ac884a3461355707c3c62c8fc6784e910b",
-      "source_sha256": "739d2c1fe2da83c555562e38a8c7b6ac884a3461355707c3c62c8fc6784e910b",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg",
+      "source_sha256": "b77a76657b803101cd8ff515712cbbab6ba7a8becde8291b2f86adf01d0f1ab9",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 544505,
+      "sha256": "b77a76657b803101cd8ff515712cbbab6ba7a8becde8291b2f86adf01d0f1ab9"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/render-provenance.json": {
-      "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/render-provenance.json",
-      "category": "frozen scientific evidence",
-      "bytes": 27976,
-      "sha256": "54cf92a3ed2f639225659c3cf17c8179e48e3d8cb3a4686eaf7f46eb3f9ebafd",
-      "source_sha256": "54cf92a3ed2f639225659c3cf17c8179e48e3d8cb3a4686eaf7f46eb3f9ebafd",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/render-provenance.json",
+      "source_sha256": "ee8aeb5a86acbe9d622c16bd6e362d81928ab15367bbeb9619a8428483f51ab3",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 28116,
+      "sha256": "ee8aeb5a86acbe9d622c16bd6e362d81928ab15367bbeb9619a8428483f51ab3"
     },
     "replication/chart-library/figures/figure8-steering/case002-v1/upload-outcomes-provenance.json": {
       "archive_path": "desktop/replication/chart-library/figures/figure8-steering/case002-v1/upload-outcomes-provenance.json",
@@ -10897,12 +11172,13 @@
       "sha256": "e65c3d6462b244a3fe898d6339b4b6f00617f8313cbffeab4bd65d8eebcdea25"
     },
     "replication/chart-library/render_forgery_figure.py": {
-      "archive_path": "desktop/replication/chart-library/render_forgery_figure.py",
-      "category": "frozen scientific evidence",
-      "bytes": 30842,
-      "sha256": "8528e8f8b8478c554d3ecc8c5776055c216a8d7c18444754889cba2978d5d6f7",
-      "source_sha256": "8528e8f8b8478c554d3ecc8c5776055c216a8d7c18444754889cba2978d5d6f7",
-      "modified": false
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/render_forgery_figure.py",
+      "source_sha256": "87947614f2e6ce276c083b822bbf9af75bd73db2845a63b28e8d7398ded1b5ef",
+      "category": "document figure source",
+      "modified": false,
+      "bytes": 31378,
+      "sha256": "87947614f2e6ce276c083b822bbf9af75bd73db2845a63b28e8d7398ded1b5ef"
     },
     "replication/chart-library/render_library.py": {
       "archive_path": "desktop/replication/chart-library/render_library.py",
@@ -97114,8 +97390,8 @@
     }
   },
   "manifest_scope": "All review-package files except this manifest itself; the Git commit identifies the manifest. Git internals and interpreter caches are excluded.",
-  "file_count_excluding_manifest": 12116,
-  "bytes_excluding_manifest": 1529668967,
+  "file_count_excluding_manifest": 12146,
+  "bytes_excluding_manifest": 1532619105,
   "source_repository_commit": "cd9c9b30b6f342c7033ebd55d252176a94ef3666",
   "expansion": {
     "captured_at": "2026-09-12T06:51:11.706263+00:00",
@@ -97300,7 +97576,7 @@
       "private application and provider-operation records outside selected scientific trees"
     ]
   },
-  "updated_at": "2026-09-12T07:58:44.077390+00:00",
+  "updated_at": "2026-09-12T08:58:25.123972+00:00",
   "cleanup": {
     "record": "provenance/cleanup.json",
     "previous_commit": "83d7f0b14d17e3f3d08489c7627e716190b78a60",
@@ -97314,5 +97590,6 @@
       "replication/steering-agent/README.md",
       "replication/cloud-steering/README.md"
     ]
-  }
+  },
+  "appendix_figure_sources": "provenance/appendix-figures.json"
 }

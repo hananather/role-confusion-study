@@ -520,6 +520,13 @@ def main() -> None:
     args = parser.parse_args()
     data = args.data.resolve()
     rows, manifest = load_inputs(data)
+    # I correct display labels without changing the frozen scientific manifest.
+    for arm in manifest['arms']:
+        if arm['arm'] == 'destyled':
+            arm['title'] = 'D · Manual style rewrite'
+    for block in manifest.get('attack_texts', []):
+        if block.get('title', '').startswith('Destyled reasoning'):
+            block['title'] = 'Manual style rewrite · added in D'
     manifest["show_technical_footer"] = args.technical_footer
     if args.validate_only:
         print(json.dumps({"valid": True, "n_rows": len(rows), "arms": list(ARMS)}))
@@ -532,6 +539,7 @@ def main() -> None:
                    for name in ("displayed-rows.csv", "display-manifest.json")},
         "renderer_sha256": sha(Path(__file__)), "source_contract": str(data.parent / "source-contract.md"),
         "technical_footer_visible": args.technical_footer,
+        "display_label_correction": "destyled displayed as Manual style rewrite; frozen inputs unchanged; not authors' full destyling procedure",
         "font": "TeX Gyre Termes", "point_line_palette": COLORS, "text_palette": INK,
         "smoothing": "Normalized trailing EWMA alpha=0.5, verified independently within each displayed arm/segment.",
         "shading": "None; source Figure8 has no shaded attack spans or uncertainty bands.",

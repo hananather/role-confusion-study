@@ -1,0 +1,1228 @@
+{
+  "schema_version": 1,
+  "source_root": "/Users/hananather/Desktop/MATS 12.0",
+  "repository_root": "/Users/hananather/Documents/ChatGPT/mats-github/role-confusion-study",
+  "source_asset_map": {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/doc-integration/appendix-asset-map.json",
+    "sha256": "1f0bca3c20d01564369634f42a4d6398bf5e04bed1e144e9a703bebc6dbce890"
+  },
+  "source_native_inventory": {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/doc-integration/appendix-native-inventory.json",
+    "sha256": "1bac932f292316f75af8995b6833bf49002b4ac6dcd39f136956a2ba160575db"
+  },
+  "files": [
+    {
+      "path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "bytes": 12784,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/render_appendix_diagnostics.py",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_appendix_diagnostics.py",
+      "sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+      "bytes": 14382,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/gardening.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.png",
+      "sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "bytes": 514258,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/gardening.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.pdf",
+      "sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34",
+      "bytes": 40205,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/gardening.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.svg",
+      "sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052",
+      "bytes": 191856,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "bytes": 387101,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36",
+      "bytes": 27768,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a",
+      "bytes": 39345,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/small-offsets.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.png",
+      "sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "bytes": 665114,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/small-offsets.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.pdf",
+      "sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5",
+      "bytes": 87559,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/small-offsets.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.svg",
+      "sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73",
+      "bytes": 743112,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/large-offsets.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.png",
+      "sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "bytes": 670758,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/large-offsets.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.pdf",
+      "sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a",
+      "bytes": 83467,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/large-offsets.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.svg",
+      "sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d",
+      "bytes": 742961,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/rh6-readout.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.png",
+      "sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+      "bytes": 344134,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/rh6-readout.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.pdf",
+      "sha256": "807f8e9483093f20f9336802e30920d4d18deeff9edb18d5594a61ffb8389c72",
+      "bytes": 26775,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/rh6-readout.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.svg",
+      "sha256": "5ec9bfb92ccbb5bc2de8aa41e60200bb479cab41e6be4befea40ac5a1b4713c3",
+      "bytes": 143843,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/probe-validation.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-validation.png",
+      "sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+      "bytes": 376677,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/probe-validation.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-validation.pdf",
+      "sha256": "4cafa36445714a45486766d5e54beecf16d0c0daa6a18a737c2404efb3efbad1",
+      "bytes": 28471,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/figures/probe-validation.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-validation.svg",
+      "sha256": "0647f2061d7fb66bbdd43893da4c348b0acd2bff1fa3d1c800140bbc9bab19e2",
+      "bytes": 150684,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/gardening-provenance.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/gardening-provenance.json",
+      "sha256": "7681507e24bca0403357a442e97c846209b88ce578bbba8317491b46ef190423",
+      "bytes": 5601,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/offset-dose-response-provenance.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/offset-dose-response-provenance.json",
+      "sha256": "629059371ae068bdee6db9c717b0f8199539a9e328e38503f6d6e781632246a5",
+      "bytes": 2615,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/small-offsets-provenance.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/small-offsets-provenance.json",
+      "sha256": "7d0b8543a6a501182d329de7a5dd842eb2e0e3a769096a5bcbf7e953ca2e4d74",
+      "bytes": 6110,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/large-offsets-provenance.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/large-offsets-provenance.json",
+      "sha256": "4e394a4402dca0577ca3f18097a778dad34101872f12610cee77e9ce5d74aa2a",
+      "bytes": 6150,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/measurement-plates.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/measurement-plates.json",
+      "sha256": "b16dff7e8456057cd9c6167f7ed67317dd0a9c39e9517bd4f25a7f85d2da2de4",
+      "bytes": 22947,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/rh6-readout.csv",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/rh6-readout.csv",
+      "sha256": "5d2c23858b4de37df4862d9319066d31abe7e69c171dcf3b98c9eac24590088f",
+      "bytes": 5715,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/rh6-readout.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/rh6-readout.json",
+      "sha256": "083794db3a207e9cfcc16e1c649236d9bfb96a549e7bbd93e28cd9cecd5f1c21",
+      "bytes": 3736,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/probe-validation.csv",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/probe-validation.csv",
+      "sha256": "ba9cafc6c2d1e2b420fa4dc8579541076f0a336b7b011284a47de4e12c0acc83",
+      "bytes": 10828,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/data/probe-validation.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/probe-validation.json",
+      "sha256": "627c35075038ff5139f89c34ee4aced7749bdea328c29f28a31cae25023f4f3b",
+      "bytes": 3809,
+      "action": "copied"
+    },
+    {
+      "path": "replication/chart-library/figure-selection/README.md",
+      "source_path": null,
+      "sha256": "7f53bce655afb5932e6aa695bb46a464cb05fd66992141537f911e65bdc7bf8b",
+      "previous_sha256": "5ab051433756faec65e04ae87a59021b63a1d7cce948165f53e1afdf1c999572",
+      "bytes": 1126,
+      "action": "modified",
+      "reason": "Literal Appendix B figure and renderer link index using source figure labels."
+    },
+    {
+      "path": "replication/chart-library/render_forgery_figure.py",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/render_forgery_figure.py",
+      "sha256": "87947614f2e6ce276c083b822bbf9af75bd73db2845a63b28e8d7398ded1b5ef",
+      "bytes": 31378,
+      "action": "refreshed",
+      "previous_repo_sha256": "8528e8f8b8478c554d3ecc8c5776055c216a8d7c18444754889cba2978d5d6f7",
+      "previous_repo_bytes": 30842,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/render-provenance.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/render-provenance.json",
+      "sha256": "ee8aeb5a86acbe9d622c16bd6e362d81928ab15367bbeb9619a8428483f51ab3",
+      "bytes": 28116,
+      "action": "refreshed",
+      "previous_repo_sha256": "54cf92a3ed2f639225659c3cf17c8179e48e3d8cb3a4686eaf7f46eb3f9ebafd",
+      "previous_repo_bytes": 27976,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+      "sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6",
+      "bytes": 628918,
+      "action": "refreshed",
+      "previous_repo_sha256": "51ba3624a33c5bf7f8a4382bf8964768c0817de55e689c3d60a4818e2bab78f7",
+      "previous_repo_bytes": 1509183,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf",
+      "sha256": "9dcdea09a6359be84a51132a4c9390c2e1ebe585ab20e067ad99c8252d3d9383",
+      "bytes": 65797,
+      "action": "refreshed",
+      "previous_repo_sha256": "5394a14cd1e5e302839f749ff36da87c5ed25ac0a9ec2b08ab79d5f8d2f51aec",
+      "previous_repo_bytes": 65479,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg",
+      "sha256": "63b5ca1a3d556e958750e02782fcb6c32b58c6c1f37e7f85f254200579b58f72",
+      "bytes": 455704,
+      "action": "refreshed",
+      "previous_repo_sha256": "93e17ee2cb0e03eda0c8ae4fbe91f454e54c769ac0485ea0735034be3b9538cd",
+      "previous_repo_bytes": 453784,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png",
+      "sha256": "96c37ffb38a41bcf2d06ad1463beffcfe5422481cf3343f9defcfda199026292",
+      "bytes": 1035540,
+      "action": "refreshed",
+      "previous_repo_sha256": "f034435d50555801e5bfccb226c4c43698e0decdb87fd4b1597c491289f59a6b",
+      "previous_repo_bytes": 2461984,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf",
+      "sha256": "549c952fc7fee88b8de7145d391f12956a8257250f2431591db55d7ccc40817d",
+      "bytes": 68893,
+      "action": "refreshed",
+      "previous_repo_sha256": "24d785eb63a57ec9b718a61e73bda7317c0f08aaafc66622d9fe873751813963",
+      "previous_repo_bytes": 68546,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg",
+      "sha256": "b77a76657b803101cd8ff515712cbbab6ba7a8becde8291b2f86adf01d0f1ab9",
+      "bytes": 544505,
+      "action": "refreshed",
+      "previous_repo_sha256": "739d2c1fe2da83c555562e38a8c7b6ac884a3461355707c3c62c8fc6784e910b",
+      "previous_repo_bytes": 542585,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf",
+      "sha256": "f4367c118f6dd93d0f1d496cc1361d016ceb1981529c4d136cc649247dd7c207",
+      "bytes": 25824,
+      "action": "refreshed",
+      "previous_repo_sha256": "753872dbc15e393fd20b0b905723ac94fedf18ce26c17c3d3e20a00a92e882e5",
+      "previous_repo_bytes": 25481,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+      "sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
+      "bytes": 348598,
+      "action": "refreshed",
+      "previous_repo_sha256": "332dc2b2ea6379583078b94cd2f6272f302f68507c312ef4b65245cb960db3d6",
+      "previous_repo_bytes": 777567,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg",
+      "sha256": "c8f2cf92eb9e1cf2b07821ddc3ba6e788c8da51ad832c522920120713c07d3fc",
+      "bytes": 220252,
+      "action": "refreshed",
+      "previous_repo_sha256": "78b1ebbd0a694fba847c25faf01fd7c130046eb39dd5048b4ed75f33807e58c5",
+      "previous_repo_bytes": 218144,
+      "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+      "reason": "Current Appendix B8 source figure and its display-label correction to Manual style rewrite; frozen measurements are unchanged."
+    },
+    {
+      "path": "replication/chart-library/canonical/mats-dialogue-v1/figure.png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/canonical/mats-dialogue-v1/figure.png",
+      "sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
+      "bytes": 1007063,
+      "action": "preserved",
+      "reason": "Existing canonical Figure B1 asset already matches source."
+    },
+    {
+      "path": "replication/chart-library/canonical/mats-dialogue-v1/figure.pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/canonical/mats-dialogue-v1/figure.pdf",
+      "sha256": "ab2ed2a02ae8567a97426b6e93afa20c9fe12dd7ba5dd8b4339e30c4f1862044",
+      "bytes": 41297,
+      "action": "preserved",
+      "reason": "Existing canonical Figure B1 asset already matches source."
+    },
+    {
+      "path": "replication/chart-library/canonical/mats-dialogue-v1/figure.svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/canonical/mats-dialogue-v1/figure.svg",
+      "sha256": "22e35e14164953e1e658c2a41a8a0e3911b43dd6e3f1151f7b031b3dc2ce5564",
+      "bytes": 372262,
+      "action": "preserved",
+      "reason": "Existing canonical Figure B1 asset already matches source."
+    }
+  ],
+  "document_image_checks": [
+    {
+      "label": "B1",
+      "key": "mats",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/canonical/mats-dialogue-v1/figure.png",
+      "repo_path": "replication/chart-library/canonical/mats-dialogue-v1/figure.png",
+      "source_sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
+      "repo_sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
+      "matches": true
+    },
+    {
+      "label": "B2",
+      "key": "gardening",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/gardening.png",
+      "source_sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "repo_sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "matches": true
+    },
+    {
+      "label": "B3",
+      "key": "dose",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "source_sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "repo_sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "matches": true
+    },
+    {
+      "label": "B4",
+      "key": "small-offsets",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/small-offsets.png",
+      "source_sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "repo_sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "matches": true
+    },
+    {
+      "label": "B5",
+      "key": "large-offsets",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/large-offsets.png",
+      "source_sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "repo_sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "matches": true
+    },
+    {
+      "label": "B6",
+      "key": "rh6",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/rh6-readout.png",
+      "source_sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+      "repo_sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+      "matches": true
+    },
+    {
+      "label": "B7",
+      "key": "validation",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/probe-validation.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/probe-validation.png",
+      "source_sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+      "repo_sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+      "matches": true
+    },
+    {
+      "label": "B8",
+      "key": "forgery",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+      "source_sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6",
+      "repo_sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6",
+      "matches": true
+    },
+    {
+      "label": "B8-text",
+      "key": "forgery-text",
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+      "source_sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
+      "repo_sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
+      "matches": true
+    }
+  ],
+  "hash_checks": [
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "expected_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "observed_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "expected_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "observed_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/gardening.png",
+      "expected_sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "observed_sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/gardening.pdf",
+      "expected_sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34",
+      "observed_sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/gardening.svg",
+      "expected_sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052",
+      "observed_sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/offset-dose-response.csv",
+      "repo_path": "replication/chart-library/data/offset-dose-response.csv",
+      "expected_sha256": "583c2a9666641a388c79b3075b855cbdfff59188e4d0e9a61745354a8a6e2523",
+      "observed_sha256": "583c2a9666641a388c79b3075b855cbdfff59188e4d0e9a61745354a8a6e2523",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "expected_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "observed_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "expected_sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "observed_sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "expected_sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36",
+      "observed_sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "expected_sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a",
+      "observed_sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "expected_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "observed_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "expected_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "observed_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "expected_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "observed_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/small-offsets.png",
+      "expected_sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "observed_sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/small-offsets.pdf",
+      "expected_sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5",
+      "observed_sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/small-offsets.svg",
+      "expected_sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73",
+      "observed_sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "expected_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "observed_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "expected_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "observed_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "expected_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "observed_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/large-offsets.png",
+      "expected_sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "observed_sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/large-offsets.pdf",
+      "expected_sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a",
+      "observed_sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/large-offsets.svg",
+      "expected_sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d",
+      "observed_sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "expected_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "observed_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "expected_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "observed_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/gardening.png",
+      "expected_sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "observed_sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/gardening.pdf",
+      "expected_sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34",
+      "observed_sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/gardening.svg",
+      "expected_sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052",
+      "observed_sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "expected_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "observed_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "expected_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "observed_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "expected_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "observed_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/small-offsets.png",
+      "expected_sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "observed_sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/small-offsets.pdf",
+      "expected_sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5",
+      "observed_sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/small-offsets.svg",
+      "expected_sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73",
+      "observed_sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "expected_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "observed_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+      "expected_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "observed_sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+      "expected_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "observed_sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/large-offsets.png",
+      "expected_sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "observed_sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/large-offsets.pdf",
+      "expected_sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a",
+      "observed_sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/large-offsets.svg",
+      "expected_sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d",
+      "observed_sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/offset-dose-response.csv",
+      "repo_path": "replication/chart-library/data/offset-dose-response.csv",
+      "expected_sha256": "583c2a9666641a388c79b3075b855cbdfff59188e4d0e9a61745354a8a6e2523",
+      "observed_sha256": "583c2a9666641a388c79b3075b855cbdfff59188e4d0e9a61745354a8a6e2523",
+      "matches": true
+    },
+    {
+      "kind": "sources",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "expected_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "observed_sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+      "repo_path": "replication/chart-library/figure-selection/render_measurement_plates.py",
+      "expected_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "observed_sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "expected_sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "observed_sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "expected_sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36",
+      "observed_sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36",
+      "matches": true
+    },
+    {
+      "kind": "artifacts",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "expected_sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a",
+      "observed_sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/rh6-plotted.csv",
+      "repo_path": "replication/chart-library/data/rh6-plotted.csv",
+      "expected_sha256": "5d2c23858b4de37df4862d9319066d31abe7e69c171dcf3b98c9eac24590088f",
+      "observed_sha256": "5d2c23858b4de37df4862d9319066d31abe7e69c171dcf3b98c9eac24590088f",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/rh6-provenance.json",
+      "repo_path": "replication/chart-library/data/rh6-provenance.json",
+      "expected_sha256": "e593d55d55b685fb31c5337a74771e23464874ae835f3705d6e1d141b55f13b9",
+      "observed_sha256": "e593d55d55b685fb31c5337a74771e23464874ae835f3705d6e1d141b55f13b9",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/user_turn_effects.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/user_turn_effects.csv",
+      "expected_sha256": "f6ee0bdb74cfdfe8b2d6f14daa68950479da411ddb09e18e19e5842e712c01e9",
+      "observed_sha256": "f6ee0bdb74cfdfe8b2d6f14daa68950479da411ddb09e18e19e5842e712c01e9",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/input-contract.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/input-contract.json",
+      "expected_sha256": "26f04868d902b70bdc84f2a0d0a6b704b2b6e41dd8fc8e0313ab2b659a9c2ed1",
+      "observed_sha256": "26f04868d902b70bdc84f2a0d0a6b704b2b6e41dd8fc8e0313ab2b659a9c2ed1",
+      "matches": true
+    },
+    {
+      "kind": "figure_artifact",
+      "source_path": "figures/rh6-readout.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/rh6-readout.png",
+      "expected_sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+      "observed_sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+      "matches": true
+    },
+    {
+      "kind": "figure_artifact",
+      "source_path": "figures/rh6-readout.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/rh6-readout.pdf",
+      "expected_sha256": "807f8e9483093f20f9336802e30920d4d18deeff9edb18d5594a61ffb8389c72",
+      "observed_sha256": "807f8e9483093f20f9336802e30920d4d18deeff9edb18d5594a61ffb8389c72",
+      "matches": true
+    },
+    {
+      "kind": "figure_artifact",
+      "source_path": "figures/rh6-readout.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/rh6-readout.svg",
+      "expected_sha256": "5ec9bfb92ccbb5bc2de8aa41e60200bb479cab41e6be4befea40ac5a1b4713c3",
+      "observed_sha256": "5ec9bfb92ccbb5bc2de8aa41e60200bb479cab41e6be4befea40ac5a1b4713c3",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "render_appendix_diagnostics.py",
+      "repo_path": "replication/chart-library/figure-selection/render_appendix_diagnostics.py",
+      "expected_sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+      "observed_sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/probe-recall-by-layer.csv",
+      "repo_path": "replication/chart-library/data/probe-recall-by-layer.csv",
+      "expected_sha256": "ba9cafc6c2d1e2b420fa4dc8579541076f0a336b7b011284a47de4e12c0acc83",
+      "observed_sha256": "ba9cafc6c2d1e2b420fa4dc8579541076f0a336b7b011284a47de4e12c0acc83",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/split-audit.json",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/split-audit.json",
+      "expected_sha256": "9e6db884bf710531541e6bb192272dbe84239cee47fbc3e53e66a2dbf59a9900",
+      "observed_sha256": "9e6db884bf710531541e6bb192272dbe84239cee47fbc3e53e66a2dbf59a9900",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b.csv",
+      "expected_sha256": "0f5ae1cb3eed0d9d8b52119f3c2825ca253779215f1fca983092b64e6ee1d596",
+      "observed_sha256": "0f5ae1cb3eed0d9d8b52119f3c2825ca253779215f1fca983092b64e6ee1d596",
+      "matches": true
+    },
+    {
+      "kind": "provenance_input",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b-basesplit.csv",
+      "repo_path": "replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b-basesplit.csv",
+      "expected_sha256": "4c5b01c22eae8a94c687ea3e30d8901abb3e3f49dee8b2ff82ce8f2b0c981130",
+      "observed_sha256": "4c5b01c22eae8a94c687ea3e30d8901abb3e3f49dee8b2ff82ce8f2b0c981130",
+      "matches": true
+    },
+    {
+      "kind": "figure_artifact",
+      "source_path": "figures/probe-validation.png",
+      "repo_path": "replication/chart-library/figure-selection/figures/probe-validation.png",
+      "expected_sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+      "observed_sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+      "matches": true
+    },
+    {
+      "kind": "figure_artifact",
+      "source_path": "figures/probe-validation.pdf",
+      "repo_path": "replication/chart-library/figure-selection/figures/probe-validation.pdf",
+      "expected_sha256": "4cafa36445714a45486766d5e54beecf16d0c0daa6a18a737c2404efb3efbad1",
+      "observed_sha256": "4cafa36445714a45486766d5e54beecf16d0c0daa6a18a737c2404efb3efbad1",
+      "matches": true
+    },
+    {
+      "kind": "figure_artifact",
+      "source_path": "figures/probe-validation.svg",
+      "repo_path": "replication/chart-library/figure-selection/figures/probe-validation.svg",
+      "expected_sha256": "0647f2061d7fb66bbdd43893da4c348b0acd2bff1fa3d1c800140bbc9bab19e2",
+      "observed_sha256": "0647f2061d7fb66bbdd43893da4c348b0acd2bff1fa3d1c800140bbc9bab19e2",
+      "matches": true
+    },
+    {
+      "kind": "renderer",
+      "source_path": "render_appendix_diagnostics.py",
+      "repo_path": "replication/chart-library/figure-selection/render_appendix_diagnostics.py",
+      "expected_sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+      "observed_sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+      "matches": true
+    },
+    {
+      "kind": "font",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/texgyretermes-regular.otf",
+      "repo_path": "replication/chart-library/fonts/texgyretermes-regular.otf",
+      "expected_sha256": "cc3fe7c707b81428d23d54df3eadd9228a2bf6a4d43125d94df56f5f63134659",
+      "observed_sha256": "cc3fe7c707b81428d23d54df3eadd9228a2bf6a4d43125d94df56f5f63134659",
+      "matches": true
+    },
+    {
+      "kind": "font",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/texgyretermes-bold.otf",
+      "repo_path": "replication/chart-library/fonts/texgyretermes-bold.otf",
+      "expected_sha256": "2fb3e952065fa153c7e4e64e04b98b9d79225739b6025aa3f0f0782d299ff61e",
+      "observed_sha256": "2fb3e952065fa153c7e4e64e04b98b9d79225739b6025aa3f0f0782d299ff61e",
+      "matches": true
+    },
+    {
+      "kind": "font",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/texgyretermes-italic.otf",
+      "repo_path": "replication/chart-library/fonts/texgyretermes-italic.otf",
+      "expected_sha256": "6dd103a1672e50568cd2f8a706ccd48443d44d7d073a59d2286f4e6f746575d6",
+      "observed_sha256": "6dd103a1672e50568cd2f8a706ccd48443d44d7d073a59d2286f4e6f746575d6",
+      "matches": true
+    },
+    {
+      "kind": "font",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-regular.ttf",
+      "repo_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-regular.ttf",
+      "expected_sha256": "544c4cc2e61cb9ca287d4826e736e809a129e1301517d23c9e205ac8896e9a3d",
+      "observed_sha256": "544c4cc2e61cb9ca287d4826e736e809a129e1301517d23c9e205ac8896e9a3d",
+      "matches": true
+    },
+    {
+      "kind": "font",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-bold.ttf",
+      "repo_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-bold.ttf",
+      "expected_sha256": "99e9829fc46ef8eac4fc93f4452eeb334ea7ff1933fea27059455ab15c978add",
+      "observed_sha256": "99e9829fc46ef8eac4fc93f4452eeb334ea7ff1933fea27059455ab15c978add",
+      "matches": true
+    },
+    {
+      "kind": "font",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-italic.ttf",
+      "repo_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-italic.ttf",
+      "expected_sha256": "3dbdabacb0e2639d2f2b513a9c717693de2bb54e0f4ce9011378fa57870869d9",
+      "observed_sha256": "3dbdabacb0e2639d2f2b513a9c717693de2bb54e0f4ce9011378fa57870869d9",
+      "matches": true
+    },
+    {
+      "kind": "font",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-bolditalic.ttf",
+      "repo_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-bolditalic.ttf",
+      "expected_sha256": "8e05a89e2ee1191f8c89ca749ba516511c096e0cfa49c2e5ab1d7478a9a8dc52",
+      "observed_sha256": "8e05a89e2ee1191f8c89ca749ba516511c096e0cfa49c2e5ab1d7478a9a8dc52",
+      "matches": true
+    },
+    {
+      "kind": "B8_displayed-rows.csv",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/local-case002-v1/displayed-rows.csv",
+      "repo_path": "replication/chart-library/data/figure8-steering/local-case002-v1/displayed-rows.csv",
+      "expected_sha256": "9c074fa60c73a91979e31f9681bc44b2bf66f999185432f334e9e7784396259b",
+      "observed_sha256": "9c074fa60c73a91979e31f9681bc44b2bf66f999185432f334e9e7784396259b",
+      "matches": true
+    },
+    {
+      "kind": "B8_display-manifest.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/local-case002-v1/display-manifest.json",
+      "repo_path": "replication/chart-library/data/figure8-steering/local-case002-v1/display-manifest.json",
+      "expected_sha256": "1c7d22c53fbe932b179e7fcaacdd88ac1f295ce24671184cc9cab6cf54561541",
+      "observed_sha256": "1c7d22c53fbe932b179e7fcaacdd88ac1f295ce24671184cc9cab6cf54561541",
+      "matches": true
+    },
+    {
+      "kind": "B8_png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+      "expected_sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6",
+      "observed_sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6",
+      "matches": true
+    },
+    {
+      "kind": "B8_pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf",
+      "expected_sha256": "9dcdea09a6359be84a51132a4c9390c2e1ebe585ab20e067ad99c8252d3d9383",
+      "observed_sha256": "9dcdea09a6359be84a51132a4c9390c2e1ebe585ab20e067ad99c8252d3d9383",
+      "matches": true
+    },
+    {
+      "kind": "B8_svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg",
+      "expected_sha256": "63b5ca1a3d556e958750e02782fcb6c32b58c6c1f37e7f85f254200579b58f72",
+      "observed_sha256": "63b5ca1a3d556e958750e02782fcb6c32b58c6c1f37e7f85f254200579b58f72",
+      "matches": true
+    },
+    {
+      "kind": "B8_pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf",
+      "expected_sha256": "f4367c118f6dd93d0f1d496cc1361d016ceb1981529c4d136cc649247dd7c207",
+      "observed_sha256": "f4367c118f6dd93d0f1d496cc1361d016ceb1981529c4d136cc649247dd7c207",
+      "matches": true
+    },
+    {
+      "kind": "B8_png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+      "expected_sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
+      "observed_sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
+      "matches": true
+    },
+    {
+      "kind": "B8_svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg",
+      "expected_sha256": "c8f2cf92eb9e1cf2b07821ddc3ba6e788c8da51ad832c522920120713c07d3fc",
+      "observed_sha256": "c8f2cf92eb9e1cf2b07821ddc3ba6e788c8da51ad832c522920120713c07d3fc",
+      "matches": true
+    },
+    {
+      "kind": "B8_png",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png",
+      "expected_sha256": "96c37ffb38a41bcf2d06ad1463beffcfe5422481cf3343f9defcfda199026292",
+      "observed_sha256": "96c37ffb38a41bcf2d06ad1463beffcfe5422481cf3343f9defcfda199026292",
+      "matches": true
+    },
+    {
+      "kind": "B8_pdf",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf",
+      "expected_sha256": "549c952fc7fee88b8de7145d391f12956a8257250f2431591db55d7ccc40817d",
+      "observed_sha256": "549c952fc7fee88b8de7145d391f12956a8257250f2431591db55d7ccc40817d",
+      "matches": true
+    },
+    {
+      "kind": "B8_svg",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg",
+      "repo_path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg",
+      "expected_sha256": "b77a76657b803101cd8ff515712cbbab6ba7a8becde8291b2f86adf01d0f1ab9",
+      "observed_sha256": "b77a76657b803101cd8ff515712cbbab6ba7a8becde8291b2f86adf01d0f1ab9",
+      "matches": true
+    },
+    {
+      "kind": "B8_renderer",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/render_forgery_figure.py",
+      "repo_path": "replication/chart-library/render_forgery_figure.py",
+      "expected_sha256": "87947614f2e6ce276c083b822bbf9af75bd73db2845a63b28e8d7398ded1b5ef",
+      "observed_sha256": "87947614f2e6ce276c083b822bbf9af75bd73db2845a63b28e8d7398ded1b5ef",
+      "matches": true
+    },
+    {
+      "kind": "B8_source_contract",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/source-contract.md",
+      "repo_path": "replication/chart-library/data/figure8-steering/source-contract.md",
+      "expected_sha256": "b8d6893f00ef37ad97f47822901220b2e17e361145435af07276cf4e97aa8f70",
+      "observed_sha256": "b8d6893f00ef37ad97f47822901220b2e17e361145435af07276cf4e97aa8f70",
+      "matches": true
+    }
+  ],
+  "unresolved_inputs": [],
+  "validation": {
+    "copied_source_bytes_match": true,
+    "scripts_parsed_only": true,
+    "scripts_or_models_executed": false,
+    "readme_links_resolve": true,
+    "hash_checks": 88,
+    "hash_checks_passed": 88,
+    "document_images_matching": 9,
+    "document_images": 9,
+    "raw_trajectories_unchanged": true,
+    "B8_display_inputs_unchanged": true,
+    "recorded_file_hashes_match": true,
+    "canonical_B1_png_pdf_svg_match": true
+  },
+  "boundaries": [
+    "No document integration records, editorial drafts, gallery, private layouts, or instructions copied.",
+    "Historical source paths and renderer output behavior are unchanged. No runtime-portability claim is made.",
+    "B8 renderer and displayed artifacts were refreshed from current source under the same paths; previous repository hashes and commit are recorded. Unrelated upload-outcomes files were preserved."
+  ],
+  "B8_input_checks": [
+    {
+      "path": "replication/chart-library/data/figure8-steering/local-case002-v1/input-freeze.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/local-case002-v1/input-freeze.json",
+      "previous_repo_sha256": "9b8ae721a83f9f0a51a6be8fe9492c508ce3ed3db6d0d34e49b6c6e72d7ecfa3",
+      "source_sha256": "9b8ae721a83f9f0a51a6be8fe9492c508ce3ed3db6d0d34e49b6c6e72d7ecfa3",
+      "repo_sha256": "9b8ae721a83f9f0a51a6be8fe9492c508ce3ed3db6d0d34e49b6c6e72d7ecfa3",
+      "unchanged": true,
+      "matches_source": true
+    },
+    {
+      "path": "replication/chart-library/data/figure8-steering/local-case002-v1/displayed-rows.csv",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/local-case002-v1/displayed-rows.csv",
+      "previous_repo_sha256": "9c074fa60c73a91979e31f9681bc44b2bf66f999185432f334e9e7784396259b",
+      "source_sha256": "9c074fa60c73a91979e31f9681bc44b2bf66f999185432f334e9e7784396259b",
+      "repo_sha256": "9c074fa60c73a91979e31f9681bc44b2bf66f999185432f334e9e7784396259b",
+      "unchanged": true,
+      "matches_source": true
+    },
+    {
+      "path": "replication/chart-library/data/figure8-steering/local-case002-v1/all-relevant-token-scores.csv",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/local-case002-v1/all-relevant-token-scores.csv",
+      "previous_repo_sha256": "4d7b7dddec98fd03e4a8e07279f00126b528550906f2470a37812d77447639cd",
+      "source_sha256": "4d7b7dddec98fd03e4a8e07279f00126b528550906f2470a37812d77447639cd",
+      "repo_sha256": "4d7b7dddec98fd03e4a8e07279f00126b528550906f2470a37812d77447639cd",
+      "unchanged": true,
+      "matches_source": true
+    },
+    {
+      "path": "replication/chart-library/data/figure8-steering/local-case002-v1/display-manifest.json",
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/local-case002-v1/display-manifest.json",
+      "previous_repo_sha256": "1c7d22c53fbe932b179e7fcaacdd88ac1f295ce24671184cc9cab6cf54561541",
+      "source_sha256": "1c7d22c53fbe932b179e7fcaacdd88ac1f295ce24671184cc9cab6cf54561541",
+      "repo_sha256": "1c7d22c53fbe932b179e7fcaacdd88ac1f295ce24671184cc9cab6cf54561541",
+      "unchanged": true,
+      "matches_source": true
+    }
+  ],
+  "B8_refresh": {
+    "previous_repo_commit": "67d76762d0cda750d19b3b406de4a447fa2d3489",
+    "files_refreshed": 11,
+    "reason": "Source renderer display labels now say Manual style rewrite; model inputs and numerical data remain unchanged.",
+    "raw_trajectory_files_checked_unchanged": 111,
+    "raw_trajectory_set_and_hashes_unchanged": true,
+    "unrelated_upload_outcomes_files_refreshed": false
+  },
+  "captured_at": "2026-09-12T08:46:15.500834+00:00"
+}

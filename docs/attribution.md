@@ -1,7 +1,6 @@
 # Attribution
 
-I developed this project with coding-agent assistance. My project code includes
-the isolated agent harness, MLX steering wrapper, CUDA adapter, registered
+My implementation includes the isolated agent harness, MLX steering wrapper, CUDA adapter, registered
 comparisons, outcome accounting and saved-data analysis. I used coding agents
 for implementation, execution support, analysis and review.
 

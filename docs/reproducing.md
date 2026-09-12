@@ -27,7 +27,7 @@ The [earlier study](../earlier-study/README.md) includes its analysis commands a
 requirements. Run them from `earlier-study/`.
 
 The [README figure files](../replication/chart-library/figure-selection/README.md)
-list the data and renderers for Figures 1–4.
+list the data and renderers for Figures 1–4 and Appendix B.
 
 The [earlier figure data](../replication/chart-library/steering-evidence-review/data/)
 retain the plotted rows and source hashes. The corresponding
@@ -43,15 +43,16 @@ python3 -m unittest replication.cloud.agent_steering.test_hf_backend replication
 
 ## Model runs
 
-I have not validated a single installation command for every experiment. The
-historical MLX and CUDA runs have separate configurations, dependencies and
-source snapshots. Model weights and runtime environments are not included.
+Each MLX or CUDA experiment retains its configuration, dependencies and source
+snapshot. Repeating a model run requires its model weights and runtime environment.
 The [experiment index](experiments.md) links their recorded methods and inputs.
 
 Thirty large activation arrays and four other large files are in the
 [private archive release](https://github.com/hananather/mats-role-confusion-archive/releases/tag/snapshot-2026-09-12).
 Independent probe fitting requires restoring those inputs; saved fitted probes
 and evaluation tables are included here.
+The archive requires separate access, so a public clone alone does not provide
+every input needed to rerun those experiments.
 
 Historical absolute paths identify the original workstation or GPU directory.
 E9's asset preparer expects `role-steering/experiment/model-assets.npz`; this

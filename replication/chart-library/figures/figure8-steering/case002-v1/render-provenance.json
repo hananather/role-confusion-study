@@ -9,9 +9,10 @@
       "sha256": "1c7d22c53fbe932b179e7fcaacdd88ac1f295ce24671184cc9cab6cf54561541"
     }
   },
-  "renderer_sha256": "8528e8f8b8478c554d3ecc8c5776055c216a8d7c18444754889cba2978d5d6f7",
+  "renderer_sha256": "87947614f2e6ce276c083b822bbf9af75bd73db2845a63b28e8d7398ded1b5ef",
   "source_contract": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/figure8-steering/source-contract.md",
   "technical_footer_visible": false,
+  "display_label_correction": "destyled displayed as Manual style rewrite; frozen inputs unchanged; not authors' full destyling procedure",
   "font": "TeX Gyre Termes",
   "point_line_palette": {
     "user": "#00a6f4",
@@ -43,15 +44,15 @@
     "artifacts": {
       "png": {
         "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
-        "sha256": "51ba3624a33c5bf7f8a4382bf8964768c0817de55e689c3d60a4818e2bab78f7"
+        "sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6"
       },
       "pdf": {
         "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.pdf",
-        "sha256": "5394a14cd1e5e302839f749ff36da87c5ed25ac0a9ec2b08ab79d5f8d2f51aec"
+        "sha256": "9dcdea09a6359be84a51132a4c9390c2e1ebe585ab20e067ad99c8252d3d9383"
       },
       "svg": {
         "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.svg",
-        "sha256": "93e17ee2cb0e03eda0c8ae4fbe91f454e54c769ac0485ea0735034be3b9538cd"
+        "sha256": "63b5ca1a3d556e958750e02782fcb6c32b58c6c1f37e7f85f254200579b58f72"
       }
     },
     "size_inches": [
@@ -286,11 +287,11 @@
         "font_size_points": 7.7
       },
       {
-        "label": "D · Destyled CoT forgery",
+        "label": "D · Manual style rewrite",
         "bounds_inches": [
           0.64,
           3.576839666935195,
-          1.3471354166666667,
+          1.2927083333333336,
           0.12222222222222268
         ],
         "font_size_points": 8.8
@@ -463,17 +464,17 @@
   "companion": {
     "pdf": {
       "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text.pdf",
-      "sha256": "753872dbc15e393fd20b0b905723ac94fedf18ce26c17c3d3e20a00a92e882e5"
+      "sha256": "f4367c118f6dd93d0f1d496cc1361d016ceb1981529c4d136cc649247dd7c207"
     },
     "pages": [
       {
         "png": {
           "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
-          "sha256": "332dc2b2ea6379583078b94cd2f6272f302f68507c312ef4b65245cb960db3d6"
+          "sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5"
         },
         "svg": {
           "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.svg",
-          "sha256": "78b1ebbd0a694fba847c25faf01fd7c130046eb39dd5048b4ed75f33807e58c5"
+          "sha256": "c8f2cf92eb9e1cf2b07821ddc3ba6e788c8da51ad832c522920120713c07d3fc"
         }
       }
     ],
@@ -484,15 +485,15 @@
     "artifacts": {
       "png": {
         "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.png",
-        "sha256": "f034435d50555801e5bfccb226c4c43698e0decdb87fd4b1597c491289f59a6b"
+        "sha256": "96c37ffb38a41bcf2d06ad1463beffcfe5422481cf3343f9defcfda199026292"
       },
       "pdf": {
         "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.pdf",
-        "sha256": "24d785eb63a57ec9b718a61e73bda7317c0f08aaafc66622d9fe873751813963"
+        "sha256": "549c952fc7fee88b8de7145d391f12956a8257250f2431591db55d7ccc40817d"
       },
       "svg": {
         "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering.svg",
-        "sha256": "739d2c1fe2da83c555562e38a8c7b6ac884a3461355707c3c62c8fc6784e910b"
+        "sha256": "b77a76657b803101cd8ff515712cbbab6ba7a8becde8291b2f86adf01d0f1ab9"
       }
     },
     "size_inches": [
@@ -897,11 +898,11 @@
         "font_size_points": 7.7
       },
       {
-        "label": "D · Destyled CoT forgery",
+        "label": "D · Manual style rewrite",
         "bounds_inches": [
           0.64,
           3.189494637507287,
-          1.4050781249999997,
+          1.3341145833333332,
           0.125
         ],
         "font_size_points": 9.0

@@ -1,0 +1,66 @@
+{
+  "title": "User and Assistant have the highest recall in later layers",
+  "caption": "The two saved evaluation splits show higher late-layer recall for User and Assistant than for CoT and Tool, while testing different held-out examples.",
+  "alt": "Two line charts show all five role recalls at every layer. User blue and Assistant green rise above the System gray, CoT orange and Tool purple curves in later layers, in both prompt-variant and base-text evaluations. Colors and distinct point markers identify roles.",
+  "placement": "Last measurement-appendix figure, linked from the initial explanation of role probes.",
+  "scope": "Held-out validation of locally fitted five-role probes under a neutral-text construction, across all 24 layers. The two panels use separately fitted probes and different test sets. Their difference is descriptive and is not a causal estimate of changing the split strategy. This does not validate authority tracking or the separately fitted three- and four-role probes.",
+  "methods": "Recall is the number of correctly predicted tokens divided by all tokens with that true role, separately for each layer and split. Every one of the 240 saved recalls is shown; no smoothing or population interval is added. The prompt split holds out 124 of 1,245 prompt variants; the base split holds out 24 of 249 base texts. The split audit uses seed 123 and confirms each split partitions groups and rows exactly once.",
+  "split_counts": {
+    "prompt": {
+      "group_column": "prompt_ix",
+      "n_original_groups": 1245,
+      "n_train_groups": 1121,
+      "n_test_groups": 124,
+      "n_test_rows": 67727
+    },
+    "base": {
+      "group_column": "question_ix",
+      "n_original_groups": 249,
+      "n_train_groups": 225,
+      "n_test_groups": 24,
+      "n_test_rows": 56685
+    }
+  },
+  "palette": {
+    "system": "#90a1b9",
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492",
+    "tool": "#7e6cff"
+  },
+  "markers": {
+    "system": "D",
+    "user": "o",
+    "cot": "^",
+    "assistant": "s",
+    "tool": "v"
+  },
+  "verification": {
+    "recall_values": 240,
+    "count_and_correct_exact_match": true,
+    "max_recall_error_from_raw_counts": 0.0,
+    "user_and_assistant_top_two_at_all_layers_15_through_23_in_both_splits": true,
+    "display_csv_byte_identical": true
+  },
+  "figure_id": "probe-validation",
+  "source_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/probe-recall-by-layer.csv": "ba9cafc6c2d1e2b420fa4dc8579541076f0a336b7b011284a47de4e12c0acc83",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/split-audit.json": "9e6db884bf710531541e6bb192272dbe84239cee47fbc3e53e66a2dbf59a9900",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b.csv": "0f5ae1cb3eed0d9d8b52119f3c2825ca253779215f1fca983092b64e6ee1d596",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/probes-full/acc_by_role_gptoss-20b-basesplit.csv": "4c5b01c22eae8a94c687ea3e30d8901abb3e3f49dee8b2ff82ce8f2b0c981130"
+  },
+  "renderer_sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+  "artifact_sha256": {
+    "probe-validation.png": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+    "probe-validation.pdf": "4cafa36445714a45486766d5e54beecf16d0c0daa6a18a737c2404efb3efbad1",
+    "probe-validation.svg": "0647f2061d7fb66bbdd43893da4c348b0acd2bff1fa3d1c800140bbc9bab19e2"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    8.3,
+    4.25
+  ],
+  "visible_text_within_canvas": true,
+  "new_model_runs": 0,
+  "new_estimators": 0
+}

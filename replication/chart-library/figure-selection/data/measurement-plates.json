@@ -1,0 +1,589 @@
+{
+  "purpose": "I make the existing measurement figures more legible without changing the underlying values.",
+  "figures": [
+    {
+      "title": "Role patterns persist when message tags change",
+      "caption": "The authors\u2019 gardening example retains a visible reasoning-role pattern under changed tags, while our mean scores remain below the paper\u2019s reported values.",
+      "scope": "Qualitative Figure 7 match, with an unresolved numerical gap; one supplied conversation, a four-role probe, and 512 matched displayed tokens per format.",
+      "sources": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+          "sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+          "sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490"
+        }
+      ],
+      "points": 1536,
+      "excerpts": [
+        "Hi! I'm learning how to garden and grow plants.",
+        "The user wants a concise yet informative answer: how to grow tomatoes, watering, light, fertilizer, and other tips.",
+        "Here\u2019s a quick, beginner\u2011friendly cheat sheet:",
+        "Where's the easiest place to grow tomatoes - inside or outdoors, given my skill level?",
+        "The user wants: easiest place to grow tomatoes \u2013 inside or outdoors \u2013 given skill level.",
+        "Easiest for a beginner in Austin (TX)"
+      ],
+      "technical_details": "All panels use the same matched display subset. Originally reasoning tokens average 64.3%, 71.8% and 71.7% across the displayed conditions. The complete-context model forward and the subset are described in the original session GARDENING-RESULTS.md. Colors identify original passage roles, rather than the displayed tags.",
+      "id": "gardening",
+      "renderer": {
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+        "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81"
+      },
+      "palette": {
+        "user": "#00a6f4",
+        "cot": "#fd9a00",
+        "assistant": "#00d492"
+      },
+      "text_palette": {
+        "user": "#0084d1",
+        "cot": "#e17100",
+        "assistant": "#009966"
+      },
+      "font": "TeX Gyre Termes",
+      "size_inches": [
+        8.3,
+        5.1
+      ],
+      "plotted_values_unchanged": true,
+      "text_extents": [
+        {
+          "text": "User 1",
+          "bounds_inches": [
+            0.747,
+            1.491222222222222,
+            0.30999999999999994,
+            0.11527777777777781
+          ]
+        },
+        {
+          "text": "Hi! I'm learning how to\ngarden and grow plants.",
+          "bounds_inches": [
+            0.747,
+            0.6660606691437434,
+            0.9145967601774884,
+            0.7364393308562567
+          ]
+        },
+        {
+          "text": "CoT 1",
+          "bounds_inches": [
+            1.9629500000000002,
+            1.491222222222222,
+            0.2996875000000001,
+            0.11527777777777781
+          ]
+        },
+        {
+          "text": "The user wants a concise\nyet informative answer:\nhow to grow tomatoes,\nwatering, light,\nfertilizer, and other\ntips.",
+          "bounds_inches": [
+            1.9629500000000002,
+            0.27087835854393777,
+            1.204680384817601,
+            1.1316216414560623
+          ]
+        },
+        {
+          "text": "Assistant 1",
+          "bounds_inches": [
+            3.1789000000000005,
+            1.491222222222222,
+            0.5210937499999999,
+            0.11527777777777781
+          ]
+        },
+        {
+          "text": "Here\u2019s a quick,\nbeginner\u2011friendly cheat\nsheet:",
+          "bounds_inches": [
+            3.1789000000000005,
+            0.5991030647771839,
+            0.9416483282541313,
+            0.8033969352228162
+          ]
+        },
+        {
+          "text": "User 2",
+          "bounds_inches": [
+            4.39485,
+            1.491222222222222,
+            0.3100000000000005,
+            0.11527777777777781
+          ]
+        },
+        {
+          "text": "Where's the easiest place\nto grow tomatoes - inside\nor outdoors, given my\nskill level?",
+          "bounds_inches": [
+            4.39485,
+            0.4363402712763639,
+            1.1055238862284211,
+            0.9661597287236362
+          ]
+        },
+        {
+          "text": "CoT 2",
+          "bounds_inches": [
+            5.6108,
+            1.491222222222222,
+            0.2996875000000001,
+            0.11527777777777781
+          ]
+        },
+        {
+          "text": "The user wants: easiest\nplace to grow tomatoes \u2013\ninside or outdoors \u2013\ngiven skill level.",
+          "bounds_inches": [
+            5.6108,
+            0.44781180000338483,
+            1.0891408453426408,
+            0.9546881999966152
+          ]
+        },
+        {
+          "text": "Assistant 2",
+          "bounds_inches": [
+            6.82675,
+            1.491222222222222,
+            0.5210937500000004,
+            0.11527777777777781
+          ]
+        },
+        {
+          "text": "Easiest for a beginner in\nAustin (TX)",
+          "bounds_inches": [
+            6.82675,
+            0.6609522540074919,
+            0.9218923330719369,
+            0.7415477459925082
+          ]
+        }
+      ],
+      "artifacts": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.png",
+          "sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.pdf",
+          "sha256": "205e060d42c037f58b941ed533f7e3511290e28e1e06de72fea07ba988011a34"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/gardening.svg",
+          "sha256": "8348d2ad4cc7b170af5eda2bfad041cf65fc5af98583d84383b2a58af35ca052"
+        }
+      ],
+      "new_model_runs": 0
+    },
+    {
+      "title": "Small offsets change the role readout unevenly",
+      "caption": "At a 1% offset, adding User or Tool coefficients changes the two readouts differently across the same six passages.",
+      "scope": "Offline rescoring of saved activations: no continued model computation or behavioral outcome. The same single conversation, token cohort, five-role probe and axes are used at both strengths.",
+      "sources": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+          "sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+          "sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+          "sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490"
+        }
+      ],
+      "panels": 12,
+      "points": 6144,
+      "offset_fraction": 0.01,
+      "excerpts": [
+        "Hi! I'm learning how to garden and grow plants.",
+        "The user wants a concise yet informative answer: how to grow tomatoes, watering, light, fertilizer, and other tips.",
+        "Here\u2019s a quick, beginner\u2011friendly cheat sheet:",
+        "Where's the easiest place to grow tomatoes - inside or outdoors, given my skill level?",
+        "The user wants: easiest place to grow tomatoes \u2013 inside or outdoors \u2013 given skill level.",
+        "Easiest for a beginner in Austin (TX)"
+      ],
+      "technical_details": "Each offset is sign \u00d7 fraction \u00d7 45.2471 \u00d7 normalized saved User or Tool coefficient vector. The common reference is the median activation norm across 921 forwarded tokens in the all-User condition; fixed lengths are 0.4525 and 2.2624. Subtraction applies the opposite offset, not component removal. The saved parameterization matters for individual coefficient directions. All 12 panels and every plotted point are preserved. U/C/A identify User/CoT/Assistant; numbers identify the two turns.",
+      "id": "small-offsets",
+      "renderer": {
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+        "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81"
+      },
+      "palette": {
+        "user": "#00a6f4",
+        "cot": "#fd9a00",
+        "assistant": "#00d492"
+      },
+      "text_palette": {
+        "user": "#0084d1",
+        "cot": "#e17100",
+        "assistant": "#009966"
+      },
+      "font": "TeX Gyre Termes",
+      "size_inches": [
+        8.3,
+        6.75
+      ],
+      "plotted_values_unchanged": true,
+      "text_extents": [
+        {
+          "text": "User 1",
+          "bounds_inches": [
+            0.747,
+            1.3292222222222223,
+            0.30999999999999994,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Hi! I'm learning how to\ngarden and grow plants.",
+          "bounds_inches": [
+            0.747,
+            0.5226746910525282,
+            0.8765898892380716,
+            0.7058253089474718
+          ]
+        },
+        {
+          "text": "CoT 1",
+          "bounds_inches": [
+            1.9629500000000002,
+            1.3292222222222223,
+            0.2996875000000001,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "The user wants a concise\nyet informative answer:\nhow to grow tomatoes,\nwatering, light,\nfertilizer, and other\ntips.",
+          "bounds_inches": [
+            1.9629500000000002,
+            0.14328241595310814,
+            1.1555519730078694,
+            1.0852175840468918
+          ]
+        },
+        {
+          "text": "Assistant 1",
+          "bounds_inches": [
+            3.1789000000000005,
+            1.3292222222222223,
+            0.5210937499999999,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Here\u2019s a quick,\nbeginner\u2011friendly cheat\nsheet:",
+          "bounds_inches": [
+            3.1789000000000005,
+            0.4425245184591688,
+            0.9253396390456148,
+            0.7859754815408311
+          ]
+        },
+        {
+          "text": "User 2",
+          "bounds_inches": [
+            4.39485,
+            1.3292222222222223,
+            0.3100000000000005,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Where's the easiest place\nto grow tomatoes - inside\nor outdoors, given my\nskill level?",
+          "bounds_inches": [
+            4.39485,
+            0.3066298859579419,
+            1.0537007281574962,
+            0.921870114042058
+          ]
+        },
+        {
+          "text": "CoT 2",
+          "bounds_inches": [
+            5.6108,
+            1.3292222222222223,
+            0.2996875000000001,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "The user wants: easiest\nplace to grow tomatoes \u2013\ninside or outdoors \u2013\ngiven skill level.",
+          "bounds_inches": [
+            5.6108,
+            0.31810141468496284,
+            1.0373176872717158,
+            0.9103985853150371
+          ]
+        },
+        {
+          "text": "Assistant 2",
+          "bounds_inches": [
+            6.82675,
+            1.3292222222222223,
+            0.5210937500000004,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Easiest for a beginner in\nAustin (TX)",
+          "bounds_inches": [
+            6.82675,
+            0.5175662759162768,
+            0.883885462132521,
+            0.7109337240837231
+          ]
+        }
+      ],
+      "artifacts": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.png",
+          "sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.pdf",
+          "sha256": "0a0bed0fcc582c69e79a7744d75646b1c48a0707cc280c8db54ce9cb39ba3be5"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/small-offsets.svg",
+          "sha256": "fa57f7344ffb3645177b100d820531f2523caea440dc028d705f4fee34454c73"
+        }
+      ],
+      "new_model_runs": 0
+    },
+    {
+      "title": "Large offsets change the separation between passage roles",
+      "caption": "At 5%, the User offset raises Userness across User, reasoning and Assistant passages, while the Tool offset produces a different redistribution.",
+      "scope": "Offline rescoring of saved activations: no continued model computation or behavioral outcome. The same single conversation, token cohort, five-role probe and axes are used at both strengths.",
+      "sources": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+          "sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/figure-7-displayed-rows.csv",
+          "sha256": "e8240a0ba1d16d899a715cb15332302172199f322978d287bfa343e29aa18129"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/appendix-e-L12/original-messages.json",
+          "sha256": "7c90d15642e7cf5343b3f24e1964a4266ee8872eced09a7436f5a114d76ba490"
+        }
+      ],
+      "panels": 12,
+      "points": 6144,
+      "offset_fraction": 0.05,
+      "excerpts": [
+        "Hi! I'm learning how to garden and grow plants.",
+        "The user wants a concise yet informative answer: how to grow tomatoes, watering, light, fertilizer, and other tips.",
+        "Here\u2019s a quick, beginner\u2011friendly cheat sheet:",
+        "Where's the easiest place to grow tomatoes - inside or outdoors, given my skill level?",
+        "The user wants: easiest place to grow tomatoes \u2013 inside or outdoors \u2013 given skill level.",
+        "Easiest for a beginner in Austin (TX)"
+      ],
+      "technical_details": "Each offset is sign \u00d7 fraction \u00d7 45.2471 \u00d7 normalized saved User or Tool coefficient vector. The common reference is the median activation norm across 921 forwarded tokens in the all-User condition; fixed lengths are 0.4525 and 2.2624. Subtraction applies the opposite offset, not component removal. The saved parameterization matters for individual coefficient directions. All 12 panels and every plotted point are preserved. U/C/A identify User/CoT/Assistant; numbers identify the two turns.",
+      "id": "large-offsets",
+      "renderer": {
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+        "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81"
+      },
+      "palette": {
+        "user": "#00a6f4",
+        "cot": "#fd9a00",
+        "assistant": "#00d492"
+      },
+      "text_palette": {
+        "user": "#0084d1",
+        "cot": "#e17100",
+        "assistant": "#009966"
+      },
+      "font": "TeX Gyre Termes",
+      "size_inches": [
+        8.3,
+        6.75
+      ],
+      "plotted_values_unchanged": true,
+      "text_extents": [
+        {
+          "text": "User 1",
+          "bounds_inches": [
+            0.747,
+            1.3292222222222223,
+            0.30999999999999994,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Hi! I'm learning how to\ngarden and grow plants.",
+          "bounds_inches": [
+            0.747,
+            0.5226746910525282,
+            0.8765898892380716,
+            0.7058253089474718
+          ]
+        },
+        {
+          "text": "CoT 1",
+          "bounds_inches": [
+            1.9629500000000002,
+            1.3292222222222223,
+            0.2996875000000001,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "The user wants a concise\nyet informative answer:\nhow to grow tomatoes,\nwatering, light,\nfertilizer, and other\ntips.",
+          "bounds_inches": [
+            1.9629500000000002,
+            0.14328241595310814,
+            1.1555519730078694,
+            1.0852175840468918
+          ]
+        },
+        {
+          "text": "Assistant 1",
+          "bounds_inches": [
+            3.1789000000000005,
+            1.3292222222222223,
+            0.5210937499999999,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Here\u2019s a quick,\nbeginner\u2011friendly cheat\nsheet:",
+          "bounds_inches": [
+            3.1789000000000005,
+            0.4425245184591688,
+            0.9253396390456148,
+            0.7859754815408311
+          ]
+        },
+        {
+          "text": "User 2",
+          "bounds_inches": [
+            4.39485,
+            1.3292222222222223,
+            0.3100000000000005,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Where's the easiest place\nto grow tomatoes - inside\nor outdoors, given my\nskill level?",
+          "bounds_inches": [
+            4.39485,
+            0.3066298859579419,
+            1.0537007281574962,
+            0.921870114042058
+          ]
+        },
+        {
+          "text": "CoT 2",
+          "bounds_inches": [
+            5.6108,
+            1.3292222222222223,
+            0.2996875000000001,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "The user wants: easiest\nplace to grow tomatoes \u2013\ninside or outdoors \u2013\ngiven skill level.",
+          "bounds_inches": [
+            5.6108,
+            0.31810141468496284,
+            1.0373176872717158,
+            0.9103985853150371
+          ]
+        },
+        {
+          "text": "Assistant 2",
+          "bounds_inches": [
+            6.82675,
+            1.3292222222222223,
+            0.5210937500000004,
+            0.11527777777777759
+          ]
+        },
+        {
+          "text": "Easiest for a beginner in\nAustin (TX)",
+          "bounds_inches": [
+            6.82675,
+            0.5175662759162768,
+            0.883885462132521,
+            0.7109337240837231
+          ]
+        }
+      ],
+      "artifacts": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.png",
+          "sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.pdf",
+          "sha256": "72a02667508faa76a69c05d383d0547dff176807698b8eca31dd1805d8f7d63a"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/large-offsets.svg",
+          "sha256": "b60cabbc600a53d553b54a01d7c1a21d33325944d1b81be88e3055ade4ec016d"
+        }
+      ],
+      "new_model_runs": 0
+    },
+    {
+      "title": "Userness and Toolness need not trade off",
+      "caption": "For originally User text, a small positive Tool offset raises both scores; a larger offset raises Toolness while lowering Userness.",
+      "scope": "Deterministic offline rescoring of 512 saved token states in one conversation, using five strengths and a five-role probe. Lines connect measured strengths only.",
+      "sources": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/offset-dose-response.csv",
+          "sha256": "583c2a9666641a388c79b3075b855cbdfff59188e4d0e9a61745354a8a6e2523"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+          "sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a"
+        }
+      ],
+      "panels": 4,
+      "probability_means": 60,
+      "small_tool_deltas_pp": {
+        "user": 3.2118687643696853,
+        "tool": 3.3087634128884993
+      },
+      "technical_details": "Each point averages tokens within one original passage-role group, pooling its two turns. All groups and both readouts are retained. The common reference norm is 45.2471 over 921 forwarded tokens. There is no model continuation, behavioral outcome or population confidence interval.",
+      "id": "offset-dose-response",
+      "renderer": {
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+        "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81"
+      },
+      "palette": {
+        "user": "#00a6f4",
+        "cot": "#fd9a00",
+        "assistant": "#00d492"
+      },
+      "text_palette": {
+        "user": "#0084d1",
+        "cot": "#e17100",
+        "assistant": "#009966"
+      },
+      "font": "TeX Gyre Termes",
+      "size_inches": [
+        8.3,
+        5.4
+      ],
+      "plotted_values_unchanged": true,
+      "text_extents": [],
+      "artifacts": [
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.png",
+          "sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+          "sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36"
+        },
+        {
+          "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+          "sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a"
+        }
+      ],
+      "new_model_runs": 0
+    }
+  ]
+}

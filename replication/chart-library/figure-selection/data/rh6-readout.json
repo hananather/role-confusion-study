@@ -1,0 +1,50 @@
+{
+  "title": "Permission changes Userness in opposite directions at layer 12",
+  "caption": "At layer 12, the same permission contrast lowers Userness under the five-role probe and raises it under the three-role probe; bars show pointwise 95% paired-bootstrap intervals.",
+  "alt": "Four panels compare two probes over layers 8, 12 and 16, retaining marker-first and marker-second command orders. The top panels highlight layer 12: both five-role Userness effects and confidence bounds are negative, while both three-role effects and bounds are positive. Every relative log User/Tool effect in the bottom panels is positive.",
+  "placement": "Measurement appendix, after interpreting role-score changes and before five-role validation.",
+  "scope": "Controlled prefill/readout experiment with 100 paired template\u2013page units per estimate; no generated behavior. Two fitted role spaces, two metrics, two command positions, three layers: all 24 estimates and 48 interval endpoints are retained.",
+  "methods": "I average, equally over paired template/page units, (marker permission minus marker neutral) minus (matched null-span permission minus matched null-span neutral). ln(mean span P_user) minus ln(mean span P_tool), before computing paired contrasts; this is not the mean of tokenwise log ratios. Uncertainty is the saved pointwise 95% paired-bootstrap percentile interval: 2,000 resamples, seed 123; no recomputation and no simultaneous coverage claim. Marker-first versus marker-second is encoded by filled/solid versus open/dashed neutral gray lines. Lines connect only the three measured layers; the highlighted band marks layer 12.",
+  "metric_definitions": {
+    "p_user": "Mean span P_user; I scale the saved contrast and its bounds by 100 to percentage points.",
+    "log_user_tool": "ln(mean span P_user) minus ln(mean span P_tool), before computing paired contrasts; this is not the mean of tokenwise log ratios."
+  },
+  "uncertainty": {
+    "type": "Existing pointwise 95% paired-bootstrap percentile intervals",
+    "resamples": 2000,
+    "seed": 123,
+    "recomputed_for_figure": false,
+    "simultaneous_intervals": false
+  },
+  "palette": {
+    "command_position": "#62748e"
+  },
+  "verification": {
+    "estimates": 24,
+    "interval_bounds": 48,
+    "source_max_error": 0.0,
+    "display_csv_byte_identical": true,
+    "frozen_source_hashes_match": true
+  },
+  "figure_id": "rh6-readout",
+  "source_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/rh6-plotted.csv": "5d2c23858b4de37df4862d9319066d31abe7e69c171dcf3b98c9eac24590088f",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/rh6-provenance.json": "e593d55d55b685fb31c5337a74771e23464874ae835f3705d6e1d141b55f13b9",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/user_turn_effects.csv": "f6ee0bdb74cfdfe8b2d6f14daa68950479da411ddb09e18e19e5842e712c01e9",
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/outputs/20260911T030050Z/rh6/input-contract.json": "26f04868d902b70bdc84f2a0d0a6b704b2b6e41dd8fc8e0313ab2b659a9c2ed1"
+  },
+  "renderer_sha256": "d2e4ebb4177737c61d56f5f58a39e2d8c65d6016684d2e9339f1b71ed1e59584",
+  "artifact_sha256": {
+    "rh6-readout.png": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+    "rh6-readout.pdf": "807f8e9483093f20f9336802e30920d4d18deeff9edb18d5594a61ffb8389c72",
+    "rh6-readout.svg": "5ec9bfb92ccbb5bc2de8aa41e60200bb479cab41e6be4befea40ac5a1b4713c3"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    8.3,
+    5.9
+  ],
+  "visible_text_within_canvas": true,
+  "new_model_runs": 0,
+  "new_estimators": 0
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Userness and Toolness need not trade off",
+  "caption": "For originally User text, a small positive Tool offset raises both scores; a larger offset raises Toolness while lowering Userness.",
+  "scope": "Deterministic offline rescoring of 512 saved token states in one conversation, using five strengths and a five-role probe. Lines connect measured strengths only.",
+  "sources": [
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/data/offset-dose-response.csv",
+      "sha256": "583c2a9666641a388c79b3075b855cbdfff59188e4d0e9a61745354a8a6e2523"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/plotted-probabilities.csv",
+      "sha256": "3d8b97d5e2e6fc3d8639160bfdaada7f91c73111c1b1a5031abb2d5fa285954a"
+    }
+  ],
+  "panels": 4,
+  "probability_means": 60,
+  "small_tool_deltas_pp": {
+    "user": 3.2118687643696853,
+    "tool": 3.3087634128884993
+  },
+  "technical_details": "Each point averages tokens within one original passage-role group, pooling its two turns. All groups and both readouts are retained. The common reference norm is 45.2471 over 921 forwarded tokens. There is no model continuation, behavioral outcome or population confidence interval.",
+  "id": "offset-dose-response",
+  "renderer": {
+    "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_measurement_plates.py",
+    "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81"
+  },
+  "palette": {
+    "user": "#00a6f4",
+    "cot": "#fd9a00",
+    "assistant": "#00d492"
+  },
+  "text_palette": {
+    "user": "#0084d1",
+    "cot": "#e17100",
+    "assistant": "#009966"
+  },
+  "font": "TeX Gyre Termes",
+  "size_inches": [
+    8.3,
+    5.4
+  ],
+  "plotted_values_unchanged": true,
+  "text_extents": [],
+  "artifacts": [
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.png",
+      "sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.pdf",
+      "sha256": "b9b15aab577044833155c58b6b45600bf77d0552a6007b852bf24ddcf23b9f36"
+    },
+    {
+      "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/offset-dose-response.svg",
+      "sha256": "d919ab02e92313fdb3160e8826c30f82e39e3657f04d343488db8454eb8c2c5a"
+    }
+  ],
+  "new_model_runs": 0
+}

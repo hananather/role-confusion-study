@@ -46,5 +46,77 @@
     "sha256": "d03f8d88764967798a11f87da3123432017d85a6e1c93c959c90937ad93959b5",
     "bytes": 87304,
     "source": "Google Docs native image export"
+  },
+  "kix.j882aiqxy1pg": {
+    "path": "replication/chart-library/canonical/mats-dialogue-v1/figure.png",
+    "alt": "Figure B1",
+    "source": "Original figure file identified by the document author",
+    "sha256": "860baa72a81a86cce72e98b74aac3b8a2f53346c1c05ee7dee4b719e64a5081d",
+    "bytes": 1007063,
+    "native_export_sha256": "27324ed66cd7f71f98401e334d34a396ad21fa6e945a7ecd5ab3e8408f8d860c"
+  },
+  "kix.1k68iec2evhr": {
+    "path": "replication/chart-library/figure-selection/figures/gardening.png",
+    "alt": "Figure B2",
+    "source": "Original figure file identified by the document author",
+    "sha256": "eaed467eae81abada950d42522f1fa75472027ec48bdb64078ebd709fb9841ad",
+    "bytes": 514258,
+    "native_export_sha256": "a975765ab9f2ba928bafc26e5bd8c44820047d87f78149cc718388c9c6bf2540"
+  },
+  "kix.j6ulo6nfergo": {
+    "path": "replication/chart-library/figure-selection/figures/offset-dose-response.png",
+    "alt": "Figure B3",
+    "source": "Original figure file identified by the document author",
+    "sha256": "368c591176e2af06af24df5cb252b665a07856c0014bc7bc268ff87f211799a0",
+    "bytes": 387101,
+    "native_export_sha256": "6c7e660efdabd36efd751c849652a99749bb090288efb633748749777da3a5d9"
+  },
+  "kix.x7zrxq9bnmd9": {
+    "path": "replication/chart-library/figure-selection/figures/small-offsets.png",
+    "alt": "Figure B4",
+    "source": "Original figure file identified by the document author",
+    "sha256": "7a7ac3e18a7d79545a503082f088f32db03a69baf5e42ad7b03737374129b368",
+    "bytes": 665114,
+    "native_export_sha256": "da9866ea3b0d3edcd2c8242e644b1d3ab5fb04f2564c1e21beba6ccf97708d93"
+  },
+  "kix.8hozsomqu125": {
+    "path": "replication/chart-library/figure-selection/figures/large-offsets.png",
+    "alt": "Figure B5",
+    "source": "Original figure file identified by the document author",
+    "sha256": "e79bf21105ee2dbeccd140a2da1261ed6d3636cc3e852b4a7dec7816df85ee6e",
+    "bytes": 670758,
+    "native_export_sha256": "9361455185065a62a8a7f1f099d4dd1cdba5b1c426c0d2a5663ba8a4e85a4402"
+  },
+  "kix.5p1tfttf734d": {
+    "path": "replication/chart-library/figure-selection/figures/rh6-readout.png",
+    "alt": "Figure B6",
+    "source": "Original figure file identified by the document author",
+    "sha256": "39bc1b56c931232c5e4a32c185752e24c0bac8064bf5e7860034fb0b9c9777b3",
+    "bytes": 344134,
+    "native_export_sha256": "41c974febd54fd775d6c9316380faf9c78679c2c34242f2defce34a32b4ed76e"
+  },
+  "kix.xn8sfe11p7kl": {
+    "path": "replication/chart-library/figure-selection/figures/probe-validation.png",
+    "alt": "Figure B7",
+    "source": "Original figure file identified by the document author",
+    "sha256": "5b534bc58cc7d979df678a9e2125db805567b5dc49af2402405286be050cb72c",
+    "bytes": 376677,
+    "native_export_sha256": "01ceb43a19ed514e178ddc9579520f53197bb0a573ebefe61c5b779d1c792b4c"
+  },
+  "kix.eauxr1xd15om": {
+    "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png",
+    "alt": "Figure B8",
+    "source": "Original figure file identified by the document author",
+    "sha256": "d10c27424fe6585a2b90238dff3ca4c1bac1d04c91355134ff4a40685a2aabc6",
+    "bytes": 628918,
+    "native_export_sha256": "45361d776f42731541ac986bb2ae35eecf3b1a85c62dd2ff09c6a0d7f85dd8e1"
+  },
+  "kix.8bh5npuhfyaz": {
+    "path": "replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png",
+    "alt": "Figure B8 (continued)",
+    "source": "Original figure file identified by the document author",
+    "sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
+    "bytes": 348598,
+    "native_export_sha256": "26a4318c4d325505ded70e9758b20a296d56a3120d55a2a957ca0370078c733d"
   }
 }

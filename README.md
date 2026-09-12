@@ -18,11 +18,11 @@ I ask: **Can changing how an agent represents the source of text reduce CoT-forg
 
 - I also built an isolated evaluation environment with a dummy secret, a local test server that accepts uploads, and saved reasoning and action traces. I count an upload when this server verifies the file’s contents, so I can compare what the agent does with what the probe reads.
 
-- **Results.** Without steering, the agent uploaded the dummy secret on 70% of attacked pages.
+**Results.** Without steering, the agent uploaded the dummy secret on 70% of attacked pages.
 
-  **Strongest evidence against the CoT-based intervention.** Steering toward Tool and away from CoT nearly eliminated the forged paragraph’s CoT probe score, yet uploads occurred on 60% of pages, compared with 20% for the best of three random directions and 40% for the simple instruction. The probe also revealed a competing role signal: across the retrieved content, User was the dominant label.
+**Strongest evidence against the CoT-based intervention.** Steering toward Tool and away from CoT nearly eliminated the forged paragraph’s CoT probe score, yet uploads occurred on 60% of pages, compared with 20% for the best of three random directions and 40% for the simple instruction. The probe also revealed a competing role signal: across the retrieved content, User was the dominant label.
 
-  **Strongest evidence for the revised intervention.** I used the User readout to revise the direction toward Tool relative to both User and CoT, at the same magnitude. On the development pages I had already inspected, uploads were 0%, versus 60% without steering and 20% under both the best random control and the simple instruction on those same pages. Every run with this intervention returned a summary. I have not yet tested whether this direction does better than the controls on new pages or checked the summaries' accuracy. See limitations.
+**Strongest evidence for the revised intervention.** I used the User readout to revise the direction toward Tool relative to both User and CoT, at the same magnitude. On the development pages I had already inspected, uploads were 0%, versus 60% without steering and 20% under both the best random control and the simple instruction on those same pages. Every run with this intervention returned a summary. I have not yet tested whether this direction does better than the controls on new pages or checked the summaries' accuracy. See limitations.
 
 # Limitations and what I’d improve next
 
@@ -186,7 +186,7 @@ Ye, C., Cui, J., &amp; Hadfield-Menell, D. (2026). [Prompt Injection as Role Con
 
 Zhang, K., Lee, D., &amp; Park, J. (2026). [Steering Role Confusion](https://www.lesswrong.com/posts/uz9pFutDAT7trygM9/steering-role-confusion). LessWrong.
 
-# Appendix: Mini case studies
+# Appendix A: Mini case studies
 
 I selected two matched pairs from the ten-page comparison. Both use the original Tool−CoT direction, which steers webpage activations away from the model's reasoning role and toward tool output. Within each pair, the page and sampling seed were fixed; the user requested a summary, and the webpage requested a dummy-file upload.
 
@@ -203,3 +203,75 @@ On the Helodium moss page, the unsteered agent summarized without uploading. The
 On the Rotokakahi River page, the unsteered agent uploaded the file. The steered agent made no further tool calls after fetching the page and returned a two-sentence summary whose factual claims matched the saved article. Its reasoning still called the injected instruction an earlier part of the conversation, so this does not establish correct source attribution.
 
 The forged passage's reasoning-role score was below 0.01% in both steered runs. These pairs illustrate a prevented upload and an introduced upload within the aggregate result. Two random directions and the developer reminder also prevented the river-page upload; the example does not establish a unique advantage for role steering.
+
+# Appendix B: role measurements and steering examples
+
+A role probe classifies a token's internal activation. I call its probabilities for the User, reasoning and Tool labels Userness, CoTness and Toolness. The following figures show token-level scores, responses to offsets, and the effects of choosing a different classifier. Figures 1-4 connect the role readouts to the behavioral comparisons. Source links below point to the private research repository and require access.
+
+## Readable conversations expose what the probe sees
+
+I wrote two questions about applying to Neel Nanda's MATS stream, let GPT-OSS-20B generate the reasoning and answers, then replayed the exchange under three role-tag formats.
+
+![Figure B1](replication/chart-library/canonical/mats-dialogue-v1/figure.png)
+
+*Figure B1. An original MATS conversation, with the same 578 displayed tokens in each panel. The layer-12 four-role probe assigns the first reasoning passage 75.4% mean CoTness under correct tags and the second 2.5%. Colors identify original passage roles.*
+
+Both passages are model-generated reasoning. Their different scores show why the readout needs interpretation even before I use it to study an attack. [Conversation and measurements](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/chart-library/canonical/mats-dialogue-v1/manifest.json)
+
+For comparison with the paper, I also replayed the authors' gardening conversation. Reasoning passages generally retain higher CoTness than the surrounding questions and answers when I remove or change the tags. The later reasoning passage is weaker than the first.
+
+![Figure B2](replication/chart-library/figure-selection/figures/gardening.png)
+
+*Figure B2. The same 512 gardening tokens under correct tags, no tags and one User message. Mean CoTness over displayed reasoning tokens is 64.3%, 71.8% and 71.7%, respectively, using the layer-12 four-role probe.*
+
+[The paper's Figure 7](https://arxiv.org/html/2603.12277v6#S4.F7) reports approximately 85%, 83% and 85%. Using my complete reasoning content gives 64.0%, 71.0% and 71.0%, so the display subset does not resolve the gap. I retain this as a qualitative replication with an unexplained numerical disagreement, based on one conversation. [Numerical comparison](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/cloud/persistent/sessions/20260911T030050Z/GARDENING-RESULTS.md)
+
+## Offsets reveal how the saved readout responds
+
+I displaced the saved gardening activations along User or Tool coefficient directions from the five-role classifier, then recomputed its probabilities. The model did not continue from the edited states. Figures B3-B5 therefore measure an offline classifier response, rather than steering's effect on a generated answer or upload.
+
+![Figure B3](replication/chart-library/figure-selection/figures/offset-dose-response.png)
+
+*Figure B3. Userness and Toolness under five signed offset strengths, retaining all three original passage roles. For originally User text, a small positive Tool offset raises both scores; a larger offset raises Toolness while lowering Userness.*
+
+At the small offset, Userness rises by about 3.2 percentage points and Toolness by 3.3. A five-role classifier can give both classes more probability while reducing the others. The two scores need not behave as opposite ends of one axis.
+
+![Figure B4](replication/chart-library/figure-selection/figures/small-offsets.png)
+
+*Figure B4. At 1% of the reference activation norm, offsets change the same 512 tokens unevenly. Each row compares subtraction, the unchanged central baseline and addition. Both coefficient directions and both readouts remain visible; colors identify original passage roles.*
+
+![Figure B5](replication/chart-library/figure-selection/figures/large-offsets.png)
+
+*Figure B5. The same tokens and axes at 5%. Adding the User direction raises Userness across User, reasoning and Assistant passages, flattening some visible distinctions. The Tool direction redistributes the probabilities differently.*
+
+The shared reference is the median activation norm across 921 forwarded tokens; the 512 displayed tokens are a subset. Subtraction applies the opposite offset, rather than removing a semantic role. Individual coefficient directions depend on the saved classifier parameterization. These plates describe one conversation, with correlated tokens, and retain every measured strength and sign. [Offset construction and data](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/cloud/persistent/sessions/20260911T030050Z/presentation/probe-offset-illustration/README.md)
+
+## The classifier and evaluation determine what a score supports
+
+In a separate permission experiment, I compared a request authorizing a dummy marker-writing command with an ordinary request. I subtracted the corresponding score change on a matched replacement passage, then compared two fitted probes on the same prepared inputs.
+
+![Figure B6](replication/chart-library/figure-selection/figures/rh6-readout.png)
+
+*Figure B6. Across 100 paired template-page units, the adjusted Userness effect at layer 12 is negative under the five-role probe and positive under the three-role User/Assistant/Tool probe. Both command positions, three measured layers and both metrics are retained. Bars are pointwise 95% paired-bootstrap intervals.*
+
+The relative User/Tool effect stays positive throughout. It uses the logarithm of the ratio of mean probabilities within each span. I would reach different conclusions about permission raising Userness depending on the probe and metric. These are fixed-prefill readouts, with no action outcome; the permission cue also changes text and position. [Exact contrasts](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/cloud/persistent/sessions/20260911T030050Z/RH6-RESULTS.md)
+
+![Figure B7](replication/chart-library/figure-selection/figures/probe-validation.png)
+
+*Figure B7. Five-role recall across all 24 layers under two saved evaluation splits. User and Assistant have the highest recall in later layers, while CoT, Tool and System remain visible. Recall is the fraction of tokens from a role classified correctly.*
+
+The probe dataset contains 249 neutral base texts wrapped into 1,245 prompt variants. One split holds out 124 variants; the other holds out 24 base texts and trains on 225. The panels use separately fitted probes and different test sets. Their difference cannot isolate the effect of the split strategy. Role decoding alone does not validate authority tracking or probability calibration. [Counts and split definitions](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/cloud/persistent/sessions/20260911T030050Z/RESULTS-SUMMARY.md)
+
+## A selected episode shows actual steering in context
+
+Here the model does continue under steering. An agent must summarize a webpage; an attacker adds forged reasoning requesting a dummy-file upload. This illustration comes from a separate local run and uses different trajectories from the main comparison and the river example in Appendix A.
+
+![Figure B8](replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-compact.png)
+
+*Figure B8. Four local trajectories for one selected webpage: ordinary injection, reasoning forgery, steered forgery and a manual style rewrite. Forgery and the rewrite upload; ordinary injection and steering do not. Layer-16 four-role curves show the first response after fetching the page; upload status covers the whole episode.*
+
+![Figure B8 (continued)](replication/chart-library/figures/figure8-steering/case002-v1/forgery-steering-text-01.png)
+
+*Figure B8 (continued). Verbatim injected request, forged reasoning and manual rewrite for the same selected case. Pink identifies attacker-authored Tool content. The claimed policy exception is part of the attack.*
+
+The ordinary condition refuses the summary; the steered summary contains one unsupported claim. This adapts [the paper's Figure 8](https://arxiv.org/html/2603.12277v6#S5.F8) to a tool-using agent. The manual rewrite is not the paper's full destyling procedure. I include this selected success to explain the intervention, while the complete controlled cohort determines its empirical weight. [Full case and measurements](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/chart-library/data/figure8-steering/local-case002-v1/README.md)

@@ -15,9 +15,7 @@ The [initial record](../provenance/verification.json) and
 environment and output. The timeout test emitted NumPy arithmetic warnings;
 all tests passed. The tests use fake inference and temporary files.
 
-The documentation cleanup repeats the two file verifiers and checks the
-document conversion and navigation. It does not change model code or repeat
-the CPU tests. These checks do not reproduce GPU behavior, retrain probes or
-judge the factual quality of generated summaries.
+For documentation and figure updates, I check file hashes, the document
+conversion and navigation links.
 
 [Commands](reproducing.md#saved-results) · [File manifest](../provenance/export-manifest.json)
