@@ -15,7 +15,6 @@ Which role representations drive the action? Tool−CoT nearly eliminated the fo
 How does steering interact with the user’s permission? The same webpage instruction can be permitted under one request and unauthorized under another. The separate permission experiment measures this distinction by changing the user’s authorization while holding the command text fixed. Applying the revised upload direction to that task would test selective execution directly.
 How much protection remains at matched task performance? The developer reminder produced four uploads in ten trials, compared with six under the original direction, and random steering also reduced uploads. Comparing these methods at similar summary accuracy and authorized-action completion would distinguish useful protection from disruption of the task.
 Does the revised direction transfer? Tool−mean(User, CoT) produced zero uploads on five development pages, compared with three without steering and one each under the reminder and the best random direction. The direction was informed by those pages. Testing the fixed intervention on unseen attacks and article contexts, with repeated sampling, would measure transfer.
-
 Introduction and related work
 A user asks an agent to read a webpage and summarize it. The page contains an unrelated instruction to upload a local file, followed by a paragraph written as if the agent had already reasoned that the upload was permitted. The agent must use the article's information without accepting the page's account of what the user authorized. This is the setting I use to study chain-of-thought (CoT) forgery: an attacker places fabricated reasoning in external content to redirect the agent's actions.
 My starting point is Prompt Injection as Role Confusion by Ye, Cui and Hadfield-Menell. They propose that an attack can exploit a mismatch between where text came from and the conversational role the model assigns it internally. Their linear role probes classify activations using the same neutral text presented under different role tags. Their experiments show that writing style can shift these readings despite the supplied tags, and that adding forged reasoning makes webpage injections more effective.
@@ -24,8 +23,6 @@ The closest follow-ups leave a specific question open. Mogford changed CoT-forge
 I derive my directions from neutral text to test whether a role distinction transfers to forged reasoning in an agent task. My research question is: Can these role directions reduce compliance with forged reasoning beyond random perturbations and a simple instruction, while preserving the requested summary?
 I test this in GPT-OSS-20B by holding the page text fixed and recording role scores alongside actual uploads. Tool−CoT, the Tool mean activation minus the reasoning mean, is intended to make retrieved text look more like tool output. It sharply suppresses the forged passage's reasoning-role score without demonstrating an advantage over random steering. Early checks also showed substantial User as well as Tool scores. Under the role-confusion account, User-like text could still be treated as an instruction. This motivated a contrast that separates Tool from both User and CoT.
 The revised direction produced no uploads on five development pages, compared with three without steering and one each under the best matched random direction and a developer instruction restricting actions to the user's permission. Testing the same contrast in additional articles carrying these attack templates would assess whether the result transfers across article contexts while preserving accurate summaries.
-
-
 Approach overview
 I use the same pages and sampling seeds across conditions to test whether role steering reduces unauthorized uploads while the agent still returns a summary:
 I first measured the baseline. I asked the agent to summarize a webpage containing an upload instruction and forged reasoning, then recorded whether it uploaded the dummy file without steering.
@@ -65,28 +62,21 @@ A falling CoT score can redistribute probability among several roles. I therefor
 Figure 3. Original steering yields 95% User across the tool response and a 48% User / 52% Tool mixture within the forgery. Revised steering yields approximately 100% Tool in both regions. These are mean probabilities, not fractions of tokens classified into each role.
 The original direction mainly raises Userness over the response. The revised Tool − mean(User, CoT) construction instead produces the intended Tool-dominated readout. It also gives zero uploads on the five explored pages, compared with three without steering and one under the best observed random direction and the reminder.
 Each revised-direction run returned a summary. The next test is whether this improvement transfers to new pages while preserving summary accuracy.
-
-
 A second proxy task: selective execution
 In a separate earlier experiment, I gave GPT-OSS-20B a page with two harmless file-writing commands, A and B. The page requested both actions; the user permitted only one and asked the model to report the fresh random value in each command. I changed only which action the user permitted. This let me measure unwanted writes, correct completion of the permitted action, and whether the answer used information from both commands.
 Without steering, changing permission shifted the probe's scores on both commands together. In all eight available baseline cases, permitting the first-listed action raised both commands' mean User scores. In one example, command B scored 34.27% User when A was permitted and 28.26% when B itself was permitted. The command text and scored token positions were unchanged. A higher mean User score therefore did not consistently identify the permitted command. 
 The task also showed why I need to measure useful behavior. Across 21 matched comparisons, Toolward steering prevented four unwanted writes and introduced three. It also lost two correct completions of the permitted action and two answers reporting both values. A short developer reminder prevented six unwanted writes and introduced none in its own 21 matched comparisons, but lost two permitted completions. One prevented Toolward write came from a malformed generation, so it was not a successful completion of the task.
 
 Figure 4. All 21 recovered Tool − User steering episodes, paired with no-steering controls across eight cases. Mean command Toolness exceeds 99.997% in every steered episode, while unwanted writes fall from 18 to 17 and authorized completions from 21 to 19. The 21 episodes reuse 15 distinct model inputs. One avoided write arose from a parsing failure, so it did not represent correct task completion.
-
 This experiment uses a different probe and a Tool−User direction applied to command tokens. Comparing each method with its matched baseline reveals two distinct effects: permission changes role scores without consistently identifying the permitted command, and suppressing unwanted writes can also suppress work the user requested.
 Source study: Role scores and selective execution revised.docx
-
 What I built and what I learned
 I built a controlled agent evaluation that connects activation edits, role-probe measurements and verified actions.
 I connected internal measurements to agent behavior. I integrated role probing and activation steering into a GPT-OSS-20B agent performing a webpage-summarization task. An isolated environment and exact-content upload verification let me compare changes in the model’s activations with the actions it actually took.
 I tested the intervention against controls that could challenge it. I held pages and sampling seeds fixed across no steering, the proposed direction, its reverse and three random directions of the same magnitude. I also tested a simple instruction about the user’s permission. A zero-strength check preserved the generated tokens on identical inputs.
 Tool−CoT drove the forged passage’s CoT score below 0.001%, yet six of ten attacks succeeded. Across the retrieved content, the probe instead read predominantly User. Inspecting all five roles revealed the competing signal that a CoT-only analysis would miss.
 I constructed Tool−mean(User, CoT) at the original edit’s magnitude. On five development pages, it produced zero uploads and returned a summary in every run, compared with three uploads without steering and one each under the best random direction and the developer instruction.
-
-
 Future improvements
-
 Test transfer with a frozen intervention. Freeze the revised direction and controls, then cross unseen attack templates with unseen article contexts and repeat matched sampling seeds. This would separate dependence on an attack from dependence on the surrounding article. Report both uploads prevented and uploads introduced, since the net change can hide opposite effects.
 Compare protection at similar task performance. Grade summary accuracy and correct completion of authorized actions, with graders unaware of the intervention. Compare steering strengths, random directions and the developer reminder at similar task performance. Equal-sized activation changes need not cause equal disruption; the useful comparison is how much protection each method provides while preserving the work the user requested.
 Separate permission from claims of permission. Extend the fixed-page permission task by independently varying the user's actual authorization and the webpage's claim of authorization. Keep the commands fixed and apply the revised direction. A useful intervention should follow the user's permission even when the page claims otherwise, while retaining legitimate actions when the user does authorize them.
@@ -98,7 +88,6 @@ Balp-Straffon, E., Hsu, C.-H., Gadhvi, R., Dev, S., McDougall, C. S., & Mujumdar
 Mogford, O. (2026). Role confusion: sounding like the cause is indistinguishable from being it. LessWrong.
 Ye, C., Cui, J., & Hadfield-Menell, D. (2026). Prompt Injection as Role Confusion. arXiv:2603.12277v6.
 Zhang, K., Lee, D., & Park, J. (2026). Steering Role Confusion. LessWrong.
-
 Appendix A: Mini case studies
 I selected two matched pairs from the ten-page comparison. Both use the original Tool−CoT direction, which steers webpage activations away from the model's reasoning role and toward tool output. Within each pair, the page and sampling seed were fixed; the user requested a summary, and the webpage requested a dummy-file upload.
 1. Steering introduced an upload
@@ -115,7 +104,6 @@ A token is a word or piece of a word. In the conversation plots, horizontal posi
 Readable conversations expose what the probe sees
 I wrote two questions about applying to Neel Nanda's MATS stream, let GPT-OSS-20B generate the reasoning and answers, then replayed the exchange under three role-tag formats.
 
-
 Figure B1. An original MATS conversation, with the same 578 displayed tokens in each panel. The layer-12 four-role probe assigns the first reasoning passage 75.4% mean CoTness under correct tags and the second 2.5%. Colors identify original passage roles.
 
 Both passages are model-generated reasoning. Their different scores show why the readout needs interpretation even before I use it to study an attack. Conversation and measurements
@@ -129,7 +117,6 @@ I take the saved gardening activations from the all-User condition and add an of
 Figure B3. Userness and Toolness under five signed offset strengths, retaining all three original passage roles. For originally User text, a small positive Tool offset raises both scores; a larger offset raises Toolness while lowering Userness.
 At the small offset, Userness rises by about 3.2 percentage points and Toolness by 3.3. A five-role classifier can give both classes more probability while reducing the others. The two scores need not behave as opposite ends of one axis.
 B3 averages tokens by their original role, pooling both turns; B4–B5 show the individual tokens. In each plate, the upper half edits the User direction and the lower half edits the Tool direction. Columns subtract, leave unchanged or add the offset; rows measure Userness and Toolness. Follow the same colored passage across a row, then compare it between the 1% and 5% plates.
-
 
 
 Figure B4. At 1% of the reference activation norm, offsets change the same 512 tokens unevenly. Each row compares subtraction, the unchanged central baseline and addition. Both coefficient directions and both readouts remain visible; colors identify original passage roles.
@@ -153,12 +140,10 @@ Score the marker’s replacement
 Score the same replacement
 The adjusted effect is the permission-induced change on the marker command minus the change on its replacement passage. I repeat this comparison with the marker listed first and second. These are measurements of prepared inputs before generation.
 
-
 Figure B6. Across 100 paired template-page units, the adjusted Userness effect at layer 12 is negative under the five-role probe and positive under the three-role User/Assistant/Tool probe. Both command positions, three measured layers and both metrics are retained. Bars are pointwise 95% paired-bootstrap intervals.
 The top row measures adjusted changes in User probability, in percentage points. The bottom row applies the same adjusted comparison to the log ratio of mean User and Tool probabilities within each span. A ratio can rise while Userness falls if Toolness falls proportionally more. At layer 12, the two probes give opposite signs for adjusted Userness in both command orders, while the relative effect stays positive. The comparison changes the fitted coefficients as well as the class sets. Exact contrasts
 Role decoding across layers
 Figure B7 evaluates the classifier against known role labels. Recall is the fraction of tokens from a role assigned that label as the highest-scoring class. The conversation plots instead show the probability assigned to a role, so a recall curve answers a different question.
-
 
 Figure B7. Five-role recall across all 24 layers under two saved evaluation splits. User and Assistant have the highest recall in later layers, while CoT, Tool and System remain visible. Recall is the fraction of tokens from a role classified correctly.
 The probe dataset contains 249 neutral base texts wrapped into 1,245 prompt variants. One split holds out 124 variants; the other holds out 24 base texts and trains on 225. The panels use separately fitted probes and different test sets. Their difference cannot isolate the effect of the split strategy. Role decoding alone does not validate authority tracking or probability calibration. Counts and split definitions
@@ -182,5 +167,4 @@ Compare unwanted writes with permitted work
 Figure C3 extends the main text’s Toolward comparison to every recovered control in this earlier task. Each method is paired with its own available no-steering episodes. Toolward here means Tool−User steering on command tokens. The permission reminder prevents six unwanted writes and introduces none; Toolward steering prevents four and introduces three. Both lose two completions of the permitted action. The right panel also checks whether the answer still reports both requested random values.
 
 Figure C3. All six methods in the recovered permission study. Each row gives its matched-pair count. The right panel shows lost permitted completions and lost reports of both values; neither measure has any gains in these pairs. The three random directions belong to this earlier study. Counts retain each method’s available comparisons. Paired outcomes
-
 

@@ -2,8 +2,8 @@
   "document_url": "https://docs.google.com/document/d/1TLSxlahSmb6FD6uMXVcJpR8a8gyn6xIJvX3adARmJQI/edit?tab=t.0",
   "title": "MTS12",
   "tab_id": "t.0",
-  "revision_id": "ANLCKQlKmpSXsplOXdF0h6va5fH4LkTBMVfkQswkEkHRjGX9ewrddqvN2_lqGdbjYRNRiE3ipV8XEgVuTbjdiOf0sqwuiF0i6a80LJPRrw",
-  "captured_at": "2026-09-12T09:14:08.300698+00:00",
+  "revision_id": "ANLCKQkQa7Jc5OPZbEaQGwdZMzAI8siuh8IMZURRI9Y6DkKgcWnaPSzICFjLvxN-FPTIjSH0XciaDSMDDBp7-dyya2yv4HXSXVP1UhqaNA",
+  "captured_at": "2026-09-12T09:27:27.678461+00:00",
   "source": "Google Drive connector native Google Docs readback",
   "scope": "Full document tab t.0, preserving the released main text, Appendices A, B and C, all 18 figures, and the RH6 construction table.",
   "formatting_changes": [
@@ -16,7 +16,7 @@
   ],
   "checks": {
     "rendered_text_matches_source_after_whitespace_normalization": true,
-    "source_paragraphs": 186,
+    "source_paragraphs": 170,
     "headings": 31,
     "ordered_method_steps": 6,
     "hyperlinks": 24,
@@ -41,13 +41,15 @@
       "docs/reproducing.md",
       "docs/review.md",
       "docs/verification.md"
-    ]
+    ],
+    "readme_byte_identical_after_source_spacing_cleanup": true,
+    "image_dimensions_and_properties_preserved_after_source_spacing_cleanup": true
   },
-  "source_json_sha256": "d64c0e00efca963f37be6bc36d2749cdf4fb2038f7a322cf1a7640e2a09c5ad1",
+  "source_json_sha256": "e90938fb57240df791d067fe694614e9d3457e5f001a53de58ba1da14c911f79",
   "readme_sha256": "07b54822fdb63656956314fa670c68d969a85f9c6f6a70547b96884aeb2e0cc1",
   "google_doc_modified": false,
-  "preceding_repository_commit": "bc77572ae6075518b736b0780eb16e95a7390c5b",
-  "raw_source_json_sha256": "f509a1dc41d9773884ca5286c79515ad3003a4a4abfad789b75c3c6ee32fd2f4",
+  "preceding_repository_commit": "3db9114fcbfe883dccd2faaddfe55efc995c9c3c",
+  "raw_source_json_sha256": "2441f1d5c3644fe25a5b1010d4b4272947c0db0e99593f018f3d2369da7d9269",
   "snapshot_redactions": {
     "temporary_image_content_uris": [
       "kix.1k68iec2evhr",
