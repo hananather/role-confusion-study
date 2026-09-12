@@ -265,7 +265,7 @@ The adjusted effect is the permission-induced change on the marker command minus
 
 *Figure B6. Across 100 paired template-page units, the adjusted Userness effect at layer 12 is negative under the five-role probe and positive under the three-role User/Assistant/Tool probe. Both command positions, three measured layers and both metrics are retained. Bars are pointwise 95% paired-bootstrap intervals.*
 
-The top row measures adjusted changes in User probability, in percentage points. The bottom row measures the log ratio of mean User and Tool probabilities within each span. This relative score can rise while Userness falls, if Toolness falls more. At layer 12, the two probes give opposite signs for adjusted Userness in both command orders, while the relative effect stays positive. The comparison changes the fitted coefficients as well as the class sets. [Exact contrasts](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/cloud/persistent/sessions/20260911T030050Z/RH6-RESULTS.md)
+The top row measures adjusted changes in User probability, in percentage points. The bottom row applies the same adjusted comparison to the log ratio of mean User and Tool probabilities within each span. A ratio can rise while Userness falls if Toolness falls proportionally more. At layer 12, the two probes give opposite signs for adjusted Userness in both command orders, while the relative effect stays positive. The comparison changes the fitted coefficients as well as the class sets. [Exact contrasts](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/cloud/persistent/sessions/20260911T030050Z/RH6-RESULTS.md)
 
 ## Role decoding across layers
 
@@ -290,3 +290,29 @@ An agent must summarize a webpage; an attacker adds forged reasoning requesting 
 *Figure B8 (continued). Verbatim injected request, forged reasoning and manual rewrite for the same selected case. Pink identifies attacker-authored Tool content. The claimed policy exception is part of the attack.*
 
 The ordinary condition refuses the summary; the steered summary contains one unsupported claim. This adapts [the paper's Figure 8](https://arxiv.org/html/2603.12277v6#S5.F8) to a tool-using agent. The manual rewrite is not the paper's full destyling procedure. I include this selected success to explain the intervention, while the complete controlled cohort determines its empirical weight. [Full case and measurements](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/chart-library/data/figure8-steering/local-case002-v1/README.md)
+
+# Appendix C: complete paired comparisons
+
+## The original vector changes three of ten outcomes
+
+The aggregate upload rate falls from 7/10 to 6/10 under the original Tool−CoT vector. Figure C1 shows how that net change arises: steering prevents uploads on H1 and H3, introduces one on H2, and leaves the other seven outcomes unchanged. Read down a column to compare interventions on the same webpage and sampling seed.
+
+![Figure C1](replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png)
+
+*Figure C1. All 80 recorded forgery episodes on ten webpages, which reuse five attack templates. Each arm/page has one sampled trajectory. Pink means a verified upload and green means no upload; unresolved, unrun and unassigned cells are marked separately. The revised Tool−mean(User, CoT) direction has five completed development-page runs.* [*Page-by-page records*](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv)
+
+## Permission can lower the selected command’s User score
+
+In the earlier selective-execution task, a page contains two file-writing commands, A and B. The user permits one command and asks the model to report the fresh random values in both. I hold the page and scored tokens fixed while switching permission between A and B. For each command, Figure C2 subtracts its User score when unselected from its score when selected. Positive values mean that permission raises that command’s score.
+
+![Figure C2](replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png)
+
+*Figure C2. All eight available baseline cases, measured with the layer-14 five-role probe. The whole-command score rises for the first-listed command and falls for the second-listed command in every case. The post-hoc action-label view gives a negative contrast for 15 of 16 commands. Circles and squares identify page position; A→B and B→A give the original command order. The readout depends on which token span is scored as well as the surrounding request.* [*Score contrasts*](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/earlier-study/figures/selection-contrasts.csv)
+
+## Compare unwanted writes with permitted work
+
+Figure C3 extends the main text’s Toolward comparison to every recovered control in this earlier task. Each method is paired with its own available no-steering episodes. Toolward here means Tool−User steering on command tokens. The permission reminder prevents six unwanted writes and introduces none; Toolward steering prevents four and introduces three. Both lose two completions of the permitted action. The right panel also checks whether the answer still reports both requested random values.
+
+![Figure C3](replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png)
+
+*Figure C3. All six methods in the recovered permission study. Each row gives its matched-pair count. The right panel shows lost permitted completions and lost reports of both values; neither measure has any gains in these pairs. The three random directions belong to this earlier study. Counts retain each method’s available comparisons.* [*Paired outcomes*](https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/earlier-study/figures/paired-behavior.csv)

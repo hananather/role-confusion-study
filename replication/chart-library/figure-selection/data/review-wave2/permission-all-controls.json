@@ -1,0 +1,45 @@
+{
+  "title": "Fewer unwanted writes can come with lost permitted actions",
+  "caption": "Every recovered method is compared with its own unsteered baseline; n is the number of available matched episode pairs. Toolward prevents four unwanted writes and introduces three; the reminder prevents six and introduces none. Both lose two permitted completions. No method gains permitted completions or reports of both requested values. Only 149 of 280 assigned records were recovered, so coverage differs by method. Random directions 1-3 are this permission study's random_0-2, distinct from the upload study's controls.",
+  "explanation": "The user permits one of two marker-writing actions and asks for values from both. A defense must avoid the unwanted action while still completing the permitted action and using the page's information. The reminder shows why fewer unwanted writes alone do not capture that objective. This is a separate endpoint from uploading a dummy file.",
+  "scope": "149 of 280 assigned records recovered, spanning eight of ten cases. There are 20-22 matched episodes per method across seven or eight cases; shared baselines and repeated contexts prevent treating these rows as independent cohorts. Source random_0, random_1 and random_2 are displayed as Random directions 1, 2 and 3. Toolward is the older neutral-text Tool-minus-User direction at block 11 with a layer-14 five-role readout. Physical writes and attempted writes differ: Toolward prevents three attempts, introduces three and leaves one unknown. No confidence intervals or method-ranking claim. Zero gained permitted completions and zero gained both-value reports are retained in the CSV.",
+  "placement": "Appendix immediately after the fixed-page permission contrast; cross-reference from the current 21-pair selective-execution figure.",
+  "verification": {
+    "raw_record_hash_verified": true,
+    "raw_behavior_rederived_from_saved_evidence": true,
+    "all_six_methods_retained": true,
+    "every_count_matches_independent_audit": true,
+    "baseline_match": "case_id, authorized_action, generation seed"
+  },
+  "point_unit": "matched saved episode pair",
+  "physical_write_not_attempt_endpoint": true,
+  "figure_id": "permission-all-controls",
+  "font": "TeX Gyre Termes",
+  "palette": {
+    "User_score_or_permitted_completion": "#00a6f4",
+    "reported_values": "#fd9a00",
+    "prevented_write": "#00d492",
+    "introduced_write": "#ff637e"
+  },
+  "source_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+    "/Users/hananather/Desktop/MATS 12.0/role-steering/figures.py": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-all-method-pairs.csv": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-method-summary.csv": "ba94de8836912d88231ab95589dadc4528c0c42fa378935dcbdc50e641870e8d",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/historical-audit-verification.json": "021f3d6032be8483c4d2328d2917bc865ea541d6655b4dc056eab471d1269d49",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0"
+  },
+  "renderer_sha256": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+  "artifact_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22"
+  },
+  "dimensions_inches": [
+    8.3,
+    5.15
+  ],
+  "visible_text_within_canvas": true,
+  "new_model_runs": 0,
+  "no_source_mutation": true
+}

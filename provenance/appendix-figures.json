@@ -1224,5 +1224,2542 @@
     "raw_trajectory_set_and_hashes_unchanged": true,
     "unrelated_upload_outcomes_files_refreshed": false
   },
-  "captured_at": "2026-09-12T08:46:15.500834+00:00"
+  "captured_at": "2026-09-12T08:46:15.500834+00:00",
+  "appendix_c": {
+    "captured_at": "2026-09-12T09:15:38.622630+00:00",
+    "document_revision": "ANLCKQlKmpSXsplOXdF0h6va5fH4LkTBMVfkQswkEkHRjGX9ewrddqvN2_lqGdbjYRNRiE3ipV8XEgVuTbjdiOf0sqwuiF0i6a80LJPRrw",
+    "preceding_repository_commit": "bc77572ae6075518b736b0780eb16e95a7390c5b",
+    "files": [
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png",
+        "source_sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+        "sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+        "bytes": 341753,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.pdf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.pdf",
+        "source_sha256": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+        "sha256": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+        "bytes": 24148,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.svg",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.svg",
+        "source_sha256": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+        "sha256": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+        "bytes": 152055,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png",
+        "source_sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+        "sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+        "bytes": 253257,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf",
+        "source_sha256": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+        "sha256": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+        "bytes": 25498,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg",
+        "source_sha256": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+        "sha256": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+        "bytes": 130569,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png",
+        "source_sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+        "sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+        "bytes": 262977,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf",
+        "source_sha256": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+        "sha256": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+        "bytes": 21533,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg",
+        "source_sha256": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+        "sha256": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+        "bytes": 126911,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+        "source_sha256": "90e28c01b39a6c8c553e3bf8df814741ef14f61ceb440f15a7e613696c0cf2e5",
+        "sha256": "f665e0fb0866c40d2735b750333d7237d11421b7c2affe28bb02b41f7eccbde2",
+        "bytes": 9340,
+        "action": "input-path fallback"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/render_permission_extensions.py",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_permission_extensions.py",
+        "source_sha256": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+        "sha256": "690123665d75193d07eb952d80de182c33db41ce34003c9d322321c5bbdf8c72",
+        "bytes": 15536,
+        "action": "input-path fallback"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-grid.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-grid.csv",
+        "source_sha256": "55a16dc146104f87485d77b15b3b97d8a5f9d9cc7b94114f034118a78073c138",
+        "sha256": "55a16dc146104f87485d77b15b3b97d8a5f9d9cc7b94114f034118a78073c138",
+        "bytes": 10037,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-source.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-source.csv",
+        "source_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "bytes": 46966,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-provenance.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-provenance.json",
+        "source_sha256": "e54abb7fa419a32632bc6e57b3321c841ba41fe3c4b168405563ba9e92bcb0b8",
+        "sha256": "e54abb7fa419a32632bc6e57b3321c841ba41fe3c4b168405563ba9e92bcb0b8",
+        "bytes": 2059,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv",
+        "source_sha256": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+        "sha256": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+        "bytes": 466,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.json",
+        "source_sha256": "f8ad8455d64533811102604aa1d84d631d98c33931121628a1a031459205bc90",
+        "sha256": "f8ad8455d64533811102604aa1d84d631d98c33931121628a1a031459205bc90",
+        "bytes": 4445,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/review-wave2/permission-all-method-pairs.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-method-pairs.csv",
+        "source_sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+        "sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+        "bytes": 58155,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/review-wave2/permission-original-provenance.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-original-provenance.json",
+        "source_sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+        "sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+        "bytes": 1877,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv",
+        "source_sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "bytes": 1770,
+        "action": "copied"
+      },
+      {
+        "path": "replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.json",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.json",
+        "source_sha256": "20e9412bf3704d6bfbaa7a022eba0e80a275db4d3844f93a89f9b7eca55e392b",
+        "sha256": "20e9412bf3704d6bfbaa7a022eba0e80a275db4d3844f93a89f9b7eca55e392b",
+        "bytes": 3842,
+        "action": "copied"
+      }
+    ],
+    "existing_dependencies": [
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-regular.ttf",
+        "repo_relative_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-regular.ttf",
+        "role": "shared font required by both renderers",
+        "source_exists": true,
+        "source_bytes": 277560,
+        "source_sha256": "544c4cc2e61cb9ca287d4826e736e809a129e1301517d23c9e205ac8896e9a3d",
+        "repo_exists": true,
+        "repo_bytes": 277560,
+        "repo_sha256": "544c4cc2e61cb9ca287d4826e736e809a129e1301517d23c9e205ac8896e9a3d",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-bold.ttf",
+        "repo_relative_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-bold.ttf",
+        "role": "shared font required by both renderers",
+        "source_exists": true,
+        "source_bytes": 269820,
+        "source_sha256": "99e9829fc46ef8eac4fc93f4452eeb334ea7ff1933fea27059455ab15c978add",
+        "repo_exists": true,
+        "repo_bytes": 269820,
+        "repo_sha256": "99e9829fc46ef8eac4fc93f4452eeb334ea7ff1933fea27059455ab15c978add",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-italic.ttf",
+        "repo_relative_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-italic.ttf",
+        "role": "shared font required by both renderers",
+        "source_exists": true,
+        "source_bytes": 288892,
+        "source_sha256": "3dbdabacb0e2639d2f2b513a9c717693de2bb54e0f4ce9011378fa57870869d9",
+        "repo_exists": true,
+        "repo_bytes": 288892,
+        "repo_sha256": "3dbdabacb0e2639d2f2b513a9c717693de2bb54e0f4ce9011378fa57870869d9",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/fonts/termes-ttf/texgyretermes-bolditalic.ttf",
+        "repo_relative_path": "replication/chart-library/fonts/termes-ttf/texgyretermes-bolditalic.ttf",
+        "role": "shared font required by both renderers",
+        "source_exists": true,
+        "source_bytes": 293248,
+        "source_sha256": "8e05a89e2ee1191f8c89ca749ba516511c096e0cfa49c2e5ab1d7478a9a8dc52",
+        "repo_exists": true,
+        "repo_bytes": 293248,
+        "repo_sha256": "8e05a89e2ee1191f8c89ca749ba516511c096e0cfa49c2e5ab1d7478a9a8dc52",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv",
+        "repo_relative_path": "replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv",
+        "role": "C1 input table",
+        "source_exists": true,
+        "source_bytes": 46966,
+        "source_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "repo_exists": true,
+        "repo_bytes": 46966,
+        "repo_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1755968,
+        "source_sha256": "7fdc5c325f52959ab02f9d3ade388b7d96f24e845244140c8a30a5b0c95e24c1",
+        "repo_exists": true,
+        "repo_bytes": 1755968,
+        "repo_sha256": "7fdc5c325f52959ab02f9d3ade388b7d96f24e845244140c8a30a5b0c95e24c1",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 2771314,
+        "source_sha256": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09",
+        "repo_exists": true,
+        "repo_bytes": 2771314,
+        "repo_sha256": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1777460,
+        "source_sha256": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520",
+        "repo_exists": true,
+        "repo_bytes": 1777460,
+        "repo_sha256": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1793183,
+        "source_sha256": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2",
+        "repo_exists": true,
+        "repo_bytes": 1793183,
+        "repo_sha256": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 760950,
+        "source_sha256": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08",
+        "repo_exists": true,
+        "repo_bytes": 760950,
+        "repo_sha256": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 792508,
+        "source_sha256": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e",
+        "repo_exists": true,
+        "repo_bytes": 792508,
+        "repo_sha256": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/000-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/000-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1731435,
+        "source_sha256": "4859541c0072d02334d63bfe11147f4e4b49148d5f4fab20ac252fc881c589ea",
+        "repo_exists": true,
+        "repo_bytes": 1731435,
+        "repo_sha256": "4859541c0072d02334d63bfe11147f4e4b49148d5f4fab20ac252fc881c589ea",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/000-forgery/tool_raising_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/000-forgery/tool_raising_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 804514,
+        "source_sha256": "1b5c5757b21604ac292496aec18c2ff2b50e926d4112f5f9cb246abedfc5454a",
+        "repo_exists": true,
+        "repo_bytes": 804514,
+        "repo_sha256": "1b5c5757b21604ac292496aec18c2ff2b50e926d4112f5f9cb246abedfc5454a",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1757951,
+        "source_sha256": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078",
+        "repo_exists": true,
+        "repo_bytes": 1757951,
+        "repo_sha256": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 731764,
+        "source_sha256": "9e45c9bbbd998bbbe1918e8f1300fdd450162a6e7c41474da7f6546d537a87bf",
+        "repo_exists": true,
+        "repo_bytes": 731764,
+        "repo_sha256": "9e45c9bbbd998bbbe1918e8f1300fdd450162a6e7c41474da7f6546d537a87bf",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 2283075,
+        "source_sha256": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58",
+        "repo_exists": true,
+        "repo_bytes": 2283075,
+        "repo_sha256": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 732629,
+        "source_sha256": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1",
+        "repo_exists": true,
+        "repo_bytes": 732629,
+        "repo_sha256": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 817942,
+        "source_sha256": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86",
+        "repo_exists": true,
+        "repo_bytes": 817942,
+        "repo_sha256": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 734137,
+        "source_sha256": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3",
+        "repo_exists": true,
+        "repo_bytes": 734137,
+        "repo_sha256": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1771940,
+        "source_sha256": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba",
+        "repo_exists": true,
+        "repo_bytes": 1771940,
+        "repo_sha256": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/001-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/001-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 738032,
+        "source_sha256": "13f49a877fb6608b5dc2b1ed98a7b690d88338a36e12f7ff59153fb94f1ae196",
+        "repo_exists": true,
+        "repo_bytes": 738032,
+        "repo_sha256": "13f49a877fb6608b5dc2b1ed98a7b690d88338a36e12f7ff59153fb94f1ae196",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/001-forgery/tool_raising_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/001-forgery/tool_raising_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 737810,
+        "source_sha256": "027cd279775be6e1ec23b7b5de15767ddd8c498d3d33274169c73fa8c095ca68",
+        "repo_exists": true,
+        "repo_bytes": 737810,
+        "repo_sha256": "027cd279775be6e1ec23b7b5de15767ddd8c498d3d33274169c73fa8c095ca68",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 732432,
+        "source_sha256": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422",
+        "repo_exists": true,
+        "repo_bytes": 732432,
+        "repo_sha256": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1946439,
+        "source_sha256": "cb83d6dc6bf1babe17e7f775510c218caa8ec3df896b77c5d8e18e2d67434ed2",
+        "repo_exists": true,
+        "repo_bytes": 1946439,
+        "repo_sha256": "cb83d6dc6bf1babe17e7f775510c218caa8ec3df896b77c5d8e18e2d67434ed2",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1081255,
+        "source_sha256": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0",
+        "repo_exists": true,
+        "repo_bytes": 1081255,
+        "repo_sha256": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 638420,
+        "source_sha256": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3",
+        "repo_exists": true,
+        "repo_bytes": 638420,
+        "repo_sha256": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1519015,
+        "source_sha256": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c",
+        "repo_exists": true,
+        "repo_bytes": 1519015,
+        "repo_sha256": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1934120,
+        "source_sha256": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f",
+        "repo_exists": true,
+        "repo_bytes": 1934120,
+        "repo_sha256": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 661108,
+        "source_sha256": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c",
+        "repo_exists": true,
+        "repo_bytes": 661108,
+        "repo_sha256": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/002-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/002-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 634709,
+        "source_sha256": "d70698185d3d90bf036a8096f65b454d2f65b6c7a44e54e016cd8ff11980dbc5",
+        "repo_exists": true,
+        "repo_bytes": 634709,
+        "repo_sha256": "d70698185d3d90bf036a8096f65b454d2f65b6c7a44e54e016cd8ff11980dbc5",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/002-forgery/tool_raising_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/002-forgery/tool_raising_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 643374,
+        "source_sha256": "483d7380c376606492bc9db6426dd8474a612db1b9c83048942a80097da9f265",
+        "repo_exists": true,
+        "repo_bytes": 643374,
+        "repo_sha256": "483d7380c376606492bc9db6426dd8474a612db1b9c83048942a80097da9f265",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1954430,
+        "source_sha256": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9",
+        "repo_exists": true,
+        "repo_bytes": 1954430,
+        "repo_sha256": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1698025,
+        "source_sha256": "f4e36165a3410e61adfb126e2237016c744fe3a4ddabe0309b3be1e8fb6f7467",
+        "repo_exists": true,
+        "repo_bytes": 1698025,
+        "repo_sha256": "f4e36165a3410e61adfb126e2237016c744fe3a4ddabe0309b3be1e8fb6f7467",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 721133,
+        "source_sha256": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68",
+        "repo_exists": true,
+        "repo_bytes": 721133,
+        "repo_sha256": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 736425,
+        "source_sha256": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869",
+        "repo_exists": true,
+        "repo_bytes": 736425,
+        "repo_sha256": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 733797,
+        "source_sha256": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e",
+        "repo_exists": true,
+        "repo_bytes": 733797,
+        "repo_sha256": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1687651,
+        "source_sha256": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880",
+        "repo_exists": true,
+        "repo_bytes": 1687651,
+        "repo_sha256": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1710584,
+        "source_sha256": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b",
+        "repo_exists": true,
+        "repo_bytes": 1710584,
+        "repo_sha256": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/003-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/003-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 716699,
+        "source_sha256": "d097d9ec75a420ca23b590a7d8cd25d547095886f1c46a9981787d3141374661",
+        "repo_exists": true,
+        "repo_bytes": 716699,
+        "repo_sha256": "d097d9ec75a420ca23b590a7d8cd25d547095886f1c46a9981787d3141374661",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/003-forgery/tool_raising_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/003-forgery/tool_raising_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 723187,
+        "source_sha256": "9a2ef382ace146788ab229e53821aa89af73f2c63bc5ada2ab85c265877ee1e3",
+        "repo_exists": true,
+        "repo_bytes": 723187,
+        "repo_sha256": "9a2ef382ace146788ab229e53821aa89af73f2c63bc5ada2ab85c265877ee1e3",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1699995,
+        "source_sha256": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43",
+        "repo_exists": true,
+        "repo_bytes": 1699995,
+        "repo_sha256": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 677199,
+        "source_sha256": "f5a88862c5fb1717a7dd51c47b820fbf42eb52b14e8fccb5fe1b2c4e76f9d216",
+        "repo_exists": true,
+        "repo_bytes": 677199,
+        "repo_sha256": "f5a88862c5fb1717a7dd51c47b820fbf42eb52b14e8fccb5fe1b2c4e76f9d216",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1623056,
+        "source_sha256": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11",
+        "repo_exists": true,
+        "repo_bytes": 1623056,
+        "repo_sha256": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 676410,
+        "source_sha256": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9",
+        "repo_exists": true,
+        "repo_bytes": 676410,
+        "repo_sha256": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1641295,
+        "source_sha256": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1",
+        "repo_exists": true,
+        "repo_bytes": 1641295,
+        "repo_sha256": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 677223,
+        "source_sha256": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977",
+        "repo_exists": true,
+        "repo_bytes": 677223,
+        "repo_sha256": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 681819,
+        "source_sha256": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2",
+        "repo_exists": true,
+        "repo_bytes": 681819,
+        "repo_sha256": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/004-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/004-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 674450,
+        "source_sha256": "2fa93651f47669a8c690e2099bc6ce6ff62fe98efdcd6767c0690e0bf6d94649",
+        "repo_exists": true,
+        "repo_bytes": 674450,
+        "repo_sha256": "2fa93651f47669a8c690e2099bc6ce6ff62fe98efdcd6767c0690e0bf6d94649",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/004-forgery/tool_raising_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/004-forgery/tool_raising_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 697192,
+        "source_sha256": "f804ac2de09914570bc40ca622ac516efc4713460b2194d11d619ca04cb5f315",
+        "repo_exists": true,
+        "repo_bytes": 697192,
+        "repo_sha256": "f804ac2de09914570bc40ca622ac516efc4713460b2194d11d619ca04cb5f315",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 677870,
+        "source_sha256": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58",
+        "repo_exists": true,
+        "repo_bytes": 677870,
+        "repo_sha256": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1567559,
+        "source_sha256": "a7cde9a5105d06601468188cdba13bf9d4d79ea48f3dfb5e442e27652a5bddf1",
+        "repo_exists": true,
+        "repo_bytes": 1567559,
+        "repo_sha256": "a7cde9a5105d06601468188cdba13bf9d4d79ea48f3dfb5e442e27652a5bddf1",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 658935,
+        "source_sha256": "e2aa44f77d7f2fc41d625bc49d7bff63b3b6a8ce73a0f81385689eae85c22551",
+        "repo_exists": true,
+        "repo_bytes": 658935,
+        "repo_sha256": "e2aa44f77d7f2fc41d625bc49d7bff63b3b6a8ce73a0f81385689eae85c22551",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1566864,
+        "source_sha256": "d741998c4d3c94a1bfc32ddd57d5554b428b848cea081fd5c6134f7807fda75d",
+        "repo_exists": true,
+        "repo_bytes": 1566864,
+        "repo_sha256": "d741998c4d3c94a1bfc32ddd57d5554b428b848cea081fd5c6134f7807fda75d",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1587131,
+        "source_sha256": "32ec8fbfc526f71f4c8c02c296aabde3c3c09824a5a00715f718870d09ee7d81",
+        "repo_exists": true,
+        "repo_bytes": 1587131,
+        "repo_sha256": "32ec8fbfc526f71f4c8c02c296aabde3c3c09824a5a00715f718870d09ee7d81",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1108058,
+        "source_sha256": "f8b6598230784c4b6f45ff4842c579d772ac9dce16a853971bee142831ce9f15",
+        "repo_exists": true,
+        "repo_bytes": 1108058,
+        "repo_sha256": "f8b6598230784c4b6f45ff4842c579d772ac9dce16a853971bee142831ce9f15",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 3658359,
+        "source_sha256": "ede5305976b551ced2c2334576c44db195197c4c724b853dc15aba7304903c31",
+        "repo_exists": true,
+        "repo_bytes": 3658359,
+        "repo_sha256": "ede5305976b551ced2c2334576c44db195197c4c724b853dc15aba7304903c31",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-000-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-000-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1600345,
+        "source_sha256": "7ab8b9063421a31e94aa6234edc98cda5f934909db5d4b9e4bdf3252f107733d",
+        "repo_exists": true,
+        "repo_bytes": 1600345,
+        "repo_sha256": "7ab8b9063421a31e94aa6234edc98cda5f934909db5d4b9e4bdf3252f107733d",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 656416,
+        "source_sha256": "c88b6658223c9204a10b87fe1d4b47f7cfe59bde265c7504f37b407280103420",
+        "repo_exists": true,
+        "repo_bytes": 656416,
+        "repo_sha256": "c88b6658223c9204a10b87fe1d4b47f7cfe59bde265c7504f37b407280103420",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 658334,
+        "source_sha256": "e6199aa888ff0265e1a45fdd3969370001bc0bad4c714a7fae61aea0e84c514f",
+        "repo_exists": true,
+        "repo_bytes": 658334,
+        "repo_sha256": "e6199aa888ff0265e1a45fdd3969370001bc0bad4c714a7fae61aea0e84c514f",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 666713,
+        "source_sha256": "1f70f7662aa0eb0bfc6d0261f3415d2cb1e9db86b6d6ed654b01edaceab9de5d",
+        "repo_exists": true,
+        "repo_bytes": 666713,
+        "repo_sha256": "1f70f7662aa0eb0bfc6d0261f3415d2cb1e9db86b6d6ed654b01edaceab9de5d",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 659959,
+        "source_sha256": "c0fd13248b0f123668ac3153caa8e40d91cfc4ad7fbb0615fce3f8549cbe489d",
+        "repo_exists": true,
+        "repo_bytes": 659959,
+        "repo_sha256": "c0fd13248b0f123668ac3153caa8e40d91cfc4ad7fbb0615fce3f8549cbe489d",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1568803,
+        "source_sha256": "ac8a635a9adae1fd6055b9cf7c755666fce9f6994eb66383be1934c75cc83de6",
+        "repo_exists": true,
+        "repo_bytes": 1568803,
+        "repo_sha256": "ac8a635a9adae1fd6055b9cf7c755666fce9f6994eb66383be1934c75cc83de6",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 658910,
+        "source_sha256": "d8d32be96aeb79af7124616331019d08c0d22645fe6d9ea087a05a61edf8d547",
+        "repo_exists": true,
+        "repo_bytes": 658910,
+        "repo_sha256": "d8d32be96aeb79af7124616331019d08c0d22645fe6d9ea087a05a61edf8d547",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-001-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-001-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1610627,
+        "source_sha256": "a747ee593e8c53bb3010c83122df1742ee6418b260f0dfabd81044ce979d13dd",
+        "repo_exists": true,
+        "repo_bytes": 1610627,
+        "repo_sha256": "a747ee593e8c53bb3010c83122df1742ee6418b260f0dfabd81044ce979d13dd",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1820935,
+        "source_sha256": "ba3776c868182f44df8f90165d669dc43f34c056edf9c10ae7277edfe131be9d",
+        "repo_exists": true,
+        "repo_bytes": 1820935,
+        "repo_sha256": "ba3776c868182f44df8f90165d669dc43f34c056edf9c10ae7277edfe131be9d",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 2352479,
+        "source_sha256": "6b21ec400ebb575b1b350943f9de6cf65b087d4f01283efd56a26668fe169152",
+        "repo_exists": true,
+        "repo_bytes": 2352479,
+        "repo_sha256": "6b21ec400ebb575b1b350943f9de6cf65b087d4f01283efd56a26668fe169152",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 776404,
+        "source_sha256": "8e3d29ab7c34f2f7961c204f0b308f1afd552788a1698f1e82fe0766b0d1900a",
+        "repo_exists": true,
+        "repo_bytes": 776404,
+        "repo_sha256": "8e3d29ab7c34f2f7961c204f0b308f1afd552788a1698f1e82fe0766b0d1900a",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 769176,
+        "source_sha256": "caf068bbef278c0f37e996e881c9c666221bbaefd85faa6d1d2d00cf7930db63",
+        "repo_exists": true,
+        "repo_bytes": 769176,
+        "repo_sha256": "caf068bbef278c0f37e996e881c9c666221bbaefd85faa6d1d2d00cf7930db63",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 801480,
+        "source_sha256": "eb4bfba91c6b89fbdfcc9cbef6b87633f0d14cd5c3ab2c2e51eb53b357a28675",
+        "repo_exists": true,
+        "repo_bytes": 801480,
+        "repo_sha256": "eb4bfba91c6b89fbdfcc9cbef6b87633f0d14cd5c3ab2c2e51eb53b357a28675",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1834489,
+        "source_sha256": "a19e4f6f504da0d297c8480943ec2a9b4a6e4f0d56ee39521c1d362f1059c44a",
+        "repo_exists": true,
+        "repo_bytes": 1834489,
+        "repo_sha256": "a19e4f6f504da0d297c8480943ec2a9b4a6e4f0d56ee39521c1d362f1059c44a",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-002-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-002-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 747896,
+        "source_sha256": "42ce0c725359efc4aa51e99466a3d29026a059298184e5f0b728f83d9383dd60",
+        "repo_exists": true,
+        "repo_bytes": 747896,
+        "repo_sha256": "42ce0c725359efc4aa51e99466a3d29026a059298184e5f0b728f83d9383dd60",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 2044293,
+        "source_sha256": "0b4c640c92f0b6f524b4aa2d4c82b892d0bc16f7484f31c481acef95d2db214a",
+        "repo_exists": true,
+        "repo_bytes": 2044293,
+        "repo_sha256": "0b4c640c92f0b6f524b4aa2d4c82b892d0bc16f7484f31c481acef95d2db214a",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 842351,
+        "source_sha256": "e54242fa21344e42ebfacc6553c9c16a862d21d3763b00131444e674bce7337e",
+        "repo_exists": true,
+        "repo_bytes": 842351,
+        "repo_sha256": "e54242fa21344e42ebfacc6553c9c16a862d21d3763b00131444e674bce7337e",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 844138,
+        "source_sha256": "d1e30970272aa96bb85b38475e6674771376d0ee708c594d825f88e01ed2ae29",
+        "repo_exists": true,
+        "repo_bytes": 844138,
+        "repo_sha256": "d1e30970272aa96bb85b38475e6674771376d0ee708c594d825f88e01ed2ae29",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 840509,
+        "source_sha256": "0e821511375491c03f973d1e74f9fa060fa90fba616bda70ae22a56e9eea1860",
+        "repo_exists": true,
+        "repo_bytes": 840509,
+        "repo_sha256": "0e821511375491c03f973d1e74f9fa060fa90fba616bda70ae22a56e9eea1860",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 2637015,
+        "source_sha256": "d0fcd3297196ee5f02e4d590c9f62ac80e6996a1bb6fab5149d5878587f186af",
+        "repo_exists": true,
+        "repo_bytes": 2637015,
+        "repo_sha256": "d0fcd3297196ee5f02e4d590c9f62ac80e6996a1bb6fab5149d5878587f186af",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 2034911,
+        "source_sha256": "2431e00c0ad8948d4576087e37b343f6edb20ef96b73fc8b85d2196814cc4428",
+        "repo_exists": true,
+        "repo_bytes": 2034911,
+        "repo_sha256": "2431e00c0ad8948d4576087e37b343f6edb20ef96b73fc8b85d2196814cc4428",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-003-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-003-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 3244862,
+        "source_sha256": "fefd0b5e2a9c16af3286dc94c44069dd8c3320854fe8bc3aea8f89868420a88f",
+        "repo_exists": true,
+        "repo_bytes": 3244862,
+        "repo_sha256": "fefd0b5e2a9c16af3286dc94c44069dd8c3320854fe8bc3aea8f89868420a88f",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1708137,
+        "source_sha256": "f006d51dfc352d3a87ad9c98c5649b7a231999d973240e48c487fa7313f1c6ba",
+        "repo_exists": true,
+        "repo_bytes": 1708137,
+        "repo_sha256": "f006d51dfc352d3a87ad9c98c5649b7a231999d973240e48c487fa7313f1c6ba",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_0_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_0_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 716251,
+        "source_sha256": "320ca77784e1230e2246eeca9a34b7a1986370c5e1c27f6f2def7c07d526cc6e",
+        "repo_exists": true,
+        "repo_bytes": 716251,
+        "repo_sha256": "320ca77784e1230e2246eeca9a34b7a1986370c5e1c27f6f2def7c07d526cc6e",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_1_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_1_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 713221,
+        "source_sha256": "bd91809ea58dc225536fa07e294994135011bde96da0acb9cd45e03f486e32bf",
+        "repo_exists": true,
+        "repo_bytes": 713221,
+        "repo_sha256": "bd91809ea58dc225536fa07e294994135011bde96da0acb9cd45e03f486e32bf",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_2_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_2_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1660783,
+        "source_sha256": "f4884384618f8c4f3c3ef622c15806031d7a2032f97d9d6d55af04326f13e986",
+        "repo_exists": true,
+        "repo_bytes": 1660783,
+        "repo_sha256": "f4884384618f8c4f3c3ef622c15806031d7a2032f97d9d6d55af04326f13e986",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/reverse_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/reverse_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 717774,
+        "source_sha256": "9ab34b542cb4c73fb7d63249fad27a9c32a73cadabef3bff1a637c4004b981e0",
+        "repo_exists": true,
+        "repo_bytes": 717774,
+        "repo_sha256": "9ab34b542cb4c73fb7d63249fad27a9c32a73cadabef3bff1a637c4004b981e0",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/role_a16/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/role_a16/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 1281863,
+        "source_sha256": "1c23da0dd908b820896ff4ebb1035caa6ebb68d71c5659d60b65d030a7ba0bca",
+        "repo_exists": true,
+        "repo_bytes": 1281863,
+        "repo_sha256": "1c23da0dd908b820896ff4ebb1035caa6ebb68d71c5659d60b65d030a7ba0bca",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-004-forgery/sentence_dev_rule/episode.json",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-004-forgery/sentence_dev_rule/episode.json",
+        "role": "C1 recorded episode hash input",
+        "source_exists": true,
+        "source_bytes": 753417,
+        "source_sha256": "1feed1c6b305448798436727fb038a520d13bf244ad654d5fb15a2d37d5f9cb8",
+        "repo_exists": true,
+        "repo_bytes": 753417,
+        "repo_sha256": "1feed1c6b305448798436727fb038a520d13bf244ad654d5fb15a2d37d5f9cb8",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "repo_relative_path": "earlier-study/data/permission-20260905/episodes.jsonl.gz",
+        "role": "permission-selection-contrasts input source hash; permission-all-controls input source hash",
+        "source_exists": true,
+        "source_bytes": 2118472,
+        "source_sha256": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+        "repo_exists": true,
+        "repo_bytes": 2118472,
+        "repo_sha256": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/figures.py",
+        "repo_relative_path": "earlier-study/figures.py",
+        "role": "permission-selection-contrasts input source hash; permission-all-controls input source hash",
+        "source_exists": true,
+        "source_bytes": 17892,
+        "source_sha256": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+        "repo_exists": true,
+        "repo_bytes": 17892,
+        "repo_sha256": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/figures/selection-contrasts.csv",
+        "repo_relative_path": "earlier-study/figures/selection-contrasts.csv",
+        "role": "permission-selection-contrasts input source hash",
+        "source_exists": true,
+        "source_bytes": 1770,
+        "source_sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "repo_exists": true,
+        "repo_bytes": 1770,
+        "repo_sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/figures/provenance.json",
+        "repo_relative_path": "earlier-study/figures/provenance.json",
+        "role": "permission-selection-contrasts input source hash",
+        "source_exists": true,
+        "source_bytes": 1877,
+        "source_sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+        "repo_exists": true,
+        "repo_bytes": 1877,
+        "repo_sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-all-method-pairs.csv",
+        "repo_relative_path": "replication/chart-library/steering-evidence-review/reviews/permission-all-method-pairs.csv",
+        "role": "permission-all-controls input source hash",
+        "source_exists": true,
+        "source_bytes": 58155,
+        "source_sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+        "repo_exists": true,
+        "repo_bytes": 58155,
+        "repo_sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-method-summary.csv",
+        "repo_relative_path": "replication/chart-library/steering-evidence-review/reviews/permission-method-summary.csv",
+        "role": "permission-all-controls input source hash",
+        "source_exists": true,
+        "source_bytes": 865,
+        "source_sha256": "ba94de8836912d88231ab95589dadc4528c0c42fa378935dcbdc50e641870e8d",
+        "repo_exists": true,
+        "repo_bytes": 865,
+        "repo_sha256": "ba94de8836912d88231ab95589dadc4528c0c42fa378935dcbdc50e641870e8d",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/historical-audit-verification.json",
+        "repo_relative_path": "replication/chart-library/steering-evidence-review/reviews/historical-audit-verification.json",
+        "role": "permission-all-controls input source hash",
+        "source_exists": true,
+        "source_bytes": 8919,
+        "source_sha256": "021f3d6032be8483c4d2328d2917bc865ea541d6655b4dc056eab471d1269d49",
+        "repo_exists": true,
+        "repo_bytes": 8919,
+        "repo_sha256": "021f3d6032be8483c4d2328d2917bc865ea541d6655b4dc056eab471d1269d49",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/closeout-20260912T051046Z/arm-by-page.csv",
+        "repo_relative_path": "replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/closeout-20260912T051046Z/arm-by-page.csv",
+        "role": "C1 outcome-table provenance reference; not read by C1 renderer",
+        "source_exists": true,
+        "source_bytes": 11167,
+        "source_sha256": "46247d8e01fe7a2eead7dfd377d3a1cdc7eb2694cb2c284fb8dd25315aac11c7",
+        "repo_exists": true,
+        "repo_bytes": 11167,
+        "repo_sha256": "46247d8e01fe7a2eead7dfd377d3a1cdc7eb2694cb2c284fb8dd25315aac11c7",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/analysis-ready/20260912T050153Z/arm-by-page.csv",
+        "repo_relative_path": "replication/steering-series/2026-09-12-positive-confirmation/analysis-ready/20260912T050153Z/arm-by-page.csv",
+        "role": "C1 outcome-table provenance reference; not read by C1 renderer",
+        "source_exists": true,
+        "source_bytes": 27598,
+        "source_sha256": "e0fb0994e8e6f7043a8915d0f68212f14f96739bd718689f536cd36ceb82d8f0",
+        "repo_exists": true,
+        "repo_bytes": 27598,
+        "repo_sha256": "e0fb0994e8e6f7043a8915d0f68212f14f96739bd718689f536cd36ceb82d8f0",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/first-20260904/episodes.jsonl.gz",
+        "repo_relative_path": "earlier-study/data/first-20260904/episodes.jsonl.gz",
+        "role": "permission reducer read_data input",
+        "source_exists": true,
+        "source_bytes": 20214180,
+        "source_sha256": "fdb5041d927580c0a7ca8097cb6914792ea70e1d22755ad4f0cc7d712aea720a",
+        "repo_exists": true,
+        "repo_bytes": 20214180,
+        "repo_sha256": "fdb5041d927580c0a7ca8097cb6914792ea70e1d22755ad4f0cc7d712aea720a",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/cases.json",
+        "repo_relative_path": "earlier-study/data/permission-20260905/cases.json",
+        "role": "permission reducer read_data input",
+        "source_exists": true,
+        "source_bytes": 97604,
+        "source_sha256": "94af8326d7fa5d66ff36869b1f03cf997d0cd392031a7fc4ad3c94cd47986417",
+        "repo_exists": true,
+        "repo_bytes": 97604,
+        "repo_sha256": "94af8326d7fa5d66ff36869b1f03cf997d0cd392031a7fc4ad3c94cd47986417",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/protocol-manifest.json",
+        "repo_relative_path": "earlier-study/data/permission-20260905/protocol-manifest.json",
+        "role": "permission reducer read_data input",
+        "source_exists": true,
+        "source_bytes": 48613,
+        "source_sha256": "453fb2165209029cd43ea106a56cc50d9d0d3920768e5dbd0cb3d1d824ed29f8",
+        "repo_exists": true,
+        "repo_bytes": 48613,
+        "repo_sha256": "453fb2165209029cd43ea106a56cc50d9d0d3920768e5dbd0cb3d1d824ed29f8",
+        "repo_byte_parity": true
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/allocation.json",
+        "repo_relative_path": "earlier-study/data/permission-20260905/allocation.json",
+        "role": "permission reducer read_data input",
+        "source_exists": true,
+        "source_bytes": 31323,
+        "source_sha256": "b9dcbd3af36808c1bed3674598eb982b6e62faa816234756ee9f04c684b968b9",
+        "repo_exists": true,
+        "repo_bytes": 31323,
+        "repo_sha256": "b9dcbd3af36808c1bed3674598eb982b6e62faa816234756ee9f04c684b968b9",
+        "repo_byte_parity": true
+      }
+    ],
+    "source_hash_checks": [
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv",
+        "expected": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "actual": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png",
+        "expected": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+        "actual": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+        "pass": true
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.pdf",
+        "expected": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+        "actual": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+        "pass": true
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.svg",
+        "expected": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+        "actual": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+        "pass": true
+      },
+      {
+        "type": "renderer_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+        "expected": "90e28c01b39a6c8c553e3bf8df814741ef14f61ceb440f15a7e613696c0cf2e5",
+        "actual": "90e28c01b39a6c8c553e3bf8df814741ef14f61ceb440f15a7e613696c0cf2e5",
+        "pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/episode.json",
+        "expected": "7fdc5c325f52959ab02f9d3ade388b7d96f24e845244140c8a30a5b0c95e24c1",
+        "actual": "7fdc5c325f52959ab02f9d3ade388b7d96f24e845244140c8a30a5b0c95e24c1",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/episode.json",
+        "expected": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09",
+        "actual": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/episode.json",
+        "expected": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520",
+        "actual": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/episode.json",
+        "expected": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2",
+        "actual": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/episode.json",
+        "expected": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08",
+        "actual": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/episode.json",
+        "expected": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e",
+        "actual": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/000-forgery/sentence_dev_rule/episode.json",
+        "expected": "4859541c0072d02334d63bfe11147f4e4b49148d5f4fab20ac252fc881c589ea",
+        "actual": "4859541c0072d02334d63bfe11147f4e4b49148d5f4fab20ac252fc881c589ea",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/000-forgery/tool_raising_a16/episode.json",
+        "expected": "1b5c5757b21604ac292496aec18c2ff2b50e926d4112f5f9cb246abedfc5454a",
+        "actual": "1b5c5757b21604ac292496aec18c2ff2b50e926d4112f5f9cb246abedfc5454a",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/episode.json",
+        "expected": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078",
+        "actual": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/episode.json",
+        "expected": "9e45c9bbbd998bbbe1918e8f1300fdd450162a6e7c41474da7f6546d537a87bf",
+        "actual": "9e45c9bbbd998bbbe1918e8f1300fdd450162a6e7c41474da7f6546d537a87bf",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/episode.json",
+        "expected": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58",
+        "actual": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/episode.json",
+        "expected": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1",
+        "actual": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/episode.json",
+        "expected": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86",
+        "actual": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/episode.json",
+        "expected": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3",
+        "actual": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/episode.json",
+        "expected": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba",
+        "actual": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/001-forgery/sentence_dev_rule/episode.json",
+        "expected": "13f49a877fb6608b5dc2b1ed98a7b690d88338a36e12f7ff59153fb94f1ae196",
+        "actual": "13f49a877fb6608b5dc2b1ed98a7b690d88338a36e12f7ff59153fb94f1ae196",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/001-forgery/tool_raising_a16/episode.json",
+        "expected": "027cd279775be6e1ec23b7b5de15767ddd8c498d3d33274169c73fa8c095ca68",
+        "actual": "027cd279775be6e1ec23b7b5de15767ddd8c498d3d33274169c73fa8c095ca68",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/episode.json",
+        "expected": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422",
+        "actual": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/episode.json",
+        "expected": "cb83d6dc6bf1babe17e7f775510c218caa8ec3df896b77c5d8e18e2d67434ed2",
+        "actual": "cb83d6dc6bf1babe17e7f775510c218caa8ec3df896b77c5d8e18e2d67434ed2",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/episode.json",
+        "expected": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0",
+        "actual": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/episode.json",
+        "expected": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3",
+        "actual": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/episode.json",
+        "expected": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c",
+        "actual": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/episode.json",
+        "expected": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f",
+        "actual": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/episode.json",
+        "expected": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c",
+        "actual": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/002-forgery/sentence_dev_rule/episode.json",
+        "expected": "d70698185d3d90bf036a8096f65b454d2f65b6c7a44e54e016cd8ff11980dbc5",
+        "actual": "d70698185d3d90bf036a8096f65b454d2f65b6c7a44e54e016cd8ff11980dbc5",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/002-forgery/tool_raising_a16/episode.json",
+        "expected": "483d7380c376606492bc9db6426dd8474a612db1b9c83048942a80097da9f265",
+        "actual": "483d7380c376606492bc9db6426dd8474a612db1b9c83048942a80097da9f265",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/episode.json",
+        "expected": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9",
+        "actual": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/episode.json",
+        "expected": "f4e36165a3410e61adfb126e2237016c744fe3a4ddabe0309b3be1e8fb6f7467",
+        "actual": "f4e36165a3410e61adfb126e2237016c744fe3a4ddabe0309b3be1e8fb6f7467",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/episode.json",
+        "expected": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68",
+        "actual": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/episode.json",
+        "expected": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869",
+        "actual": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/episode.json",
+        "expected": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e",
+        "actual": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/episode.json",
+        "expected": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880",
+        "actual": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/episode.json",
+        "expected": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b",
+        "actual": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/003-forgery/sentence_dev_rule/episode.json",
+        "expected": "d097d9ec75a420ca23b590a7d8cd25d547095886f1c46a9981787d3141374661",
+        "actual": "d097d9ec75a420ca23b590a7d8cd25d547095886f1c46a9981787d3141374661",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/003-forgery/tool_raising_a16/episode.json",
+        "expected": "9a2ef382ace146788ab229e53821aa89af73f2c63bc5ada2ab85c265877ee1e3",
+        "actual": "9a2ef382ace146788ab229e53821aa89af73f2c63bc5ada2ab85c265877ee1e3",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/episode.json",
+        "expected": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43",
+        "actual": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/episode.json",
+        "expected": "f5a88862c5fb1717a7dd51c47b820fbf42eb52b14e8fccb5fe1b2c4e76f9d216",
+        "actual": "f5a88862c5fb1717a7dd51c47b820fbf42eb52b14e8fccb5fe1b2c4e76f9d216",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/episode.json",
+        "expected": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11",
+        "actual": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/episode.json",
+        "expected": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9",
+        "actual": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/episode.json",
+        "expected": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1",
+        "actual": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/episode.json",
+        "expected": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977",
+        "actual": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/episode.json",
+        "expected": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2",
+        "actual": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/004-forgery/sentence_dev_rule/episode.json",
+        "expected": "2fa93651f47669a8c690e2099bc6ce6ff62fe98efdcd6767c0690e0bf6d94649",
+        "actual": "2fa93651f47669a8c690e2099bc6ce6ff62fe98efdcd6767c0690e0bf6d94649",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-2/episodes/004-forgery/tool_raising_a16/episode.json",
+        "expected": "f804ac2de09914570bc40ca622ac516efc4713460b2194d11d619ca04cb5f315",
+        "actual": "f804ac2de09914570bc40ca622ac516efc4713460b2194d11d619ca04cb5f315",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/episode.json",
+        "expected": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58",
+        "actual": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/episode.json",
+        "expected": "a7cde9a5105d06601468188cdba13bf9d4d79ea48f3dfb5e442e27652a5bddf1",
+        "actual": "a7cde9a5105d06601468188cdba13bf9d4d79ea48f3dfb5e442e27652a5bddf1",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_0_a16/episode.json",
+        "expected": "e2aa44f77d7f2fc41d625bc49d7bff63b3b6a8ce73a0f81385689eae85c22551",
+        "actual": "e2aa44f77d7f2fc41d625bc49d7bff63b3b6a8ce73a0f81385689eae85c22551",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_1_a16/episode.json",
+        "expected": "d741998c4d3c94a1bfc32ddd57d5554b428b848cea081fd5c6134f7807fda75d",
+        "actual": "d741998c4d3c94a1bfc32ddd57d5554b428b848cea081fd5c6134f7807fda75d",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/random_2_a16/episode.json",
+        "expected": "32ec8fbfc526f71f4c8c02c296aabde3c3c09824a5a00715f718870d09ee7d81",
+        "actual": "32ec8fbfc526f71f4c8c02c296aabde3c3c09824a5a00715f718870d09ee7d81",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/reverse_a16/episode.json",
+        "expected": "f8b6598230784c4b6f45ff4842c579d772ac9dce16a853971bee142831ce9f15",
+        "actual": "f8b6598230784c4b6f45ff4842c579d772ac9dce16a853971bee142831ce9f15",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/role_a16/episode.json",
+        "expected": "ede5305976b551ced2c2334576c44db195197c4c724b853dc15aba7304903c31",
+        "actual": "ede5305976b551ced2c2334576c44db195197c4c724b853dc15aba7304903c31",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-000-forgery/sentence_dev_rule/episode.json",
+        "expected": "7ab8b9063421a31e94aa6234edc98cda5f934909db5d4b9e4bdf3252f107733d",
+        "actual": "7ab8b9063421a31e94aa6234edc98cda5f934909db5d4b9e4bdf3252f107733d",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/episode.json",
+        "expected": "c88b6658223c9204a10b87fe1d4b47f7cfe59bde265c7504f37b407280103420",
+        "actual": "c88b6658223c9204a10b87fe1d4b47f7cfe59bde265c7504f37b407280103420",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_0_a16/episode.json",
+        "expected": "e6199aa888ff0265e1a45fdd3969370001bc0bad4c714a7fae61aea0e84c514f",
+        "actual": "e6199aa888ff0265e1a45fdd3969370001bc0bad4c714a7fae61aea0e84c514f",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_1_a16/episode.json",
+        "expected": "1f70f7662aa0eb0bfc6d0261f3415d2cb1e9db86b6d6ed654b01edaceab9de5d",
+        "actual": "1f70f7662aa0eb0bfc6d0261f3415d2cb1e9db86b6d6ed654b01edaceab9de5d",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/random_2_a16/episode.json",
+        "expected": "c0fd13248b0f123668ac3153caa8e40d91cfc4ad7fbb0615fce3f8549cbe489d",
+        "actual": "c0fd13248b0f123668ac3153caa8e40d91cfc4ad7fbb0615fce3f8549cbe489d",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/reverse_a16/episode.json",
+        "expected": "ac8a635a9adae1fd6055b9cf7c755666fce9f6994eb66383be1934c75cc83de6",
+        "actual": "ac8a635a9adae1fd6055b9cf7c755666fce9f6994eb66383be1934c75cc83de6",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/role_a16/episode.json",
+        "expected": "d8d32be96aeb79af7124616331019d08c0d22645fe6d9ea087a05a61edf8d547",
+        "actual": "d8d32be96aeb79af7124616331019d08c0d22645fe6d9ea087a05a61edf8d547",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-001-forgery/sentence_dev_rule/episode.json",
+        "expected": "a747ee593e8c53bb3010c83122df1742ee6418b260f0dfabd81044ce979d13dd",
+        "actual": "a747ee593e8c53bb3010c83122df1742ee6418b260f0dfabd81044ce979d13dd",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/episode.json",
+        "expected": "ba3776c868182f44df8f90165d669dc43f34c056edf9c10ae7277edfe131be9d",
+        "actual": "ba3776c868182f44df8f90165d669dc43f34c056edf9c10ae7277edfe131be9d",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_0_a16/episode.json",
+        "expected": "6b21ec400ebb575b1b350943f9de6cf65b087d4f01283efd56a26668fe169152",
+        "actual": "6b21ec400ebb575b1b350943f9de6cf65b087d4f01283efd56a26668fe169152",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_1_a16/episode.json",
+        "expected": "8e3d29ab7c34f2f7961c204f0b308f1afd552788a1698f1e82fe0766b0d1900a",
+        "actual": "8e3d29ab7c34f2f7961c204f0b308f1afd552788a1698f1e82fe0766b0d1900a",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/random_2_a16/episode.json",
+        "expected": "caf068bbef278c0f37e996e881c9c666221bbaefd85faa6d1d2d00cf7930db63",
+        "actual": "caf068bbef278c0f37e996e881c9c666221bbaefd85faa6d1d2d00cf7930db63",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/reverse_a16/episode.json",
+        "expected": "eb4bfba91c6b89fbdfcc9cbef6b87633f0d14cd5c3ab2c2e51eb53b357a28675",
+        "actual": "eb4bfba91c6b89fbdfcc9cbef6b87633f0d14cd5c3ab2c2e51eb53b357a28675",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/role_a16/episode.json",
+        "expected": "a19e4f6f504da0d297c8480943ec2a9b4a6e4f0d56ee39521c1d362f1059c44a",
+        "actual": "a19e4f6f504da0d297c8480943ec2a9b4a6e4f0d56ee39521c1d362f1059c44a",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-002-forgery/sentence_dev_rule/episode.json",
+        "expected": "42ce0c725359efc4aa51e99466a3d29026a059298184e5f0b728f83d9383dd60",
+        "actual": "42ce0c725359efc4aa51e99466a3d29026a059298184e5f0b728f83d9383dd60",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/episode.json",
+        "expected": "0b4c640c92f0b6f524b4aa2d4c82b892d0bc16f7484f31c481acef95d2db214a",
+        "actual": "0b4c640c92f0b6f524b4aa2d4c82b892d0bc16f7484f31c481acef95d2db214a",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_0_a16/episode.json",
+        "expected": "e54242fa21344e42ebfacc6553c9c16a862d21d3763b00131444e674bce7337e",
+        "actual": "e54242fa21344e42ebfacc6553c9c16a862d21d3763b00131444e674bce7337e",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_1_a16/episode.json",
+        "expected": "d1e30970272aa96bb85b38475e6674771376d0ee708c594d825f88e01ed2ae29",
+        "actual": "d1e30970272aa96bb85b38475e6674771376d0ee708c594d825f88e01ed2ae29",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/random_2_a16/episode.json",
+        "expected": "0e821511375491c03f973d1e74f9fa060fa90fba616bda70ae22a56e9eea1860",
+        "actual": "0e821511375491c03f973d1e74f9fa060fa90fba616bda70ae22a56e9eea1860",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/reverse_a16/episode.json",
+        "expected": "d0fcd3297196ee5f02e4d590c9f62ac80e6996a1bb6fab5149d5878587f186af",
+        "actual": "d0fcd3297196ee5f02e4d590c9f62ac80e6996a1bb6fab5149d5878587f186af",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/role_a16/episode.json",
+        "expected": "2431e00c0ad8948d4576087e37b343f6edb20ef96b73fc8b85d2196814cc4428",
+        "actual": "2431e00c0ad8948d4576087e37b343f6edb20ef96b73fc8b85d2196814cc4428",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-003-forgery/sentence_dev_rule/episode.json",
+        "expected": "fefd0b5e2a9c16af3286dc94c44069dd8c3320854fe8bc3aea8f89868420a88f",
+        "actual": "fefd0b5e2a9c16af3286dc94c44069dd8c3320854fe8bc3aea8f89868420a88f",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/episode.json",
+        "expected": "f006d51dfc352d3a87ad9c98c5649b7a231999d973240e48c487fa7313f1c6ba",
+        "actual": "f006d51dfc352d3a87ad9c98c5649b7a231999d973240e48c487fa7313f1c6ba",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_0_a16/episode.json",
+        "expected": "320ca77784e1230e2246eeca9a34b7a1986370c5e1c27f6f2def7c07d526cc6e",
+        "actual": "320ca77784e1230e2246eeca9a34b7a1986370c5e1c27f6f2def7c07d526cc6e",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_1_a16/episode.json",
+        "expected": "bd91809ea58dc225536fa07e294994135011bde96da0acb9cd45e03f486e32bf",
+        "actual": "bd91809ea58dc225536fa07e294994135011bde96da0acb9cd45e03f486e32bf",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/random_2_a16/episode.json",
+        "expected": "f4884384618f8c4f3c3ef622c15806031d7a2032f97d9d6d55af04326f13e986",
+        "actual": "f4884384618f8c4f3c3ef622c15806031d7a2032f97d9d6d55af04326f13e986",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/reverse_a16/episode.json",
+        "expected": "9ab34b542cb4c73fb7d63249fad27a9c32a73cadabef3bff1a637c4004b981e0",
+        "actual": "9ab34b542cb4c73fb7d63249fad27a9c32a73cadabef3bff1a637c4004b981e0",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/role_a16/episode.json",
+        "expected": "1c23da0dd908b820896ff4ebb1035caa6ebb68d71c5659d60b65d030a7ba0bca",
+        "actual": "1c23da0dd908b820896ff4ebb1035caa6ebb68d71c5659d60b65d030a7ba0bca",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "episode_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/local/item-1/episodes/new-004-forgery/sentence_dev_rule/episode.json",
+        "expected": "1feed1c6b305448798436727fb038a520d13bf244ad654d5fb15a2d37d5f9cb8",
+        "actual": "1feed1c6b305448798436727fb038a520d13bf244ad654d5fb15a2d37d5f9cb8",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "expected": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+        "actual": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/role-steering/figures.py",
+        "expected": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+        "actual": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/role-steering/figures/selection-contrasts.csv",
+        "expected": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "actual": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/role-steering/figures/provenance.json",
+        "expected": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+        "actual": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv",
+        "expected": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "actual": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+        "pass": true,
+        "repo_pass": null
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png",
+        "expected": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+        "actual": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+        "pass": true
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf",
+        "expected": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+        "actual": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+        "pass": true
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg",
+        "expected": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+        "actual": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+        "pass": true
+      },
+      {
+        "type": "renderer_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_permission_extensions.py",
+        "expected": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+        "actual": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+        "pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz",
+        "expected": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+        "actual": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/role-steering/figures.py",
+        "expected": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+        "actual": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-all-method-pairs.csv",
+        "expected": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+        "actual": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/permission-method-summary.csv",
+        "expected": "ba94de8836912d88231ab95589dadc4528c0c42fa378935dcbdc50e641870e8d",
+        "actual": "ba94de8836912d88231ab95589dadc4528c0c42fa378935dcbdc50e641870e8d",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/steering-evidence-review/reviews/historical-audit-verification.json",
+        "expected": "021f3d6032be8483c4d2328d2917bc865ea541d6655b4dc056eab471d1269d49",
+        "actual": "021f3d6032be8483c4d2328d2917bc865ea541d6655b4dc056eab471d1269d49",
+        "pass": true,
+        "repo_pass": true
+      },
+      {
+        "type": "source_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv",
+        "expected": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+        "actual": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+        "pass": true,
+        "repo_pass": null
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png",
+        "expected": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+        "actual": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+        "pass": true
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf",
+        "expected": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+        "actual": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+        "pass": true
+      },
+      {
+        "type": "artifact_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg",
+        "expected": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+        "actual": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+        "pass": true
+      },
+      {
+        "type": "renderer_sha256",
+        "path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_permission_extensions.py",
+        "expected": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+        "actual": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+        "pass": true
+      }
+    ],
+    "release_manifest_validation": {
+      "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/doc-integration/review-wave2-release-manifest.json",
+      "sha256": "38912ba3538adc471495ceea0d5ad4ea28e2548c8857886952a18e4fe125883b",
+      "files": [
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-caption.md",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-caption.md",
+          "release_sha256": "7d3bbea9b106bbb0a597f32693efb4df85b750d65d596c236b1fe0a0cdfc2d36",
+          "source_sha256": "7d3bbea9b106bbb0a597f32693efb4df85b750d65d596c236b1fe0a0cdfc2d36",
+          "source_bytes": 1140,
+          "source_matches_release": true,
+          "classification": "omitted_editorial_or_publication_process_file",
+          "repo_sha256": null
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-grid.csv",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-grid.csv",
+          "release_sha256": "55a16dc146104f87485d77b15b3b97d8a5f9d9cc7b94114f034118a78073c138",
+          "source_sha256": "55a16dc146104f87485d77b15b3b97d8a5f9d9cc7b94114f034118a78073c138",
+          "source_bytes": 10037,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "55a16dc146104f87485d77b15b3b97d8a5f9d9cc7b94114f034118a78073c138"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-provenance.json",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-provenance.json",
+          "release_sha256": "e54abb7fa419a32632bc6e57b3321c841ba41fe3c4b168405563ba9e92bcb0b8",
+          "source_sha256": "e54abb7fa419a32632bc6e57b3321c841ba41fe3c4b168405563ba9e92bcb0b8",
+          "source_bytes": 2059,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "e54abb7fa419a32632bc6e57b3321c841ba41fe3c4b168405563ba9e92bcb0b8"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-source.csv",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-source.csv",
+          "release_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+          "source_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+          "source_bytes": 46966,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.pdf",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.pdf",
+          "release_sha256": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+          "source_sha256": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+          "source_bytes": 24148,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png",
+          "release_sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+          "source_sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+          "source_bytes": 341753,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.svg",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.svg",
+          "release_sha256": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+          "source_sha256": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+          "source_bytes": 152055,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf",
+          "release_sha256": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+          "source_sha256": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+          "source_bytes": 21533,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png",
+          "release_sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+          "source_sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+          "source_bytes": 262977,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg",
+          "release_sha256": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+          "source_sha256": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+          "source_bytes": 126911,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf",
+          "release_sha256": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+          "source_sha256": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+          "source_bytes": 25498,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png",
+          "release_sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+          "source_sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+          "source_bytes": 253257,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg",
+          "release_sha256": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+          "source_sha256": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+          "source_bytes": 130569,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+          "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+          "release_sha256": "90e28c01b39a6c8c553e3bf8df814741ef14f61ceb440f15a7e613696c0cf2e5",
+          "source_sha256": "90e28c01b39a6c8c553e3bf8df814741ef14f61ceb440f15a7e613696c0cf2e5",
+          "source_bytes": 9083,
+          "source_matches_release": true,
+          "classification": "copied_then_authorized_path_fallback",
+          "repo_sha256": "f665e0fb0866c40d2735b750333d7237d11421b7c2affe28bb02b41f7eccbde2"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv",
+          "release_sha256": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+          "source_sha256": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+          "source_bytes": 466,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.json",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.json",
+          "release_sha256": "f8ad8455d64533811102604aa1d84d631d98c33931121628a1a031459205bc90",
+          "source_sha256": "f8ad8455d64533811102604aa1d84d631d98c33931121628a1a031459205bc90",
+          "source_bytes": 4445,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "f8ad8455d64533811102604aa1d84d631d98c33931121628a1a031459205bc90"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.md",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.md",
+          "release_sha256": "c306fc514fa0c49f6b5fe37bd04d5eddc9d2fcda302442b66c7aad9012530060",
+          "source_sha256": "c306fc514fa0c49f6b5fe37bd04d5eddc9d2fcda302442b66c7aad9012530060",
+          "source_bytes": 1779,
+          "source_matches_release": true,
+          "classification": "omitted_editorial_or_publication_process_file",
+          "repo_sha256": null
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-method-pairs.csv",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-all-method-pairs.csv",
+          "release_sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+          "source_sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+          "source_bytes": 58155,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-original-provenance.json",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-original-provenance.json",
+          "release_sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+          "source_sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+          "source_bytes": 1877,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv",
+          "release_sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+          "source_sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+          "source_bytes": 1770,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.json",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.json",
+          "release_sha256": "20e9412bf3704d6bfbaa7a022eba0e80a275db4d3844f93a89f9b7eca55e392b",
+          "source_sha256": "20e9412bf3704d6bfbaa7a022eba0e80a275db4d3844f93a89f9b7eca55e392b",
+          "source_bytes": 3842,
+          "source_matches_release": true,
+          "classification": "copied_byte_exact",
+          "repo_sha256": "20e9412bf3704d6bfbaa7a022eba0e80a275db4d3844f93a89f9b7eca55e392b"
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.md",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.md",
+          "release_sha256": "b8436119c949dd418fead294c36cebb77f556255c70a62c51cd616822ac9d550",
+          "source_sha256": "b8436119c949dd418fead294c36cebb77f556255c70a62c51cd616822ac9d550",
+          "source_bytes": 1368,
+          "source_matches_release": true,
+          "classification": "omitted_editorial_or_publication_process_file",
+          "repo_sha256": null
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/public-source-verification.json",
+          "repo_relative_path": "replication/chart-library/figure-selection/data/review-wave2/public-source-verification.json",
+          "release_sha256": "42a96c5514f57aedb20d73d6697b750904e4f213d291374048218aeaea4a8b8b",
+          "source_sha256": "42a96c5514f57aedb20d73d6697b750904e4f213d291374048218aeaea4a8b8b",
+          "source_bytes": 1355,
+          "source_matches_release": true,
+          "classification": "omitted_editorial_or_publication_process_file",
+          "repo_sha256": null
+        },
+        {
+          "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_permission_extensions.py",
+          "repo_relative_path": "replication/chart-library/figure-selection/render_permission_extensions.py",
+          "release_sha256": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+          "source_sha256": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+          "source_bytes": 15476,
+          "source_matches_release": true,
+          "classification": "copied_then_authorized_path_fallback",
+          "repo_sha256": "690123665d75193d07eb952d80de182c33db41ce34003c9d322321c5bbdf8c72"
+        }
+      ],
+      "all_24_source_hashes_match": true,
+      "byte_exact_copies": 18,
+      "authorized_renderer_edits": 2,
+      "intentional_omissions": 4
+    },
+    "omissions": [
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-caption.md",
+        "bytes": 1140,
+        "sha256": "7d3bbea9b106bbb0a597f32693efb4df85b750d65d596c236b1fe0a0cdfc2d36",
+        "reason": "caption or placement prose duplicate; use final source Doc narrative"
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.md",
+        "bytes": 1779,
+        "sha256": "c306fc514fa0c49f6b5fe37bd04d5eddc9d2fcda302442b66c7aad9012530060",
+        "reason": "caption or placement prose duplicate; use final source Doc narrative"
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.md",
+        "bytes": 1368,
+        "sha256": "b8436119c949dd418fead294c36cebb77f556255c70a62c51cd616822ac9d550",
+        "reason": "caption or placement prose duplicate; use final source Doc narrative"
+      },
+      {
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/public-source-verification.json",
+        "bytes": 1355,
+        "sha256": "42a96c5514f57aedb20d73d6697b750904e4f213d291374048218aeaea4a8b8b",
+        "reason": "publication-process verification pinned to older commit; not numerical input or figure derivation"
+      },
+      {
+        "source_path": "/Users/hananather/Documents/ChatGPT/mats-github/role-confusion-study/replication/chart-library/figure-selection/doc-integration",
+        "reason": "Document integration, copyboards, gallery pages and editorial notes are outside the numerical asset package."
+      }
+    ],
+    "portability_edits": [
+      {
+        "repo_relative_path": "replication/chart-library/figure-selection/render_permission_extensions.py",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_permission_extensions.py",
+        "original_source_sha256": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+        "edited_repo_sha256": "690123665d75193d07eb952d80de182c33db41ce34003c9d322321c5bbdf8c72",
+        "edited_repo_bytes": 15536,
+        "reason": "Resolve public repository input paths while preserving numerical and rendering code"
+      },
+      {
+        "repo_relative_path": "replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+        "source_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+        "original_source_sha256": "90e28c01b39a6c8c553e3bf8df814741ef14f61ceb440f15a7e613696c0cf2e5",
+        "edited_repo_sha256": "f665e0fb0866c40d2735b750333d7237d11421b7c2affe28bb02b41f7eccbde2",
+        "edited_repo_bytes": 9340,
+        "reason": "Resolve public repository input paths while preserving numerical and rendering code"
+      }
+    ],
+    "portability_validation": {
+      "renderer_syntax_pass": true,
+      "pagewise_episode_paths_resolve_inside_repo": 80,
+      "pagewise_episode_hash_checks_pass": true,
+      "permission_source_resolves_to": "/Users/hananather/Documents/ChatGPT/mats-github/role-confusion-study/earlier-study",
+      "permission_direct_read_inputs_byte_match": true,
+      "renderers_executed": false,
+      "plots_rerendered": false,
+      "inference_or_model_calls": false,
+      "method": "Executed only the newly added path helper and SOURCE assignment extracted via AST, then checked input file hashes. Full renderer bodies and imported reducer were not executed."
+    },
+    "image_identity_checks": [
+      {
+        "image": "pagewise-outcomes",
+        "id": "kix.l2sb8f26wood",
+        "original_size": [
+          3735,
+          2610
+        ],
+        "native_size": [
+          2048,
+          1431
+        ],
+        "identical_bytes": false,
+        "mean_absolute_rgb_difference_after_resize": 0.5543109103846379
+      },
+      {
+        "image": "permission-selection-contrasts",
+        "id": "kix.x5dovch7labs",
+        "original_size": [
+          3320,
+          2140
+        ],
+        "native_size": [
+          2048,
+          1320
+        ],
+        "identical_bytes": false,
+        "mean_absolute_rgb_difference_after_resize": 0.3049755366161616
+      },
+      {
+        "image": "permission-all-controls",
+        "id": "kix.jrbxvtyvz75m",
+        "original_size": [
+          3320,
+          2060
+        ],
+        "native_size": [
+          2048,
+          1271
+        ],
+        "identical_bytes": false,
+        "mean_absolute_rgb_difference_after_resize": 0.4435816819105691
+      }
+    ],
+    "summary": {
+      "planned_files": 20,
+      "planned_bytes": 1492877,
+      "new_files": 20,
+      "differing_existing_files": 0,
+      "dependency_files": 98,
+      "existing_dependency_mismatches": [],
+      "hash_checks": 104,
+      "hash_check_failures": [],
+      "recorded_episode_checks": 80,
+      "copied_files": 20,
+      "byte_exact_figure_and_data_files": 18,
+      "portability_edited_renderers": 2,
+      "missing_dependencies": 0,
+      "release_manifest_entries": 24,
+      "release_manifest_failures": 0
+    }
+  }
 }

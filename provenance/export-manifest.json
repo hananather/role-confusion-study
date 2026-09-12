@@ -818,8 +818,8 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 36755,
-      "sha256": "bc234a09b66e24f1b0ef9282a0b0ffca9fdfdf74708c55118e6892d4ffe7b6a7"
+      "bytes": 40260,
+      "sha256": "07b54822fdb63656956314fa670c68d969a85f9c6f6a70547b96884aeb2e0cc1"
     },
     "docs/README.md": {
       "archive_path": null,
@@ -2160,8 +2160,8 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 72488,
-      "sha256": "6f26413c5c589fb5c8a6701c18c8a8c69550ecc56406a292d327f74ad367f61a"
+      "bytes": 223278,
+      "sha256": "7f56b03a17cd46565460bc2212076aafa67fa39031b840645751b78ef29a0728"
     },
     "provenance/cleanup.json": {
       "archive_path": null,
@@ -2181,29 +2181,29 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 2888,
-      "sha256": "de9b50578c274d161fc1c1b9d7bcbb07d61ac14f2a5fc2fa879bae4a77f755cc"
+      "bytes": 2962,
+      "sha256": "dfaee27c6432cb0fdbf2472ae71d06505d398d7cbe3bd5a57bcb5b1e12bd2c4d"
     },
     "provenance/google-doc-readme/document-text.txt": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 33033,
-      "sha256": "6c3366c68f451cc1b0846d1f737cb86ef51c11578240f438843075dccb3cb104"
+      "bytes": 35722,
+      "sha256": "97b338502277d3853daaea6339dfc87e408b3e1d90471a1e2f7a58215bade400"
     },
     "provenance/google-doc-readme/document.json": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 669474,
-      "sha256": "2f337ec7b11c5b55b1ee7607195f51e31f93f253cdf7784c64990673594b61e5"
+      "bytes": 728501,
+      "sha256": "d64c0e00efca963f37be6bc36d2749cdf4fb2038f7a322cf1a7640e2a09c5ad1"
     },
     "provenance/google-doc-readme/images.json": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 6131,
-      "sha256": "8f3380819df1b29a90f061727ef7f851e92d8fecc405b8e707c5ecb9b99fb184"
+      "bytes": 7422,
+      "sha256": "47c894d4282a106c258eb1a0bcc67e8a2d2f27714966758caa925193f193ca1b"
     },
     "provenance/verification.json": {
       "archive_path": null,
@@ -9554,6 +9554,60 @@
       "bytes": 3809,
       "sha256": "627c35075038ff5139f89c34ee4aced7749bdea328c29f28a31cae25023f4f3b"
     },
+    "replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.csv",
+      "category": "document figure source",
+      "source_sha256": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+      "sha256": "352a5d7aa49cac9ac0d78f77c2fe9b57b18fef7fda8d6b99988ae4675179cee0",
+      "bytes": 466,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-controls.json",
+      "category": "document figure source",
+      "source_sha256": "f8ad8455d64533811102604aa1d84d631d98c33931121628a1a031459205bc90",
+      "sha256": "f8ad8455d64533811102604aa1d84d631d98c33931121628a1a031459205bc90",
+      "bytes": 4445,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/data/review-wave2/permission-all-method-pairs.csv": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-all-method-pairs.csv",
+      "category": "document figure source",
+      "source_sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+      "sha256": "57bebb850f5e4c2fa4b08bdace86281971d85f731aaf861f1492b2e722a44909",
+      "bytes": 58155,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/data/review-wave2/permission-original-provenance.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-original-provenance.json",
+      "category": "document figure source",
+      "source_sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+      "sha256": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+      "bytes": 1877,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv",
+      "category": "document figure source",
+      "source_sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+      "sha256": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+      "bytes": 1770,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.json",
+      "category": "document figure source",
+      "source_sha256": "20e9412bf3704d6bfbaa7a022eba0e80a275db4d3844f93a89f9b7eca55e392b",
+      "sha256": "20e9412bf3704d6bfbaa7a022eba0e80a275db4d3844f93a89f9b7eca55e392b",
+      "bytes": 3842,
+      "modified": false
+    },
     "replication/chart-library/figure-selection/data/rh6-readout.csv": {
       "archive_path": null,
       "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/rh6-readout.csv",
@@ -9797,6 +9851,123 @@
       "bytes": 150684,
       "sha256": "0647f2061d7fb66bbdd43893da4c348b0acd2bff1fa3d1c800140bbc9bab19e2"
     },
+    "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-grid.csv": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-grid.csv",
+      "category": "document figure source",
+      "source_sha256": "55a16dc146104f87485d77b15b3b97d8a5f9d9cc7b94114f034118a78073c138",
+      "sha256": "55a16dc146104f87485d77b15b3b97d8a5f9d9cc7b94114f034118a78073c138",
+      "bytes": 10037,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-provenance.json": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-provenance.json",
+      "category": "document figure source",
+      "source_sha256": "e54abb7fa419a32632bc6e57b3321c841ba41fe3c4b168405563ba9e92bcb0b8",
+      "sha256": "e54abb7fa419a32632bc6e57b3321c841ba41fe3c4b168405563ba9e92bcb0b8",
+      "bytes": 2059,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-source.csv": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/data/pagewise-outcomes-source.csv",
+      "category": "document figure source",
+      "source_sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+      "sha256": "2e4e9479c7c9acf8da328bca8684a7dafd3b428a114fcc5f65aff3c2472b3b64",
+      "bytes": 46966,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.pdf",
+      "category": "document figure source",
+      "source_sha256": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+      "sha256": "73fb2bd944d0dc30035bf2d96eef4318c253052eb58bc3ca93f37b6d4bca4e3c",
+      "bytes": 24148,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png",
+      "category": "document figure source",
+      "source_sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+      "sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+      "bytes": 341753,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.svg",
+      "category": "document figure source",
+      "source_sha256": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+      "sha256": "abd88e424bf44acd2a9a8e07cc15455f73c285c144a28defae950efa3ef3d46d",
+      "bytes": 152055,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.pdf",
+      "category": "document figure source",
+      "source_sha256": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+      "sha256": "619a38e2a69b7d541222174be731a3d7416c28ccecb5714499d0b8afb2f9442d",
+      "bytes": 21533,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png",
+      "category": "document figure source",
+      "source_sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+      "sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+      "bytes": 262977,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.svg",
+      "category": "document figure source",
+      "source_sha256": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+      "sha256": "a697e6316abef7a583ad2d7814934fb3c1d10fdd5eaef285e5d703316c3e9d22",
+      "bytes": 126911,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf",
+      "category": "document figure source",
+      "source_sha256": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+      "sha256": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+      "bytes": 25498,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png",
+      "category": "document figure source",
+      "source_sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+      "sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+      "bytes": 253257,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg",
+      "category": "document figure source",
+      "source_sha256": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+      "sha256": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930",
+      "bytes": 130569,
+      "modified": false
+    },
+    "replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/render_pagewise_outcomes.py",
+      "category": "document figure source",
+      "source_sha256": "90e28c01b39a6c8c553e3bf8df814741ef14f61ceb440f15a7e613696c0cf2e5",
+      "sha256": "f665e0fb0866c40d2735b750333d7237d11421b7c2affe28bb02b41f7eccbde2",
+      "bytes": 9340,
+      "modified": true
+    },
     "replication/chart-library/figure-selection/figures/rh6-readout.pdf": {
       "archive_path": null,
       "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/rh6-readout.pdf",
@@ -9904,6 +10075,15 @@
       "modified": false,
       "bytes": 12784,
       "sha256": "013c38c85369572d4377bf81f823eb7c83dfcecfcf0f9004656ec5a599090b81"
+    },
+    "replication/chart-library/figure-selection/render_permission_extensions.py": {
+      "archive_path": null,
+      "source_workspace_path": "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/render_permission_extensions.py",
+      "category": "document figure source",
+      "source_sha256": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+      "sha256": "690123665d75193d07eb952d80de182c33db41ce34003c9d322321c5bbdf8c72",
+      "bytes": 15536,
+      "modified": true
     },
     "replication/chart-library/figure-selection/render_probe_and_permission.py": {
       "archive_path": null,
@@ -97390,8 +97570,8 @@
     }
   },
   "manifest_scope": "All review-package files except this manifest itself; the Git commit identifies the manifest. Git internals and interpreter caches are excluded.",
-  "file_count_excluding_manifest": 12146,
-  "bytes_excluding_manifest": 1532594299,
+  "file_count_excluding_manifest": 12166,
+  "bytes_excluding_manifest": 1534304869,
   "source_repository_commit": "cd9c9b30b6f342c7033ebd55d252176a94ef3666",
   "expansion": {
     "captured_at": "2026-09-12T06:51:11.706263+00:00",
@@ -97576,7 +97756,7 @@
       "private application and provider-operation records outside selected scientific trees"
     ]
   },
-  "updated_at": "2026-09-12T09:10:56.939287+00:00",
+  "updated_at": "2026-09-12T09:16:08.967652+00:00",
   "cleanup": {
     "record": "provenance/cleanup.json",
     "previous_commit": "83d7f0b14d17e3f3d08489c7627e716190b78a60",

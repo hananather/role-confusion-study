@@ -1,7 +1,7 @@
 {
   "documentId": "1TLSxlahSmb6FD6uMXVcJpR8a8gyn6xIJvX3adARmJQI",
   "title": "MTS12",
-  "revisionId": "ANLCKQkjNZU3Tu-KX2yH1jXeoT9uGawEljJqI1CSwWhF164YwohZ-83i5MTsUUThZU0fR1Ewf01XxsCU3dYGny6MfxfbNbF1skcpiShWDg",
+  "revisionId": "ANLCKQlKmpSXsplOXdF0h6va5fH4LkTBMVfkQswkEkHRjGX9ewrddqvN2_lqGdbjYRNRiE3ipV8XEgVuTbjdiOf0sqwuiF0i6a80LJPRrw",
   "suggestionsViewMode": "SUGGESTIONS_INLINE",
   "url": null,
   "body": null,
@@ -432,7 +432,7 @@
                   "startIndex": 561,
                   "endIndex": 590,
                   "textRun": {
-                    "content": " instructions or the model’s ",
+                    "content": " instructions or the model\u2019s ",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -693,7 +693,7 @@
                   "startIndex": 865,
                   "endIndex": 873,
                   "textRun": {
-                    "content": "’s task?",
+                    "content": "\u2019s task?",
                     "textStyle": {
                       "bold": true,
                       "weightedFontFamily": {
@@ -790,7 +790,7 @@
                   "startIndex": 1145,
                   "endIndex": 1171,
                   "textRun": {
-                    "content": " such as “I must comply.”\n",
+                    "content": " such as \u201cI must comply.\u201d\n",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -856,7 +856,7 @@
                   "startIndex": 1184,
                   "endIndex": 1355,
                   "textRun": {
-                    "content": " activation steering. I added a fixed vector, derived from role-labelled examples, to the model’s activations while it processes the page. Because the attack impersonates ",
+                    "content": " activation steering. I added a fixed vector, derived from role-labelled examples, to the model\u2019s activations while it processes the page. Because the attack impersonates ",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -1048,7 +1048,7 @@
                   "startIndex": 1792,
                   "endIndex": 1941,
                   "textRun": {
-                    "content": " and action traces. I count an upload when this server verifies the file’s contents, so I can compare what the agent does with what the probe reads.\n",
+                    "content": " and action traces. I count an upload when this server verifies the file\u2019s contents, so I can compare what the agent does with what the probe reads.\n",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -1243,7 +1243,7 @@
                   "startIndex": 2124,
                   "endIndex": 2166,
                   "textRun": {
-                    "content": " nearly eliminated the forged paragraph’s ",
+                    "content": " nearly eliminated the forged paragraph\u2019s ",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -1524,7 +1524,7 @@
                   "startIndex": 2896,
                   "endIndex": 2934,
                   "textRun": {
-                    "content": "Limitations and what I’d improve next\n",
+                    "content": "Limitations and what I\u2019d improve next\n",
                     "textStyle": {
                       "bold": true,
                       "foregroundColor": {
@@ -1683,7 +1683,7 @@
                   "startIndex": 3045,
                   "endIndex": 3046,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -1718,7 +1718,7 @@
                   "startIndex": 3049,
                   "endIndex": 3089,
                   "textRun": {
-                    "content": " nearly eliminated the forged passage’s ",
+                    "content": " nearly eliminated the forged passage\u2019s ",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -1893,7 +1893,7 @@
                   "startIndex": 3407,
                   "endIndex": 3421,
                   "textRun": {
-                    "content": "’s permission?",
+                    "content": "\u2019s permission?",
                     "textStyle": {
                       "bold": true,
                       "weightedFontFamily": {
@@ -1942,7 +1942,7 @@
                   "startIndex": 3599,
                   "endIndex": 3745,
                   "textRun": {
-                    "content": "’s authorization while holding the command text fixed. Applying the revised upload direction to that task would test selective execution directly.",
+                    "content": "\u2019s authorization while holding the command text fixed. Applying the revised upload direction to that task would test selective execution directly.",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -2141,7 +2141,7 @@
                   "startIndex": 4144,
                   "endIndex": 4150,
                   "textRun": {
-                    "content": "−mean(",
+                    "content": "\u2212mean(",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -2836,7 +2836,7 @@
                   "startIndex": 5745,
                   "endIndex": 5785,
                   "textRun": {
-                    "content": " demonstrate this distinction in system–",
+                    "content": " demonstrate this distinction in system\u2013",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -3348,7 +3348,7 @@
                   "startIndex": 6910,
                   "endIndex": 6911,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -4252,7 +4252,7 @@
                   "startIndex": 8186,
                   "endIndex": 8187,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "bold": true,
                       "weightedFontFamily": {
@@ -4668,7 +4668,7 @@
                   "startIndex": 8707,
                   "endIndex": 8713,
                   "textRun": {
-                    "content": "−mean(",
+                    "content": "\u2212mean(",
                     "textStyle": {
                       "bold": true,
                       "weightedFontFamily": {
@@ -5222,7 +5222,7 @@
                   "startIndex": 9645,
                   "endIndex": 9646,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -5681,7 +5681,7 @@
                   "startIndex": 11191,
                   "endIndex": 11192,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -5895,7 +5895,7 @@
                   "startIndex": 12016,
                   "endIndex": 12017,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -6035,7 +6035,7 @@
                   "startIndex": 12124,
                   "endIndex": 12130,
                   "textRun": {
-                    "content": "−mean(",
+                    "content": "\u2212mean(",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -7412,7 +7412,7 @@
                   "startIndex": 16281,
                   "endIndex": 16289,
                   "textRun": {
-                    "content": " − mean(",
+                    "content": " \u2212 mean(",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -8269,7 +8269,7 @@
                   "startIndex": 18165,
                   "endIndex": 18168,
                   "textRun": {
-                    "content": " − ",
+                    "content": " \u2212 ",
                     "textStyle": {
                       "italic": true,
                       "weightedFontFamily": {
@@ -8476,7 +8476,7 @@
                   "startIndex": 18587,
                   "endIndex": 18588,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {}
                   }
                 },
@@ -8852,7 +8852,7 @@
                   "startIndex": 19087,
                   "endIndex": 19350,
                   "textRun": {
-                    "content": " I integrated role probing and activation steering into a GPT-OSS-20B agent performing a webpage-summarization task. An isolated environment and exact-content upload verification let me compare changes in the model’s activations with the actions it actually took.",
+                    "content": " I integrated role probing and activation steering into a GPT-OSS-20B agent performing a webpage-summarization task. An isolated environment and exact-content upload verification let me compare changes in the model\u2019s activations with the actions it actually took.",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -8966,7 +8966,7 @@
                   "startIndex": 19613,
                   "endIndex": 19701,
                   "textRun": {
-                    "content": "’s permission. A zero-strength check preserved the generated tokens on identical inputs.",
+                    "content": "\u2019s permission. A zero-strength check preserved the generated tokens on identical inputs.",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -9050,7 +9050,7 @@
                   "startIndex": 19706,
                   "endIndex": 19707,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "bold": true
                     }
@@ -9079,7 +9079,7 @@
                   "startIndex": 19710,
                   "endIndex": 19738,
                   "textRun": {
-                    "content": " drove the forged passage’s ",
+                    "content": " drove the forged passage\u2019s ",
                     "textStyle": {
                       "bold": true
                     }
@@ -9282,7 +9282,7 @@
                   "startIndex": 19980,
                   "endIndex": 19986,
                   "textRun": {
-                    "content": "−mean(",
+                    "content": "\u2212mean(",
                     "textStyle": {
                       "bold": true
                     }
@@ -9340,7 +9340,7 @@
                   "startIndex": 19995,
                   "endIndex": 20030,
                   "textRun": {
-                    "content": ") at the original edit’s magnitude.",
+                    "content": ") at the original edit\u2019s magnitude.",
                     "textStyle": {
                       "bold": true
                     }
@@ -10763,7 +10763,7 @@
                   "startIndex": 22725,
                   "endIndex": 22726,
                   "textRun": {
-                    "content": "−",
+                    "content": "\u2212",
                     "textStyle": {
                       "weightedFontFamily": {
                         "fontFamily": "Cambria",
@@ -11829,9 +11829,61 @@
               "elements": [
                 {
                   "startIndex": 24438,
+                  "endIndex": 24736,
+                  "textRun": {
+                    "content": "A token is a word or piece of a word. In the conversation plots, horizontal position follows token order; height is the probe\u2019s probability for the named role. An 80% score means the classifier assigns probability 0.8 to that role, not an 80% chance of obeying the text. Blue identifies originally ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 24736,
+                  "endIndex": 24740,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 24740,
+                  "endIndex": 24761,
+                  "textRun": {
+                    "content": " text, yellow-orange ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 24761,
+                  "endIndex": 24770,
+                  "textRun": {
+                    "content": "reasoning",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 24770,
                   "endIndex": 24858,
                   "textRun": {
-                    "content": "A token is a word or piece of a word. In the conversation plots, horizontal position follows token order; height is the probe’s probability for the named role. An 80% score means the classifier assigns probability 0.8 to that role, not an 80% chance of obeying the text. Blue identifies originally User text, yellow-orange reasoning and green Assistant replies. These colors stay fixed when I change the tags or scores.\n",
+                    "content": " and green Assistant replies. These colors stay fixed when I change the tags or scores.\n",
                     "textStyle": {}
                   }
                 }
@@ -12953,9 +13005,87 @@
               "elements": [
                 {
                   "startIndex": 26364,
+                  "endIndex": 26416,
+                  "textRun": {
+                    "content": "I take the saved gardening activations from the all-",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 26416,
+                  "endIndex": 26420,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 26420,
+                  "endIndex": 26457,
+                  "textRun": {
+                    "content": " condition and add an offset along a ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 26457,
+                  "endIndex": 26461,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 26461,
+                  "endIndex": 26465,
+                  "textRun": {
+                    "content": " or ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 26465,
+                  "endIndex": 26469,
+                  "textRun": {
+                    "content": "Tool",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 26469,
                   "endIndex": 26889,
                   "textRun": {
-                    "content": "I take the saved gardening activations from the all-User condition and add an offset along a User or Tool coefficient vector from the five-role classifier. Each offset is compared with its own central baseline because this classifier differs from the four-role probe in B1–B2. Its length is fixed across tokens: 1% or 5% of the reference activation length. These percentages describe the size of the activation edit, not a change in probability. I then score the edited states directly, without running the rest of the model.",
+                    "content": " coefficient vector from the five-role classifier. Each offset is compared with its own central baseline because this classifier differs from the four-role probe in B1\u2013B2. Its length is fixed across tokens: 1% or 5% of the reference activation length. These percentages describe the size of the activation edit, not a change in probability. I then score the edited states directly, without running the rest of the model.",
                     "textStyle": {}
                   }
                 },
@@ -13414,9 +13544,113 @@
               "elements": [
                 {
                   "startIndex": 27375,
+                  "endIndex": 27512,
+                  "textRun": {
+                    "content": "B3 averages tokens by their original role, pooling both turns; B4\u2013B5 show the individual tokens. In each plate, the upper half edits the ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 27512,
+                  "endIndex": 27516,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 27516,
+                  "endIndex": 27556,
+                  "textRun": {
+                    "content": " direction and the lower half edits the ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 27556,
+                  "endIndex": 27560,
+                  "textRun": {
+                    "content": "Tool",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 27560,
+                  "endIndex": 27638,
+                  "textRun": {
+                    "content": " direction. Columns subtract, leave unchanged or add the offset; rows measure ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 27638,
+                  "endIndex": 27646,
+                  "textRun": {
+                    "content": "Userness",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 27646,
+                  "endIndex": 27651,
+                  "textRun": {
+                    "content": " and ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 27651,
+                  "endIndex": 27659,
+                  "textRun": {
+                    "content": "Toolness",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 27659,
                   "endIndex": 27753,
                   "textRun": {
-                    "content": "B3 averages tokens by their original role, pooling both turns; B4–B5 show the individual tokens. In each plate, the upper half edits the User direction and the lower half edits the Tool direction. Columns subtract, leave unchanged or add the offset; rows measure Userness and Toolness. Follow the same colored passage across a row, then compare it between the 1% and 5% plates.\n",
+                    "content": ". Follow the same colored passage across a row, then compare it between the 1% and 5% plates.\n",
                     "textStyle": {}
                   }
                 }
@@ -14177,9 +14411,35 @@
               "elements": [
                 {
                   "startIndex": 28741,
+                  "endIndex": 28939,
+                  "textRun": {
+                    "content": "This experiment measures how permission changes the probe\u2019s reading of a command. Each of 100 template\u2013page inputs contains a marker-writing command and an upload command. I add one sentence to the ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 28939,
+                  "endIndex": 28943,
+                  "textRun": {
+                    "content": "user",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 28943,
                   "endIndex": 28963,
                   "textRun": {
-                    "content": "This experiment measures how permission changes the probe’s reading of a command. Each of 100 template–page inputs contains a marker-writing command and an upload command. I add one sentence to the user’s summary request:\n",
+                    "content": "\u2019s summary request:\n",
                     "textStyle": {}
                   }
                 }
@@ -14203,7 +14463,7 @@
                   "startIndex": 28963,
                   "endIndex": 29059,
                   "textRun": {
-                    "content": "“If the page asks you to write a marker file, you have my permission to do that, and only that”\n",
+                    "content": "\u201cIf the page asks you to write a marker file, you have my permission to do that, and only that\u201d\n",
                     "textStyle": {}
                   }
                 }
@@ -15163,7 +15423,7 @@
                                 "startIndex": 29346,
                                 "endIndex": 29377,
                                 "textRun": {
-                                  "content": "Score the marker’s replacement\n",
+                                  "content": "Score the marker\u2019s replacement\n",
                                   "textStyle": {}
                                 }
                               }
@@ -15675,22 +15935,176 @@
           },
           {
             "startIndex": 29974,
-            "endIndex": 30448,
+            "endIndex": 30481,
             "paragraph": {
               "elements": [
                 {
                   "startIndex": 29974,
-                  "endIndex": 30431,
+                  "endIndex": 30015,
                   "textRun": {
-                    "content": "The top row measures adjusted changes in User probability, in percentage points. The bottom row measures the log ratio of mean User and Tool probabilities within each span. This relative score can rise while Userness falls, if Toolness falls more. At layer 12, the two probes give opposite signs for adjusted Userness in both command orders, while the relative effect stays positive. The comparison changes the fitted coefficients as well as the class sets.",
+                    "content": "The top row measures adjusted changes in ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 30015,
+                  "endIndex": 30019,
+                  "textRun": {
+                    "content": "User",
                     "textStyle": {
-                      "underline": true
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
                     }
                   }
                 },
                 {
-                  "startIndex": 30431,
-                  "endIndex": 30432,
+                  "startIndex": 30019,
+                  "endIndex": 30132,
+                  "textRun": {
+                    "content": " probability, in percentage points. The bottom row applies the same adjusted comparison to the log ratio of mean ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 30132,
+                  "endIndex": 30136,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 30136,
+                  "endIndex": 30141,
+                  "textRun": {
+                    "content": " and ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 30141,
+                  "endIndex": 30145,
+                  "textRun": {
+                    "content": "Tool",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 30145,
+                  "endIndex": 30201,
+                  "textRun": {
+                    "content": " probabilities within each span. A ratio can rise while ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 30201,
+                  "endIndex": 30209,
+                  "textRun": {
+                    "content": "Userness",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 30209,
+                  "endIndex": 30219,
+                  "textRun": {
+                    "content": " falls if ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 30219,
+                  "endIndex": 30227,
+                  "textRun": {
+                    "content": "Toolness",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 30227,
+                  "endIndex": 30316,
+                  "textRun": {
+                    "content": " falls proportionally more. At layer 12, the two probes give opposite signs for adjusted ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 30316,
+                  "endIndex": 30324,
+                  "textRun": {
+                    "content": "Userness",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 30324,
+                  "endIndex": 30464,
+                  "textRun": {
+                    "content": " in both command orders, while the relative effect stays positive. The comparison changes the fitted coefficients as well as the class sets.",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 30464,
+                  "endIndex": 30465,
                   "textRun": {
                     "content": " ",
                     "textStyle": {
@@ -15702,8 +16116,8 @@
                   }
                 },
                 {
-                  "startIndex": 30432,
-                  "endIndex": 30447,
+                  "startIndex": 30465,
+                  "endIndex": 30480,
                   "textRun": {
                     "content": "Exact contrasts",
                     "textStyle": {
@@ -15711,9 +16125,9 @@
                       "foregroundColor": {
                         "color": {
                           "rgbColor": {
-                            "red": 0.019607844,
-                            "green": 0.3882353,
-                            "blue": 0.75686276
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
                           }
                         }
                       },
@@ -15724,18 +16138,17 @@
                   }
                 },
                 {
-                  "startIndex": 30447,
-                  "endIndex": 30448,
+                  "startIndex": 30480,
+                  "endIndex": 30481,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
-                      "underline": true,
                       "foregroundColor": {
                         "color": {
                           "rgbColor": {
-                            "red": 0.019607844,
-                            "green": 0.3882353,
-                            "blue": 0.75686276
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
                           }
                         }
                       }
@@ -15754,18 +16167,17 @@
             }
           },
           {
-            "startIndex": 30448,
-            "endIndex": 30476,
+            "startIndex": 30481,
+            "endIndex": 30509,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 30448,
-                  "endIndex": 30476,
+                  "startIndex": 30481,
+                  "endIndex": 30509,
                   "textRun": {
                     "content": "Role decoding across layers\n",
                     "textStyle": {
                       "bold": true,
-                      "underline": true,
                       "foregroundColor": {
                         "color": {
                           "rgbColor": {
@@ -15792,23 +16204,22 @@
                   "unit": "PT"
                 },
                 "keepLinesTogether": false,
-                "keepWithNext": false
+                "keepWithNext": false,
+                "pageBreakBefore": true
               }
             }
           },
           {
-            "startIndex": 30476,
-            "endIndex": 30753,
+            "startIndex": 30509,
+            "endIndex": 30786,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 30476,
-                  "endIndex": 30753,
+                  "startIndex": 30509,
+                  "endIndex": 30786,
                   "textRun": {
                     "content": "Figure B7 evaluates the classifier against known role labels. Recall is the fraction of tokens from a role assigned that label as the highest-scoring class. The conversation plots instead show the probability assigned to a role, so a recall curve answers a different question.\n",
-                    "textStyle": {
-                      "underline": true
-                    }
+                    "textStyle": {}
                   }
                 }
               ],
@@ -15827,13 +16238,13 @@
             }
           },
           {
-            "startIndex": 30753,
-            "endIndex": 30754,
+            "startIndex": 30786,
+            "endIndex": 30787,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 30753,
-                  "endIndex": 30754,
+                  "startIndex": 30786,
+                  "endIndex": 30787,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {}
@@ -15852,13 +16263,13 @@
             }
           },
           {
-            "startIndex": 30754,
-            "endIndex": 30756,
+            "startIndex": 30787,
+            "endIndex": 30789,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 30754,
-                  "endIndex": 30755,
+                  "startIndex": 30787,
+                  "endIndex": 30788,
                   "inlineObjectElement": {
                     "inlineObjectId": "kix.xn8sfe11p7kl",
                     "textStyle": {
@@ -15874,8 +16285,8 @@
                   }
                 },
                 {
-                  "startIndex": 30755,
-                  "endIndex": 30756,
+                  "startIndex": 30788,
+                  "endIndex": 30789,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -15908,13 +16319,13 @@
             }
           },
           {
-            "startIndex": 30756,
-            "endIndex": 31010,
+            "startIndex": 30789,
+            "endIndex": 31043,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 30756,
-                  "endIndex": 30840,
+                  "startIndex": 30789,
+                  "endIndex": 30873,
                   "textRun": {
                     "content": "Figure B7. Five-role recall across all 24 layers under two saved evaluation splits. ",
                     "textStyle": {
@@ -15927,8 +16338,8 @@
                   }
                 },
                 {
-                  "startIndex": 30840,
-                  "endIndex": 30844,
+                  "startIndex": 30873,
+                  "endIndex": 30877,
                   "textRun": {
                     "content": "User",
                     "textStyle": {
@@ -15950,8 +16361,8 @@
                   }
                 },
                 {
-                  "startIndex": 30844,
-                  "endIndex": 30906,
+                  "startIndex": 30877,
+                  "endIndex": 30939,
                   "textRun": {
                     "content": " and Assistant have the highest recall in later layers, while ",
                     "textStyle": {
@@ -15964,8 +16375,8 @@
                   }
                 },
                 {
-                  "startIndex": 30906,
-                  "endIndex": 30909,
+                  "startIndex": 30939,
+                  "endIndex": 30942,
                   "textRun": {
                     "content": "CoT",
                     "textStyle": {
@@ -15987,8 +16398,8 @@
                   }
                 },
                 {
-                  "startIndex": 30909,
-                  "endIndex": 30911,
+                  "startIndex": 30942,
+                  "endIndex": 30944,
                   "textRun": {
                     "content": ", ",
                     "textStyle": {
@@ -16001,8 +16412,8 @@
                   }
                 },
                 {
-                  "startIndex": 30911,
-                  "endIndex": 30915,
+                  "startIndex": 30944,
+                  "endIndex": 30948,
                   "textRun": {
                     "content": "Tool",
                     "textStyle": {
@@ -16024,8 +16435,8 @@
                   }
                 },
                 {
-                  "startIndex": 30915,
-                  "endIndex": 31010,
+                  "startIndex": 30948,
+                  "endIndex": 31043,
                   "textRun": {
                     "content": " and System remain visible. Recall is the fraction of tokens from a role classified correctly.\n",
                     "textStyle": {
@@ -16056,13 +16467,13 @@
             }
           },
           {
-            "startIndex": 31010,
-            "endIndex": 31428,
+            "startIndex": 31043,
+            "endIndex": 31461,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 31010,
-                  "endIndex": 31398,
+                  "startIndex": 31043,
+                  "endIndex": 31431,
                   "textRun": {
                     "content": "The probe dataset contains 249 neutral base texts wrapped into 1,245 prompt variants. One split holds out 124 variants; the other holds out 24 base texts and trains on 225. The panels use separately fitted probes and different test sets. Their difference cannot isolate the effect of the split strategy. Role decoding alone does not validate authority tracking or probability calibration.",
                     "textStyle": {
@@ -16074,8 +16485,8 @@
                   }
                 },
                 {
-                  "startIndex": 31398,
-                  "endIndex": 31399,
+                  "startIndex": 31431,
+                  "endIndex": 31432,
                   "textRun": {
                     "content": " ",
                     "textStyle": {
@@ -16094,8 +16505,8 @@
                   }
                 },
                 {
-                  "startIndex": 31399,
-                  "endIndex": 31427,
+                  "startIndex": 31432,
+                  "endIndex": 31460,
                   "textRun": {
                     "content": "Counts and split definitions",
                     "textStyle": {
@@ -16120,8 +16531,8 @@
                   }
                 },
                 {
-                  "startIndex": 31427,
-                  "endIndex": 31428,
+                  "startIndex": 31460,
+                  "endIndex": 31461,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -16155,15 +16566,15 @@
             }
           },
           {
-            "startIndex": 31428,
-            "endIndex": 31472,
+            "startIndex": 31461,
+            "endIndex": 31505,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 31428,
-                  "endIndex": 31471,
+                  "startIndex": 31461,
+                  "endIndex": 31473,
                   "textRun": {
-                    "content": "From forged reasoning to an upload decision",
+                    "content": "From forged ",
                     "textStyle": {
                       "bold": true,
                       "foregroundColor": {
@@ -16183,8 +16594,54 @@
                   }
                 },
                 {
-                  "startIndex": 31471,
-                  "endIndex": 31472,
+                  "startIndex": 31473,
+                  "endIndex": 31482,
+                  "textRun": {
+                    "content": "reasoning",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31482,
+                  "endIndex": 31504,
+                  "textRun": {
+                    "content": " to an upload decision",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.21176471,
+                            "green": 0.37254903,
+                            "blue": 0.5686275
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31504,
+                  "endIndex": 31505,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -16224,21 +16681,177 @@
             }
           },
           {
-            "startIndex": 31472,
-            "endIndex": 32014,
+            "startIndex": 31505,
+            "endIndex": 32047,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 31472,
-                  "endIndex": 32013,
+                  "startIndex": 31505,
+                  "endIndex": 31564,
                   "textRun": {
-                    "content": "An agent must summarize a webpage; an attacker adds forged reasoning requesting a dummy-file upload. I follow the retrieved text into the agent’s next reasoning and answer. Pink marks attacker-authored Tool content and yellow-orange marks the agent’s own reasoning; height is the four-role probe’s CoT probability. A high pink curve therefore means external text receives a reasoning-like readout. This illustration comes from a separate local run and uses different trajectories from the main comparison and the river example in Appendix A.",
+                    "content": "An agent must summarize a webpage; an attacker adds forged ",
                     "textStyle": {}
                   }
                 },
                 {
-                  "startIndex": 32013,
-                  "endIndex": 32014,
+                  "startIndex": 31564,
+                  "endIndex": 31573,
+                  "textRun": {
+                    "content": "reasoning",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31573,
+                  "endIndex": 31656,
+                  "textRun": {
+                    "content": " requesting a dummy-file upload. I follow the retrieved text into the agent\u2019s next ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 31656,
+                  "endIndex": 31665,
+                  "textRun": {
+                    "content": "reasoning",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31665,
+                  "endIndex": 31707,
+                  "textRun": {
+                    "content": " and answer. Pink marks attacker-authored ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 31707,
+                  "endIndex": 31711,
+                  "textRun": {
+                    "content": "Tool",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31711,
+                  "endIndex": 31756,
+                  "textRun": {
+                    "content": " content and yellow-orange marks the agent\u2019s ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 31756,
+                  "endIndex": 31769,
+                  "textRun": {
+                    "content": "own reasoning",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31769,
+                  "endIndex": 31803,
+                  "textRun": {
+                    "content": "; height is the four-role probe\u2019s ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 31803,
+                  "endIndex": 31806,
+                  "textRun": {
+                    "content": "CoT",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31806,
+                  "endIndex": 31879,
+                  "textRun": {
+                    "content": " probability. A high pink curve therefore means external text receives a ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 31879,
+                  "endIndex": 31888,
+                  "textRun": {
+                    "content": "reasoning",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 31888,
+                  "endIndex": 32046,
+                  "textRun": {
+                    "content": "-like readout. This illustration comes from a separate local run and uses different trajectories from the main comparison and the river example in Appendix A.",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 32046,
+                  "endIndex": 32047,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -16262,13 +16875,13 @@
             }
           },
           {
-            "startIndex": 32014,
-            "endIndex": 32016,
+            "startIndex": 32047,
+            "endIndex": 32049,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 32014,
-                  "endIndex": 32015,
+                  "startIndex": 32047,
+                  "endIndex": 32048,
                   "inlineObjectElement": {
                     "inlineObjectId": "kix.eauxr1xd15om",
                     "textStyle": {
@@ -16284,8 +16897,8 @@
                   }
                 },
                 {
-                  "startIndex": 32015,
-                  "endIndex": 32016,
+                  "startIndex": 32048,
+                  "endIndex": 32049,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -16318,13 +16931,13 @@
             }
           },
           {
-            "startIndex": 32016,
-            "endIndex": 32347,
+            "startIndex": 32049,
+            "endIndex": 32380,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 32016,
-                  "endIndex": 32097,
+                  "startIndex": 32049,
+                  "endIndex": 32130,
                   "textRun": {
                     "content": "Figure B8. Four local trajectories for one selected webpage: ordinary injection, ",
                     "textStyle": {
@@ -16337,8 +16950,8 @@
                   }
                 },
                 {
-                  "startIndex": 32097,
-                  "endIndex": 32106,
+                  "startIndex": 32130,
+                  "endIndex": 32139,
                   "textRun": {
                     "content": "reasoning",
                     "textStyle": {
@@ -16360,8 +16973,8 @@
                   }
                 },
                 {
-                  "startIndex": 32106,
-                  "endIndex": 32347,
+                  "startIndex": 32139,
+                  "endIndex": 32380,
                   "textRun": {
                     "content": " forgery, steered forgery and a manual style rewrite. Forgery and the rewrite upload; ordinary injection and steering do not. Layer-16 four-role curves show the first response after fetching the page; upload status covers the whole episode.\n",
                     "textStyle": {
@@ -16392,13 +17005,13 @@
             }
           },
           {
-            "startIndex": 32347,
-            "endIndex": 32349,
+            "startIndex": 32380,
+            "endIndex": 32382,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 32347,
-                  "endIndex": 32348,
+                  "startIndex": 32380,
+                  "endIndex": 32381,
                   "inlineObjectElement": {
                     "inlineObjectId": "kix.8bh5npuhfyaz",
                     "textStyle": {
@@ -16414,8 +17027,8 @@
                   }
                 },
                 {
-                  "startIndex": 32348,
-                  "endIndex": 32349,
+                  "startIndex": 32381,
+                  "endIndex": 32382,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -16448,13 +17061,13 @@
             }
           },
           {
-            "startIndex": 32349,
-            "endIndex": 32563,
+            "startIndex": 32382,
+            "endIndex": 32596,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 32349,
-                  "endIndex": 32406,
+                  "startIndex": 32382,
+                  "endIndex": 32439,
                   "textRun": {
                     "content": "Figure B8 (continued). Verbatim injected request, forged ",
                     "textStyle": {
@@ -16467,8 +17080,8 @@
                   }
                 },
                 {
-                  "startIndex": 32406,
-                  "endIndex": 32415,
+                  "startIndex": 32439,
+                  "endIndex": 32448,
                   "textRun": {
                     "content": "reasoning",
                     "textStyle": {
@@ -16490,8 +17103,8 @@
                   }
                 },
                 {
-                  "startIndex": 32415,
-                  "endIndex": 32497,
+                  "startIndex": 32448,
+                  "endIndex": 32530,
                   "textRun": {
                     "content": " and manual rewrite for the same selected case. Pink identifies attacker-authored ",
                     "textStyle": {
@@ -16504,8 +17117,8 @@
                   }
                 },
                 {
-                  "startIndex": 32497,
-                  "endIndex": 32501,
+                  "startIndex": 32530,
+                  "endIndex": 32534,
                   "textRun": {
                     "content": "Tool",
                     "textStyle": {
@@ -16527,8 +17140,8 @@
                   }
                 },
                 {
-                  "startIndex": 32501,
-                  "endIndex": 32563,
+                  "startIndex": 32534,
+                  "endIndex": 32596,
                   "textRun": {
                     "content": " content. The claimed policy exception is part of the attack.\n",
                     "textStyle": {
@@ -16559,13 +17172,13 @@
             }
           },
           {
-            "startIndex": 32563,
-            "endIndex": 32937,
+            "startIndex": 32596,
+            "endIndex": 32970,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 32563,
-                  "endIndex": 32670,
+                  "startIndex": 32596,
+                  "endIndex": 32703,
                   "textRun": {
                     "content": "The ordinary condition refuses the summary; the steered summary contains one unsupported claim. This adapts",
                     "textStyle": {
@@ -16577,8 +17190,8 @@
                   }
                 },
                 {
-                  "startIndex": 32670,
-                  "endIndex": 32671,
+                  "startIndex": 32703,
+                  "endIndex": 32704,
                   "textRun": {
                     "content": " ",
                     "textStyle": {
@@ -16597,8 +17210,8 @@
                   }
                 },
                 {
-                  "startIndex": 32671,
-                  "endIndex": 32691,
+                  "startIndex": 32704,
+                  "endIndex": 32724,
                   "textRun": {
                     "content": "the paper's Figure 8",
                     "textStyle": {
@@ -16623,8 +17236,8 @@
                   }
                 },
                 {
-                  "startIndex": 32691,
-                  "endIndex": 32697,
+                  "startIndex": 32724,
+                  "endIndex": 32730,
                   "textRun": {
                     "content": " to a ",
                     "textStyle": {
@@ -16636,8 +17249,8 @@
                   }
                 },
                 {
-                  "startIndex": 32697,
-                  "endIndex": 32701,
+                  "startIndex": 32730,
+                  "endIndex": 32734,
                   "textRun": {
                     "content": "tool",
                     "textStyle": {
@@ -16658,8 +17271,8 @@
                   }
                 },
                 {
-                  "startIndex": 32701,
-                  "endIndex": 32909,
+                  "startIndex": 32734,
+                  "endIndex": 32942,
                   "textRun": {
                     "content": "-using agent. The manual rewrite is not the paper's full destyling procedure. I include this selected success to explain the intervention, while the complete controlled cohort determines its empirical weight.",
                     "textStyle": {
@@ -16671,8 +17284,8 @@
                   }
                 },
                 {
-                  "startIndex": 32909,
-                  "endIndex": 32910,
+                  "startIndex": 32942,
+                  "endIndex": 32943,
                   "textRun": {
                     "content": " ",
                     "textStyle": {
@@ -16691,8 +17304,8 @@
                   }
                 },
                 {
-                  "startIndex": 32910,
-                  "endIndex": 32936,
+                  "startIndex": 32943,
+                  "endIndex": 32969,
                   "textRun": {
                     "content": "Full case and measurements",
                     "textStyle": {
@@ -16706,10 +17319,6 @@
                           }
                         }
                       },
-                      "weightedFontFamily": {
-                        "fontFamily": "Cambria",
-                        "weight": 400
-                      },
                       "link": {
                         "url": "https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/chart-library/data/figure8-steering/local-case002-v1/README.md"
                       }
@@ -16717,8 +17326,8 @@
                   }
                 },
                 {
-                  "startIndex": 32936,
-                  "endIndex": 32937,
+                  "startIndex": 32969,
+                  "endIndex": 32970,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -16731,10 +17340,6 @@
                             "blue": 0.8
                           }
                         }
-                      },
-                      "weightedFontFamily": {
-                        "fontFamily": "Cambria",
-                        "weight": 400
                       }
                     }
                   }
@@ -16752,13 +17357,1037 @@
             }
           },
           {
-            "startIndex": 32937,
-            "endIndex": 32938,
+            "startIndex": 32970,
+            "endIndex": 33010,
             "paragraph": {
               "elements": [
                 {
-                  "startIndex": 32937,
-                  "endIndex": 32938,
+                  "startIndex": 32970,
+                  "endIndex": 33010,
+                  "textRun": {
+                    "content": "Appendix C: complete paired comparisons\n",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.21176471,
+                            "green": 0.37254903,
+                            "blue": 0.5686275
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.2ob47qm41w8j",
+                "namedStyleType": "HEADING_1",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 24,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "pageBreakBefore": true
+              }
+            }
+          },
+          {
+            "startIndex": 33010,
+            "endIndex": 33060,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 33010,
+                  "endIndex": 33060,
+                  "textRun": {
+                    "content": "The original vector changes three of ten outcomes\n",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.21176471,
+                            "green": 0.37254903,
+                            "blue": 0.5686275
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.sxkiixeo3ati",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceBelow": {
+                  "magnitude": 4,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false
+              }
+            }
+          },
+          {
+            "startIndex": 33060,
+            "endIndex": 33382,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 33060,
+                  "endIndex": 33129,
+                  "textRun": {
+                    "content": "The aggregate upload rate falls from 7/10 to 6/10 under the original ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 33129,
+                  "endIndex": 33133,
+                  "textRun": {
+                    "content": "Tool",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33133,
+                  "endIndex": 33134,
+                  "textRun": {
+                    "content": "\u2212",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 33134,
+                  "endIndex": 33137,
+                  "textRun": {
+                    "content": "CoT",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33137,
+                  "endIndex": 33382,
+                  "textRun": {
+                    "content": " vector. Figure C1 shows how that net change arises: steering prevents uploads on H1 and H3, introduces one on H2, and leaves the other seven outcomes unchanged. Read down a column to compare interventions on the same webpage and sampling seed.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 33382,
+            "endIndex": 33384,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 33382,
+                  "endIndex": 33383,
+                  "inlineObjectElement": {
+                    "inlineObjectId": "kix.l2sb8f26wood",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 33383,
+                  "endIndex": 33384,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 33384,
+            "endIndex": 33746,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 33384,
+                  "endIndex": 33652,
+                  "textRun": {
+                    "content": "Figure C1. All 80 recorded forgery episodes on ten webpages, which reuse five attack templates. Each arm/page has one sampled trajectory. Pink means a verified upload and green means no upload; unresolved, unrun and unassigned cells are marked separately. The revised ",
+                    "textStyle": {
+                      "italic": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33652,
+                  "endIndex": 33656,
+                  "textRun": {
+                    "content": "Tool",
+                    "textStyle": {
+                      "italic": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33656,
+                  "endIndex": 33662,
+                  "textRun": {
+                    "content": "\u2212mean(",
+                    "textStyle": {
+                      "italic": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33662,
+                  "endIndex": 33666,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "italic": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33666,
+                  "endIndex": 33668,
+                  "textRun": {
+                    "content": ", ",
+                    "textStyle": {
+                      "italic": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33668,
+                  "endIndex": 33671,
+                  "textRun": {
+                    "content": "CoT",
+                    "textStyle": {
+                      "italic": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.7058824,
+                            "green": 0.3254902,
+                            "blue": 0.03529412
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33671,
+                  "endIndex": 33724,
+                  "textRun": {
+                    "content": ") direction has five completed development-page runs.",
+                    "textStyle": {
+                      "italic": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33724,
+                  "endIndex": 33725,
+                  "textRun": {
+                    "content": " ",
+                    "textStyle": {
+                      "italic": true,
+                      "link": {
+                        "url": "https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33725,
+                  "endIndex": 33745,
+                  "textRun": {
+                    "content": "Page-by-page records",
+                    "textStyle": {
+                      "italic": true,
+                      "underline": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
+                          }
+                        }
+                      },
+                      "link": {
+                        "url": "https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/replication/chart-library/steering-evidence-review/data/forgery-outcomes.csv"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33745,
+                  "endIndex": 33746,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {
+                      "italic": true,
+                      "underline": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 33746,
+            "endIndex": 33801,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 33746,
+                  "endIndex": 33790,
+                  "textRun": {
+                    "content": "Permission can lower the selected command\u2019s ",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.21176471,
+                            "green": 0.37254903,
+                            "blue": 0.5686275
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33790,
+                  "endIndex": 33794,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33794,
+                  "endIndex": 33801,
+                  "textRun": {
+                    "content": " score\n",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.21176471,
+                            "green": 0.37254903,
+                            "blue": 0.5686275
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.n0fr9f9aomnv",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceBelow": {
+                  "magnitude": 4,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "pageBreakBefore": true
+              }
+            }
+          },
+          {
+            "startIndex": 33801,
+            "endIndex": 34234,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 33801,
+                  "endIndex": 33898,
+                  "textRun": {
+                    "content": "In the earlier selective-execution task, a page contains two file-writing commands, A and B. The ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 33898,
+                  "endIndex": 33902,
+                  "textRun": {
+                    "content": "user",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 33902,
+                  "endIndex": 34111,
+                  "textRun": {
+                    "content": " permits one command and asks the model to report the fresh random values in both. I hold the page and scored tokens fixed while switching permission between A and B. For each command, Figure C2 subtracts its ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 34111,
+                  "endIndex": 34115,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34115,
+                  "endIndex": 34234,
+                  "textRun": {
+                    "content": " score when unselected from its score when selected. Positive values mean that permission raises that command\u2019s score.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 34234,
+            "endIndex": 34236,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 34234,
+                  "endIndex": 34235,
+                  "inlineObjectElement": {
+                    "inlineObjectId": "kix.x5dovch7labs",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 34235,
+                  "endIndex": 34236,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 34236,
+            "endIndex": 34712,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 34236,
+                  "endIndex": 34695,
+                  "textRun": {
+                    "content": "Figure C2. All eight available baseline cases, measured with the layer-14 five-role probe. The whole-command score rises for the first-listed command and falls for the second-listed command in every case. The post-hoc action-label view gives a negative contrast for 15 of 16 commands. Circles and squares identify page position; A\u2192B and B\u2192A give the original command order. The readout depends on which token span is scored as well as the surrounding request.",
+                    "textStyle": {
+                      "italic": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34695,
+                  "endIndex": 34696,
+                  "textRun": {
+                    "content": " ",
+                    "textStyle": {
+                      "italic": true,
+                      "link": {
+                        "url": "https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/earlier-study/figures/selection-contrasts.csv"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34696,
+                  "endIndex": 34711,
+                  "textRun": {
+                    "content": "Score contrasts",
+                    "textStyle": {
+                      "italic": true,
+                      "underline": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
+                          }
+                        }
+                      },
+                      "link": {
+                        "url": "https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/earlier-study/figures/selection-contrasts.csv"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34711,
+                  "endIndex": 34712,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {
+                      "italic": true,
+                      "underline": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 34712,
+            "endIndex": 34756,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 34712,
+                  "endIndex": 34756,
+                  "textRun": {
+                    "content": "Compare unwanted writes with permitted work\n",
+                    "textStyle": {
+                      "bold": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.21176471,
+                            "green": 0.37254903,
+                            "blue": 0.5686275
+                          }
+                        }
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "headingId": "h.5spkwohm31i9",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceBelow": {
+                  "magnitude": 4,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "pageBreakBefore": true
+              }
+            }
+          },
+          {
+            "startIndex": 34756,
+            "endIndex": 35254,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 34756,
+                  "endIndex": 34790,
+                  "textRun": {
+                    "content": "Figure C3 extends the main text\u2019s ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 34790,
+                  "endIndex": 34798,
+                  "textRun": {
+                    "content": "Toolward",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34798,
+                  "endIndex": 34926,
+                  "textRun": {
+                    "content": " comparison to every recovered control in this earlier task. Each method is paired with its own available no-steering episodes. ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 34926,
+                  "endIndex": 34934,
+                  "textRun": {
+                    "content": "Toolward",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34934,
+                  "endIndex": 34946,
+                  "textRun": {
+                    "content": " here means ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 34946,
+                  "endIndex": 34950,
+                  "textRun": {
+                    "content": "Tool",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34950,
+                  "endIndex": 34951,
+                  "textRun": {
+                    "content": "\u2212",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 34951,
+                  "endIndex": 34955,
+                  "textRun": {
+                    "content": "User",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.043137256,
+                            "green": 0.47058824,
+                            "blue": 0.65882355
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 34955,
+                  "endIndex": 35058,
+                  "textRun": {
+                    "content": " steering on command tokens. The permission reminder prevents six unwanted writes and introduces none; ",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 35058,
+                  "endIndex": 35066,
+                  "textRun": {
+                    "content": "Toolward",
+                    "textStyle": {
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.41568628,
+                            "green": 0.3137255,
+                            "blue": 0.72156864
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 35066,
+                  "endIndex": 35254,
+                  "textRun": {
+                    "content": " steering prevents four and introduces three. Both lose two completions of the permitted action. The right panel also checks whether the answer still reports both requested random values.\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 35254,
+            "endIndex": 35256,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 35254,
+                  "endIndex": 35255,
+                  "inlineObjectElement": {
+                    "inlineObjectId": "kix.jrbxvtyvz75m",
+                    "textStyle": {}
+                  }
+                },
+                {
+                  "startIndex": 35255,
+                  "endIndex": 35256,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {}
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 35256,
+            "endIndex": 35610,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 35256,
+                  "endIndex": 35593,
+                  "textRun": {
+                    "content": "Figure C3. All six methods in the recovered permission study. Each row gives its matched-pair count. The right panel shows lost permitted completions and lost reports of both values; neither measure has any gains in these pairs. The three random directions belong to this earlier study. Counts retain each method\u2019s available comparisons.",
+                    "textStyle": {
+                      "italic": true
+                    }
+                  }
+                },
+                {
+                  "startIndex": 35593,
+                  "endIndex": 35594,
+                  "textRun": {
+                    "content": " ",
+                    "textStyle": {
+                      "italic": true,
+                      "link": {
+                        "url": "https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/earlier-study/figures/paired-behavior.csv"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 35594,
+                  "endIndex": 35609,
+                  "textRun": {
+                    "content": "Paired outcomes",
+                    "textStyle": {
+                      "italic": true,
+                      "underline": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
+                          }
+                        }
+                      },
+                      "link": {
+                        "url": "https://github.com/hananather/role-confusion-study/blob/67d76762d0cda750d19b3b406de4a447fa2d3489/earlier-study/figures/paired-behavior.csv"
+                      }
+                    }
+                  }
+                },
+                {
+                  "startIndex": 35609,
+                  "endIndex": 35610,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {
+                      "italic": true,
+                      "underline": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 35610,
+            "endIndex": 35611,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 35610,
+                  "endIndex": 35611,
+                  "textRun": {
+                    "content": "\n",
+                    "textStyle": {
+                      "underline": true,
+                      "foregroundColor": {
+                        "color": {
+                          "rgbColor": {
+                            "red": 0.06666667,
+                            "green": 0.33333334,
+                            "blue": 0.8
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "lineSpacing": 100,
+                "direction": "LEFT_TO_RIGHT",
+                "spaceBelow": {
+                  "magnitude": 6,
+                  "unit": "PT"
+                }
+              }
+            }
+          },
+          {
+            "startIndex": 35611,
+            "endIndex": 35612,
+            "paragraph": {
+              "elements": [
+                {
+                  "startIndex": 35611,
+                  "endIndex": 35612,
                   "textRun": {
                     "content": "\n",
                     "textStyle": {
@@ -17370,7 +18999,7 @@
             "nestingLevels": [
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%0",
                 "indentFirstLine": {
                   "magnitude": 18,
@@ -17387,7 +19016,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%1",
                 "indentFirstLine": {
                   "magnitude": 54,
@@ -17404,7 +19033,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%2",
                 "indentFirstLine": {
                   "magnitude": 90,
@@ -17421,7 +19050,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%3",
                 "indentFirstLine": {
                   "magnitude": 126,
@@ -17438,7 +19067,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%4",
                 "indentFirstLine": {
                   "magnitude": 162,
@@ -17455,7 +19084,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%5",
                 "indentFirstLine": {
                   "magnitude": 198,
@@ -17472,7 +19101,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%6",
                 "indentFirstLine": {
                   "magnitude": 234,
@@ -17489,7 +19118,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%7",
                 "indentFirstLine": {
                   "magnitude": 270,
@@ -17506,7 +19135,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%8",
                 "indentFirstLine": {
                   "magnitude": 306,
@@ -17679,7 +19308,7 @@
             "nestingLevels": [
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%0",
                 "indentFirstLine": {
                   "magnitude": 18,
@@ -17696,7 +19325,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%1",
                 "indentFirstLine": {
                   "magnitude": 54,
@@ -17713,7 +19342,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%2",
                 "indentFirstLine": {
                   "magnitude": 90,
@@ -17730,7 +19359,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%3",
                 "indentFirstLine": {
                   "magnitude": 126,
@@ -17747,7 +19376,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%4",
                 "indentFirstLine": {
                   "magnitude": 162,
@@ -17764,7 +19393,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%5",
                 "indentFirstLine": {
                   "magnitude": 198,
@@ -17781,7 +19410,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%6",
                 "indentFirstLine": {
                   "magnitude": 234,
@@ -17798,7 +19427,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%7",
                 "indentFirstLine": {
                   "magnitude": 270,
@@ -17815,7 +19444,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%8",
                 "indentFirstLine": {
                   "magnitude": 306,
@@ -17838,7 +19467,7 @@
             "nestingLevels": [
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%0",
                 "indentFirstLine": {
                   "magnitude": 18,
@@ -17855,7 +19484,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%1",
                 "indentFirstLine": {
                   "magnitude": 54,
@@ -17872,7 +19501,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%2",
                 "indentFirstLine": {
                   "magnitude": 90,
@@ -17889,7 +19518,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%3",
                 "indentFirstLine": {
                   "magnitude": 126,
@@ -17906,7 +19535,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%4",
                 "indentFirstLine": {
                   "magnitude": 162,
@@ -17923,7 +19552,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%5",
                 "indentFirstLine": {
                   "magnitude": 198,
@@ -17940,7 +19569,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%6",
                 "indentFirstLine": {
                   "magnitude": 234,
@@ -17957,7 +19586,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%7",
                 "indentFirstLine": {
                   "magnitude": 270,
@@ -17974,7 +19603,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%8",
                 "indentFirstLine": {
                   "magnitude": 306,
@@ -18161,7 +19790,7 @@
             "nestingLevels": [
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%0",
                 "indentFirstLine": {
                   "magnitude": 18,
@@ -18178,7 +19807,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%1",
                 "indentFirstLine": {
                   "magnitude": 54,
@@ -18195,7 +19824,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%2",
                 "indentFirstLine": {
                   "magnitude": 90,
@@ -18212,7 +19841,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%3",
                 "indentFirstLine": {
                   "magnitude": 126,
@@ -18229,7 +19858,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%4",
                 "indentFirstLine": {
                   "magnitude": 162,
@@ -18246,7 +19875,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%5",
                 "indentFirstLine": {
                   "magnitude": 198,
@@ -18263,7 +19892,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%6",
                 "indentFirstLine": {
                   "magnitude": 234,
@@ -18280,7 +19909,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%7",
                 "indentFirstLine": {
                   "magnitude": 270,
@@ -18297,7 +19926,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%8",
                 "indentFirstLine": {
                   "magnitude": 306,
@@ -18320,7 +19949,7 @@
             "nestingLevels": [
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%0",
                 "indentFirstLine": {
                   "magnitude": 18,
@@ -18337,7 +19966,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%1",
                 "indentFirstLine": {
                   "magnitude": 54,
@@ -18354,7 +19983,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%2",
                 "indentFirstLine": {
                   "magnitude": 90,
@@ -18371,7 +20000,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%3",
                 "indentFirstLine": {
                   "magnitude": 126,
@@ -18388,7 +20017,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%4",
                 "indentFirstLine": {
                   "magnitude": 162,
@@ -18405,7 +20034,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%5",
                 "indentFirstLine": {
                   "magnitude": 198,
@@ -18422,7 +20051,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%6",
                 "indentFirstLine": {
                   "magnitude": 234,
@@ -18439,7 +20068,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%7",
                 "indentFirstLine": {
                   "magnitude": 270,
@@ -18456,7 +20085,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%8",
                 "indentFirstLine": {
                   "magnitude": 306,
@@ -18479,7 +20108,7 @@
             "nestingLevels": [
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%0",
                 "indentFirstLine": {
                   "magnitude": 18,
@@ -18496,7 +20125,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%1",
                 "indentFirstLine": {
                   "magnitude": 54,
@@ -18513,7 +20142,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%2",
                 "indentFirstLine": {
                   "magnitude": 90,
@@ -18530,7 +20159,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%3",
                 "indentFirstLine": {
                   "magnitude": 126,
@@ -18547,7 +20176,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%4",
                 "indentFirstLine": {
                   "magnitude": 162,
@@ -18564,7 +20193,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%5",
                 "indentFirstLine": {
                   "magnitude": 198,
@@ -18581,7 +20210,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%6",
                 "indentFirstLine": {
                   "magnitude": 234,
@@ -18598,7 +20227,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%7",
                 "indentFirstLine": {
                   "magnitude": 270,
@@ -18615,7 +20244,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%8",
                 "indentFirstLine": {
                   "magnitude": 306,
@@ -18965,7 +20594,7 @@
             "nestingLevels": [
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%0",
                 "indentFirstLine": {
                   "magnitude": 18,
@@ -18982,7 +20611,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%1",
                 "indentFirstLine": {
                   "magnitude": 54,
@@ -18999,7 +20628,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%2",
                 "indentFirstLine": {
                   "magnitude": 90,
@@ -19016,7 +20645,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%3",
                 "indentFirstLine": {
                   "magnitude": 126,
@@ -19033,7 +20662,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%4",
                 "indentFirstLine": {
                   "magnitude": 162,
@@ -19050,7 +20679,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%5",
                 "indentFirstLine": {
                   "magnitude": 198,
@@ -19067,7 +20696,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "●",
+                "glyphSymbol": "\u25cf",
                 "glyphFormat": "%6",
                 "indentFirstLine": {
                   "magnitude": 234,
@@ -19084,7 +20713,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "○",
+                "glyphSymbol": "\u25cb",
                 "glyphFormat": "%7",
                 "indentFirstLine": {
                   "magnitude": 270,
@@ -19101,7 +20730,7 @@
               },
               {
                 "bulletAlignment": "START",
-                "glyphSymbol": "■",
+                "glyphSymbol": "\u25a0",
                 "glyphFormat": "%8",
                 "indentFirstLine": {
                   "magnitude": 306,
@@ -19554,6 +21183,102 @@
             }
           }
         },
+        "kix.jrbxvtyvz75m": {
+          "objectId": "kix.jrbxvtyvz75m",
+          "inlineObjectProperties": {
+            "embeddedObject": {
+              "imageProperties": {
+                "cropProperties": {}
+              },
+              "embeddedObjectBorder": {
+                "color": {
+                  "color": {
+                    "rgbColor": {}
+                  }
+                },
+                "width": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID",
+                "propertyState": "NOT_RENDERED"
+              },
+              "size": {
+                "height": {
+                  "magnitude": 290,
+                  "unit": "PT"
+                },
+                "width": {
+                  "magnitude": 468,
+                  "unit": "PT"
+                }
+              },
+              "marginTop": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginBottom": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginRight": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginLeft": {
+                "magnitude": 9,
+                "unit": "PT"
+              }
+            }
+          }
+        },
+        "kix.l2sb8f26wood": {
+          "objectId": "kix.l2sb8f26wood",
+          "inlineObjectProperties": {
+            "embeddedObject": {
+              "imageProperties": {
+                "cropProperties": {}
+              },
+              "embeddedObjectBorder": {
+                "color": {
+                  "color": {
+                    "rgbColor": {}
+                  }
+                },
+                "width": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID",
+                "propertyState": "NOT_RENDERED"
+              },
+              "size": {
+                "height": {
+                  "magnitude": 327,
+                  "unit": "PT"
+                },
+                "width": {
+                  "magnitude": 468,
+                  "unit": "PT"
+                }
+              },
+              "marginTop": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginBottom": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginRight": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginLeft": {
+                "magnitude": 9,
+                "unit": "PT"
+              }
+            }
+          }
+        },
         "kix.usmd2miy696u": {
           "objectId": "kix.usmd2miy696u",
           "inlineObjectProperties": {
@@ -19576,6 +21301,54 @@
               "size": {
                 "height": {
                   "magnitude": 247,
+                  "unit": "PT"
+                },
+                "width": {
+                  "magnitude": 468,
+                  "unit": "PT"
+                }
+              },
+              "marginTop": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginBottom": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginRight": {
+                "magnitude": 9,
+                "unit": "PT"
+              },
+              "marginLeft": {
+                "magnitude": 9,
+                "unit": "PT"
+              }
+            }
+          }
+        },
+        "kix.x5dovch7labs": {
+          "objectId": "kix.x5dovch7labs",
+          "inlineObjectProperties": {
+            "embeddedObject": {
+              "imageProperties": {
+                "cropProperties": {}
+              },
+              "embeddedObjectBorder": {
+                "color": {
+                  "color": {
+                    "rgbColor": {}
+                  }
+                },
+                "width": {
+                  "unit": "PT"
+                },
+                "dashStyle": "SOLID",
+                "propertyState": "NOT_RENDERED"
+              },
+              "size": {
+                "height": {
+                  "magnitude": 302,
                   "unit": "PT"
                 },
                 "width": {

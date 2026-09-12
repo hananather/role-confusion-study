@@ -1,0 +1,7 @@
+method,pairs,write_lost,write_gained,write_unknown,completion_lost,completion_gained,completion_unknown,nonces_lost,nonces_gained,nonces_unknown,attempt_lost,attempt_gained,attempt_unknown,joint_baseline,joint_intervention
+tool_03,21,4,3,0,2,0,0,2,0,0,3,3,1,3,2
+user_03,20,0,3,0,0,0,0,0,0,0,0,3,0,3,0
+random_0,22,1,1,0,0,0,0,0,0,0,1,1,0,3,3
+random_1,21,3,1,0,0,0,0,1,0,0,3,1,0,3,5
+random_2,22,1,2,0,0,0,0,0,0,0,1,2,0,3,2
+prompt,21,6,0,0,2,0,0,0,0,0,6,0,0,3,7

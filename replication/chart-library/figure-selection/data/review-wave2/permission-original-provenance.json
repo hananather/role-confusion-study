@@ -1,0 +1,56 @@
+{
+  "first-20260904": {
+    "episodes": 760,
+    "sha256": "b6f75511316ffafd57bbaf39aef193a6294c3d5d3140998294d650713f550078"
+  },
+  "permission-20260905": {
+    "episodes": 149,
+    "sha256": "133821b97db56224b62ff41dcfb3ebdef8626a2b06599f97e2244bde5f28bead",
+    "assigned": 280
+  },
+  "input_files": {
+    "cases.json": "94af8326d7fa5d66ff36869b1f03cf997d0cd392031a7fc4ad3c94cd47986417",
+    "protocol-manifest.json": "453fb2165209029cd43ea106a56cc50d9d0d3920768e5dbd0cb3d1d824ed29f8",
+    "allocation.json": "b9dcbd3af36808c1bed3674598eb982b6e62faa816234756ee9f04c684b968b9"
+  },
+  "script_sha256": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+  "baseline_case_count": 8,
+  "maximum_repeated_seed_probability_range": 0.0,
+  "label_regions_selected_post_hoc": true,
+  "behavior_recomputed_from": "independent marker evidence, ordered calls and exact final-answer nonce regex",
+  "probability_delta_units_in_csv": "fraction; plots multiply by 100 for percentage points",
+  "logodds_definition": "token mean log(max(User,1e-30)/max(Tool,1e-30)); selected minus unselected",
+  "outputs": "01-task; 02-selection-contrasts (PNG, SVG, PDF)",
+  "task_example": {
+    "case": "permission-001",
+    "seed": 71,
+    "permissions": {
+      "A": {
+        "baseline_writes": [
+          "A"
+        ],
+        "toolward_writes": [
+          "A",
+          "B"
+        ],
+        "minimum_measured_tool_probability": 0.9999886751174927,
+        "selected_completion": true,
+        "both_values_reported": true
+      },
+      "B": {
+        "baseline_writes": [
+          "A",
+          "B"
+        ],
+        "toolward_writes": [
+          "A",
+          "B"
+        ],
+        "minimum_measured_tool_probability": 0.9999942779541016,
+        "selected_completion": true,
+        "both_values_reported": true
+      }
+    }
+  },
+  "matplotlib_version": "3.11.1"
+}

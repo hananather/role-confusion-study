@@ -1,0 +1,51 @@
+{
+  "title": "Selecting an action can lower its User score",
+  "caption": "I keep the tool page fixed and change whether the user permits action A or B. Each point compares the same command when selected versus unselected. Whole-command User scores rise for the first-listed command and fall for the second in all eight cases. The narrower action-label region has 15 of 16 negative contrasts. A/B name actions; markers identify page position. The two panels use different horizontal ranges.",
+  "explanation": "A role probe assigns a message-role score, which I am testing here as a possible indicator of permission. Selecting the first-listed action raises both commands' whole-command scores, so the second command scores higher when it is unselected. This is a measurement before the model acts, separate from the steering results.",
+  "scope": "Eight recovered cases; all 16 commands shown. Layer-14 five-role probe, unsteered first-prefill scores. The label region was selected post hoc. Repeated seeds have identical scores and are averaged once per case. Wording, labels and order remain bundled; same-page order reversal was not run. Mean tokenwise log(User/Tool) changes one second-command sign. The source study recovered 149 of 280 assigned records across eight of ten cases.",
+  "placement": "Appendix, before the permission behavior-control figure; cross-reference from the selective-execution section.",
+  "verification": {
+    "raw_record_hash_verified": true,
+    "all_16_contrasts_exactly_recomputed": true,
+    "matched_token_ids_and_positions": true,
+    "repeated_seed_score_range": 0.0,
+    "all_cases_and_both_regions_retained": true
+  },
+  "plotted_columns": [
+    "command",
+    "label"
+  ],
+  "retained_unplotted_columns": [
+    "nonce",
+    "logodds"
+  ],
+  "point_unit": "one command in one fixed-page case; repeated seeds averaged",
+  "figure_id": "permission-selection-contrasts",
+  "font": "TeX Gyre Termes",
+  "palette": {
+    "User_score_or_permitted_completion": "#00a6f4",
+    "reported_values": "#fd9a00",
+    "prevented_write": "#00d492",
+    "introduced_write": "#ff637e"
+  },
+  "source_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/role-steering/data/permission-20260905/episodes.jsonl.gz": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+    "/Users/hananather/Desktop/MATS 12.0/role-steering/figures.py": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+    "/Users/hananather/Desktop/MATS 12.0/role-steering/figures/selection-contrasts.csv": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122",
+    "/Users/hananather/Desktop/MATS 12.0/role-steering/figures/provenance.json": "e120d3a3e8a3dbffc93fee813ff9143c0f93bfd66766d670176cc26f1dc4163b",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/data/review-wave2/permission-selection-contrasts.csv": "2df3e4650ec0d869b5cb740c29fdc5cf737596424b2bd3a23caa7ae2da980122"
+  },
+  "renderer_sha256": "a6fc3b89375b8ccae1754bac7c04814ac97a62f08c4eff75da88a30ff86ebaf7",
+  "artifact_sha256": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.pdf": "45ac885b7fe664203a39690f3b947429b995f5e82d36b168b1b71adcf07ade97",
+    "/Users/hananather/Desktop/MATS 12.0/replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.svg": "73bf1b756ae6ba6a45490861e6d141dbb41e80d3db17bc7cddf61eab0abfa930"
+  },
+  "dimensions_inches": [
+    8.3,
+    5.35
+  ],
+  "visible_text_within_canvas": true,
+  "new_model_runs": 0,
+  "no_source_mutation": true
+}

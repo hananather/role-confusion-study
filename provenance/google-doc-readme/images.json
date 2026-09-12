@@ -118,5 +118,29 @@
     "sha256": "8a20379f0896841e08382259ddcd5d8fe921b7cef834ac2b5184df1e6eb70ec5",
     "bytes": 348598,
     "native_export_sha256": "26a4318c4d325505ded70e9758b20a296d56a3120d55a2a957ca0370078c733d"
+  },
+  "kix.l2sb8f26wood": {
+    "path": "replication/chart-library/figure-selection/figures/review-wave2/pagewise-outcomes.png",
+    "alt": "Figure C1",
+    "sha256": "37a9b93fc114bcdb591338e50c24277223a58ba9b4d15863390643a753e57ee0",
+    "bytes": 341753,
+    "source": "Original figure file identified by the document author",
+    "native_export_sha256": "54009337a0a78ec99ed66d9f8c36a05b4ccdda7a26b480ac3ee2f569eb9cd419"
+  },
+  "kix.x5dovch7labs": {
+    "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-selection-contrasts.png",
+    "alt": "Figure C2",
+    "sha256": "a9c5f3d33c31d1757711ee762ed1c3996200e94606750ccd9c91c00bbe70bf9e",
+    "bytes": 253257,
+    "source": "Original figure file identified by the document author",
+    "native_export_sha256": "7b3472e65fd797cb1110497bd2edd34c56bc3456e55b26ccc2e73ff596070586"
+  },
+  "kix.jrbxvtyvz75m": {
+    "path": "replication/chart-library/figure-selection/figures/review-wave2/permission-all-controls.png",
+    "alt": "Figure C3",
+    "sha256": "60018c9f095b79a6451934670b20d75ebcdd7ec9d45b746ee1b8fad04e0f62cd",
+    "bytes": 262977,
+    "source": "Original figure file identified by the document author",
+    "native_export_sha256": "d8ad28e0f19ad0fb72d58f77fd8d975d2a6f556d3d3d2af301197f6a6166bc16"
   }
 }
