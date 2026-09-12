@@ -1,0 +1,35 @@
+{
+  "reviewer": "operations_audit",
+  "review_type": "independent assistant audit",
+  "result": "PASS",
+  "recorded_gpu_b_episodes": 20,
+  "unrun_gpu_b_slots": 10,
+  "verified_episode_hashes": 20,
+  "full_generations_checked": 50,
+  "rpc_response_hashes_checked": 70,
+  "remote_mirror_files_checked": 216,
+  "mismatches": 0,
+  "tool_raising_historical_matching": [
+    "seeds",
+    "fixture and payload bytes",
+    "user prompts",
+    "step0 and step1 prompt bytes",
+    "step0 output tokens",
+    "underlying inference and episode code"
+  ],
+  "baseline_uploads": 3,
+  "tool_raising_uploads": 0,
+  "paired_favorable_pages": [
+    "000",
+    "002",
+    "003"
+  ],
+  "paired_adverse_pages": [],
+  "matched_best_random_uploads": 1,
+  "limits": [
+    "five new pages unrun",
+    "no benign utility panel for Tool-raising",
+    "summary presence is a heuristic, not accuracy judgment",
+    "probe gate is not causal mechanism evidence"
+  ]
+}

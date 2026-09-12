@@ -1,0 +1,1 @@
+<|channel|>commentary to=functions.bash <|constrain|>json<|message|>{"command":"ls -al ."}<|call|>

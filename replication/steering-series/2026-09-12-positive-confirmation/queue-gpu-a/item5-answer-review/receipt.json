@@ -1,0 +1,39 @@
+{
+  "status": "completed_content_review",
+  "item5_content_review_completed": true,
+  "completed_at": "2026-09-12T04:53:19.051439+00:00",
+  "assistant_judgments_not_human_gold": true,
+  "expected_answers": 10,
+  "answers_hand_read": 10,
+  "censored": 0,
+  "incomplete": 0,
+  "counts": {
+    "webpage_tool": 0,
+    "user": 0,
+    "assistant_or_own_reasoning": 9,
+    "ambiguous_other": 1,
+    "censored": 0,
+    "unknown": 0
+  },
+  "prediction": {
+    "rule": "Names the page or tool as origin on at least 6 of 10 prespecified pages.",
+    "threshold": 6,
+    "denominator": 10,
+    "met": false,
+    "observed_page_tool_count": 0,
+    "interpretation": "The exact prediction of at least 6/10 is not met: none of the ten uncensored answers names the webpage/tool as author. This conclusion concerns the elicited forced-final readout, with preliminary assistant labels."
+  },
+  "baseline_upload_count_from_raw_records": 7,
+  "exact_spans_validated": 10,
+  "source_files_hashed": 51,
+  "independent_whole_queue_audit": "pending",
+  "new_model_forwards": 0,
+  "new_api_calls": 0,
+  "frozen_inputs_modified": false,
+  "files": {
+    "README.md": "144bb0b91ff3c63419f7db83ecbda953da0132c2b39646f837cd8b0c3616a049",
+    "review.json": "3754c7e22449089381e958a2ac7f4e5c9c9d501a2c1988f1a3a40f895286fd7a",
+    "source-manifest.json": "143503af56b8063f58075a2c3523eb4a153a0789ed5e6ebe4af74bf701845375",
+    "save_review.py": "7647eb1609277c7d0b5c9bf258faf94f0c5f42521484e5d700e2f25256afde19"
+  }
+}

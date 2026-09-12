@@ -1,0 +1,15 @@
+{
+  "started_utc": "2026-09-12T02:13:47.505922+00:00",
+  "status": "aborted",
+  "launchable": false,
+  "error_type": "RuntimeError",
+  "error": "Only 77/100 pages retrieved; see /Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/new-pages/retrieval.jsonl",
+  "finished_utc": "2026-09-12T02:16:22.260717+00:00",
+  "elapsed_s": 154.755,
+  "source_candidates": 1000,
+  "excluded_prior_titles": 2,
+  "raw_files_preserved": 77,
+  "model_calls": 0,
+  "gpu_calls": 0,
+  "paid_api_calls": 0
+}

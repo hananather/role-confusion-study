@@ -1,0 +1,244 @@
+{
+  "account_check": {
+    "autopay_path": [
+      "data",
+      "myself",
+      "isAutoPayEnabled"
+    ],
+    "balance_path": [
+      "data",
+      "myself",
+      "clientBalance"
+    ],
+    "query": "query { myself { clientBalance isAutoPayEnabled } }"
+  },
+  "asset_mode": "existing_volume",
+  "bridge_plan": "/workspace/replication/cloud/agent_steering/packet/bridge-plan.json",
+  "cap_usd": 20,
+  "cloud": "SECURE",
+  "command": [
+    "/workspace/venv-probes/bin/python",
+    "-u",
+    "-m",
+    "replication.cloud.agent_steering.worker",
+    "--config",
+    "/workspace/replication/cloud/agent_steering/packet/worker-config.json"
+  ],
+  "container_disk_gb": 30,
+  "container_disk_usd_gb_month": 0.1,
+  "data_center": "EU-FR-1",
+  "execution_record": "/Users/hananather/Desktop/MATS 12.0/replication/EXECUTION.md",
+  "existing_volume_reserve_usd": 0.9,
+  "existing_volume_usd_month": 280,
+  "files": [
+    {
+      "remote": "replication/cloud/agent_steering/__init__.py",
+      "sha256": "d5fb172683068b006bb1b6bded43e5f41385a883167eef078050046475fbb074",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/__init__.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/control.py",
+      "sha256": "8f8fb42066cbe14f3a8a905daad2e197243ea4fd5d3dc496d6853cdf4e4119ce",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/control.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/episode.py",
+      "sha256": "1e9d1f865868a93e7ced5472f848c612d89e5c332e910651045e8f550289113d",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/episode.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/frozen_harness/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/frozen_harness/__init__.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/frozen_harness/backend.py",
+      "sha256": "e8276ae8a27402442be23ce835e8d691276c36ac6cf470642cd99cab4543874c",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/frozen_harness/backend.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/frozen_harness/prepare.py",
+      "sha256": "14404f8f1060bb7273a30ccc5ea8f2defe8578c54bceb4c8a0be33758f407c39",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/frozen_harness/prepare.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/frozen_harness/protocol.py",
+      "sha256": "ccec25467e8c55a0215b6d55a8a25e4ea94e96d45ce5120a0bb01f33566d0b43",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/frozen_harness/protocol.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/frozen_harness/sandbox.py",
+      "sha256": "c7a551a5e1d9bdf04e2f3a121140e7e341611912f35ac2622a44457e570bcb10",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/frozen_harness/sandbox.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/hf_backend.py",
+      "sha256": "98764c521c295253d54c12dbc845c8e7263415fb43cb0708c2a9b3d38dbf3f79",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/hf_backend.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/local_backend.py",
+      "sha256": "0d785435fa7a29575938f8c3b925fbb63b5263b87b4677f896a66b4f51d6ad2a",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/local_backend.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/prepare.py",
+      "sha256": "a9d1b2ccb9070b5dcfaf380b426b0de53772e33dc4dab7c3d311ad0d125ae8fa",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/prepare.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/runner.py",
+      "sha256": "5be8258c1542ea86b1101bf69815cb61e916d97f75eda5dd9e2f3404c4c2c7b1",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/runner.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/sandbox/Dockerfile",
+      "sha256": "c7ea7e7f7164ef75eb343cc2bf3791be37d78c1a1507e87d82052c918d28c2c7",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/sandbox/Dockerfile"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/sandbox/runner.py",
+      "sha256": "9a9bc33f5c65cf79dda303efb81909958cc9605af4c37bcf0ca35f380b06ba98",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/sandbox/runner.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/sandbox/server.py",
+      "sha256": "b88f0bf304f9dd35823d07df68d668028b47ac0e575e2c0524c53e340e9d6f3c",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/sandbox/server.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/sandbox/watchdog.py",
+      "sha256": "393b8de2dcab04cadd1c12cbc17029f746afd3d6391dcc8a5ba1a7f59559d9f2",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/sandbox/watchdog.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/worker.py",
+      "sha256": "7e77f7f324fd0eea224696088ad5b5e93bd46586b443c04fb265e9ea8b2c31a4",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/worker.py"
+    },
+    {
+      "remote": "replication/cloud/chat_steering/runtime.py",
+      "sha256": "bb909f739608aaf3d4350b2aeb5dd1397140e15e75c6c0c0f90e6cd0937f98be",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/chat_steering/runtime.py"
+    },
+    {
+      "remote": "replication/cloud/job_steering.py",
+      "sha256": "dc26236f4501c5b0b24c1c3c303bbac4fe910c88fcb2546c6eaa198f93a3e4a9",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/job_steering.py"
+    },
+    {
+      "remote": "replication/cloud/jobcommon.py",
+      "sha256": "4044cb37e9df7f5d6bf4571d538f096f3747ad2d70e188ae729ca047057267bc",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/jobcommon.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/bridge-plan.json",
+      "sha256": "6ae65962f97eb76b9f896ab56181d10728b39b335765bb0ad2e7f3e864c5c4e6",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/bridge-plan.json"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/model-free-validation.json",
+      "sha256": "8efcd19fb1c3c210007e72778db085c0c1bf6bcd722d1bd11d998ed2ca93fbec",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/model-free-validation.json"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/sandbox-validation.json",
+      "sha256": "e84772ac87d95e7d55eecf2301b3e79b4cb39eabda5f4fea7ee15742c84d89de",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/sandbox-validation.json"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/000-forgery.html",
+      "sha256": "e942be588cea0e6dc47fa2bf22d44ba23aeff859215050d134673d91c54d281b",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/000-forgery.html"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/001-forgery.html",
+      "sha256": "04f9f603c768070c73e24d98b87910247d3cc7b015edb6a2c19f8b67b57042a4",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/001-forgery.html"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/002-forgery.html",
+      "sha256": "69ae4c4075d54d105995a92130c8cc79af4b24b486b1523fdead855347392d88",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/002-forgery.html"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/003-forgery.html",
+      "sha256": "dad67bde0f9888a8773c44acc64c82f33889d610ecf2ce8a5ae3586178bdca9c",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/003-forgery.html"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/004-forgery.html",
+      "sha256": "1469f358143fc277ae1e5f53ff97f2ec5942cc51402cb76094fe18588c6bf21c",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/004-forgery.html"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/block11.npz",
+      "sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/block11.npz"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/diagnostic-prompts.json",
+      "sha256": "7b726b021d559ab9b80ef03ccfe5384d7809ce9c225d7153a0c11e40d7969e96",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/diagnostic-prompts.json"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/inputs/probes.npz",
+      "sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/inputs/probes.npz"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/test_control.py",
+      "sha256": "ec271617d8b6e8bd19a7e50a05f84dad902ce89c1d20d4f0f8b68479c19542c6",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/test_control.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/test_hf_backend.py",
+      "sha256": "0705192fe032a7247a818512f93189721b5db038b8944e997429bde06126ed7c",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/test_hf_backend.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/test_runner.py",
+      "sha256": "38fa4cf5b2d7c94fc41545561fa184968dbf36b41ca3ea238a367155205216c5",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/test_runner.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/test_worker.py",
+      "sha256": "f6b3459f215f31af1dfd8402a348933e2164af0a804721040b8f9a4169613239",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/test_worker.py"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/vendored-source.json",
+      "sha256": "bc5f785c03e39813184c939a7e416e1e8acb027884618c18111892518450722f",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/vendored-source.json"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/worker-config.json",
+      "sha256": "2dee271e05ec2c2a08eed7b98e8f65dccf26fa9efeb4a874b22f9b08435bd556",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/worker-config.json"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/local-config.json",
+      "sha256": "61d07e86da726525a915291e2aa569d3edb006fe6fb98bde2d2cac4083b0a92c",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/local-config.json"
+    },
+    {
+      "remote": "replication/cloud/agent_steering/packet/runtime-review.json",
+      "sha256": "74b5920b34ff807e12d16f768a19f459214b815037025bcae505ab09f676fbf6",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/runtime-review.json"
+    }
+  ],
+  "gpu_type": "NVIDIA H100 80GB HBM3",
+  "grace_minutes": 20,
+  "image": "runpod/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04",
+  "model_free_validation": "/workspace/replication/cloud/agent_steering/packet/model-free-validation.json",
+  "network_volume_id": "i0cptrlcoz",
+  "planned_hours": 2,
+  "prior_spend_usd": 3.0,
+  "rate_usd_h": 3.49,
+  "run_id": "agent-bridge-20260912T022500Z",
+  "runtime_review_receipt": "/workspace/replication/cloud/agent_steering/packet/runtime-review.json",
+  "scope": "agent_steering_bridge",
+  "series_cap_usd": 10,
+  "storage_month_hours": 730,
+  "version": 1
+}

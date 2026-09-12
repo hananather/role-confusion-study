@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "closed_episodes": 40,
+  "consistency_errors": 0,
+  "source_files_hashed": 1561,
+  "remote_mirror_files_checked": 384,
+  "generation_records_checked": 111,
+  "new_model_forwards": 0,
+  "files": {
+    "audit.json": "42227f79aff100e2a8423552d75fca1137d7c5bd639bf257d9d782983d421c98",
+    "source-file-hashes.json": "82b6a2aeaa7a4f0c0395152af915e7dfa88031e7d32c488e4668e2e270c46e0a",
+    "audit_newpages.py": "9976f80895cbe8b994a91c43bba35c703361803e50483147e97a029aacb895f9",
+    "first-exposure-probes.csv": "af348afa8fd6890dac04fb11f0f9e23bce0ceb2a5aea17bb4427d1b486d4c147",
+    "per-page-outcomes.csv": "cb22d60a00bde93d038f32cc672c98c22a86b99c6d15ca57e5f603e046261840"
+  }
+}

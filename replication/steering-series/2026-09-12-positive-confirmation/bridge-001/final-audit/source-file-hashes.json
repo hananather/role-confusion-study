@@ -1,0 +1,2514 @@
+{
+  "files": {
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episode-index.json": {
+      "bytes": 23796,
+      "sha256": "79f2d425cc6d703339a02742f0b201f9ce327c7fe29b9ee784267ca3e6b2b0d4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/status.json": {
+      "bytes": 186,
+      "sha256": "cc2724b5f529d5000404cc208b848776d70142dd4fafd2b12af0d3fc08528c54"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/summary.json": {
+      "bytes": 2261,
+      "sha256": "c76a3791e33bbd24c8310d61913c62c238b00e4f467994c5b53e91fae5d86d73"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/full-zero-identity.json": {
+      "bytes": 5917,
+      "sha256": "3f9c7c0d714e2694e375d0833bb364d4c9179aacbdbcdd3b056d27152ca2ef3d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/bridge-plan.json": {
+      "bytes": 20258,
+      "sha256": "6ae65962f97eb76b9f896ab56181d10728b39b335765bb0ad2e7f3e864c5c4e6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/packet/bridge-plan.json": {
+      "bytes": 20258,
+      "sha256": "6ae65962f97eb76b9f896ab56181d10728b39b335765bb0ad2e7f3e864c5c4e6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/episode.py": {
+      "bytes": 12195,
+      "sha256": "1e9d1f865868a93e7ced5472f848c612d89e5c332e910651045e8f550289113d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/runner.py": {
+      "bytes": 14451,
+      "sha256": "5be8258c1542ea86b1101bf69815cb61e916d97f75eda5dd9e2f3404c4c2c7b1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/hf_backend.py": {
+      "bytes": 17142,
+      "sha256": "98764c521c295253d54c12dbc845c8e7263415fb43cb0708c2a9b3d38dbf3f79"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/local_backend.py": {
+      "bytes": 6447,
+      "sha256": "0d785435fa7a29575938f8c3b925fbb63b5263b87b4677f896a66b4f51d6ad2a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/launch-packet/frozen-source/replication/cloud/agent_steering/sandbox/server.py": {
+      "bytes": 8852,
+      "sha256": "b88f0bf304f9dd35823d07df68d668028b47ac0e575e2c0524c53e340e9d6f3c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/inputs/block11.npz": {
+      "bytes": 130052,
+      "sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/inputs/probes.npz": {
+      "bytes": 7568950,
+      "sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/episode.json": {
+      "bytes": 732432,
+      "sha256": "481139c93a1ffc357fdee26efafba6623d6a03cab73a08baad4a2af94ad88422"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/case.json": {
+      "bytes": 2401,
+      "sha256": "6fcbcd700a2a1989d97e81e1aa0306d40e594b36589b37f24f1b28cd1e75b43c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/receipts.json": {
+      "bytes": 325,
+      "sha256": "fe20e4c157077482dad1e6aaca7f0e8c5e013da638b7810e34b016a32f8b210a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/messages.json": {
+      "bytes": 119494,
+      "sha256": "d3df31f0c23eea50abe5c5d2cc839d72dcf878e2d74b411ec841f9000bcebf29"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/step-00.generation.json": {
+      "bytes": 7829,
+      "sha256": "ed660c7467e3af151ac61cd1336e1c7d6e0b35514394af9905778222c0190cc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/step-00.completion.txt": {
+      "bytes": 2280,
+      "sha256": "3d5e65d9cff21b3a1042cfe09badf15b03934f80d8cee912b5b43c4f75ed19cf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/step-01.prompt.txt": {
+      "bytes": 105612,
+      "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/step-01.generation.json": {
+      "bytes": 7336,
+      "sha256": "80f4f034cc1aa5f7e3c4e0ebe93830f69640ab49e4301a783c4babf74cbfede3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/step-01.completion.txt": {
+      "bytes": 2158,
+      "sha256": "263b74a20b67936693a7866e097bb65f70cdd671dd2e338c05b41c88c32f9593"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/events.jsonl": {
+      "bytes": 1038,
+      "sha256": "f2ba792d3c9fb3e5fc81ab6f54513e34fef62762b8d71e9e6000d22b9d6f37c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/judge-input.txt": {
+      "bytes": 4328,
+      "sha256": "daec07b19feecbe6402b8145b0236f5f74482b7f02e581b1487f6a751091ed74"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/sandbox.json": {
+      "bytes": 1436,
+      "sha256": "58bfb3300265a4ae9094dd664512b708cfcff1ae96e1b4fea5538faa01a7f338"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/zero/steering.json": {
+      "bytes": 499893,
+      "sha256": "6db25029664dfbd236bf1e52f1368aa693651e145c59908490f9fb36a50ffddc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/episode.json": {
+      "bytes": 1771940,
+      "sha256": "443490a08c6a1cb199f6cb7af13d7346b03a428bb5897c188358d8e6d2327cba"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/case.json": {
+      "bytes": 2401,
+      "sha256": "6fcbcd700a2a1989d97e81e1aa0306d40e594b36589b37f24f1b28cd1e75b43c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/receipts.json": {
+      "bytes": 1440,
+      "sha256": "85192afdd88d48a12574e28066eed0f76806c087b13e095c62d30853ddb4ad4c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/messages.json": {
+      "bytes": 125531,
+      "sha256": "3e7dc1f125563a4096a7af7e98ef82e55439299a1292717b64c89d6ee1d418ce"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-00.generation.json": {
+      "bytes": 7829,
+      "sha256": "d39c02cc4d05558266fd1e6d46c21b5e29c2430f9100582431e988c11965d69a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-00.completion.txt": {
+      "bytes": 2280,
+      "sha256": "3d5e65d9cff21b3a1042cfe09badf15b03934f80d8cee912b5b43c4f75ed19cf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-01.prompt.txt": {
+      "bytes": 105612,
+      "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-01.generation.json": {
+      "bytes": 12844,
+      "sha256": "a75134a75893c9eef0130e1e31e1c18e51098f2939bb95aaacc6b33f0f3c6b63"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-01.completion.txt": {
+      "bytes": 3893,
+      "sha256": "20130ec00f19041765aeedc21c044503cfc43f0a3d64c9b28cb7cafdcc1d0ba4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-02.prompt.txt": {
+      "bytes": 109671,
+      "sha256": "7b4b5f5178c4fbb00e73917fa803aef08abd6137cc0695dbac0e41268635d418"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-02.generation.json": {
+      "bytes": 11126,
+      "sha256": "eebd0cefb77db9e50165246d420693f56b021ae071667b50f366f6fdc0bc3d3f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-02.completion.txt": {
+      "bytes": 3097,
+      "sha256": "d683007b77e9557971da734db6028d1c43ba12ca3dbfb07fca97fd3031a1d701"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-03.prompt.txt": {
+      "bytes": 113289,
+      "sha256": "e61972075eda0585ac195979b5d885c2d84035c24c5f46f389d6dec4b8ebf4af"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-03.generation.json": {
+      "bytes": 3765,
+      "sha256": "714cce730ab4d85b1960d6705d910841e5610d9008a8150542e140ec2aef1f07"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/step-03.completion.txt": {
+      "bytes": 1201,
+      "sha256": "52a1cd05acaa40c2e434528883349c94e9b36562e2a33c8c5ece63dcbe6f9514"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/events.jsonl": {
+      "bytes": 2301,
+      "sha256": "4ca18d96c3032d7e47d33eb0015d3bd59c62337b16e585bbb9a6afa6cba7919d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/judge-input.txt": {
+      "bytes": 9473,
+      "sha256": "a584f84fe5a9ac6605c3d5d657adb85577e0dc5ac97ec055e4ffe3c4e8f5283f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/sandbox.json": {
+      "bytes": 1441,
+      "sha256": "bd45ddf6f2aa6b3e6de0634b632935b649b517a292f8409f289a0b3a18459aa5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/role_a16/steering.json": {
+      "bytes": 1501242,
+      "sha256": "e093424e7ad08236469211687c20b4193e888b08ff1014886b5f50f1c21c346e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/episode.json": {
+      "bytes": 817942,
+      "sha256": "3cfb6c18afbd35139bf55154e50142466113fa62a6720cb19000607a1eb67b86"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/case.json": {
+      "bytes": 2401,
+      "sha256": "6fcbcd700a2a1989d97e81e1aa0306d40e594b36589b37f24f1b28cd1e75b43c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "918d2ac22e7f1d43010a8d17161e6eaa9a596974bc7a861166db71c35f0fd0d3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/messages.json": {
+      "bytes": 134199,
+      "sha256": "b02ac9937d661f00c02f0c25d50d7ad6b7f4a9f92a7c499f3eeca29090ca25a3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/step-00.generation.json": {
+      "bytes": 7829,
+      "sha256": "9954bb04f1e21b00c3ad5c38ec56f9058f7fc3dd1d78671b45641d3b685f8aa0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/step-00.completion.txt": {
+      "bytes": 2280,
+      "sha256": "3d5e65d9cff21b3a1042cfe09badf15b03934f80d8cee912b5b43c4f75ed19cf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/step-01.prompt.txt": {
+      "bytes": 105612,
+      "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/step-01.generation.json": {
+      "bytes": 56438,
+      "sha256": "43106b45669a57e062cf68e9f249aab52c52ddc92f47f7ab33b5d30d38058941"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/step-01.completion.txt": {
+      "bytes": 16615,
+      "sha256": "3b5ebbc2987cc119f67c1142fdef07bec1d236334b4c743e4dfb1c267d75104c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/events.jsonl": {
+      "bytes": 1050,
+      "sha256": "7a159374f18d9cfc99acecb7be6a8778472aae9a028f4aef6bd976113ea4e4d2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/judge-input.txt": {
+      "bytes": 18826,
+      "sha256": "a204e2c87fd3cbed0e6e52fdc1bb35b8016c391c6ee06f529063c3ec05032929"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/sandbox.json": {
+      "bytes": 1446,
+      "sha256": "07ddeadd0ac74e518c1d5f1219d145f6bf7ab1f9f6074877fced322662505daf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_2_a16/steering.json": {
+      "bytes": 499972,
+      "sha256": "63795bcffdfd3670265800774a9fd4fa2ab6170f7f2a1463db87fe1d5373d6ed"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/episode.json": {
+      "bytes": 734137,
+      "sha256": "ce82eee684e16308c5b6ede5f97da3a8aabc6f7ed9a9b6a6f2bd21707402f9d3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/case.json": {
+      "bytes": 2401,
+      "sha256": "6fcbcd700a2a1989d97e81e1aa0306d40e594b36589b37f24f1b28cd1e75b43c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "bda2225ef1b1734e0a2295fdc59e23335e5df00a16a7fe176c3b38868afe6da1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/messages.json": {
+      "bytes": 119965,
+      "sha256": "a55860c4fb442c778ec1028b2b59c9c66962048d1c1a2cc9bbf4475a45439172"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/step-00.generation.json": {
+      "bytes": 7828,
+      "sha256": "508406a847d165de3e899438b7fa3247f4aed3afb170fe13e0a785693d911005"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/step-00.completion.txt": {
+      "bytes": 2280,
+      "sha256": "3d5e65d9cff21b3a1042cfe09badf15b03934f80d8cee912b5b43c4f75ed19cf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/step-01.prompt.txt": {
+      "bytes": 105612,
+      "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/step-01.generation.json": {
+      "bytes": 8215,
+      "sha256": "5616e132790defa4da224923dd00c87e030da695e04f8d5de2a9072a8192e080"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/step-01.completion.txt": {
+      "bytes": 2613,
+      "sha256": "0dc70337ccfe6a1d139a659f100cc0665bf2e7b0d597304ba1d2d2a88775f2f2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/events.jsonl": {
+      "bytes": 1046,
+      "sha256": "cd0d5cf69227285ee6a721612bc61a83c4ebe22c2f5450111a9e5025525cd5af"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/judge-input.txt": {
+      "bytes": 4783,
+      "sha256": "efe827daa5fdaef8ed81214ce158436060bacec977dcd8d6d15382de050edc8b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/sandbox.json": {
+      "bytes": 1442,
+      "sha256": "0c0dc8bb203872b344af94bd84e911df12ae58e42c7958219ab69aac9d384df9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/reverse_a16/steering.json": {
+      "bytes": 500002,
+      "sha256": "0c190d678e9a3adf1c980ec3b679e340c591f1327063e7dfa70297b7c143ebe3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/episode.json": {
+      "bytes": 732629,
+      "sha256": "428be46eafd96cec9177d99677bf31959b4662eece985c209b2b4b41cf0b36c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/case.json": {
+      "bytes": 2401,
+      "sha256": "6fcbcd700a2a1989d97e81e1aa0306d40e594b36589b37f24f1b28cd1e75b43c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "5671d5649d8ccec31dd5455398093dbb457b6f7835ed99ad976a74631a7aaccf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/messages.json": {
+      "bytes": 119700,
+      "sha256": "bd27844d972842f5f338216d599df522710073c4447f4fda5b89d000594f0af4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/step-00.generation.json": {
+      "bytes": 7829,
+      "sha256": "0ae259c553fa0516aabfc3d85c7d6a6765089cd33b917e8ebc58f40ed602684a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/step-00.completion.txt": {
+      "bytes": 2280,
+      "sha256": "3d5e65d9cff21b3a1042cfe09badf15b03934f80d8cee912b5b43c4f75ed19cf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/step-01.prompt.txt": {
+      "bytes": 105612,
+      "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/step-01.generation.json": {
+      "bytes": 7376,
+      "sha256": "9ab64c7573f39196cb75774c517012734a52d88598a34ba78b8f756a19dc215f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/step-01.completion.txt": {
+      "bytes": 2362,
+      "sha256": "de061ba3834d20f9ab6dcf2b119306f60859912c5f15100934e3e8874befe245"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/events.jsonl": {
+      "bytes": 1047,
+      "sha256": "1e023c47ccb8a635ad97e82a23f329099d6ca1b3c85dfd7686742591c355f807"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/judge-input.txt": {
+      "bytes": 4532,
+      "sha256": "72968ebd1157febd15e35e81fd39997c1cd958833804f5115c1eede5761254e6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "c38ea0a0435c2af6578da502f23952591fbeb8613c65c028c48fdb12fca50d8b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_1_a16/steering.json": {
+      "bytes": 499969,
+      "sha256": "ab0fd623b32263aea5995f49a2c47cb0f76b15f40e5d0ffe14cfe76fa9180a79"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/episode.json": {
+      "bytes": 2283075,
+      "sha256": "d14fb8ae6d71f648402db090cdedd8c0111d491bc5aec33feed3eb973c300e58"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/case.json": {
+      "bytes": 2401,
+      "sha256": "6fcbcd700a2a1989d97e81e1aa0306d40e594b36589b37f24f1b28cd1e75b43c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/receipts.json": {
+      "bytes": 1377,
+      "sha256": "e17a03782d1b4d470b6179c9a59c7bb6840997dd28a9097ca7ae474d5ade3a3f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/messages.json": {
+      "bytes": 128130,
+      "sha256": "081790a285288d7dad4516bbeee8a97ab09007ee46c06f500bd6b177ad208057"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-00.generation.json": {
+      "bytes": 7829,
+      "sha256": "e5f375697d604d085697dc948c15b942720375b87637536a3ab5893de74c519f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-00.completion.txt": {
+      "bytes": 2280,
+      "sha256": "3d5e65d9cff21b3a1042cfe09badf15b03934f80d8cee912b5b43c4f75ed19cf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-01.prompt.txt": {
+      "bytes": 105612,
+      "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-01.generation.json": {
+      "bytes": 18119,
+      "sha256": "6caa6046e86e01dfd414c7586ea11a105cd8288d53bb73ba43517b4e81473b9e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-01.completion.txt": {
+      "bytes": 5631,
+      "sha256": "afd1e753b191b0203e8811670fbe645b76cf15cbd81b143a99dcab64de75d50e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-02.prompt.txt": {
+      "bytes": 111393,
+      "sha256": "83d61b8c415fb007f7c05a0d7f95e5b62378da4647b86a69f31900e71c6d05f2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-02.generation.json": {
+      "bytes": 982,
+      "sha256": "90867817d7aec740a4c3ab2666a7eb630c66387ab4d72374864bec0f91a201e0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-02.completion.txt": {
+      "bytes": 230,
+      "sha256": "3bf65000576639784c2da081e5db1fc787a2a3ffe3e953c8db6db281ad866ce1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-03.prompt.txt": {
+      "bytes": 111809,
+      "sha256": "5b5d51ce715e5214f3873384a345f7273f337f8929626661f5dfd4e53e0fab98"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-03.generation.json": {
+      "bytes": 6625,
+      "sha256": "802035642accc75bdbbb87e195399802e25e78a4858f4560008191d20a1638cd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-03.completion.txt": {
+      "bytes": 1714,
+      "sha256": "4510a157b079425f7c09c03ca7bdc498b65843e4d62ae08db3afb0638e6ab1a8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-04.prompt.txt": {
+      "bytes": 114044,
+      "sha256": "4335f9b4b3c090038f66b4aab37a7a212be2d6ffc4836ff7f52681d697e04569"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-04.generation.json": {
+      "bytes": 7193,
+      "sha256": "09a211982a77027e6870fe54bf9fad1e6d18e57299c31fc911635b01bab1c8f6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/step-04.completion.txt": {
+      "bytes": 2170,
+      "sha256": "2f725a30e9b3bf89476e0a5e563ec74cc3874affb7cbefaa02c1d7edc1e6baa1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/events.jsonl": {
+      "bytes": 2918,
+      "sha256": "78382ee62345d19e363e86fb0345ecb88cb5065ad8402e41407c802c778f04f6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/judge-input.txt": {
+      "bytes": 11717,
+      "sha256": "e5f3363e9758c3c2f9af0dcd73ca32429bae9fe6a69733f11cddace8fd77178a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/sandbox.json": {
+      "bytes": 1446,
+      "sha256": "60c43dadb11484da295d5529f1f611af9cc1a1221b9b8cf1b1d9677dc650f460"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/random_0_a16/steering.json": {
+      "bytes": 2001975,
+      "sha256": "945a092be4adfae7562299e156458d5873620b69095f6112fb7e7d3e1bcd9c53"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/episode.json": {
+      "bytes": 731764,
+      "sha256": "9e45c9bbbd998bbbe1918e8f1300fdd450162a6e7c41474da7f6546d537a87bf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/case.json": {
+      "bytes": 2401,
+      "sha256": "6fcbcd700a2a1989d97e81e1aa0306d40e594b36589b37f24f1b28cd1e75b43c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/receipts.json": {
+      "bytes": 326,
+      "sha256": "3d08fda5a44d22219d5c83dbe2b0a5ee7deed0bddd06e44a67da9c278c9fa667"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/messages.json": {
+      "bytes": 119494,
+      "sha256": "d3df31f0c23eea50abe5c5d2cc839d72dcf878e2d74b411ec841f9000bcebf29"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-00.generation.json": {
+      "bytes": 7830,
+      "sha256": "46f3b802153ad1b701c443ce2e443c2666c7c05a7e5c7125e0fee1ad58d0b2ef"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-00.completion.txt": {
+      "bytes": 2280,
+      "sha256": "3d5e65d9cff21b3a1042cfe09badf15b03934f80d8cee912b5b43c4f75ed19cf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-01.prompt.txt": {
+      "bytes": 105612,
+      "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-01.generation.json": {
+      "bytes": 7337,
+      "sha256": "6ebe0822e5110b93c43e7dc4685e79c03d7e4f9ae2ba2825af3e2033e900c52b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-01.completion.txt": {
+      "bytes": 2158,
+      "sha256": "263b74a20b67936693a7866e097bb65f70cdd671dd2e338c05b41c88c32f9593"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/events.jsonl": {
+      "bytes": 1038,
+      "sha256": "5b0299ce0c220b5b9545559c9f40035ac6e332f4f227cea35b6eb4df3c3bf4fb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/judge-input.txt": {
+      "bytes": 4328,
+      "sha256": "daec07b19feecbe6402b8145b0236f5f74482b7f02e581b1487f6a751091ed74"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/sandbox.json": {
+      "bytes": 1436,
+      "sha256": "57fcda4be2d481f83d3d60fa1d77157977f788f235eca92879beab6dbd27cdb3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/steering.json": {
+      "bytes": 499222,
+      "sha256": "2e211696fd1cc16aae458e0a04d9553a2935cc5b6a9aa38c69dc4df5bb78a6b6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/episode.json": {
+      "bytes": 1954430,
+      "sha256": "621357501ccda01abce805e4f15bf40ceba9f9f06ca5fb43911359f2fa6f6ef9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/case.json": {
+      "bytes": 2270,
+      "sha256": "7fb46a6ffc205bf8a8484cfaec42e6f42d94c477c855a73cc0b70fde7ba8a3c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/receipts.json": {
+      "bytes": 1439,
+      "sha256": "e16def3ad2a038cf39474fa53287dd4c3ed39f43919fde71832251d2793bf24d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/messages.json": {
+      "bytes": 109817,
+      "sha256": "9ef80e124a81a00be97021010a45f84e48ff793aac715b954d635797bd8c9d60"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-00.generation.json": {
+      "bytes": 9631,
+      "sha256": "ff1a7b45feff6675dad3f40a5a4a00299cbf80402d7479c0af6bb602a3bef7d6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-00.completion.txt": {
+      "bytes": 2854,
+      "sha256": "4d1d8896c32ca52a687361a0dd57faf02f90b10d70bde598b2055234e396b737"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-01.prompt.txt": {
+      "bytes": 92989,
+      "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-01.generation.json": {
+      "bytes": 7148,
+      "sha256": "87f40260d2b2c1b6e7a9cb1296cb72d5dcabd311c004901f79ce0b8b29c03fa1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-01.completion.txt": {
+      "bytes": 2154,
+      "sha256": "bd65f4aec877f1097ac1377c1253ad92562555499304c64072aae8b75fce6453"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-02.prompt.txt": {
+      "bytes": 95449,
+      "sha256": "87a5e31ec7b8b31a2735035369aecc14ce78e6dd3056956ec7659db3345ea46d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-02.generation.json": {
+      "bytes": 950,
+      "sha256": "8ee3aec640f42c53f8ea6d7d4145228cd3eb666439dcbec4236cc068d3bcacc2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-02.completion.txt": {
+      "bytes": 216,
+      "sha256": "7d8b3915d98f90d9027531900deef82a82e28a704613404d45a30f7642c4cd6a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-03.prompt.txt": {
+      "bytes": 95851,
+      "sha256": "f999dc04cf6c2e0ce0a3f3ef076c02acfbe30bdb76b6fb834c4a832ed73cff28"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-03.generation.json": {
+      "bytes": 3159,
+      "sha256": "46758c72b3916f2a8493fdbe111885b1db55819ea86ff6e140e4e64386b88afc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-03.completion.txt": {
+      "bytes": 782,
+      "sha256": "73502cdb0f08e37c3fee159f63a6a68766b3c05b2a4137352e20c8b4074ecf97"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-04.prompt.txt": {
+      "bytes": 96832,
+      "sha256": "62dc9508b5ebdd93eabeebe7a488894284cd930c3c7dff74ae34e80f3e8d95fc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-04.generation.json": {
+      "bytes": 7682,
+      "sha256": "e6fe0195daaf44fd58a007767971bc53b10391a2939f5a0a22800ee81566efd0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/step-04.completion.txt": {
+      "bytes": 2419,
+      "sha256": "fe06e3380cf87408333eeb75b23d58b2a1429765205956f725f022b72e72cdbe"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/events.jsonl": {
+      "bytes": 2896,
+      "sha256": "5c9c7224a4063dfc16332229572fd6fa42e308689da0b775e84a52d8641a92db"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/judge-input.txt": {
+      "bytes": 8117,
+      "sha256": "72e6f6618350edd3393332afc6de80c837d4313b8fc0fcd4545223cee1f6c020"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/sandbox.json": {
+      "bytes": 1436,
+      "sha256": "45a241fe19bddc381910ac727cb68d72c98b3da2f18cf168e4ba0a175cc5ccec"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/zero/steering.json": {
+      "bytes": 1721155,
+      "sha256": "a54f53f25765dfb4ccdc2d50440d276f1407be9577b1641da47f2419fde2e93c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/episode.json": {
+      "bytes": 1519015,
+      "sha256": "06d5dd62733be54ef5c2272d21449f05393f64323aeb6c2e072e9b789159710c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/case.json": {
+      "bytes": 2270,
+      "sha256": "7fb46a6ffc205bf8a8484cfaec42e6f42d94c477c855a73cc0b70fde7ba8a3c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/receipts.json": {
+      "bytes": 1440,
+      "sha256": "4a8e359872691462144e8cfba4ad41c8031057c945c08c6923fc0594955e0324"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/messages.json": {
+      "bytes": 109253,
+      "sha256": "fd9b52692dde2814ba338a51c8e9d0d7c8e137f7713294a04dd2fd99d54821e0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-00.generation.json": {
+      "bytes": 9631,
+      "sha256": "00f068a4009ce81fa5ef3ec9e679138dfe1cf80aa5e67fa90a2dbd699af7b655"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-00.completion.txt": {
+      "bytes": 2854,
+      "sha256": "4d1d8896c32ca52a687361a0dd57faf02f90b10d70bde598b2055234e396b737"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-01.prompt.txt": {
+      "bytes": 92989,
+      "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-01.generation.json": {
+      "bytes": 6105,
+      "sha256": "d64df3523c99c247214d76a6cac609403d107ca2742f3d374d64082846e51c0d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-01.completion.txt": {
+      "bytes": 1770,
+      "sha256": "5ff9083579793f7066db529a8d7eb90b4dbd800b2757336ad4551f31bf55a9d0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-02.prompt.txt": {
+      "bytes": 94925,
+      "sha256": "9340e13ece83309826c8a553ea749a4b9b028ed740605bc6e53c818b085b4a73"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-02.generation.json": {
+      "bytes": 4476,
+      "sha256": "bb8d19a7cf2ee2d6801e632bbf239acf288764039f80f59e24300bf73d47819e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-02.completion.txt": {
+      "bytes": 1228,
+      "sha256": "f6fb53f509fe856036a8b4ce6715c995d63306aadd7742bbeb3c901f049c7596"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-03.prompt.txt": {
+      "bytes": 96352,
+      "sha256": "4d620cbeee1ee92a2ef2df5683be6122bc9f750424fd5ac532c95f0dc04c95c2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-03.generation.json": {
+      "bytes": 7663,
+      "sha256": "0b6b7f76a943db1db4c430329c31101e1c7e6eb2371ffae6dd63f58d0c14d64e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/step-03.completion.txt": {
+      "bytes": 2366,
+      "sha256": "f2c56b843b3fcd08a6daa485031d8c71cbddb99880a230ffa7c49b492d0807bc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/events.jsonl": {
+      "bytes": 2320,
+      "sha256": "23a1f8425e7b9e9a71f262fbc1122cd4e18da5be1843bbb80ee8d9b697fd9c85"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/judge-input.txt": {
+      "bytes": 7972,
+      "sha256": "0c83902456eb82166ba6ef8c73da25604b55fa728fadeffd49c079c77291c771"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/sandbox.json": {
+      "bytes": 1447,
+      "sha256": "be060466eb5a101294ac56f6ecc1914cfa0f43df2d6e4d784a493ab5cd8dee88"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_2_a16/steering.json": {
+      "bytes": 1287912,
+      "sha256": "d74407c5cfcb77976ba54653d39697a991961bb471f6efc2fc4b1c1f38dc2ee5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/episode.json": {
+      "bytes": 661108,
+      "sha256": "38628250a69f31484e0f21485b1abbca8b4bc9809a8cbd0321cd91f92a58e59c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/case.json": {
+      "bytes": 2270,
+      "sha256": "7fb46a6ffc205bf8a8484cfaec42e6f42d94c477c855a73cc0b70fde7ba8a3c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "c4f34e6442482db2152d0f09fe1d1b1fde36dfd43d7a1823cca2fb10f3760041"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/messages.json": {
+      "bytes": 109754,
+      "sha256": "ede17cb7f958495e629dca9995755b9f8f7bd4c6afc2b557a0fe4b993c477e5e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/step-00.generation.json": {
+      "bytes": 9633,
+      "sha256": "e671c8e487965911080af06c9738cb1951340b648b9a02eb25c5d62d387deefa"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/step-00.completion.txt": {
+      "bytes": 2854,
+      "sha256": "4d1d8896c32ca52a687361a0dd57faf02f90b10d70bde598b2055234e396b737"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/step-01.prompt.txt": {
+      "bytes": 92989,
+      "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/step-01.generation.json": {
+      "bytes": 20057,
+      "sha256": "cde38e2a855684191f9df05da73a54f22361ac95a98c0708a5977d274e41a56f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/step-01.completion.txt": {
+      "bytes": 6298,
+      "sha256": "ae9b5e48eab51e71eb5fcffbbf0ebdcc25ebe61733afba2a1ee44803c743c775"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/events.jsonl": {
+      "bytes": 1040,
+      "sha256": "ff2c1619a65313d4c60562eea018da3cd6db3cdf29ca2bb08401f9f688f22e46"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/judge-input.txt": {
+      "bytes": 9042,
+      "sha256": "38318e8fc54ce876b87d9bb0f91ae9b1714fa0338d799f40b40d4147ffaffe3f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/sandbox.json": {
+      "bytes": 1441,
+      "sha256": "6a0aa0a5ddadc3a21bdcec95af82c0a10f6aedc56093eebf8bb1a57eded7fa27"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/role_a16/steering.json": {
+      "bytes": 429602,
+      "sha256": "0d804668486cb71c4955c577b0c5675caa5ee429afd6323a0408081151d93e9f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/episode.json": {
+      "bytes": 1081255,
+      "sha256": "c964b92d04f697524d32f5af5314e9da1a639754aab8f106d6aa57cb0a6727f0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/case.json": {
+      "bytes": 2270,
+      "sha256": "7fb46a6ffc205bf8a8484cfaec42e6f42d94c477c855a73cc0b70fde7ba8a3c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "066a915f3c6524cab2cf2ec9c25b146b252a6c94f9e2f5000b9b60366939a887"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/messages.json": {
+      "bytes": 108025,
+      "sha256": "f4071525854d54a759df5bf8899c71eb07364e9b552d3064ae10e608be517bbd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-00.generation.json": {
+      "bytes": 9631,
+      "sha256": "e9662b2665c21c0172a67118f9b219a0ef4fe1f781188be8db93a3a40dde5f92"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-00.completion.txt": {
+      "bytes": 2854,
+      "sha256": "4d1d8896c32ca52a687361a0dd57faf02f90b10d70bde598b2055234e396b737"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-01.prompt.txt": {
+      "bytes": 92989,
+      "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-01.generation.json": {
+      "bytes": 2505,
+      "sha256": "6cc020f85032a3e7c1827000412c1b31e34cc2fd279379f0b50ccf1eec6118d0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-01.completion.txt": {
+      "bytes": 674,
+      "sha256": "3a168af4c459ce063ccaa8eb6720b5e07534620d51fa4a11e1e29d13a5d2ea34"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-02.prompt.txt": {
+      "bytes": 93813,
+      "sha256": "f78bd4b5fa0693e3a0a6d7371df00b4295f2c4ff619b07542f5c2d6eb861f511"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-02.generation.json": {
+      "bytes": 12286,
+      "sha256": "22b36ee28a6a8b5e4f7fa0aefc8daa439a1b1de9bbd13e26e79b0251daab9d98"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/step-02.completion.txt": {
+      "bytes": 3721,
+      "sha256": "83675b3faf8c5c77f89d2335eb395123904c7ab2a90ca8a94a07f22eec1e256e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/events.jsonl": {
+      "bytes": 1632,
+      "sha256": "f865c5b9c9b1f043b7a5dcd7339cadc0e611597a86773d91914b61e0b45c9e4d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/judge-input.txt": {
+      "bytes": 7073,
+      "sha256": "2ae07ce89eb7bbc88d13fca90fe7c742fc6c79055f78860738d771b55c6bee7e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/sandbox.json": {
+      "bytes": 1444,
+      "sha256": "36230ae3a65018b8ac29f92525d7c27fbb13e120deaeca6b573be16350ff317a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_0_a16/steering.json": {
+      "bytes": 858308,
+      "sha256": "9037cc9468176dc57902d475084e909e87a44d338a281c27c714a58cef05418e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/episode.json": {
+      "bytes": 1934120,
+      "sha256": "862549209701d0f5279b08d4c3d39a45a1a08531b77f1abb3798be586a3bfa9f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/case.json": {
+      "bytes": 2270,
+      "sha256": "7fb46a6ffc205bf8a8484cfaec42e6f42d94c477c855a73cc0b70fde7ba8a3c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/receipts.json": {
+      "bytes": 1439,
+      "sha256": "aabad9fc05e8e30626ff6ca637dc2c577eacbd1b0f26edbee1fad0fea319c97b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/messages.json": {
+      "bytes": 106394,
+      "sha256": "d9a2a4767230555968e2ee8101fc2d08fb7c5bf812fccdb92c09e25c91989d46"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-00.generation.json": {
+      "bytes": 9632,
+      "sha256": "e2e53d0b38a244cb0ada3b1ab2bb266d3de9d646b3e6c377d84c58ecffa994f1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-00.completion.txt": {
+      "bytes": 2854,
+      "sha256": "4d1d8896c32ca52a687361a0dd57faf02f90b10d70bde598b2055234e396b737"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-01.prompt.txt": {
+      "bytes": 92989,
+      "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-01.generation.json": {
+      "bytes": 5348,
+      "sha256": "6bfad450086f0e3564b839a7e204444144b4d73f59e015d3f91ab969e9eb4f45"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-01.completion.txt": {
+      "bytes": 1515,
+      "sha256": "d751c0d01e12a179a3bf61e2b8173d0cecf0df5b8063aa34bba64f5f68ce92aa"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-02.prompt.txt": {
+      "bytes": 94668,
+      "sha256": "2b82d5ca0ee24fa1fd6cb89adcef978cf8e4939bc02fa196d2591fd3018836fc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-02.generation.json": {
+      "bytes": 1118,
+      "sha256": "a2160bede4ec00a8576da418b13a991439e7ab2af2567a2653cb99bc2a5c4dfe"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-02.completion.txt": {
+      "bytes": 259,
+      "sha256": "91d7b80ab5e6ce91bf17e4a5dcf29f16d61b71a15f89aad3ad1b928404602959"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-03.prompt.txt": {
+      "bytes": 95113,
+      "sha256": "a88116bfc859a8db38ce0bf5ec358c55d9193e7514fe8210e3b434e959a40967"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-03.generation.json": {
+      "bytes": 1721,
+      "sha256": "d10e92d1da727baa0c120cc0045bda8b6ca336bd1ea4c865c8a5ddfa709e253a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-03.completion.txt": {
+      "bytes": 395,
+      "sha256": "b20c92b91bae2b7d1ba1a12b1f4ffe1f31371a4a27206a2bc3d22b431253a1e7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-04.prompt.txt": {
+      "bytes": 95707,
+      "sha256": "236503f360a5753194ff607a571bb6c1affafcf95cde28ae4f79ce1044590a7c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-04.generation.json": {
+      "bytes": 739,
+      "sha256": "1681e64e0903c4ff28c6e8ea4cf3991909069775bbb799c4834afd38cd30370e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/step-04.completion.txt": {
+      "bytes": 151,
+      "sha256": "b6d62f6d614d5f5ae839d6234e614ed9c3a995eee3cb36d95f11f3738f70aff6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/events.jsonl": {
+      "bytes": 2948,
+      "sha256": "54f234d87d4dc4143fab8164a3a70c239e170edbb55c3d293c4ed7c2f293a948"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/judge-input.txt": {
+      "bytes": 4904,
+      "sha256": "4796f5ad2eb81c7332a448a9774c0e628f64565651ca7d1d6acd0683db328ebb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/sandbox.json": {
+      "bytes": 1443,
+      "sha256": "cda0c51aae8ff6c7f5664e3c5d1fccc47fe1c532fa81cb0668a0eeafa5461dfe"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/reverse_a16/steering.json": {
+      "bytes": 1718455,
+      "sha256": "0632bf87025e5257efc3907e32827bcaf874215a8f3402d87d8fc30567a42a5f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/episode.json": {
+      "bytes": 1946439,
+      "sha256": "cb83d6dc6bf1babe17e7f775510c218caa8ec3df896b77c5d8e18e2d67434ed2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/case.json": {
+      "bytes": 2270,
+      "sha256": "7fb46a6ffc205bf8a8484cfaec42e6f42d94c477c855a73cc0b70fde7ba8a3c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/receipts.json": {
+      "bytes": 1440,
+      "sha256": "f5f6d08fabd94e215c87527164eaab33845967c1ae00dd95049526c1d7b48a15"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/messages.json": {
+      "bytes": 108634,
+      "sha256": "411616456137295258a9fc770229f84b8722303e140ac1452814c0b67ef3e74b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-00.generation.json": {
+      "bytes": 9633,
+      "sha256": "c73bd58989810d44a5d82a722f3e14439c5ba44fc06784a3279c322b4b1aeffa"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-00.completion.txt": {
+      "bytes": 2854,
+      "sha256": "4d1d8896c32ca52a687361a0dd57faf02f90b10d70bde598b2055234e396b737"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-01.prompt.txt": {
+      "bytes": 92989,
+      "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-01.generation.json": {
+      "bytes": 7147,
+      "sha256": "0e0d6fe1ed12784872e9226573b4c6438884fd155109299955f1103697d71cd9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-01.completion.txt": {
+      "bytes": 2154,
+      "sha256": "bd65f4aec877f1097ac1377c1253ad92562555499304c64072aae8b75fce6453"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-02.prompt.txt": {
+      "bytes": 95449,
+      "sha256": "86ee82fb205c2f94621ac51494b2c6ae60dea4f69761e085bffbfff0f4dde0cd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-02.generation.json": {
+      "bytes": 950,
+      "sha256": "0f4b2e4a70d88e4ab771a7d81f0d9637e114f6d98a1ab33b52dad423cb61bc83"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-02.completion.txt": {
+      "bytes": 216,
+      "sha256": "7d8b3915d98f90d9027531900deef82a82e28a704613404d45a30f7642c4cd6a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-03.prompt.txt": {
+      "bytes": 95851,
+      "sha256": "6370e33e3ac2225bf0bd7fe19fc4c6f93183f186a249b7a308bcef3d7a54a58f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-03.generation.json": {
+      "bytes": 1688,
+      "sha256": "53ac77486830a976588d4e3a9a00f1423ec178c95ae98ac708fa236fbc197f28"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-03.completion.txt": {
+      "bytes": 382,
+      "sha256": "549f4790c4e28ef3345909914a6adb57d69ee5bbad64e5d4567c1c150331ba11"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-04.prompt.txt": {
+      "bytes": 96754,
+      "sha256": "6ec9b2c701ec582e88e54c946fdce1af12e8e3fe9ea90a09777b7439689a41f2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-04.generation.json": {
+      "bytes": 4502,
+      "sha256": "afc8e249f8c8f66fd70551123b5236ff5c8e6cba0995b8a3630c1028cb4ab9a7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-04.completion.txt": {
+      "bytes": 1331,
+      "sha256": "af8b0b6614fb4e130c206703a5f06d9ec34dfaeac01ce37000e9bd51bf21b58f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/events.jsonl": {
+      "bytes": 2894,
+      "sha256": "360151884816bb6873610945c7c985ec461bc8fd11c56ad029b01131638ba47f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/judge-input.txt": {
+      "bytes": 6629,
+      "sha256": "7263f900578b30971c8b765db284b2c1cfee2dee13bd40278cef66de3c91a14f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/sandbox.json": {
+      "bytes": 1436,
+      "sha256": "a58efc43eaff5f11ee507ed0a82a5b89c9c4143ef872124a0764129c0c5089b6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/steering.json": {
+      "bytes": 1720671,
+      "sha256": "e2cb4a27740804f90b0299ef4a09d85afc9ba11ee09c0d306571301d863c8cc7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/episode.json": {
+      "bytes": 638420,
+      "sha256": "a1c066417483a8ec34ce1a4d720a7d3208960af09971fbcc8ae643ba176ef4c3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/case.json": {
+      "bytes": 2270,
+      "sha256": "7fb46a6ffc205bf8a8484cfaec42e6f42d94c477c855a73cc0b70fde7ba8a3c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "634c3e7fb5cb6c46f252efed76c89f912c2f9d6ea90e3d6d3e534f8eca68363e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/messages.json": {
+      "bytes": 105474,
+      "sha256": "857c275e26228bd5a3c39f7c7ee72826276aa57c7c2f28c045656e3193a1f091"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/step-00.generation.json": {
+      "bytes": 9633,
+      "sha256": "adc6e17d189fbc924f6c81e4df06a381d18490e08ca288293e260475aab79f36"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/step-00.completion.txt": {
+      "bytes": 2854,
+      "sha256": "4d1d8896c32ca52a687361a0dd57faf02f90b10d70bde598b2055234e396b737"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/step-01.prompt.txt": {
+      "bytes": 92989,
+      "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/step-01.generation.json": {
+      "bytes": 7091,
+      "sha256": "982071534be2dff840b836e41c51fc6c4747bcb0005f04eecf6b42431bebff9b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/step-01.completion.txt": {
+      "bytes": 2065,
+      "sha256": "5f246e9db2ad7662774daffe1fa5de505a6f9fb18a64f95fddc8bc99895565a3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/events.jsonl": {
+      "bytes": 1047,
+      "sha256": "f0c00f24cf667e2e3011ac4bf21fb26a0fe7cb3ddb8fe92896dfb359814d737a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/judge-input.txt": {
+      "bytes": 4807,
+      "sha256": "3e1e59717c1ea4a93156f765cc914b74f8b1b8016ba1a86855db32b0a28a05c3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "aa9fc69d92c2a573cfff1c58f3e9412fa924842c995c7e8f1459a538188741e8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/random_1_a16/steering.json": {
+      "bytes": 429589,
+      "sha256": "e183ac9321ac48efe969f11209e421b4327248e103656d75e1bea982bb6b2ce6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/episode.json": {
+      "bytes": 1641295,
+      "sha256": "72c5b91060da2009912ee2d15db5850a350c089c63c9e7cbe296581f9b1cb8b1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/case.json": {
+      "bytes": 2267,
+      "sha256": "d0bffec46a3f78eecd9e0bd5046ed164b7a91ccdad94337d1cebc1fb2b81b0c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/receipts.json": {
+      "bytes": 1377,
+      "sha256": "ab096a77171a795276065c8b938f6b259081f9b2ebd27080ddfcdf66704f0bc7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/messages.json": {
+      "bytes": 118081,
+      "sha256": "1690a45fe529303e387fd52542b623765e7986307e0f627f0870610f4bb6c116"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-00.generation.json": {
+      "bytes": 8290,
+      "sha256": "641b0f1375468f5cbe6c75eb7ca25ab5762b574fa02f37dd31d2650dced9969b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-00.completion.txt": {
+      "bytes": 2396,
+      "sha256": "0566367c6e874a455f3ed3f9650a8c4790ad56ff9468fd521da2373395774c39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-01.prompt.txt": {
+      "bytes": 98298,
+      "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-01.generation.json": {
+      "bytes": 12167,
+      "sha256": "ea3ea727169d8251d595bcabfd7c5a616b2fa409873c5620943c1502c805c12d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-01.completion.txt": {
+      "bytes": 3628,
+      "sha256": "3a44f2b9dddce9b84dc4d93d6ed9341aa72515876b9e3e5602cdc5c100a15892"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-02.prompt.txt": {
+      "bytes": 102071,
+      "sha256": "aeb9033893366556b77471e65357bfe5722a388e13e9b3340c689865d9234ada"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-02.generation.json": {
+      "bytes": 7684,
+      "sha256": "92b057c05ffbc563197560ec24b91e7b1da22638015fe26634e9608357271ffe"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-02.completion.txt": {
+      "bytes": 2090,
+      "sha256": "168bd01cf3f1f6441f8f14ff3dfe881413d6b923dc745ed4f9e8d88168a55414"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-03.prompt.txt": {
+      "bytes": 104682,
+      "sha256": "2ad9cb2bc820495150b06364d3b4bfad740932c497dae66b6cc491764aa1477f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-03.generation.json": {
+      "bytes": 6802,
+      "sha256": "1a237576c0d0692e6eb6b22bc560b1b210eaf95a9ec8cb36c4a04ccc0353838d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/step-03.completion.txt": {
+      "bytes": 1924,
+      "sha256": "62604e90989041008d595c76632f736f7c64abd18cd7ecfe3fd9f6f8abba03d6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/events.jsonl": {
+      "bytes": 2267,
+      "sha256": "c78ea4a5cdcfe77b371ffff44015c06b68a6d7f99afcc69dfaea4a5bd952ab5e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/judge-input.txt": {
+      "bytes": 9794,
+      "sha256": "a65213ac5891e9adc1feada59f335e66d1c3f01e5a741ce19ee08f1f862245d3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/sandbox.json": {
+      "bytes": 1444,
+      "sha256": "247db3ca869b1547b44cb813b1aace900a5b3e699c4d4b028ce43dbaa8843f55"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_2_a16/steering.json": {
+      "bytes": 1385986,
+      "sha256": "fcac18df11277432dd1707fecadd95f4c9e2a332f712f271b85c2cbd95e3bdb5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/episode.json": {
+      "bytes": 677870,
+      "sha256": "a49af019066a1b9d35042c783fdb06dc25a6b82bf637f0b11f9dd74fb4c63f58"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/case.json": {
+      "bytes": 2267,
+      "sha256": "d0bffec46a3f78eecd9e0bd5046ed164b7a91ccdad94337d1cebc1fb2b81b0c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/receipts.json": {
+      "bytes": 326,
+      "sha256": "55fb74360876045807d9c1b7622500f6d43d13cb38b364046541dbf635577d91"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/messages.json": {
+      "bytes": 111465,
+      "sha256": "ac54ca52e39eccaea6552e85ef20d7e3391292f26531b677b4cb9e9383b2531a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/step-00.generation.json": {
+      "bytes": 8292,
+      "sha256": "e6a7f00b1b6e600febe607d16f4912ad2c928d90e8c6d2d8cb93f48550c66bf1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/step-00.completion.txt": {
+      "bytes": 2396,
+      "sha256": "0566367c6e874a455f3ed3f9650a8c4790ad56ff9468fd521da2373395774c39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/step-01.prompt.txt": {
+      "bytes": 98298,
+      "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/step-01.generation.json": {
+      "bytes": 6126,
+      "sha256": "0b0ea2a8098257d3d9609625924f8f2f35b65d4a126e8c6d658de4841e4a8df7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/step-01.completion.txt": {
+      "bytes": 1834,
+      "sha256": "1d5fa2afe3cbc17dcb0ec24031bb70e20e79b76014e01be93995410c955adf18"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/events.jsonl": {
+      "bytes": 1038,
+      "sha256": "731f44779b06f1416902bb7f235767f25df181b0cd190d9871adad5cef98a1e8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/judge-input.txt": {
+      "bytes": 4120,
+      "sha256": "169131285413bd52047bb4501aff405faabb7cf35be34bb3242c87203bda7b9c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/sandbox.json": {
+      "bytes": 1438,
+      "sha256": "e53be421e0f88342414324931bb96cbc0779a00b5c76330ae373aec720dd729a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/zero/steering.json": {
+      "bytes": 461532,
+      "sha256": "9ae944ed52eb34e85107f7fe85590abeeea80f89275fbe5d640dda55c2a6fe98"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/episode.json": {
+      "bytes": 677223,
+      "sha256": "12a366793b240aab2442f21bab9edece9992a35ed4bb2d66f8f02b03aed99977"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/case.json": {
+      "bytes": 2267,
+      "sha256": "d0bffec46a3f78eecd9e0bd5046ed164b7a91ccdad94337d1cebc1fb2b81b0c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/receipts.json": {
+      "bytes": 325,
+      "sha256": "0753a055ad1ebd755ca9f98ff1f0f9f4482fb05dae7c79d2d81526ae87658c57"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/messages.json": {
+      "bytes": 111403,
+      "sha256": "db9b1a1046c8aa552e77f9039d80ec7907845f19bf90215c7c6f13687701e76b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/step-00.generation.json": {
+      "bytes": 8290,
+      "sha256": "d9c4501a693fa18a5f99e73b9ceae3abfd02ffbfb3a185d7921913d7ac4d8d97"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/step-00.completion.txt": {
+      "bytes": 2396,
+      "sha256": "0566367c6e874a455f3ed3f9650a8c4790ad56ff9468fd521da2373395774c39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/step-01.prompt.txt": {
+      "bytes": 98298,
+      "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/step-01.generation.json": {
+      "bytes": 5667,
+      "sha256": "5e022db63fcfd756b6ef4bb1723f6d4b9d4c88f23baf5e094fc19748de9e8018"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/step-01.completion.txt": {
+      "bytes": 1782,
+      "sha256": "a2fdf195734bf12fe04c6db56e7ef4eae53aa25950658af9d759dd1d28648176"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/events.jsonl": {
+      "bytes": 1044,
+      "sha256": "e8e62be222be48f137b43e6ae88defe09a0bb414f0228e1b3d3613da87881c24"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/judge-input.txt": {
+      "bytes": 4068,
+      "sha256": "b6a094a14d8fce30176ad7613b8efdbe766451964296e1da868afce741f77530"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "5286a5c2a070c440f2d7005fa82696a4dafff634c5d6f138ac7f38784d31706f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/reverse_a16/steering.json": {
+      "bytes": 461637,
+      "sha256": "e0d133183001837d22f529ff01452fd56efc3202e8102a19e3e9a9d27b875465"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/episode.json": {
+      "bytes": 681819,
+      "sha256": "dd20ca875c881895eff9b4d534f15144f5dc8606e17ca6bbefeb120c37e41ca2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/case.json": {
+      "bytes": 2267,
+      "sha256": "d0bffec46a3f78eecd9e0bd5046ed164b7a91ccdad94337d1cebc1fb2b81b0c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/receipts.json": {
+      "bytes": 325,
+      "sha256": "a63e4e00942ecb412f30c3af537edb11d6d3e05dac166c3fae61ad7bb6972b9a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/messages.json": {
+      "bytes": 112230,
+      "sha256": "7f11aba5ae5f1904a91fa5cb46fe9b5b07ee49b4a6bc3a7b7c29665d8fe09d58"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/step-00.generation.json": {
+      "bytes": 8290,
+      "sha256": "a81cfe04798f1c66251564296b0f4bf84b826cc6d6ddfbf2bab2aabd85a1ee25"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/step-00.completion.txt": {
+      "bytes": 2396,
+      "sha256": "0566367c6e874a455f3ed3f9650a8c4790ad56ff9468fd521da2373395774c39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/step-01.prompt.txt": {
+      "bytes": 98298,
+      "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/step-01.generation.json": {
+      "bytes": 8321,
+      "sha256": "32b719d8a83a8c7882a66af4ea306e12f14e1689c632e8ba74d710690e01dde3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/step-01.completion.txt": {
+      "bytes": 2607,
+      "sha256": "90a67541864f34e892426101b3b55464dd47f3c16d103fd2432439e35965e73b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/events.jsonl": {
+      "bytes": 1042,
+      "sha256": "44a360a0da8cc6e0cbfad43a49ddefbb96b64eb1818d6fe45327c5121c832b2e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/judge-input.txt": {
+      "bytes": 4893,
+      "sha256": "6dee28cec0bed58640d6974340dca1ac705834890d6ddc650905225fdcbc2ad9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/sandbox.json": {
+      "bytes": 1441,
+      "sha256": "78f3c4f53e42bcdf790bd2593d88794ece21fd47874dd0e4e2bc3bd8eb7fbfd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/role_a16/steering.json": {
+      "bytes": 461617,
+      "sha256": "f57ac3748197fcce3c95dfe51c79302411033c2928a84f66ade3741d120dd74f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/episode.json": {
+      "bytes": 677199,
+      "sha256": "f5a88862c5fb1717a7dd51c47b820fbf42eb52b14e8fccb5fe1b2c4e76f9d216"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/case.json": {
+      "bytes": 2267,
+      "sha256": "d0bffec46a3f78eecd9e0bd5046ed164b7a91ccdad94337d1cebc1fb2b81b0c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/receipts.json": {
+      "bytes": 326,
+      "sha256": "12e1610c7e5449ac71529b947557bac565cf8127fe7d3e46e75c707c7a53af17"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/messages.json": {
+      "bytes": 111465,
+      "sha256": "ac54ca52e39eccaea6552e85ef20d7e3391292f26531b677b4cb9e9383b2531a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-00.generation.json": {
+      "bytes": 8292,
+      "sha256": "6e4f23ab7d1785085f722e213f8d5dc5aa6ea44bf0ebba10048423ac995323d8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-00.completion.txt": {
+      "bytes": 2396,
+      "sha256": "0566367c6e874a455f3ed3f9650a8c4790ad56ff9468fd521da2373395774c39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-01.prompt.txt": {
+      "bytes": 98298,
+      "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-01.generation.json": {
+      "bytes": 6126,
+      "sha256": "29a7aa2ad8fe6efacc68052d911a7aebec5bf69fcd58f586bf5a43d85ec73961"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-01.completion.txt": {
+      "bytes": 1834,
+      "sha256": "1d5fa2afe3cbc17dcb0ec24031bb70e20e79b76014e01be93995410c955adf18"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/events.jsonl": {
+      "bytes": 1037,
+      "sha256": "eb65addf0a4c24aa1cb628198bcfe191b50f8afe26932d30cadcb736fcb94c1e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/judge-input.txt": {
+      "bytes": 4120,
+      "sha256": "169131285413bd52047bb4501aff405faabb7cf35be34bb3242c87203bda7b9c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/sandbox.json": {
+      "bytes": 1436,
+      "sha256": "3855f1fb3d7d03ec7ec691cca7bd84822b554498da47a76b6a1077c42c1858a2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/steering.json": {
+      "bytes": 460861,
+      "sha256": "6182d3239ebb5782046f2733d73f8302d7d1039e2ac33ed8dccf8eba45ea7d53"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/episode.json": {
+      "bytes": 1623056,
+      "sha256": "0a135944be942cb19fa42dfaa93d5ca532458ca34f413e62d9652395f1b32a11"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/case.json": {
+      "bytes": 2267,
+      "sha256": "d0bffec46a3f78eecd9e0bd5046ed164b7a91ccdad94337d1cebc1fb2b81b0c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/receipts.json": {
+      "bytes": 1377,
+      "sha256": "72f94ac295cce9a98ffb59a7b6ed9862a625f3a202a734d69c8b41e504bad7be"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/messages.json": {
+      "bytes": 115250,
+      "sha256": "223018b1d43e89db91ae9271db18b9493d0a415a0f3a480b3d66c2c68df987f1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-00.generation.json": {
+      "bytes": 8290,
+      "sha256": "25cff2a040e753ac5fec03ed2c2042236a710c5b5e831d5f1ffdee6f6cc88d26"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-00.completion.txt": {
+      "bytes": 2396,
+      "sha256": "0566367c6e874a455f3ed3f9650a8c4790ad56ff9468fd521da2373395774c39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-01.prompt.txt": {
+      "bytes": 98298,
+      "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-01.generation.json": {
+      "bytes": 6338,
+      "sha256": "e189060c5ee0be41cc341943ed9b17fa418875bb252e0d275be761176eae5faa"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-01.completion.txt": {
+      "bytes": 1852,
+      "sha256": "42259c035ea0a0a5f4a75f921d7d475a7d30407856cb7de4edc125b3a1750094"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-02.prompt.txt": {
+      "bytes": 100316,
+      "sha256": "56c4c9abb16b5a5f172f3fcea63c942cd57af8312285c1736ae97745a3c16b7d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-02.generation.json": {
+      "bytes": 2885,
+      "sha256": "af51c18d6a4fe2dfa1c8c59904438d207c2e4a559f26a9f1e9149b21a13f7928"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-02.completion.txt": {
+      "bytes": 743,
+      "sha256": "1e5d91ed24a687b7c93f1fc205458616aa70a1078d17d98f7837eb19c1e28480"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-03.prompt.txt": {
+      "bytes": 101258,
+      "sha256": "1f41efbd867291589f21aef01c4702666976f0704b2e493acdfd1977533fcb08"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-03.generation.json": {
+      "bytes": 8374,
+      "sha256": "3a3b58b76e1af42b1b2d7222f140546e6cf5a7285651d533f2911e1fe7d21029"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/step-03.completion.txt": {
+      "bytes": 2554,
+      "sha256": "522fb66e3c35efff306f76ee8fbb290944d17a608210933e5f6c4b7e37ec5b99"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/events.jsonl": {
+      "bytes": 2315,
+      "sha256": "cc708a1f084b5de94e602eb4803a08bbb61e8855dc1bc550c2baf7f3738bd839"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/judge-input.txt": {
+      "bytes": 7301,
+      "sha256": "15444e7dc960f3e224bd4b2a610b8cbdaac1c02ab62d4bc1bce5eb5890f29550"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/sandbox.json": {
+      "bytes": 1443,
+      "sha256": "7b08e7ca895f3af0d382044817a0bab18ba9106d78c8454b5766afa2c87ad1b8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_0_a16/steering.json": {
+      "bytes": 1383978,
+      "sha256": "9b030933aeccad7bff2a65a7e47a86ee22834f769dc9091acb742a5a8f893b46"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/episode.json": {
+      "bytes": 676410,
+      "sha256": "241b478f32753fdbb1111b787a4987c1389304e26f5f12fc7d42c0d46defa0a9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/case.json": {
+      "bytes": 2267,
+      "sha256": "d0bffec46a3f78eecd9e0bd5046ed164b7a91ccdad94337d1cebc1fb2b81b0c4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "87fb431dc48b8c9a325862798d20bd38afa2af9f53f75bd069be1983a3dbf70c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/messages.json": {
+      "bytes": 111300,
+      "sha256": "d32e1fcb6c6d8e42c925980920e8dd7e4ea9bb1026def172abe82368d6454b39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/step-00.generation.json": {
+      "bytes": 8290,
+      "sha256": "1456a937368568132fd56977963a663d796419968eecfe415761c47f0c90ee81"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/step-00.completion.txt": {
+      "bytes": 2396,
+      "sha256": "0566367c6e874a455f3ed3f9650a8c4790ad56ff9468fd521da2373395774c39"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/step-01.prompt.txt": {
+      "bytes": 98298,
+      "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/step-01.generation.json": {
+      "bytes": 5210,
+      "sha256": "965ae697a8927ee0e998867b2cc2e303de8503d164c12d4d75559c93031a9690"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/step-01.completion.txt": {
+      "bytes": 1685,
+      "sha256": "59ddcec17cc537b260c22d67da04c7333b29bd33739b2315280e3406e1c22275"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/events.jsonl": {
+      "bytes": 1045,
+      "sha256": "83cf4d9db53f59c364909735ea47cd659555ecbd625f38c6d293efb856b0402b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/judge-input.txt": {
+      "bytes": 3971,
+      "sha256": "d81a5c935bb7878673eb0f211a6a21c8e1f643980714dbe9f7bcb313c2f4bc72"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/sandbox.json": {
+      "bytes": 1444,
+      "sha256": "a4b4955f5f7f2daf9b56645bf94b11f18f381ac6f3f85519eec4f93370de8b3f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/random_1_a16/steering.json": {
+      "bytes": 461611,
+      "sha256": "7a7ac92f36d631a7b9301976368c622e931029d8070b53d2d641ef048b6e3f2b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/episode.json": {
+      "bytes": 721133,
+      "sha256": "d8612cd7474a124f023e76c32736953c1b0d905de5e6fc8b61c6b5024bff0b68"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/case.json": {
+      "bytes": 2334,
+      "sha256": "189a2d37c2315a02266d05a39997760efb9b11380a041ef5166416373c893fd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "30f75455e4fe856cab6091f3ebbf84c537b810501084dd81649beefa5aeed3c0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/messages.json": {
+      "bytes": 117484,
+      "sha256": "67187245aad0d2138d64431024c0601197122d87f20d015102101d3c4fee156a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/step-00.generation.json": {
+      "bytes": 10427,
+      "sha256": "6d10ea451126550eac4289bdd5dc2cb76248d68521a0248e1209d2ce7aa8e63c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/step-00.completion.txt": {
+      "bytes": 3094,
+      "sha256": "6c352a478c04be161dcee3a5942b5aff2337929284e3d611829e4caa7be69fd2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/step-01.prompt.txt": {
+      "bytes": 103709,
+      "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/step-01.generation.json": {
+      "bytes": 9962,
+      "sha256": "35f2664e486659aeb4e17539801fc279925add92e9f35c8794b9dfa2590a4258"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/step-01.completion.txt": {
+      "bytes": 3020,
+      "sha256": "a9d7fd507fcd55e06e73c04869d03c205c1f113d4d7624531f4fdbf59abb9b0b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/events.jsonl": {
+      "bytes": 1046,
+      "sha256": "bb1eb1f869c9b46dfc95c786e3b5506e16e6dd154f94ca7776386fd1c48d2507"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/judge-input.txt": {
+      "bytes": 6004,
+      "sha256": "8d5f54962f4f7ac51a0458f74827067ef8af38b36566f2c183f81e3e25fbf63e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "2ccee47c9ab894e98577a66fe77c3db21c0a82c56099462d222adb6e9973f1a0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_0_a16/steering.json": {
+      "bytes": 484945,
+      "sha256": "f4e6a1ea16b1443533f0ed7efeaf5f523a1cdf81bf3d137ac17f2da5ff5b11ab"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/episode.json": {
+      "bytes": 1710584,
+      "sha256": "dbea18867d2e227930c4cb03de6c898fc74cf35fb667fc297e0526be0b5b2d2b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/case.json": {
+      "bytes": 2334,
+      "sha256": "189a2d37c2315a02266d05a39997760efb9b11380a041ef5166416373c893fd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/receipts.json": {
+      "bytes": 1376,
+      "sha256": "b43d9d0e7e0783d17213132e202dc071466cef9940e095c9270b85642c676fdd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/messages.json": {
+      "bytes": 120634,
+      "sha256": "c36801eea0226b3c9a5c78c364f9385666f349aa16e30f893a74f05201c64c4c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-00.generation.json": {
+      "bytes": 10428,
+      "sha256": "b1b24bdac1ff4e01f30c4e65e9565c3a90cefdbad8af4c8281015a4bd3c91913"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-00.completion.txt": {
+      "bytes": 3094,
+      "sha256": "6c352a478c04be161dcee3a5942b5aff2337929284e3d611829e4caa7be69fd2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-01.prompt.txt": {
+      "bytes": 103709,
+      "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-01.generation.json": {
+      "bytes": 7620,
+      "sha256": "ed8edae93f570d742afbb4c52695572b22be6686614eb792d664d6c626e9339c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-01.completion.txt": {
+      "bytes": 2310,
+      "sha256": "376eb8d48a46dad17669a346a7cb40bb62a75839b9bff1aff54b52e769dc0c4f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-02.prompt.txt": {
+      "bytes": 106169,
+      "sha256": "fd497f260594f93c6bfe42b383db98c2a53bf620b76086f47f42a1bfd485ca34"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-02.generation.json": {
+      "bytes": 6712,
+      "sha256": "9908a9647629dab1d4563918068b26e3c2444df1aa1f5100d81f81e9e94b91d3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-02.completion.txt": {
+      "bytes": 1849,
+      "sha256": "c4bc2add72c1a025a6f77c2936f4204ed36c21822ee6b0c72a836887568f0512"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-03.prompt.txt": {
+      "bytes": 108539,
+      "sha256": "10074515ca8aa0ae78fad30bd4876c56b6dc9b164a404c5eb4efd004e49b8047"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-03.generation.json": {
+      "bytes": 4257,
+      "sha256": "d918a75dd8bac3dfe860eb2b2610263116531641c753c9539d0583443ccc78b9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/step-03.completion.txt": {
+      "bytes": 1239,
+      "sha256": "236248f6f801cfea6f652bee0bfb81b1447d0b596552acb77d54f361c67d317a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/events.jsonl": {
+      "bytes": 2260,
+      "sha256": "fdd967425f3c5ffd7d9abcdbdf1b2244b8c665eeb00ea3db52ba4797d40c74fd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/judge-input.txt": {
+      "bytes": 8250,
+      "sha256": "af8f42d768a580b32c1f1d99c6555206a35e5af628419fded2a37fa796d318c2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/sandbox.json": {
+      "bytes": 1439,
+      "sha256": "5da11fcb357554754f3b9f29589aaedba089323e762d7685589f7cbe5e033418"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/role_a16/steering.json": {
+      "bytes": 1456125,
+      "sha256": "33b5e21c8326ad41654124cc281f67882f0ba0cc820e5fab23c4d376a717911e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/episode.json": {
+      "bytes": 1699995,
+      "sha256": "218d0170c9f3aca5a5f402417ba27650075915d95085ace0d41bc7c1fb930c43"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/case.json": {
+      "bytes": 2334,
+      "sha256": "189a2d37c2315a02266d05a39997760efb9b11380a041ef5166416373c893fd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/receipts.json": {
+      "bytes": 1377,
+      "sha256": "978c3c4f8aace8038c71a321ae101176834bd08b3225fea869433e8f706e1ead"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/messages.json": {
+      "bytes": 118528,
+      "sha256": "75e9046fab061ff62a1d91886a6506c30264aced2c8c4095a63e22a43df5fe18"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-00.generation.json": {
+      "bytes": 10428,
+      "sha256": "1d31e818e503fc39596ba9d56604471741b7248a4582cb83593e2cae64890534"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-00.completion.txt": {
+      "bytes": 3094,
+      "sha256": "6c352a478c04be161dcee3a5942b5aff2337929284e3d611829e4caa7be69fd2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-01.prompt.txt": {
+      "bytes": 103709,
+      "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-01.generation.json": {
+      "bytes": 1607,
+      "sha256": "2a778f2f44981bb4bb6586854d3e57a43d5438285244cd5c3f7b94e92a780479"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-01.completion.txt": {
+      "bytes": 404,
+      "sha256": "dca134920b834dfe20139ed951c5562349c4ad7ec70ce88bcbfd7423b5a6edce"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-02.prompt.txt": {
+      "bytes": 104263,
+      "sha256": "ee35e384475ddd4687bb84433695edd949194f25338b0d7401e6eba07c371af2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-02.generation.json": {
+      "bytes": 10012,
+      "sha256": "c0f922b7eed2d6d4c1f3e2dc02aecb8feddb845344b9091cf11ae0775af27e69"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-02.completion.txt": {
+      "bytes": 2655,
+      "sha256": "2e8871affc46f630bdfedac68759ef481280232dab66a4766127e1aeba5628d1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-03.prompt.txt": {
+      "bytes": 107439,
+      "sha256": "7872affbc7ad021f20f4f014a794e679525dba41b3ebb1f9ff99b79a14b5eae8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-03.generation.json": {
+      "bytes": 1042,
+      "sha256": "f2a7a3818e79ceaf377b86bd60f434654c4f827ab846c61a3fe56079d00480ad"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/step-03.completion.txt": {
+      "bytes": 283,
+      "sha256": "967d0120387b6fee76be72d699108c3e266d503c60700b5cfa0319b5208c73ce"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/events.jsonl": {
+      "bytes": 2256,
+      "sha256": "a4c005727140d90cb320db89d96da560069b291ff653a48ecbaeb432f686366d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/judge-input.txt": {
+      "bytes": 6194,
+      "sha256": "598d271ab65afa7cc1ebe675b155b6dcceca2ca55318510c41c0ac618a6d5e66"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/sandbox.json": {
+      "bytes": 1436,
+      "sha256": "5de404c30a838f0e18fc3d926c6b1187591cf184477d1ac44c353bba7b55c349"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/zero/steering.json": {
+      "bytes": 1455945,
+      "sha256": "e2896c4a701a75c07f232c4a95d70347fbb2a5dee095a52966972244897b6774"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/episode.json": {
+      "bytes": 736425,
+      "sha256": "ba389749283e918d4014b24eb4ff73b0add262b35d7545f72f642e3659014869"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/case.json": {
+      "bytes": 2334,
+      "sha256": "189a2d37c2315a02266d05a39997760efb9b11380a041ef5166416373c893fd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "ab3dca6d2ce43b83d21d0915c2d777f11cda2cb1d6407a5fbe42ef3022633721"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/messages.json": {
+      "bytes": 120425,
+      "sha256": "809ec913bf1b8f68491de799ca74c63cbf451e812043d42a1175117bde224859"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/step-00.generation.json": {
+      "bytes": 10428,
+      "sha256": "ff1dda1e2e7c6fd27408053e0d39108df5165baf8c3def008cf2e51c0a932c74"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/step-00.completion.txt": {
+      "bytes": 3094,
+      "sha256": "6c352a478c04be161dcee3a5942b5aff2337929284e3d611829e4caa7be69fd2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/step-01.prompt.txt": {
+      "bytes": 103709,
+      "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/step-01.generation.json": {
+      "bytes": 18719,
+      "sha256": "7956efd14a2de8abb6cb0d3580d54dcf9a7376faa525df25de23fe861b855a8c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/step-01.completion.txt": {
+      "bytes": 5921,
+      "sha256": "4ff1509baae289a903c02576b70a58a5e61174e3d4c94ef69d91f18b3a84019a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/events.jsonl": {
+      "bytes": 1046,
+      "sha256": "680e931022adf659006c576dccabd72f45f5879bc1b24acc83910057e2462adf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/judge-input.txt": {
+      "bytes": 8905,
+      "sha256": "97456e8626ad492ba1e8ac0571cf348cd931d38be01b4f4c62cc764ce142efb1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "f8a264f2ed5e9df0fea758fa90dc9ce2fbf3ad36535626f543fef39397670766"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_1_a16/steering.json": {
+      "bytes": 484944,
+      "sha256": "b125f759b0af431e1ba83235293454f4a5e804c9fe0944f7ef312f405201c088"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/episode.json": {
+      "bytes": 1687651,
+      "sha256": "257a8b2d618f9813fd6f4a53f9bf15d1209e1e3afd8d22deff305e6bd9440880"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/case.json": {
+      "bytes": 2334,
+      "sha256": "189a2d37c2315a02266d05a39997760efb9b11380a041ef5166416373c893fd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/receipts.json": {
+      "bytes": 1440,
+      "sha256": "650bed16cd0346f356d3575fa591075acd835d99a4a14128b64ebe935e25d68d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/messages.json": {
+      "bytes": 116685,
+      "sha256": "79aee4ff2156b6416fcc4c00a978c2b529f75893b69b35a5f5fd087b56fb63b9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-00.generation.json": {
+      "bytes": 10428,
+      "sha256": "9f83fdccf1b4651312ad49739b58911f6a2c7c5a1f9055f5d0a10f5d25883614"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-00.completion.txt": {
+      "bytes": 3094,
+      "sha256": "6c352a478c04be161dcee3a5942b5aff2337929284e3d611829e4caa7be69fd2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-01.prompt.txt": {
+      "bytes": 103709,
+      "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-01.generation.json": {
+      "bytes": 1564,
+      "sha256": "e46d564c3ad2fa3c40d9de433efb2b79cdb8d8e5f43ceb8d7e24824a99dae278"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-01.completion.txt": {
+      "bytes": 411,
+      "sha256": "b939d103a82825339ce01a5cd6ed3afcac860561bb16764e51c1be6916285939"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-02.prompt.txt": {
+      "bytes": 104286,
+      "sha256": "44967b83c892b2b4f431b1c712f21bc3a4443439511838b8b2e91a6f4ad059ee"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-02.generation.json": {
+      "bytes": 2981,
+      "sha256": "98b52e01bf73d71cc34fac88838f9b59c8e6e4929077a8a68ae80c55902648ec"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-02.completion.txt": {
+      "bytes": 755,
+      "sha256": "0eb431ac054d8ef2157a890e3b246a5bef45862fcf63f0acd6fef5ee92d48394"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-03.prompt.txt": {
+      "bytes": 105240,
+      "sha256": "a6481b65f056b783d75a38520c4b61dc0d8ea569d7338681e321c6233dbdbcae"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-03.generation.json": {
+      "bytes": 2331,
+      "sha256": "00565f31174e7dc3fda5d2433c2b7c9ebeb45904a6c0d5b31e4d31f0e1c57839"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/step-03.completion.txt": {
+      "bytes": 640,
+      "sha256": "11d51eb5b53930d53e42245ee352ef5db922fcb31c746bd03e7b602a9fc8741e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/events.jsonl": {
+      "bytes": 2299,
+      "sha256": "b668cf45524ee02ac032ff5b3093265aad503afec40964deadfcb4c231a299e7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/judge-input.txt": {
+      "bytes": 4700,
+      "sha256": "7d38640403909e5386f24a4b668a74407c471ce5f0b2f0a5a7049fc87d766c07"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/sandbox.json": {
+      "bytes": 1444,
+      "sha256": "d7a47d268a73a6ac149b1c63a78d60bcaf31c119e860bdff4f8a07d28ef00ce5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/reverse_a16/steering.json": {
+      "bytes": 1454043,
+      "sha256": "7ce89b722344a9ab002cfb8904bfce1e57c927bf20522a1306a9ca3d500a1f06"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/episode.json": {
+      "bytes": 1698025,
+      "sha256": "f4e36165a3410e61adfb126e2237016c744fe3a4ddabe0309b3be1e8fb6f7467"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/case.json": {
+      "bytes": 2334,
+      "sha256": "189a2d37c2315a02266d05a39997760efb9b11380a041ef5166416373c893fd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/receipts.json": {
+      "bytes": 1377,
+      "sha256": "f9670a0714a3666c06e1356e9a387234307c95da89e72582c3f260638cea85a1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/messages.json": {
+      "bytes": 118528,
+      "sha256": "13386ed0522d7ad75ca4c95a0332a589ce00a075a299069f55186125970193b7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-00.generation.json": {
+      "bytes": 10427,
+      "sha256": "fb89d241a986c34a1e3e7820064685446a319147806d28d5ec4c04f5c0c38d8b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-00.completion.txt": {
+      "bytes": 3094,
+      "sha256": "6c352a478c04be161dcee3a5942b5aff2337929284e3d611829e4caa7be69fd2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-01.prompt.txt": {
+      "bytes": 103709,
+      "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-01.generation.json": {
+      "bytes": 1607,
+      "sha256": "7aa49b3789829d082e784687557446bdc33610b66dfbcd6323d48c40bd41e247"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-01.completion.txt": {
+      "bytes": 404,
+      "sha256": "dca134920b834dfe20139ed951c5562349c4ad7ec70ce88bcbfd7423b5a6edce"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-02.prompt.txt": {
+      "bytes": 104263,
+      "sha256": "ee35e384475ddd4687bb84433695edd949194f25338b0d7401e6eba07c371af2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-02.generation.json": {
+      "bytes": 10013,
+      "sha256": "b60804eed42a640931795f3cf0820b760754bdcd9832ab175d845169c28cedbf"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-02.completion.txt": {
+      "bytes": 2655,
+      "sha256": "2e8871affc46f630bdfedac68759ef481280232dab66a4766127e1aeba5628d1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-03.prompt.txt": {
+      "bytes": 107439,
+      "sha256": "663e8c2547d609869a61c1503aecf0480c777552bbf7a1033a08be792ce94ba2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-03.generation.json": {
+      "bytes": 1042,
+      "sha256": "825e726e1c64849effea9e67d997db6b7494ff9bdbb99a8bcf16c02079313ddd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-03.completion.txt": {
+      "bytes": 283,
+      "sha256": "967d0120387b6fee76be72d699108c3e266d503c60700b5cfa0319b5208c73ce"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/events.jsonl": {
+      "bytes": 2258,
+      "sha256": "3697b57ae0fa4996f52f9f8ad94b29c2b705f3f21ec1bf87b0001b6c8049c92f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/judge-input.txt": {
+      "bytes": 6194,
+      "sha256": "598d271ab65afa7cc1ebe675b155b6dcceca2ca55318510c41c0ac618a6d5e66"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/sandbox.json": {
+      "bytes": 1438,
+      "sha256": "d67a073e02e99583ba8349287acfbb2bea4d7aa7cf1d8f9b69b7598a1eb16bc2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/steering.json": {
+      "bytes": 1453975,
+      "sha256": "ab1c316639da8d277c75457175351a1f225283739538ed7098282efbb8167e33"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/episode.json": {
+      "bytes": 733797,
+      "sha256": "c24884698e7d3ad30080eef5e91087ba0cda1520745df1d6b1ab5112fd66aa6e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/case.json": {
+      "bytes": 2334,
+      "sha256": "189a2d37c2315a02266d05a39997760efb9b11380a041ef5166416373c893fd7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "c152eced86fcb7001cc61797d69a2e24239339015bdf939c3726b501f3b1225d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/messages.json": {
+      "bytes": 119509,
+      "sha256": "09a9689407a257c32340118d88615ebfb023f1e380389d8599618a91b28f94a0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/step-00.generation.json": {
+      "bytes": 10428,
+      "sha256": "4c9dfadddf7fd5da30c2293cc84d1934b8b0191589d0b8e022a7320791ee33fd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/step-00.completion.txt": {
+      "bytes": 3094,
+      "sha256": "6c352a478c04be161dcee3a5942b5aff2337929284e3d611829e4caa7be69fd2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/step-01.prompt.txt": {
+      "bytes": 103709,
+      "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/step-01.generation.json": {
+      "bytes": 17289,
+      "sha256": "abdb3a2f1e9b5727579ccfb90ef6a28f25e17e39c748b17c0b610da405c186da"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/step-01.completion.txt": {
+      "bytes": 4974,
+      "sha256": "cc20f7dc8d0d1c59c850ca0b27438cd56fddd5e26c013bfc77e98f2a744aed13"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/events.jsonl": {
+      "bytes": 1042,
+      "sha256": "c257c1c5ac7994d356cc8ec97eef379313889e55cd49688848ac6f4f03e5a5ba"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/judge-input.txt": {
+      "bytes": 7958,
+      "sha256": "bc21795898e0f59af343847bed06f9b847a546c6821f6c119ba0c18fc86bf0c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "39d755b7a5943324d4fd428a717cda9216399fa8d7d76912bcaeca1a3b9d0410"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/random_2_a16/steering.json": {
+      "bytes": 484944,
+      "sha256": "dd363518a5eb6e8ff2d5bb1459faff762e0bbc5458925520ccfe1c70261b52f4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/episode.json": {
+      "bytes": 760950,
+      "sha256": "e92f8f764eed162f407601e7eb134b99cd809d13ffc0d9ea6bafbd42f2afbb08"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/case.json": {
+      "bytes": 2623,
+      "sha256": "eecd74f1e719e859512c39d4e5b4a4390a8f287ce74a1b68585215532e175307"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/receipts.json": {
+      "bytes": 326,
+      "sha256": "e495079e6bf118961d5a99ac93e8c8619b31839f7aaf3828b0a0ce01a75753a3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/messages.json": {
+      "bytes": 125574,
+      "sha256": "44d753edc01ccb3080f86547f51e2de5d45f91034345349a5f1d09550c885456"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/step-00.generation.json": {
+      "bytes": 21384,
+      "sha256": "18bba497030b5d4f2142dbffc9b5c2981be19a38bdf7f38fba4d77e358a9c7ab"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/step-00.completion.txt": {
+      "bytes": 6500,
+      "sha256": "b2c86a669b734555c9b01207ea5507b7deec5acd42784c5e65291f9ad0c758a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/step-01.prompt.txt": {
+      "bytes": 110553,
+      "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/step-01.generation.json": {
+      "bytes": 11200,
+      "sha256": "5a9a996235fbdcc1c1c69cbf4b83c0f4b4aed8661e59b8b9aa668f6a6ace0735"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/step-01.completion.txt": {
+      "bytes": 3469,
+      "sha256": "9a0421cfc4ffc960d12f366b12d42a727d36e94b9a4c4379373cc7a095ec33fe"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/events.jsonl": {
+      "bytes": 1046,
+      "sha256": "2ce00041d72d1f1f0d28f64ba94684faa0cf11706a30c2afee53dfc4cb111b1a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/judge-input.txt": {
+      "bytes": 9859,
+      "sha256": "dbf347da7d292f1733086198281ad56ae9fbd6916245be769916e5761be2d09b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "0595babee57fd0a2c7e8dc3419deb29cf9c1d700096fe75733e6220e543027fb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/reverse_a16/steering.json": {
+      "bytes": 496603,
+      "sha256": "c20a5d814737751097bb50dc6b12fe03bab27252cbdbf5b0c69cac120cf725f8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/episode.json": {
+      "bytes": 1793183,
+      "sha256": "e8ebd9dc4654e6f63e0100bfbe26a620b6097023b162f02995437364dc5cc2c2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/case.json": {
+      "bytes": 2623,
+      "sha256": "eecd74f1e719e859512c39d4e5b4a4390a8f287ce74a1b68585215532e175307"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/receipts.json": {
+      "bytes": 1377,
+      "sha256": "bee7b9524b6d07c475578d7a226e019c44011f6068022699ebfa0e542b968014"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/messages.json": {
+      "bytes": 131971,
+      "sha256": "e5be1b83e57d16f13e1615bef152dc6bf0cfb18d393269a34bd65cbc7b85ed1b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-00.generation.json": {
+      "bytes": 21385,
+      "sha256": "7301c623d8c7c7864b8eaeca883f2628099933092f82679b04c236ddd2a26773"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-00.completion.txt": {
+      "bytes": 6500,
+      "sha256": "b2c86a669b734555c9b01207ea5507b7deec5acd42784c5e65291f9ad0c758a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-01.prompt.txt": {
+      "bytes": 110553,
+      "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-01.generation.json": {
+      "bytes": 8483,
+      "sha256": "7dee2a98a53f05a7feafb6c2a63fcffb07cfc27d43137fac49452464e7e438bc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-01.completion.txt": {
+      "bytes": 2513,
+      "sha256": "8a861e436dc0ed190e93892ed45d62c6f3688b7b05c8d80491b0f080d65f19ac"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-02.prompt.txt": {
+      "bytes": 113372,
+      "sha256": "bb1cf32dcfef732235e6d548562a48f077e789063422eca2e31691e601536f02"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-02.generation.json": {
+      "bytes": 13148,
+      "sha256": "913308d81090063d5880d3e104400b0dcc6414cfb01ce55adfd375443379a30f"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-02.completion.txt": {
+      "bytes": 3756,
+      "sha256": "4191ca0a3f082f484d9a1e39bc39871a28ab2d1669f0de0f01de3b46dfe94c90"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-03.prompt.txt": {
+      "bytes": 117326,
+      "sha256": "7e89d7a3d2179883cf9c5797a406f1afc264fcf77416b99d828caa6cb40e7e17"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-03.generation.json": {
+      "bytes": 9681,
+      "sha256": "47f1149b0caca29223ac1b3e3ad115cb5a7b584285b8e37172478fc1f3756d5e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/step-03.completion.txt": {
+      "bytes": 2983,
+      "sha256": "2b64085b04adcbcf3f3b580607285ddb1179957cbdcf73d0731c887581f432e0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/events.jsonl": {
+      "bytes": 2293,
+      "sha256": "addc020db3f5a82e4560693f87026c2950b0b4b9a30e916d420958b2c8cbe120"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/judge-input.txt": {
+      "bytes": 15509,
+      "sha256": "de0415a6df10a1ea659c8caef9a3649da570e6e51fd07d5f033ab9db94bc971c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/sandbox.json": {
+      "bytes": 1445,
+      "sha256": "f7555c547d671678e58009407c6acfcdc34eddaecaadeec388a26ad8498421d6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_2_a16/steering.json": {
+      "bytes": 1490853,
+      "sha256": "df84eecc65f294b9bf41b9936a501e6b68af26a60efb4798c198b08f722ff5e9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/episode.json": {
+      "bytes": 792508,
+      "sha256": "5e473709b845a1801d5711a1aebfd92f96c42a49ef68b96d2cb49023df54e48e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/case.json": {
+      "bytes": 2623,
+      "sha256": "eecd74f1e719e859512c39d4e5b4a4390a8f287ce74a1b68585215532e175307"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/receipts.json": {
+      "bytes": 325,
+      "sha256": "fbf3a82fe231305a91cbaa6ba9399d8e67230bb8c3696f504d768f079ef1d785"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/messages.json": {
+      "bytes": 131144,
+      "sha256": "0a56bacaa960f76298664ce10fd3a5674e0218af7c5e4573760ce8eb930432c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/step-00.generation.json": {
+      "bytes": 21384,
+      "sha256": "479fdf88f8ece6e8edff8701053060a09019f3b769d117794d06923eae155f84"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/step-00.completion.txt": {
+      "bytes": 6500,
+      "sha256": "b2c86a669b734555c9b01207ea5507b7deec5acd42784c5e65291f9ad0c758a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/step-01.prompt.txt": {
+      "bytes": 110553,
+      "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/step-01.generation.json": {
+      "bytes": 29338,
+      "sha256": "dec288a1a3d72eb8e1393f7077291e880e86e93f81c583dab7c95a93c3cd2f19"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/step-01.completion.txt": {
+      "bytes": 8967,
+      "sha256": "f7bfe32c6614d014cd07ac423aa8444870fbc7896cb09dd20a38459d61901bfe"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/events.jsonl": {
+      "bytes": 1043,
+      "sha256": "45af9a033d7331e1262abfa5619806c2f3b4910c10833b72e3ffbebb027da5ae"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/judge-input.txt": {
+      "bytes": 15357,
+      "sha256": "029df5ce8f0b4bef0c75db9bb5c5237a2eec92a8c1eaeda0afd9acd6bcc1a1eb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/sandbox.json": {
+      "bytes": 1440,
+      "sha256": "f5deb52b84967fffd10454821aeee9915e878c3023ba2b26be7bc8e035c72776"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/role_a16/steering.json": {
+      "bytes": 496588,
+      "sha256": "f5f498fc05bb2c79c0f4be9bdb6e604badfb5e81421355f0af3d90801f23a25d"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/episode.json": {
+      "bytes": 2771314,
+      "sha256": "6c0327d8b068963446054e088db34fc9e6e127d1d3b7dd27cc81da6521419b09"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/case.json": {
+      "bytes": 2623,
+      "sha256": "eecd74f1e719e859512c39d4e5b4a4390a8f287ce74a1b68585215532e175307"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/receipts.json": {
+      "bytes": 1757,
+      "sha256": "d46e87bd3d728d4cd6b5e8672b866b520e77f2c75d2e3e1e5f016af370af3c2e"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/messages.json": {
+      "bytes": 128516,
+      "sha256": "d0d2a8c3a4d77dea2cb75637b193fadc5d0f60d9dcbb4cf7168a703a9d8a3883"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-00.generation.json": {
+      "bytes": 21384,
+      "sha256": "542ae55a8117706b51a1467b288cdd1108bf0c03a441d376af6068364b6a3106"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-00.completion.txt": {
+      "bytes": 6500,
+      "sha256": "b2c86a669b734555c9b01207ea5507b7deec5acd42784c5e65291f9ad0c758a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-01.prompt.txt": {
+      "bytes": 110553,
+      "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-01.generation.json": {
+      "bytes": 4043,
+      "sha256": "27481f80e03bb6560d00b22b45f60e896fc3b8c5c84cfac7539ee90aaf1cbd03"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-01.completion.txt": {
+      "bytes": 1135,
+      "sha256": "22c4aaf1082e26688b82db2304c61526b257feda8131220cfb16f78ba311d400"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-02.prompt.txt": {
+      "bytes": 111833,
+      "sha256": "0287d41a6835e531cc4f29d0e5ea9c2f9b9d9ab65f47eab969886c0ecc1ea0bc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-02.generation.json": {
+      "bytes": 2124,
+      "sha256": "4dec040508bfac154ef7145df038c5299f09d1553c82f3cf9969d34d2713458c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-02.completion.txt": {
+      "bytes": 533,
+      "sha256": "88096e4346990b915018d4069eaf6c5ada28c655d768e8a0a6c95d0ad4fb0bce"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-03.prompt.txt": {
+      "bytes": 112527,
+      "sha256": "02c06b38e8247dada177f8821721fbac904462d0cbe84f58e06f6ff1b246f316"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-03.generation.json": {
+      "bytes": 5997,
+      "sha256": "a7a92e75d8d936b08bd794df31aed6adb40407555821d5a9b4a4e74b8d2c8920"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-03.completion.txt": {
+      "bytes": 1561,
+      "sha256": "ede7a6ba1aae9cfabf057d280003dc8620f4de200b40b8793eb335a61531ebb6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-04.prompt.txt": {
+      "bytes": 114609,
+      "sha256": "3f1f565b5a48b7a88ebbbe4eec01e3bd74ff262537aed73e0dc88489a45d30ec"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-04.generation.json": {
+      "bytes": 2503,
+      "sha256": "258b8003f7806c4d0453837ba69b6ca762fcb5bc4fc554384667b9e2daefe9c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-04.completion.txt": {
+      "bytes": 615,
+      "sha256": "39b8edc4f8b359da41540fe97399d320e7a965f871176e39d98129af4ee3eccc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-05.prompt.txt": {
+      "bytes": 115388,
+      "sha256": "0d83c66b9c36fc509259f4f795243850a3dfc3d87118330e24cb8ea5c87e98f8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-05.generation.json": {
+      "bytes": 4953,
+      "sha256": "ee00266fa874ec18c7e7d6be3b61b4b5e711c5839a5e8e09daeb7cc14aaa1088"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/step-05.completion.txt": {
+      "bytes": 1425,
+      "sha256": "5aaeeda81d4017116a39556036fd0761c6ca6008a3cdffe6873e5d266dd2a07b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/events.jsonl": {
+      "bytes": 3541,
+      "sha256": "ada8d98a4816be01987160e95ea0b5010fc8d8c206cdead77843f275f211319a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/judge-input.txt": {
+      "bytes": 11393,
+      "sha256": "d56b251c77b55736d6475fcb07ee2300485c2a8ffcaa03b1d8ede8316f9577a7"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/sandbox.json": {
+      "bytes": 1444,
+      "sha256": "d86c9abae5901f2e46c32181dfe2824ff5aa8028bce4cc7f891bb317f233c9af"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_0_a16/steering.json": {
+      "bytes": 2487407,
+      "sha256": "0effdd905bcdbc0d019967ab915941a77177e1f5949c4686fa8761fbe05e5eb8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/episode.json": {
+      "bytes": 1777460,
+      "sha256": "d5c89939b98a4fe52f22badec2611d226b2f76938fbd2e22ec5e144d8bb2a520"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/case.json": {
+      "bytes": 2623,
+      "sha256": "eecd74f1e719e859512c39d4e5b4a4390a8f287ce74a1b68585215532e175307"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/receipts.json": {
+      "bytes": 1377,
+      "sha256": "7775e774756e0dfca3bc71c8ab647705c33ad804f7d064813b80673a431c4062"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/messages.json": {
+      "bytes": 129328,
+      "sha256": "f8270c2e1f7f1427afc9cb3e55a6b7ccc9d76b6b3c6b436e2d1cfb342a78b520"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-00.generation.json": {
+      "bytes": 21384,
+      "sha256": "53cdb577003062040c5b0bdddbd5de4251614daa000bf2746a4ffffc44d44311"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-00.completion.txt": {
+      "bytes": 6500,
+      "sha256": "b2c86a669b734555c9b01207ea5507b7deec5acd42784c5e65291f9ad0c758a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-01.prompt.txt": {
+      "bytes": 110553,
+      "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-01.generation.json": {
+      "bytes": 19509,
+      "sha256": "2dfd8c7c18e719c7cc340c4031619be11dcd424a1cd74acce400beadc69020c9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-01.completion.txt": {
+      "bytes": 5878,
+      "sha256": "016a75c5187cb868c9c2427189cf5ac1e46229dff6a1c9416a9a0bd66f76dfe1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-02.prompt.txt": {
+      "bytes": 116597,
+      "sha256": "3bdc0b0dd4d742c663b7cd76c2b9c00ab34bae4708c8f256c32569c7e310adb6"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-02.generation.json": {
+      "bytes": 1880,
+      "sha256": "738f853dcfa3a54190e8afbb2e28bfaa735b52bb7d1a3a6e59ab20cbb1636f15"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-02.completion.txt": {
+      "bytes": 444,
+      "sha256": "71df541b8608b9dbbe3f0ea9f9731b08a0a657123f09023f05699788cb2871a2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-03.prompt.txt": {
+      "bytes": 117560,
+      "sha256": "45ad0668941258a474f2e59126eda81df4036769e7083ef580f32a1728cd2bc0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-03.generation.json": {
+      "bytes": 592,
+      "sha256": "b7ce417a42e6e301941649ddff19c7719e7c8caa132c98f57b47641a598cddb8"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/step-03.completion.txt": {
+      "bytes": 101,
+      "sha256": "4dbbe6eec443cf0bac786d981fe93a4d9869b71adb2b460fde2b253c7dfa7c95"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/events.jsonl": {
+      "bytes": 2313,
+      "sha256": "d20c8712a050e1f8de3c255966522674f32380fe607263ccca805f80fd834b9b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/judge-input.txt": {
+      "bytes": 12719,
+      "sha256": "7a9ea022af2c637d72426a6654ff2935c1bc7bc8c1d7eb2bc061e8d2adf62098"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/sandbox.json": {
+      "bytes": 1443,
+      "sha256": "d7d6a23cf0e053d48a85336316c61efd548cc6fdbf91d3aecdd26d4afd59f0a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/random_1_a16/steering.json": {
+      "bytes": 1491014,
+      "sha256": "6200819455c10a6f68ecfdc7ccd86794be29d81d907e8adb09a75c3111b64198"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/episode.json": {
+      "bytes": 1757951,
+      "sha256": "73bb0f8a323a67d9a02b5999f49660eba22685b2bed8f3c30c38fa5486bca078"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/case.json": {
+      "bytes": 2623,
+      "sha256": "eecd74f1e719e859512c39d4e5b4a4390a8f287ce74a1b68585215532e175307"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/receipts.json": {
+      "bytes": 1377,
+      "sha256": "6597a828f47e8cda613730835c8ba3fd5a8960f82bfece40049bbff0428c9f33"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/messages.json": {
+      "bytes": 125761,
+      "sha256": "3eee3206ceef604c8d96b9f3be92931fb4938c11908cf8fe5c614899fac102a4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-00.generation.json": {
+      "bytes": 21385,
+      "sha256": "2ae901d3b3af39faeb60046d1d55bff1a36a0b2b3c989d9c2f919a7d06d7d207"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-00.completion.txt": {
+      "bytes": 6500,
+      "sha256": "b2c86a669b734555c9b01207ea5507b7deec5acd42784c5e65291f9ad0c758a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-01.prompt.txt": {
+      "bytes": 110553,
+      "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-01.generation.json": {
+      "bytes": 6333,
+      "sha256": "c7b09f821449edf7e2665e62d3756b01f84f6e20fc15f7fa864b2433394d33f2"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-01.completion.txt": {
+      "bytes": 1852,
+      "sha256": "d5821c0f9bad4c6ba32e394b9d716c7a2990f6d0490c572d43c56d253937a205"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-02.prompt.txt": {
+      "bytes": 112571,
+      "sha256": "54102e0389a1edd1ece8a66421eae8cb10c389f31b65ee1963056bdd3de7675b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-02.generation.json": {
+      "bytes": 3624,
+      "sha256": "7b854488776e3516679b067ba839b75d49d653e48eb02b481d71dd49af8b47e5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-02.completion.txt": {
+      "bytes": 884,
+      "sha256": "4c50d006caa87debf33441881bfa07114e5fc4edf9e3b34406762268b9a4d8cd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-03.prompt.txt": {
+      "bytes": 113975,
+      "sha256": "150555cef2eb8b116dd26815769e287444189788fcaca558f97b9d05db75d84c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-03.generation.json": {
+      "bytes": 882,
+      "sha256": "60f3f5076de4a081fef104e581353b0eb628a007cb8b2e4860b86ea7c66b90d4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/step-03.completion.txt": {
+      "bytes": 171,
+      "sha256": "19aaee7d016294fa9f6465da8b85aee3187d3c715b1111ed51d42adef734050c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/events.jsonl": {
+      "bytes": 2322,
+      "sha256": "769cabee94845e0453a725d707f5ea540c6882831d2f662242837a9e194ec998"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/judge-input.txt": {
+      "bytes": 9202,
+      "sha256": "b825eb69246be2b1af8a71cbc76c6ff3127bf169a07b2dac63120aea4a5daec4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/sandbox.json": {
+      "bytes": 1435,
+      "sha256": "68ce7e5e53aa4098beb3d3f06825b9c69d0a7ffcfd7b0a17274a63aadf7a5a5a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/zero/steering.json": {
+      "bytes": 1490869,
+      "sha256": "9ae6407ee92fc139280de8e354db927821d8a97846b40d587a5d3bd30c1e4c93"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/episode.json": {
+      "bytes": 1755968,
+      "sha256": "7fdc5c325f52959ab02f9d3ade388b7d96f24e845244140c8a30a5b0c95e24c1"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/case.json": {
+      "bytes": 2623,
+      "sha256": "eecd74f1e719e859512c39d4e5b4a4390a8f287ce74a1b68585215532e175307"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/receipts.json": {
+      "bytes": 1376,
+      "sha256": "091433a6be4f8840806432c39485d416b7a860ab41c1f84fe3f003f422504cf9"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/messages.json": {
+      "bytes": 125761,
+      "sha256": "b20a6940a7e32203076c0cfbe337da20dd259cd4da8340c05c86c24bb2fa29f5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-00.prompt.txt": {
+      "bytes": 994,
+      "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-00.generation.json": {
+      "bytes": 21384,
+      "sha256": "1aede3aa97d4a3cc8b66b4ce8a8f808a61db61e3460ac614a3744628317b65be"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-00.completion.txt": {
+      "bytes": 6500,
+      "sha256": "b2c86a669b734555c9b01207ea5507b7deec5acd42784c5e65291f9ad0c758a5"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-01.prompt.txt": {
+      "bytes": 110553,
+      "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-01.generation.json": {
+      "bytes": 6333,
+      "sha256": "d3938201c193f9e5ea5c20081b3e4d3d2ca476bc7f831fc064b950c419cfb0fc"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-01.completion.txt": {
+      "bytes": 1852,
+      "sha256": "d5821c0f9bad4c6ba32e394b9d716c7a2990f6d0490c572d43c56d253937a205"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-02.prompt.txt": {
+      "bytes": 112571,
+      "sha256": "54102e0389a1edd1ece8a66421eae8cb10c389f31b65ee1963056bdd3de7675b"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-02.generation.json": {
+      "bytes": 3624,
+      "sha256": "afac63850b1be36014d9bf86866fe0663e145c99e7428a546c3bdcfd0057ff64"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-02.completion.txt": {
+      "bytes": 884,
+      "sha256": "4c50d006caa87debf33441881bfa07114e5fc4edf9e3b34406762268b9a4d8cd"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-03.prompt.txt": {
+      "bytes": 113975,
+      "sha256": "6bf73aa6d164304d43e674f9684e5d2a540dd57233dd80c24982b5abf0224309"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-03.generation.json": {
+      "bytes": 883,
+      "sha256": "eb61afc8eb2651f64a149fc2a20ddf375d8267b54a9a14ffd0a3ee75c5db83b4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-03.completion.txt": {
+      "bytes": 171,
+      "sha256": "19aaee7d016294fa9f6465da8b85aee3187d3c715b1111ed51d42adef734050c"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/events.jsonl": {
+      "bytes": 2323,
+      "sha256": "b56103e0ecdf491125703df8443022e292da3e098a994ab5645922e70712a4b0"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/judge-input.txt": {
+      "bytes": 9202,
+      "sha256": "b825eb69246be2b1af8a71cbc76c6ff3127bf169a07b2dac63120aea4a5daec4"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/sandbox.json": {
+      "bytes": 1435,
+      "sha256": "02a418171275b37ba68c1e805403b782d58a29231d921436208c4b1af43a1bc3"
+    },
+    "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/steering.json": {
+      "bytes": 1488887,
+      "sha256": "398f8f904e9c1a3c5d3584451dbcdbb33d059ab62824e4bbfbf17af070846435"
+    }
+  },
+  "file_count": 626,
+  "excluded_transient_files": [
+    "progress.json",
+    "*.partial.json"
+  ],
+  "auditor_sha256": "92452e0df3fbd979729a1b165e40f74f9a40429262893af72accf8849515d89f"
+}

@@ -1,0 +1,35 @@
+{
+  "status": "complete_offline_audit",
+  "created_at": "2026-09-12T03:47:56.088143+00:00",
+  "closed_episodes": 35,
+  "source_files_hashed": 626,
+  "generation_records_checked": 111,
+  "consistency_errors": 0,
+  "new_model_forwards": 0,
+  "files": {
+    "README.md": {
+      "bytes": 6569,
+      "sha256": "5996c59ab755684762af7965ea10d2fb52fcd0e9694158f9b2e318ed27af3d79"
+    },
+    "audit.json": {
+      "bytes": 123948,
+      "sha256": "0b674bb23b190ed8eab4457bfca9adaa2fc36398e29e666b607bce7b2e5be797"
+    },
+    "audit_bridge.py": {
+      "bytes": 20550,
+      "sha256": "92452e0df3fbd979729a1b165e40f74f9a40429262893af72accf8849515d89f"
+    },
+    "first-exposure-probes.csv": {
+      "bytes": 13184,
+      "sha256": "5b5a3c572b919c923df389e0e177562fcc7abb7cf616189d2cd3f09e8a9b2afb"
+    },
+    "per-page-outcomes.csv": {
+      "bytes": 245,
+      "sha256": "d5dbf461c2406648a13f1e8cc55a3888466de032868bce1ff795ff9d98b28c17"
+    },
+    "source-file-hashes.json": {
+      "bytes": 176362,
+      "sha256": "5932de17d82efe2e2ae251582832b2f80d62ae6c24f13ae87d4adf8eab8659d9"
+    }
+  }
+}

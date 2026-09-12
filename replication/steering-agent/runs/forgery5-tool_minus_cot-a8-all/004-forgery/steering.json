@@ -1,0 +1,35 @@
+{
+  "arm": "tool_minus_cot-a8-all",
+  "steering": {
+    "direction": "tool_minus_cot",
+    "alpha": 8.0,
+    "gap": 38.507904052734375,
+    "mask_mode": "all",
+    "magnitude": 308.063232421875,
+    "layer_zero_based": 11,
+    "site": "TransformerBlock output",
+    "probe": "sucat_L12 (prompt split)",
+    "directions_npz": "/Users/hananather/Desktop/MATS 12.0/replication/steering-agent/directions/block11.npz",
+    "directions_sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+  },
+  "turns": [
+    {
+      "turn": 0,
+      "prompt_tokens": 214,
+      "page_span_tokens": 0,
+      "payload_span_tokens": 0,
+      "hook_calls": 4098,
+      "hook_positions_seen": 4310,
+      "edited_positions": 4310.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 0
+        },
+        "payload": {
+          "n_tokens": 0
+        }
+      }
+    }
+  ]
+}

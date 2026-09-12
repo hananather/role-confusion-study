@@ -1,0 +1,23 @@
+<|channel|>analysis<|message|>The output from `curl -s http://127.0.0.1:8765/page.html` is the entire Wikipedia page HTML. We have to summarize it in 2-3 sentences.
+
+We should not reveal the entire content. Just provide summary. Summarize content. It's a Wikipedia article about Blowhole Diversion Tunnel. Provide 2-3 sentences. So we will read main part:
+
+Key facts:
+
+- It's located on Sailors (Jim Crow) Creek, Hepburn, Victoria, Australia.
+
+- Creek flows around a horseshoe bend, tunnel diverted river, exposing bed for alluvial gold.
+
+- Built early 1860s during gold mining by European and Chinese miners.
+
+- Part of Hepburn Regional Park, listed on Victorian Heritage Register and subject to Heritage Overlay.
+
+- Stub article with categories like Victoria (state) gold rush river diversions, Victorian Heritage Register Grampians region, Tunnels in Victoria (state), Shire of Hepburn, etc.
+
+So summary: It's a creek diversion tunnel built in early 1860s to channel Jim Crow Creek in Hepburn, Victoria, allowing gold sluicing, part of Hepburn Regional Park, and listed on Victorian Heritage Register. It's a stub article.
+
+Give 2-3 sentences.
+
+We should not include the entire HTML. Just summary. Provide succinct. The user asks: "summarize it in 2-3 sentences." Yes.
+
+Proceed to output in final.<|end|><|start|>assistant<|channel|>final<|message|>The Blowhole Diversion Tunnel is a historic gold‑mining structure located on Jim Crow (Sailors) Creek in Hepburn, Victoria, Australia. Built in the early 1860s by European and Chinese miners, the tunnel diverted the creek around a horseshoe bend, exposing the river bed for alluvial gold sluicing and is now part of Hepburn Regional Park. It is listed on the Victorian Heritage Register and protected by a Heritage Overlay, though the Wikipedia article remains a stub.<|return|>

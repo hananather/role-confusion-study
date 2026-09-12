@@ -1,0 +1,13 @@
+{
+  "item": 2,
+  "status": "time_cutoff",
+  "started_at": "2026-09-12T04:59:22.376877+00:00",
+  "plan_sha256": "1d5f1af3605b8e67d08f618cb879772f24d621f65ec68e21581fd0b54780ffc2",
+  "prediction_sha256": "c87cdab5d2877c45126b9fa07825a1980c668d817f824884dac164cf9ebaa33d",
+  "recorded": 5,
+  "updated_at": "2026-09-12T05:09:12.357878+00:00",
+  "last_case": "004-forgery",
+  "finished_at": "2026-09-12T05:09:12.358629+00:00",
+  "assigned": 10,
+  "allocation_action": "none"
+}

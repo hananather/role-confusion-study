@@ -1,0 +1,1466 @@
+{
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/launch-packet/local-config.json": {
+    "bytes": 2017,
+    "sha256": "3f2c931c6051a682601216bf9232be3fe63dd3400a0c6409fd1a2f0632025c84"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/FINISHED.json": {
+    "bytes": 200,
+    "sha256": "2a475b3e7058a411227f7b12411decf54ffa491ebf9f86151ff975ba6554579c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/status.json": {
+    "bytes": 200,
+    "sha256": "2a475b3e7058a411227f7b12411decf54ffa491ebf9f86151ff975ba6554579c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/EXIT.json": {
+    "bytes": 357,
+    "sha256": "857c57e2cb9a9a24b672348ae4aab0692ce7dad0b064c3e0d50e8cff7b12395f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/CLIENT-DONE.json": {
+    "bytes": 170,
+    "sha256": "471ba1e193442798e0dd15ce6e4c5293cea1e145ce1d60ef2bcf6011f93fdf28"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/plan.json": {
+    "bytes": 27444,
+    "sha256": "6d23d90265553b02d4974e58816df146b8605c54f3e18e5e77ec763c6bd38873"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/launch-packet/registration.json": {
+    "bytes": 855,
+    "sha256": "c87ca432f9c8039bc39a1a5de7e9a4c1eaab36d67dedf563be63622804e1d1c0"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/launch-packet/frozen-files.json": {
+    "bytes": 20329,
+    "sha256": "6ec34418f3be63e56b89538be4b8ffe2b517eaeb0594b478dad2135b90c19f0e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/README.md": {
+    "bytes": 8630,
+    "sha256": "c765cde096b1d73dde30ee0d2ab5991aafa3fa4cfded24795c3a991ba626114e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/code/launch_successor.py": {
+    "bytes": 8343,
+    "sha256": "e23d68dc5fc3c8200fe05d3088e429e4feac29761c071c4de9518298422137a7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/code/prepare_inputs.py": {
+    "bytes": 8048,
+    "sha256": "35fd73b4039071df5d254571a07962292a0ba09ba20a768e5cbe576b512a636e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/code/register.py": {
+    "bytes": 5945,
+    "sha256": "8f64f94c74552d4021253879ab1dba6796eba67b82d9e101cef6b9768f70a808"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/code/run_queue.py": {
+    "bytes": 8854,
+    "sha256": "936c906b64b97066227d54b3156dc83b143c8e49513c3adf08d47d501a5b0d30"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/code/test_queue.py": {
+    "bytes": 6122,
+    "sha256": "7d24ac2157dbf14561bced072779ab312bb870b50503df3d0a6b426a0727f898"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/copied-source-provenance.json": {
+    "bytes": 4579,
+    "sha256": "04daa3b7d1184dbf2d3ae108c4991ef2fb2b06cfe01f108a439c252c548f7e1b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/000-forgery.attribution.prompt.tokens.json": {
+    "bytes": 248138,
+    "sha256": "68ebbf84096287f0da40acb94f38dba1bb4620c7cb3ad46d8def834d5f16d37f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/000-forgery.attribution.prompt.txt": {
+    "bytes": 110729,
+    "sha256": "a1be3700a7359947956fb42634292642c570fbd4bb1470a0c9639ff5895dddb6"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/000-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 110553,
+    "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/001-forgery.attribution.prompt.tokens.json": {
+    "bytes": 243527,
+    "sha256": "d87187013b604c483b2de8c0e1c2dff968d269bbddeb077259bc51c56e19be86"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/001-forgery.attribution.prompt.txt": {
+    "bytes": 105788,
+    "sha256": "f705fc5295c173bcbf4227e092fc7e4fdc4a46571f6b1547e42c6380ce2bf9b6"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/001-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 105612,
+    "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/002-forgery.attribution.prompt.tokens.json": {
+    "bytes": 211679,
+    "sha256": "fa7f18a13e5a1ed2a5a8dfaf5a87358d2013b76f60742fa7c055fad3d1a64226"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/002-forgery.attribution.prompt.txt": {
+    "bytes": 93165,
+    "sha256": "8a33a6b57fb64f314bebd02c7a583b74257ca2da9c89758b20612a4d08b1625d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/002-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 92989,
+    "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/003-forgery.attribution.prompt.tokens.json": {
+    "bytes": 237969,
+    "sha256": "d007b162afcbee5c36199bfb5fc5bc86ad8c0a057a5870e880fa7ec50738808d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/003-forgery.attribution.prompt.txt": {
+    "bytes": 103885,
+    "sha256": "4abda1975d03de070de2325a445f45a7d24026a6022090fdd3498882d3bdf2ea"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/003-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 103709,
+    "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/004-forgery.attribution.prompt.tokens.json": {
+    "bytes": 225877,
+    "sha256": "36d5c04eba62bf952d185af34f1d3bb02e66ac7ad2f15fb76c7bf6ffc96f95b7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/004-forgery.attribution.prompt.txt": {
+    "bytes": 98474,
+    "sha256": "3ab2d9ad14340469699272cc6a4be7a09203b171ba301f5566823df761afe19b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/004-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 98298,
+    "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/block11.npz": {
+    "bytes": 130052,
+    "sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-000-forgery.attribution.prompt.tokens.json": {
+    "bytes": 218334,
+    "sha256": "afd40bf15c67f092688c2c3c8162c47f9baed906442180c149b025dfe31f810a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-000-forgery.attribution.prompt.txt": {
+    "bytes": 95696,
+    "sha256": "17acba8412877f2aebc7d38e884ddff9592ec8bda8d3817ae38e83284ac1c4ae"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-000-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 95520,
+    "sha256": "9337817ff137d515b8a6493d340d3fcc0fab21d0dc73fdd46bf8e186632c97a2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-000-standard.html": {
+    "bytes": 84808,
+    "sha256": "b24dd876cf4396ed9cb7010ab0a868cf169d5213a91a38dcbcab12862426e5e3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-001-forgery.attribution.prompt.tokens.json": {
+    "bytes": 219161,
+    "sha256": "82937e20eb592df8882c6f3dea488f88325fc5bcc5442dc7c317f13e74b8bacf"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-001-forgery.attribution.prompt.txt": {
+    "bytes": 95596,
+    "sha256": "c74db3acc2b0824ef39a46e5b7d53e6dfe4fb6aae69c7b386bea23a7d9d7b82f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-001-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 95420,
+    "sha256": "a5ec287032470bc4a4092ef2c8f4a96dffe13a457d102dfe5c973a00e032d0b8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-001-standard.html": {
+    "bytes": 85514,
+    "sha256": "f657d9c7a96c81971535226cf2108e8698e2f3870fcb909f74e6723a6da14afa"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-002-forgery.attribution.prompt.tokens.json": {
+    "bytes": 253878,
+    "sha256": "11c37f598ddc8b96c7d4fee4bcbff71484cf12c5920940b9c9c8fd5b43892d36"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-002-forgery.attribution.prompt.txt": {
+    "bytes": 114082,
+    "sha256": "395d1384ab66fe894748894518b5c52880d68c7e243c4dcafdd01673e2f4cfea"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-002-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 113906,
+    "sha256": "14b4fe94ae064bad85ea7bb23aee21fbbdba55b64fb48c82e37839a84bc9573b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-002-standard.html": {
+    "bytes": 100460,
+    "sha256": "5e434162ef01f07c9bc0a46bedf88acb92772560ba3bec906e5f27ef40884f55"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-003-forgery.attribution.prompt.tokens.json": {
+    "bytes": 284025,
+    "sha256": "973cab1dca60d1a1f7e6260e00f84d8e831e74046b4ed74ff7c4258176b52a1a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-003-forgery.attribution.prompt.txt": {
+    "bytes": 120516,
+    "sha256": "79573c0a0773347e0f8d9fded77c4b1231eec158f2f18c9eae0b87191cd8e3cc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-003-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 120340,
+    "sha256": "ba34b68001d54d85ef8a8208e2993b1b7107fdc08cf4cd655b02efd0090f4c73"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-003-standard.html": {
+    "bytes": 109098,
+    "sha256": "c8497ffba4c15ee2ff92666377ccc9715b5ff6989f568fc2f0dc86f4f163998f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-004-forgery.attribution.prompt.tokens.json": {
+    "bytes": 235240,
+    "sha256": "4dea2ffaa83b43d1106ff4b584150556964f3ecc82ac3dabc6e7cda0b41c9c01"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-004-forgery.attribution.prompt.txt": {
+    "bytes": 103860,
+    "sha256": "9566dafdd1dfeffe2199c5cc1de27b27d0d26b14ad6412327612c8b8c4544031"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-004-forgery.baseline-postfetch.prompt.txt": {
+    "bytes": 103684,
+    "sha256": "ce4495bb5afdce675f431ec0f5b60929940fdcbbc249d00543958aab57422a9b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/new-004-standard.html": {
+    "bytes": 90244,
+    "sha256": "89d632145f079f96df65ee0b978b83a6752e57eacfc105d219dbb20e1776578d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/inputs/probes.npz": {
+    "bytes": 7568950,
+    "sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/model-free-tests.json": {
+    "bytes": 234,
+    "sha256": "289298b07ef89145f3fb85113de609168c309740031bb68aab2efa9ad22716ce"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/model-free-validation.json": {
+    "bytes": 503,
+    "sha256": "4bb8b78c3e5bc74dbef3ba293c37c388741edc3c790309b21585746dc7f3ca8e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/prepared-files.json": {
+    "bytes": 9718,
+    "sha256": "85f88ccdf381276bbbde29b5cca95c1693985581e420a18b234ced3842904f7b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/__init__.py": {
+    "bytes": 90,
+    "sha256": "d5fb172683068b006bb1b6bded43e5f41385a883167eef078050046475fbb074"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/control.py": {
+    "bytes": 40085,
+    "sha256": "8f8fb42066cbe14f3a8a905daad2e197243ea4fd5d3dc496d6853cdf4e4119ce"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/dispatcher.py": {
+    "bytes": 30069,
+    "sha256": "6a073d96c48277aa5920a2bb89d4716b6277083e5c927df683590b985730745a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/episode.py": {
+    "bytes": 12195,
+    "sha256": "1e9d1f865868a93e7ced5472f848c612d89e5c332e910651045e8f550289113d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/frozen_harness/__init__.py": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/frozen_harness/backend.py": {
+    "bytes": 12161,
+    "sha256": "e8276ae8a27402442be23ce835e8d691276c36ac6cf470642cd99cab4543874c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/frozen_harness/prepare.py": {
+    "bytes": 8447,
+    "sha256": "14404f8f1060bb7273a30ccc5ea8f2defe8578c54bceb4c8a0be33758f407c39"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/frozen_harness/protocol.py": {
+    "bytes": 4897,
+    "sha256": "ccec25467e8c55a0215b6d55a8a25e4ea94e96d45ce5120a0bb01f33566d0b43"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/frozen_harness/sandbox.py": {
+    "bytes": 11744,
+    "sha256": "c7a551a5e1d9bdf04e2f3a121140e7e341611912f35ac2622a44457e570bcb10"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/hf_backend.py": {
+    "bytes": 17198,
+    "sha256": "de3f75df4d076a4866633d1967fb3f807f9a28ecaca6c551e1491b99d1f41555"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/local_backend.py": {
+    "bytes": 6447,
+    "sha256": "0d785435fa7a29575938f8c3b925fbb63b5263b87b4677f896a66b4f51d6ad2a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/new_page_prepare.py": {
+    "bytes": 12529,
+    "sha256": "8de2720f4cbbf8eacd0ce48d7e0a46a222dcee3b13d5acbe55e4daf3fe8feb28"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/new_page_runner.py": {
+    "bytes": 15137,
+    "sha256": "060503124a9ce1ba45f55e374a3e46ffba0ecc26b6ce7f08bb03db1a0a4aab4a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/persistent_session.py": {
+    "bytes": 14940,
+    "sha256": "8a234db2c0c210f22bff34c0d21a69c499be5867627acd14367a384695f617ec"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/persistent_worker.py": {
+    "bytes": 12402,
+    "sha256": "ff7828a1aa27e9a254a1e254e7d32b74cd0596b745a9be0b803ed5afe85ad553"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/prepare.py": {
+    "bytes": 9122,
+    "sha256": "a9d1b2ccb9070b5dcfaf380b426b0de53772e33dc4dab7c3d311ad0d125ae8fa"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/runner.py": {
+    "bytes": 14451,
+    "sha256": "5be8258c1542ea86b1101bf69815cb61e916d97f75eda5dd9e2f3404c4c2c7b1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/sandbox/runner.py": {
+    "bytes": 2706,
+    "sha256": "9a9bc33f5c65cf79dda303efb81909958cc9605af4c37bcf0ca35f380b06ba98"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/sandbox/server.py": {
+    "bytes": 8852,
+    "sha256": "b88f0bf304f9dd35823d07df68d668028b47ac0e575e2c0524c53e340e9d6f3c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/sandbox/watchdog.py": {
+    "bytes": 806,
+    "sha256": "393b8de2dcab04cadd1c12cbc17029f746afd3d6391dcc8a5ba1a7f59559d9f2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/service_guardian.py": {
+    "bytes": 7755,
+    "sha256": "4d7cd81966c48b126b12f326b2e70a976014c742da9ba7c5aa072f66667b4b3d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_control.py": {
+    "bytes": 22253,
+    "sha256": "ec271617d8b6e8bd19a7e50a05f84dad902ce89c1d20d4f0f8b68479c19542c6"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_dispatcher.py": {
+    "bytes": 14820,
+    "sha256": "cded3ca9288e5f2a536d4acad26b963f9d4359badc5de9e2fbaccb7dd9f0cb50"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_hf_backend.py": {
+    "bytes": 10338,
+    "sha256": "0705192fe032a7247a818512f93189721b5db038b8944e997429bde06126ed7c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_new_pages.py": {
+    "bytes": 7368,
+    "sha256": "6a7b1d61ccc94afcc1c25925fd5c9510b79f22dae97779f6ef52b9b0f79b61d4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_persistent_session.py": {
+    "bytes": 8606,
+    "sha256": "390f4d8e5b4860875f694bc80a4b07e48a47d2862a99e3ceb8365846902494c6"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_persistent_worker.py": {
+    "bytes": 6460,
+    "sha256": "b83fd08640005d27fba2f8e46bf33cf97886fe1c212a0ac5c3b0208a6f5ae244"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_runner.py": {
+    "bytes": 3370,
+    "sha256": "38fa4cf5b2d7c94fc41545561fa184968dbf36b41ca3ea238a367155205216c5"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_service_guardian.py": {
+    "bytes": 6177,
+    "sha256": "a2b852bbeb45b9080cafc79018481f27a85a4f4af539aac5bda90bcb6772cf6d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/test_worker.py": {
+    "bytes": 3256,
+    "sha256": "f6b3459f215f31af1dfd8402a348933e2164af0a804721040b8f9a4169613239"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/agent_steering/worker.py": {
+    "bytes": 8518,
+    "sha256": "7e77f7f324fd0eea224696088ad5b5e93bd46586b443c04fb265e9ea8b2c31a4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/chat_steering/runtime.py": {
+    "bytes": 35604,
+    "sha256": "bb909f739608aaf3d4350b2aeb5dd1397140e15e75c6c0c0f90e6cd0937f98be"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/job_steering.py": {
+    "bytes": 34379,
+    "sha256": "dc26236f4501c5b0b24c1c3c303bbac4fe910c88fcb2546c6eaa198f93a3e4a9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/prepared/source/replication/cloud/jobcommon.py": {
+    "bytes": 18396,
+    "sha256": "4044cb37e9df7f5d6bf4571d538f096f3747ad2d70e188ae729ca047057267bc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/launch-packet/closure-receipt.json": {
+    "bytes": 2298,
+    "sha256": "f8b90dc82f77129d983a89aa4a3ef147ecc2e8e15d681874dc9ea37f33b41f5b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/launch-packet/service-config.json": {
+    "bytes": 1248,
+    "sha256": "9a279c62d4446f4c01ec67cd0520ea7e9b3c793c5041889f9d4cb7d830ffc144"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/connection.json": {
+    "bytes": 91,
+    "sha256": "f85e58bdeaab956d4db249707587187fe28952b4a0e7ba6f27e7c5140f6885cb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/bridge-001/final-audit/audit_bridge.py": {
+    "bytes": 20550,
+    "sha256": "92452e0df3fbd979729a1b165e40f74f9a40429262893af72accf8849515d89f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/READY.json": {
+    "bytes": 6624,
+    "sha256": "e0974042c6fbbd7165fb8505b4063e2684b0cd1de546a526a515e8b2f5b36f9f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/job-config.json": {
+    "bytes": 777,
+    "sha256": "bd4221f29abfbc6774f8908f51fae3aa928403bf9f010dcfaca672a45660a9ff"
+  },
+  "replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/final-audit/remote-mirror.json": {
+    "bytes": 15435,
+    "sha256": "44413fd7865829b2c8e7d1e7f4875896b9f948bf55b7f56817ba0b9088d370b3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/DONE.json": {
+    "bytes": 357,
+    "sha256": "857c57e2cb9a9a24b672348ae4aab0692ce7dad0b064c3e0d50e8cff7b12395f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/STOP": {
+    "bytes": 41,
+    "sha256": "8b81fa4c023c4c8bb287c298424709a2f11835b213d78634186454471822b6f0"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-24dd285103677a921fa682073dbf7360.json": {
+    "bytes": 5869,
+    "sha256": "2936ffb76082ae6ca61e529d22a3244cb6e7f03db04872437fce011a7738f580"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-25ad92964f8ea6194dda27a9966f9d78.json": {
+    "bytes": 634,
+    "sha256": "783146b1aa1ed0393450dda7bd58fa1b76b3c6b624d904719c325cdc4142cbab"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-3b8d7c9aa0101327f577ff950bc031ce.json": {
+    "bytes": 603,
+    "sha256": "33fb93aac40a208e560dd45937a8bd3ad3a12444555cd893a551a05c273bcda7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-3ff1c0b53db65f2cbacfd0310268caa9.json": {
+    "bytes": 859,
+    "sha256": "7a33360541c90ab9781a00f0a7107a9459e9c50609e4b83b28a0244b18e9fec9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-43d6f0f7c6655d35721eb20a16be5b36.json": {
+    "bytes": 599,
+    "sha256": "a466fb67156f2aa8be7c5b5dfdbd8f6e861346d68cbb6120843fc40effbc145e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-59b3c1b3b42e14cab29f4e8c581f0672.json": {
+    "bytes": 1922,
+    "sha256": "615914095f12528aadb1f7c3467fcb5f135341ee6df2112b2790c79333e7fa1d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-6bc226aad3d91c557101fb455166eb35.json": {
+    "bytes": 10156,
+    "sha256": "144186c6d0cb3a2a0df869663eca263be56ae778783827a08e2d6777b3e0e787"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-853e2903ab336e12a9badf333f517cad.json": {
+    "bytes": 497,
+    "sha256": "a97c2ffde41023a98da59e524b98505ffc26126ae64a4badd267a13acf27fdc2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-95586d671585999a4bd0ba9e8b64b8b5.json": {
+    "bytes": 1010,
+    "sha256": "06cb30d9379cb63e4c15331daaa8f0948d936c54f4ec5c13ca49b1a8d5069e83"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-9e528bc42bb3e574149b0acbf39fca39.json": {
+    "bytes": 4945,
+    "sha256": "d59f4918b2403cc734ecfe8aeaf7f080f521314b33849276d6753c693684b960"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-a4471395a7e46c337c68d58c5c960a9e.json": {
+    "bytes": 12520,
+    "sha256": "3729fb14a190a612f119a4c129990a9aca0a103e6a1f17f6d15856b6a6544e33"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-a7b29d480cd0c63dfba26a4f186023c2.json": {
+    "bytes": 2574,
+    "sha256": "7b2111e990e9906271d414cf5a699154950f5b5c66b3f28acfae46c95c6b6ffd"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-a8859e771a612598751cc0f97d9bdbb1.json": {
+    "bytes": 6092,
+    "sha256": "bc0ce586103c99fcc928034df5dc1192c83259d87c3a3004bdfbb2d7a5974787"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-aa33d629c45ba85f633d503de0421e24.json": {
+    "bytes": 8695,
+    "sha256": "a26de2a10749a77580a62ed4948381126c94c8a7bdae8427375973888252e9d1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-b26faefb0700cc4266d484b7e7dc1afc.json": {
+    "bytes": 6453,
+    "sha256": "05aa569c4f8bf9b8a78e44571e7927c22a34b0218c7cf9b8183fba030d8a625a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-c6c95dd3918d9a8b0cc04b42f4c44abd.json": {
+    "bytes": 654,
+    "sha256": "6737d87af80b6ef455fab67f1b5110281a29be19e22859b87bceb23c3ed817fa"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-ca97d84f1f347f5402d10c6c6e53b51e.json": {
+    "bytes": 1816,
+    "sha256": "9d3e3f11c2abf6b735d686f93e6bf94b5921f8efa6ee2f4c63159c8ec1aa3a12"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-d90e688d6f88aabcc1a121c27bb489ad.json": {
+    "bytes": 551,
+    "sha256": "2450a6663224ea17492bc611fa89080769bccad06580b6b4d19c79845749202f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-e7447b24473959647eddcedd9b66f720.json": {
+    "bytes": 466,
+    "sha256": "42736d7599fc678df4063b809b19e8ec5c68a53570ccfabf976efd74c3d987a8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-e7993ac2970ffceffc291f0089c6988d.json": {
+    "bytes": 10026,
+    "sha256": "43069e68fb2a9d33de29f87909bec654b4446353e6fce9fe7b80811d2346a380"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-e8066b7e60f1e9e03667e98ac817d7cc.json": {
+    "bytes": 3674,
+    "sha256": "bdaf849502375f17a79186c69a748574fedf548835641b6cc01d3dd453ac7eb8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-ec672b0cce6c51f72b9b16cbdfd31da9.json": {
+    "bytes": 614,
+    "sha256": "549d11e46234974060624a07e1a3240bef8f762a50ca75e7beb21b92d13fc97d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-eef159d4739db33175abbbfd4f96a604.json": {
+    "bytes": 603,
+    "sha256": "15238f3d534b694277497675acd2c153fd6bc11f8c00b063e0c81ec273b3cadf"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/progress/r-f121781226dfca03bbc523098fc0c4cf.json": {
+    "bytes": 600,
+    "sha256": "919fe3729d1c78c5edd5ead5cc32e707747df74e4cae642060d6b819d8d40f51"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-24dd285103677a921fa682073dbf7360.json": {
+    "bytes": 137170,
+    "sha256": "d72caa511e72061e66476ff88bcc214bbb97bdfb230212d5aa860935478fc4bb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-25ad92964f8ea6194dda27a9966f9d78.json": {
+    "bytes": 114860,
+    "sha256": "f064bebf434c7461099d58d3d1e6f179c7236a27290c612055c6326780f8b7e7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-3b8d7c9aa0101327f577ff950bc031ce.json": {
+    "bytes": 117760,
+    "sha256": "4d055b6d09f23ac51a7daf4cc1ad1928d90fe69fdc35e2d476c3b9988958a0f4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-3ff1c0b53db65f2cbacfd0310268caa9.json": {
+    "bytes": 110596,
+    "sha256": "e8d692c4e2599b041d3246f480e711fd553025a6af6343a320e23371f8cab4d3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-43d6f0f7c6655d35721eb20a16be5b36.json": {
+    "bytes": 122495,
+    "sha256": "a8467d0e19085c83eab2aaf1d09ac0a9727b6fef6eaf4ad3c01719bc35f1df68"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-59b3c1b3b42e14cab29f4e8c581f0672.json": {
+    "bytes": 109735,
+    "sha256": "63a7b59b55e2cf3d98f8b8de8142022107af4403037e0b0771cfdf29019e77bf"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-6bc226aad3d91c557101fb455166eb35.json": {
+    "bytes": 1303,
+    "sha256": "806545a3c34db472f4d66152b60a2f8c84a8d091859d229483554f8adb5d4067"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-853e2903ab336e12a9badf333f517cad.json": {
+    "bytes": 103828,
+    "sha256": "5f8828966db9b962e65f7a0e3dfcbbd10aa357e93dc5992caebc852a4616183f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-95586d671585999a4bd0ba9e8b64b8b5.json": {
+    "bytes": 139826,
+    "sha256": "eb9345803357055ed41725ef099be8533810c340592e5882bb61a558eb685092"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-9e528bc42bb3e574149b0acbf39fca39.json": {
+    "bytes": 122494,
+    "sha256": "6842426196fe1e38c8081a88556d8dd24f2dd59d7dd7af14dee280a13bec3666"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-a4471395a7e46c337c68d58c5c960a9e.json": {
+    "bytes": 1303,
+    "sha256": "2b6d374d6312a0de463d3da4d8600613b4335b815b5192379c96543e42827b45"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-a7b29d480cd0c63dfba26a4f186023c2.json": {
+    "bytes": 111027,
+    "sha256": "d6332e5d35b49f41afd083dd6ab2d50aec9f9c1505cf1421f998e64d2ca36fd4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-a8859e771a612598751cc0f97d9bdbb1.json": {
+    "bytes": 107587,
+    "sha256": "6533122b97a9ecd74df812e2986bfb65b80ee8e6362ae301b52261550af5c3a8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-aa33d629c45ba85f633d503de0421e24.json": {
+    "bytes": 1303,
+    "sha256": "dabdafe1e400396617a2badd4271833a8455ad477152f93c83d977f5347ed872"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-b26faefb0700cc4266d484b7e7dc1afc.json": {
+    "bytes": 1303,
+    "sha256": "a2e7c2ccc6b3ed66ca0076d64b244cc7737eea5cffd4204ebaf5a65d9a06652b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-c6c95dd3918d9a8b0cc04b42f4c44abd.json": {
+    "bytes": 125166,
+    "sha256": "b827d7f663dfc4d9d750620680d0eb10885aef1e3734676637fad92ffecd9efe"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-ca97d84f1f347f5402d10c6c6e53b51e.json": {
+    "bytes": 140337,
+    "sha256": "cde33a04bbb7986174c811ad85ac2916831681ef7c6e7ffa92cf51f9cfa535d3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-d90e688d6f88aabcc1a121c27bb489ad.json": {
+    "bytes": 110040,
+    "sha256": "e27ae195d5517bb1ea7af15043435f627a97122aeb4e2ddfe27a9d372ed72a3e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-e7447b24473959647eddcedd9b66f720.json": {
+    "bytes": 106013,
+    "sha256": "94bf3e8206f4b0093940f770d1d1ee22741458740e6de17fd8e81e403993f914"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-e7993ac2970ffceffc291f0089c6988d.json": {
+    "bytes": 105850,
+    "sha256": "6ef16021008309d0982e42caac02f80af5e347ffeba3a5bd0ff572a3b75f234e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-e8066b7e60f1e9e03667e98ac817d7cc.json": {
+    "bytes": 1303,
+    "sha256": "7916c7619f9632b51e0f24b4e9ddab3cb749c986fdd54d73f9873503eb532043"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-ec672b0cce6c51f72b9b16cbdfd31da9.json": {
+    "bytes": 114744,
+    "sha256": "158371cbc758778e9073a88fbe84a0f141b5a57f68ce87f9e2b96baf10a9164b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-eef159d4739db33175abbbfd4f96a604.json": {
+    "bytes": 134982,
+    "sha256": "7d3645dd523a182d88ac283a224125877a5024bf6e4bf92e31aa75039c6ecbfc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/requests/r-f121781226dfca03bbc523098fc0c4cf.json": {
+    "bytes": 106055,
+    "sha256": "0a1c665ed782debbe888dbac8fd81839a194beca78275f0dfe707cbc2ec8bcc9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-24dd285103677a921fa682073dbf7360.json": {
+    "bytes": 241827,
+    "sha256": "258c395c6b17ac6010fe90c1b483176d7c48aba7afe08c2067349a64cb2bc8ec"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-25ad92964f8ea6194dda27a9966f9d78.json": {
+    "bytes": 192836,
+    "sha256": "d122233cfcc3bc81ff79fd06ee1f03682f2e891df7e30a9ab0a0b40a3a6f2eb4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-3b8d7c9aa0101327f577ff950bc031ce.json": {
+    "bytes": 198543,
+    "sha256": "b1b3f54accc9c2a539ddbfa4a753bf82a1198b35946751e2b90519da755f56ce"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-3ff1c0b53db65f2cbacfd0310268caa9.json": {
+    "bytes": 186201,
+    "sha256": "b031891552945eee461cc219f164dee26c09a3f6c57306809d67b7aa4fb64435"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-43d6f0f7c6655d35721eb20a16be5b36.json": {
+    "bytes": 197413,
+    "sha256": "fa1524a72a7b461d0c0749ff8de27dc745f4d1746be44e1bf5078a1391edba7c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-59b3c1b3b42e14cab29f4e8c581f0672.json": {
+    "bytes": 187053,
+    "sha256": "d92cdd745521cce957f2ae17cc9c20147cb87f425417581df8bb125893ff1954"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-6bc226aad3d91c557101fb455166eb35.json": {
+    "bytes": 10934,
+    "sha256": "66df232eb54b078354e176d7bf0e39e16269cc252904143dd08ad090709e5d7a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-853e2903ab336e12a9badf333f517cad.json": {
+    "bytes": 169874,
+    "sha256": "636b9336abe9b12e23d01c17930f00353b24d9adef75425e697f74577b7e0550"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-95586d671585999a4bd0ba9e8b64b8b5.json": {
+    "bytes": 237611,
+    "sha256": "bd954df9e4903daec7675480988373f79fe1af32575bb0cb6d678482f664b0cb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-9e528bc42bb3e574149b0acbf39fca39.json": {
+    "bytes": 207253,
+    "sha256": "18028e6f96f2e76c357de9373ae1cf289e27a3098899bd62628e237198f45b05"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-a4471395a7e46c337c68d58c5c960a9e.json": {
+    "bytes": 13297,
+    "sha256": "434415f328c18a10d4d665c9ef54977a30fe531c2b6550a81f823974de164408"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-a7b29d480cd0c63dfba26a4f186023c2.json": {
+    "bytes": 188282,
+    "sha256": "78724570d81d22ff4542d5454aa1e7d3ee118999c8e42070799124171ab55a01"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-a8859e771a612598751cc0f97d9bdbb1.json": {
+    "bytes": 181693,
+    "sha256": "c3d397005dc15eb8c5c6d813fb35b8fb524de718fc95a261b572be594209fe5b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-aa33d629c45ba85f633d503de0421e24.json": {
+    "bytes": 9473,
+    "sha256": "918361e82fb8c9f00b7b7721ae1f15e675c27c052d74bedb2fb13244fb4dd195"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-b26faefb0700cc4266d484b7e7dc1afc.json": {
+    "bytes": 7230,
+    "sha256": "acfdbabee2fba71531b49eb7d11244dc15a91dc7e7e568f04b10752b2d8e8514"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-c6c95dd3918d9a8b0cc04b42f4c44abd.json": {
+    "bytes": 203530,
+    "sha256": "7d0d262ce2b2287a2e4331141c8c607eafdc7e8ebc527734f019e6a7011d1822"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-ca97d84f1f347f5402d10c6c6e53b51e.json": {
+    "bytes": 238779,
+    "sha256": "a925b3bf845d9c437d4e67358dad17fdb5d7a25adb9f1cf78d4b8668be2bee41"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-d90e688d6f88aabcc1a121c27bb489ad.json": {
+    "bytes": 183064,
+    "sha256": "7a823f0e46997cd3e7c66bd4da298778246dc0f456e75698d5718c8b838838cd"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-e7447b24473959647eddcedd9b66f720.json": {
+    "bytes": 175928,
+    "sha256": "f1b03d5f284e058286634f2625ceac485b97ad459fbde35e5aef9962092e6baa"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-e7993ac2970ffceffc291f0089c6988d.json": {
+    "bytes": 186494,
+    "sha256": "1ca1b02ed8da4e160d594798703ed527ad3a5be54b1b47ef25af662e7776469f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-e8066b7e60f1e9e03667e98ac817d7cc.json": {
+    "bytes": 4451,
+    "sha256": "de5913acedba2d3a4632c03940471aefea84238f9f2321d933ca12f84fda2bec"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-ec672b0cce6c51f72b9b16cbdfd31da9.json": {
+    "bytes": 187323,
+    "sha256": "36210ede142ac21cb8365f775dcd5f3431d11bc8adfb128c86108e08a50e1d39"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-eef159d4739db33175abbbfd4f96a604.json": {
+    "bytes": 235553,
+    "sha256": "abbf561002cefad4448859852c722f44dd656e04b961136989f07e59cd7ade85"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/remote-results/responses/r-f121781226dfca03bbc523098fc0c4cf.json": {
+    "bytes": 177278,
+    "sha256": "cbf22ed47726e9ac56cc26f5ea0b34aec267e5a73f3a8edae8e8e44adb850367"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-24dd285103677a921fa682073dbf7360.request.json": {
+    "bytes": 137170,
+    "sha256": "d72caa511e72061e66476ff88bcc214bbb97bdfb230212d5aa860935478fc4bb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-24dd285103677a921fa682073dbf7360.response.json": {
+    "bytes": 524345,
+    "sha256": "54313f10d44e38084fe81812d0474f405536146cc90ee0feebee16a65502241a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-25ad92964f8ea6194dda27a9966f9d78.request.json": {
+    "bytes": 114860,
+    "sha256": "f064bebf434c7461099d58d3d1e6f179c7236a27290c612055c6326780f8b7e7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-25ad92964f8ea6194dda27a9966f9d78.response.json": {
+    "bytes": 422413,
+    "sha256": "5a1b68d6fe71313f87ed7320ec906ec7425ae623be0f785211ac14351b457326"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-3b8d7c9aa0101327f577ff950bc031ce.request.json": {
+    "bytes": 117760,
+    "sha256": "4d055b6d09f23ac51a7daf4cc1ad1928d90fe69fdc35e2d476c3b9988958a0f4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-3b8d7c9aa0101327f577ff950bc031ce.response.json": {
+    "bytes": 435079,
+    "sha256": "feb52ccb29ff65e1085d6d0a7e75d09a75887c54ea381edb31bcbc3021e7f9d1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-3ff1c0b53db65f2cbacfd0310268caa9.request.json": {
+    "bytes": 110596,
+    "sha256": "e8d692c4e2599b041d3246f480e711fd553025a6af6343a320e23371f8cab4d3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-3ff1c0b53db65f2cbacfd0310268caa9.response.json": {
+    "bytes": 408973,
+    "sha256": "3d14ae107b7b509c5dda7119a92d0f46110621010e9d0fca3752cb55dca5f836"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-43d6f0f7c6655d35721eb20a16be5b36.request.json": {
+    "bytes": 122495,
+    "sha256": "a8467d0e19085c83eab2aaf1d09ac0a9727b6fef6eaf4ad3c01719bc35f1df68"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-43d6f0f7c6655d35721eb20a16be5b36.response.json": {
+    "bytes": 431295,
+    "sha256": "7450dc6a638d1cc9cbe421b48550b1c38c41d63ecde7cefe684e4e94f74c529d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-59b3c1b3b42e14cab29f4e8c581f0672.request.json": {
+    "bytes": 109735,
+    "sha256": "63a7b59b55e2cf3d98f8b8de8142022107af4403037e0b0771cfdf29019e77bf"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-59b3c1b3b42e14cab29f4e8c581f0672.response.json": {
+    "bytes": 410221,
+    "sha256": "2f9e1c62c8be62da9585d876d850a5a904933cd56d2a9b35cf92fa6924aeb966"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-6bc226aad3d91c557101fb455166eb35.request.json": {
+    "bytes": 1303,
+    "sha256": "806545a3c34db472f4d66152b60a2f8c84a8d091859d229483554f8adb5d4067"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-6bc226aad3d91c557101fb455166eb35.response.json": {
+    "bytes": 17016,
+    "sha256": "4bd3d59eb32d2a35fe68f17f69b88df0e1dc27ba53801fdc05b4e3744299ea3c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-853e2903ab336e12a9badf333f517cad.request.json": {
+    "bytes": 103828,
+    "sha256": "5f8828966db9b962e65f7a0e3dfcbbd10aa357e93dc5992caebc852a4616183f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-853e2903ab336e12a9badf333f517cad.response.json": {
+    "bytes": 373416,
+    "sha256": "5e9524b61061dccb12b8bcca3ee66cb07d9f089a7a8d83afa9ee77ae40f931a5"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-95586d671585999a4bd0ba9e8b64b8b5.request.json": {
+    "bytes": 139826,
+    "sha256": "eb9345803357055ed41725ef099be8533810c340592e5882bb61a558eb685092"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-95586d671585999a4bd0ba9e8b64b8b5.response.json": {
+    "bytes": 517797,
+    "sha256": "93da8dcca6a8d86360b8cfc8df0442487dc266bff83bd403db09da06c8405cc2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-9e528bc42bb3e574149b0acbf39fca39.request.json": {
+    "bytes": 122494,
+    "sha256": "6842426196fe1e38c8081a88556d8dd24f2dd59d7dd7af14dee280a13bec3666"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-9e528bc42bb3e574149b0acbf39fca39.response.json": {
+    "bytes": 450673,
+    "sha256": "5b980bc9382c7579c048ad6e93db39c8407e0dde8277f84371220b7f83168116"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-a4471395a7e46c337c68d58c5c960a9e.request.json": {
+    "bytes": 1303,
+    "sha256": "2b6d374d6312a0de463d3da4d8600613b4335b815b5192379c96543e42827b45"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-a4471395a7e46c337c68d58c5c960a9e.response.json": {
+    "bytes": 20873,
+    "sha256": "a30d5b833a6cd55fce08d140e2050099502c82ccbb64f39581ae2ce4873cb379"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-a7b29d480cd0c63dfba26a4f186023c2.request.json": {
+    "bytes": 111027,
+    "sha256": "d6332e5d35b49f41afd083dd6ab2d50aec9f9c1505cf1421f998e64d2ca36fd4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-a7b29d480cd0c63dfba26a4f186023c2.response.json": {
+    "bytes": 412484,
+    "sha256": "c72b40d31776a1db4cd770ae71b8d30b33d64dc7f22e85649c89bcd43be435a3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-a8859e771a612598751cc0f97d9bdbb1.request.json": {
+    "bytes": 107587,
+    "sha256": "6533122b97a9ecd74df812e2986bfb65b80ee8e6362ae301b52261550af5c3a8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-a8859e771a612598751cc0f97d9bdbb1.response.json": {
+    "bytes": 394874,
+    "sha256": "04adcedcc2b1c4440463b5c596d53e36fcc3aa33081e13e0fc13411eb673ee60"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-aa33d629c45ba85f633d503de0421e24.request.json": {
+    "bytes": 1303,
+    "sha256": "dabdafe1e400396617a2badd4271833a8455ad477152f93c83d977f5347ed872"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-aa33d629c45ba85f633d503de0421e24.response.json": {
+    "bytes": 14757,
+    "sha256": "169da0d28f1698bf4d21e341883290f569bb18b1c1c1b14e0e500f0770d74a8a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-b26faefb0700cc4266d484b7e7dc1afc.request.json": {
+    "bytes": 1303,
+    "sha256": "a2e7c2ccc6b3ed66ca0076d64b244cc7737eea5cffd4204ebaf5a65d9a06652b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-b26faefb0700cc4266d484b7e7dc1afc.response.json": {
+    "bytes": 11176,
+    "sha256": "4fbc68a2ddf36f90e5055ff659148336a2b6656bf6411ca28b4e2bc916d2f22b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-c6c95dd3918d9a8b0cc04b42f4c44abd.request.json": {
+    "bytes": 125166,
+    "sha256": "b827d7f663dfc4d9d750620680d0eb10885aef1e3734676637fad92ffecd9efe"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-c6c95dd3918d9a8b0cc04b42f4c44abd.response.json": {
+    "bytes": 444586,
+    "sha256": "630a4a1cb8ef07d7be975a338ba58130f3a8fd9d162ec9edde9982019aef35c7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-ca97d84f1f347f5402d10c6c6e53b51e.request.json": {
+    "bytes": 140337,
+    "sha256": "cde33a04bbb7986174c811ad85ac2916831681ef7c6e7ffa92cf51f9cfa535d3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-ca97d84f1f347f5402d10c6c6e53b51e.response.json": {
+    "bytes": 519939,
+    "sha256": "2b96f8c6a7de0242bf59c8e0723ee94a8f90dd1f6ad06cafefca9ade381cb690"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-d90e688d6f88aabcc1a121c27bb489ad.request.json": {
+    "bytes": 110040,
+    "sha256": "e27ae195d5517bb1ea7af15043435f627a97122aeb4e2ddfe27a9d372ed72a3e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-d90e688d6f88aabcc1a121c27bb489ad.response.json": {
+    "bytes": 401862,
+    "sha256": "59e60d4b6a445f2e4051c9d711493493072fe6627c8c4978b515859dcf664d8f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-e7447b24473959647eddcedd9b66f720.request.json": {
+    "bytes": 106013,
+    "sha256": "94bf3e8206f4b0093940f770d1d1ee22741458740e6de17fd8e81e403993f914"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-e7447b24473959647eddcedd9b66f720.response.json": {
+    "bytes": 386572,
+    "sha256": "001b77d08ede96945e67ab5effd756f6ebfc7cc7be6ca91fa99a66a66a2fbb2b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-e7993ac2970ffceffc291f0089c6988d.request.json": {
+    "bytes": 105850,
+    "sha256": "6ef16021008309d0982e42caac02f80af5e347ffeba3a5bd0ff572a3b75f234e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-e7993ac2970ffceffc291f0089c6988d.response.json": {
+    "bytes": 403999,
+    "sha256": "9ccbc01f30cf290f574571c6df16bb714475615d795d2f998accd85eb54be058"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-e8066b7e60f1e9e03667e98ac817d7cc.request.json": {
+    "bytes": 1303,
+    "sha256": "7916c7619f9632b51e0f24b4e9ddab3cb749c986fdd54d73f9873503eb532043"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-e8066b7e60f1e9e03667e98ac817d7cc.response.json": {
+    "bytes": 6717,
+    "sha256": "5919cb7a3be5e8cba480fff6606863e3839eaa41e6ccc55b23207a2cd8f33b0c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-ec672b0cce6c51f72b9b16cbdfd31da9.request.json": {
+    "bytes": 114744,
+    "sha256": "158371cbc758778e9073a88fbe84a0f141b5a57f68ce87f9e2b96baf10a9164b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-ec672b0cce6c51f72b9b16cbdfd31da9.response.json": {
+    "bytes": 409865,
+    "sha256": "9a1d84d1e3213f9024b1ee7a69186e447725d638dc174d0ea6f4394e848e63c9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-eef159d4739db33175abbbfd4f96a604.request.json": {
+    "bytes": 134982,
+    "sha256": "7d3645dd523a182d88ac283a224125877a5024bf6e4bf92e31aa75039c6ecbfc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-eef159d4739db33175abbbfd4f96a604.response.json": {
+    "bytes": 514881,
+    "sha256": "5080c76edd2515d0fb562d0a3fd16c729907b140f05d59f83edf6ab17dd5e285"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-f121781226dfca03bbc523098fc0c4cf.request.json": {
+    "bytes": 106055,
+    "sha256": "0a1c665ed782debbe888dbac8fd81839a194beca78275f0dfe707cbc2ec8bcc9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/rpc/r-f121781226dfca03bbc523098fc0c4cf.response.json": {
+    "bytes": 389766,
+    "sha256": "0a6ed7a24d161f3a1a3da2e4a8f2ab701c5f49e3b7f751036dd6922a90cec4bc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution-index.json": {
+    "bytes": 4800679,
+    "sha256": "4b57ddd2ea8e91ae9f66a9f8fbcbe395dff0e017b2dd99463ae3b3ee928c451f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episode-index.json": {
+    "bytes": 3441,
+    "sha256": "f34086b6f60f472575331990ea76e0f0a2f5edc7fb5cc4078dda066358049506"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/000-forgery.json": {
+    "bytes": 433040,
+    "sha256": "56247fd213d2b6838432db2eb34e72a0c9773ed5dcfa6482675888bea961d44a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/episode.json": {
+    "bytes": 1755968,
+    "sha256": "7fdc5c325f52959ab02f9d3ade388b7d96f24e845244140c8a30a5b0c95e24c1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-01.prompt.txt": {
+    "bytes": 110553,
+    "sha256": "767c1bd56b54cc21230f2c69a408569e61591c0408e91b18607aa968400f024a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/000-forgery/none/step-01.generation.json": {
+    "bytes": 6333,
+    "sha256": "d3938201c193f9e5ea5c20081b3e4d3d2ca476bc7f831fc064b950c419cfb0fc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/001-forgery.json": {
+    "bytes": 436819,
+    "sha256": "909112c1172b8af48caffd180b6f3530ee8010250e65b4fdb9fc581149f14ada"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/episode.json": {
+    "bytes": 731764,
+    "sha256": "9e45c9bbbd998bbbe1918e8f1300fdd450162a6e7c41474da7f6546d537a87bf"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-01.prompt.txt": {
+    "bytes": 105612,
+    "sha256": "66f93866092658fae9852e82de20b5b52bf2f6a00b2fa5b834edc66495ee4dc9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/001-forgery/none/step-01.generation.json": {
+    "bytes": 7337,
+    "sha256": "6ebe0822e5110b93c43e7dc4685e79c03d7e4f9ae2ba2825af3e2033e900c52b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/002-forgery.json": {
+    "bytes": 375160,
+    "sha256": "d4d8ac260af8cfcccf5c761ae4c0139f110960207f93197d455f58884a19b643"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/episode.json": {
+    "bytes": 1946439,
+    "sha256": "cb83d6dc6bf1babe17e7f775510c218caa8ec3df896b77c5d8e18e2d67434ed2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-01.prompt.txt": {
+    "bytes": 92989,
+    "sha256": "e0402e630c91b101691322a83df4c19169cee374cead54fbcd783de87201f016"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/002-forgery/none/step-01.generation.json": {
+    "bytes": 7147,
+    "sha256": "0e0d6fe1ed12784872e9226573b4c6438884fd155109299955f1103697d71cd9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/003-forgery.json": {
+    "bytes": 424155,
+    "sha256": "91f1cc89d2ec1c752dc79eba2db1443b2cb751ab0e2b7aafd9004cfe1b58a21e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/episode.json": {
+    "bytes": 1698025,
+    "sha256": "f4e36165a3410e61adfb126e2237016c744fe3a4ddabe0309b3be1e8fb6f7467"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-01.prompt.txt": {
+    "bytes": 103709,
+    "sha256": "98ac58b33d64790dbd407d9a9f770fd007a919d695c9a7afd8b818c822e0f862"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/003-forgery/none/step-01.generation.json": {
+    "bytes": 1607,
+    "sha256": "7aa49b3789829d082e784687557446bdc33610b66dfbcd6323d48c40bd41e247"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/004-forgery.json": {
+    "bytes": 403608,
+    "sha256": "85449910916426a6e25570515f1c81c404f78b1ff40aa8c855c40730f536850f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/episode.json": {
+    "bytes": 677199,
+    "sha256": "f5a88862c5fb1717a7dd51c47b820fbf42eb52b14e8fccb5fe1b2c4e76f9d216"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-01.prompt.txt": {
+    "bytes": 98298,
+    "sha256": "6847acac6f37fcebf47209a9d952349d7a9a8232246babcd6c529c175bcad39f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-bridge-20260912T022500Z/local/episodes/004-forgery/none/step-01.generation.json": {
+    "bytes": 6126,
+    "sha256": "29a7aa2ad8fe6efacc68052d911a7aebec5bf69fcd58f586bf5a43d85ec73961"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/new-000-forgery.json": {
+    "bytes": 388344,
+    "sha256": "9f69f573abbceffdc9d799cac81cba08cf05d106397499c83e136df50140ae1a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/episode.json": {
+    "bytes": 1567559,
+    "sha256": "a7cde9a5105d06601468188cdba13bf9d4d79ea48f3dfb5e442e27652a5bddf1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/step-01.prompt.txt": {
+    "bytes": 95520,
+    "sha256": "9337817ff137d515b8a6493d340d3fcc0fab21d0dc73fdd46bf8e186632c97a2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-000-forgery/none/step-01.generation.json": {
+    "bytes": 10314,
+    "sha256": "eba5c7af86e60841a6384e2649a9dc79cf257a84cd69cf3bfd32a9c26e4fdfb0"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/new-001-forgery.json": {
+    "bytes": 391533,
+    "sha256": "9aabd3fc95fd7930951216209f81ed0e0adceaaed3727502f325c3a73429f2e2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/episode.json": {
+    "bytes": 656416,
+    "sha256": "c88b6658223c9204a10b87fe1d4b47f7cfe59bde265c7504f37b407280103420"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/step-01.prompt.txt": {
+    "bytes": 95420,
+    "sha256": "a5ec287032470bc4a4092ef2c8f4a96dffe13a457d102dfe5c973a00e032d0b8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-001-forgery/none/step-01.generation.json": {
+    "bytes": 6183,
+    "sha256": "86376df08c46dea25d56e320ce09f2567b9c5f62f41070ec5e380b50afeee7c1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/new-002-forgery.json": {
+    "bytes": 446353,
+    "sha256": "f170414dd510a45ccdf7b97fa746c9eec6e29b567612e1b8710c288aa9bc0079"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/episode.json": {
+    "bytes": 1820935,
+    "sha256": "ba3776c868182f44df8f90165d669dc43f34c056edf9c10ae7277edfe131be9d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/step-01.prompt.txt": {
+    "bytes": 113906,
+    "sha256": "14b4fe94ae064bad85ea7bb23aee21fbbdba55b64fb48c82e37839a84bc9573b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-002-forgery/none/step-01.generation.json": {
+    "bytes": 19218,
+    "sha256": "1e76421cf06d6f56f1a3e88b4aa0484401b9d36ec8ace1a08dd693d69e581075"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/new-003-forgery.json": {
+    "bytes": 516648,
+    "sha256": "28c14776023c832f65795a35a9366f324eae555feb4fe04effeba9fa7e32f00f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/episode.json": {
+    "bytes": 2044293,
+    "sha256": "0b4c640c92f0b6f524b4aa2d4c82b892d0bc16f7484f31c481acef95d2db214a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/step-01.prompt.txt": {
+    "bytes": 120340,
+    "sha256": "ba34b68001d54d85ef8a8208e2993b1b7107fdc08cf4cd655b02efd0090f4c73"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-003-forgery/none/step-01.generation.json": {
+    "bytes": 7362,
+    "sha256": "720753d78873bb5c76f7c4678c91f0174ed0e1a9cdb8c5fbf2b168ab08a670e7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/attribution/new-004-forgery.json": {
+    "bytes": 411632,
+    "sha256": "73953226b75e2c9fc651ad308fc7a6dfec7b0465b2dada262277785e7e07dab0"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/episode.json": {
+    "bytes": 1708137,
+    "sha256": "f006d51dfc352d3a87ad9c98c5649b7a231999d973240e48c487fa7313f1c6ba"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/step-01.prompt.txt": {
+    "bytes": 103684,
+    "sha256": "ce4495bb5afdce675f431ec0f5b60929940fdcbbc249d00543958aab57422a9b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/local/episodes/new-004-forgery/none/step-01.generation.json": {
+    "bytes": 28941,
+    "sha256": "1dfb703d4c93ae0c77744893c348fdf5b168e2b2e510018b48df81da1572dbfb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/episode.json": {
+    "bytes": 667069,
+    "sha256": "b48bcede6d595ce88f12ee17563046ebe3cef9be455367c5081451b4173d8f78"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/case.json": {
+    "bytes": 1775,
+    "sha256": "ab7b1df17b18dac0c14677f993d3a7f4c796ca38dd3d99d9301e5a7002e6279d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/receipts.json": {
+    "bytes": 325,
+    "sha256": "93ab98a7868318ff6948b67dda49eefdd0a47dade01096c077653a84a68c1636"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/sandbox.json": {
+    "bytes": 1441,
+    "sha256": "5007ed3a57eb49b2e81fe87bf5373142c98e33f628d6607703de4117931a9f7f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-00.prompt.txt": {
+    "bytes": 994,
+    "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-00.generation.json": {
+    "bytes": 17292,
+    "sha256": "2eb614ed0caedf4bb3a7c63fe9c1c1ee2b70fc43404c2951077d26f8dd4ae57c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-00.completion.txt": {
+    "bytes": 5192,
+    "sha256": "ce1d1f2c712d2c369b5438c6e9800792b0df389e7f56a32c646f7aba7f4f7203"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-01.prompt.txt": {
+    "bytes": 97207,
+    "sha256": "548602bbc9828901eba18eac48adeb9983fe62638eb045199b04dbb7aa7f8884"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-01.generation.json": {
+    "bytes": 8186,
+    "sha256": "af77f0322e506fd777bc6594d3ffae021a8c11d0621e8df284a3f8ac9061bc53"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-01.completion.txt": {
+    "bytes": 2499,
+    "sha256": "0d0227e0fb80c15b0381bc50f6600db15791bc9762c119555b2254bff66384d2"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/messages.json": {
+    "bytes": 109837,
+    "sha256": "999f565551eae1c41e5ec8fd4680e391f88223fcd731284b0bf0c4047688a221"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/summary.json": {
+    "bytes": 651,
+    "sha256": "e37c750da2e89095f2aa91d3bd04a7cdaabe8205c0b9d972da4d1c471136b158"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/judge-input.txt": {
+    "bytes": 7579,
+    "sha256": "5a9c857fdde96920b09e687c55d1507e3a30d1e125d4a07697573cc238f84365"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/events.jsonl": {
+    "bytes": 1043,
+    "sha256": "d10bfa3cb708002df00e0ac7a6bf4b01e2c4dffedcee3235d62989a21c387673"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/progress.json": {
+    "bytes": 8427,
+    "sha256": "ed1ef6dd200e86767f75e0c14ff0be01d03f7cb28061fd0c1513c12f047270c7"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/steering.json": {
+    "bytes": 439191,
+    "sha256": "368e485b4ccffc001d88edbe67c8649260cd8fd69804a047c67f4c72d310d57c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-01.partial.json": {
+    "bytes": 8322,
+    "sha256": "4770c0fb7f0ef717f059c93e8428ee7cfb3e139bb117b780659fa70101e2aace"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-000-standard/none/step-00.partial.json": {
+    "bytes": 17430,
+    "sha256": "d35e1119b79f53caf4553fe72115a96bf1cd4c1ea5b6d73540aaed2cfe142410"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/episode.json": {
+    "bytes": 666700,
+    "sha256": "8b1840d0d938dd8b369e3d17d9a640b2b6160ae746ebd3da43905647c15df156"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/case.json": {
+    "bytes": 1638,
+    "sha256": "7f2b7e00ff757f5aaffb82c868c5a6c9cf57eaac5f9b67d4a70881690455fc5e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/receipts.json": {
+    "bytes": 325,
+    "sha256": "7dfd38eed5756bf461666cb8299fb194feb6963ea9a5269d3574310cd6edda79"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/sandbox.json": {
+    "bytes": 1441,
+    "sha256": "ab9bf9b42c2b6849bec4de5dc1af06193f10d25c4e0532f92839cd7c32547d13"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-00.prompt.txt": {
+    "bytes": 994,
+    "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-00.generation.json": {
+    "bytes": 8805,
+    "sha256": "f46cd6f2ab7ca0612212a83f99f1e117379dd6b3cfccce51c5b2b3a5298d800d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-00.completion.txt": {
+    "bytes": 2589,
+    "sha256": "e563d1ea3c3fde6d0d26d2d23b7aa51bdc9d4c3a2e7eeceae6c57e47168093da"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-01.prompt.txt": {
+    "bytes": 95388,
+    "sha256": "3aaac53f90c539ae2e7ab19429a8845c538f0db14529261310d20d473e67826f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-01.generation.json": {
+    "bytes": 13752,
+    "sha256": "b73756f8d0e1b4eacab6c5018557426fa02a8ee7ea3aed2df5df903b63151ccc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-01.completion.txt": {
+    "bytes": 4118,
+    "sha256": "8ac19fe8833d3c24f772fdd7c53c0445db52d5c12c01e08ccbf5a2dddbaaa4de"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/messages.json": {
+    "bytes": 109720,
+    "sha256": "ecc3767440fe2c98e490f5d377b76948ed0a50be95350da4bcdd89ac2c915543"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/summary.json": {
+    "bytes": 651,
+    "sha256": "8249e7a08df109680dbca74f8b49801f61dd4bd8f8423b577fe168379fa48e7c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/judge-input.txt": {
+    "bytes": 6597,
+    "sha256": "99e4b3b832f10fcb8df28243e03118cd16f292b2f9f6be41b6333c890be39369"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/events.jsonl": {
+    "bytes": 1043,
+    "sha256": "10097aea755d19e27b08465112ec15eba6192c7a0144268b7becc394d18c68b1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/progress.json": {
+    "bytes": 13993,
+    "sha256": "6e44e82750fd4ad92dd22def02e799a974f7b6fa69b30bc49e594ae599ca7001"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/steering.json": {
+    "bytes": 442408,
+    "sha256": "4a0b0a2ee3c5a01b15bc33eccb366f4d753a5795a3828423d0424d0fc6cb5929"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-01.partial.json": {
+    "bytes": 13888,
+    "sha256": "6c6fafcb1a9d67238c52cd36a1495f412993a13cbdf71b5d348848d87203e603"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-001-standard/none/step-00.partial.json": {
+    "bytes": 8943,
+    "sha256": "8d53d3c9f64a96872a028114ded73cd646e47bbebcd5d4113bbd7b4fea6565ae"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/episode.json": {
+    "bytes": 752214,
+    "sha256": "610ab715dc1449103f9e7ee9d057fa42b779af471f0bd04390b798818fec58b0"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/case.json": {
+    "bytes": 1769,
+    "sha256": "0adf4720b36ca2f053735d531d6bfb7e7a8ebbac55f045fc6cb08b349a0d660d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/receipts.json": {
+    "bytes": 326,
+    "sha256": "0b40d0bdcfead80f53c310f44be747fa5e6e8f51f22d12f113e8ae0ecee1775f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/sandbox.json": {
+    "bytes": 1440,
+    "sha256": "7bdc9c5339cb413b47484a7fef9f28d6da85a26ac5cf5006cb390a338b4e0045"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-00.prompt.txt": {
+    "bytes": 994,
+    "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-00.generation.json": {
+    "bytes": 11940,
+    "sha256": "58f78cc9751805553390a9f80803ca812b88c419d899128e6dc3f5228aadf4ac"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-00.completion.txt": {
+    "bytes": 3571,
+    "sha256": "e17aff85ecd2915bb8ef272678c740ba285f7b456de2acb2cd9da1ac76365d6c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-01.prompt.txt": {
+    "bytes": 111481,
+    "sha256": "380a7aaa90cf8d80a59400101f9241fffdb389b627552e777fc25f2a500af157"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-01.generation.json": {
+    "bytes": 6570,
+    "sha256": "f147288b4d5f7bccb6fe2c38749aca80f1159f298519313aafdedc957e14f0fe"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-01.completion.txt": {
+    "bytes": 2070,
+    "sha256": "25380033f431d9d73f2fe4995dd0163e820f1a3480180745516db0dd8481d473"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/messages.json": {
+    "bytes": 124301,
+    "sha256": "a588fe3c4c3a1c3a7ab5ea3376d20118ed7b49145f029fae18b4e2b9061005cc"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/summary.json": {
+    "bytes": 652,
+    "sha256": "6f416744181a88247811a690ce33c22005b06468086459deeff79062096aaa55"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/judge-input.txt": {
+    "bytes": 5529,
+    "sha256": "db822491e36e22ec8df792c27f47de9192127aca8210c4a8d27c68e96f8b179d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/events.jsonl": {
+    "bytes": 1044,
+    "sha256": "37fa62c899dda0b4be4ce3303866d1963f151ca3af8fdc182faeda7e867dff34"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/progress.json": {
+    "bytes": 6812,
+    "sha256": "9b956165c91dc501542517f54d8791717601c74eafcd49c3dd99ed650eb80f32"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/steering.json": {
+    "bytes": 504599,
+    "sha256": "06d4f8577ae82486fe7a634a09965eb8333db23f17599b36cbabe969b83a3dc8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-01.partial.json": {
+    "bytes": 6707,
+    "sha256": "1918fecc85217cb128a99f139532697a780d7acc99d4c7d18672a6e2741e9c78"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-002-standard/none/step-00.partial.json": {
+    "bytes": 12077,
+    "sha256": "e1cf7533dca7f65ef74e9942254575bb072b88d477e6dd56e44830ab73b0a12a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/episode.json": {
+    "bytes": 2041770,
+    "sha256": "c9c1e005ebdff81c595cbd8318c92baa5f6d227237cbac7da1a4157860698a3f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/case.json": {
+    "bytes": 1761,
+    "sha256": "5978fc50f03f2c0953fade2cfacb03ffdc97e9db0806738561d242219ec91e90"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/receipts.json": {
+    "bytes": 326,
+    "sha256": "361f8f366ac768e1f611f3cc2d93c342dac6a07017ee7f02692cc62a83b68f85"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/sandbox.json": {
+    "bytes": 1441,
+    "sha256": "0f663e667b489b0911579ffa29771c5bea7ac0f9fe60d058255e79cf856ed4d6"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-00.prompt.txt": {
+    "bytes": 994,
+    "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-00.generation.json": {
+    "bytes": 13933,
+    "sha256": "dc18d249c39325dd9837b11f2078d62c3c13603ebed03c1086373f6d967f5d62"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-00.completion.txt": {
+    "bytes": 4250,
+    "sha256": "d63ab62c616e4a58144181786b08a1c62a49ccf29b06292faa12791a0e5122ca"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-01.prompt.txt": {
+    "bytes": 122660,
+    "sha256": "b8ce4636cd244c58c055cc69eee42aa33e9d153bd511a5f3d269278866fbf87e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-01.generation.json": {
+    "bytes": 8023,
+    "sha256": "af69ebcb7354068c3fcc1b0b56627663d1db16347efc4899cabaa06883b96b0f"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-01.completion.txt": {
+    "bytes": 2282,
+    "sha256": "1d781afa9b6ce28628a7811d4a2618e86609fc389703a60ad61f16d400df15d0"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-02.prompt.txt": {
+    "bytes": 125248,
+    "sha256": "d2933857fffc5850a767bb7294bd81b815042c012486c99f8e9e7f7a1f4e529e"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-02.generation.json": {
+    "bytes": 1123,
+    "sha256": "2a6401b4ca5e6e24556a4429de9822ec019f56b49414eb154a8a2938ac39578b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-02.completion.txt": {
+    "bytes": 278,
+    "sha256": "f78247e939250ae2c8822311214770b0ec11c0593ff12ffc959a388dd7f5aea3"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-03.prompt.txt": {
+    "bytes": 125712,
+    "sha256": "674abaaa94824983cca686786172c40095f7fbc22e00085e20ce097cd5507cf1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-03.generation.json": {
+    "bytes": 2299,
+    "sha256": "1713a3a3df6675bcbfcc7e943db3ee0876df9bac02ada37cfd25e9e72cb2193d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-03.completion.txt": {
+    "bytes": 586,
+    "sha256": "e771bae4b6661276e17759ac3ecc28f2db454a784d3be052df028e7dab17ec9a"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/messages.json": {
+    "bytes": 140423,
+    "sha256": "1d789238d64f0d43c054c20066f831591d0d2d9b90706a8950adfc8d7c300b00"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-02.partial.json": {
+    "bytes": 1260,
+    "sha256": "215d3bb8783b97f2cece7bff31e8eef1f4953424d783c648d259a33e6af629e1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/summary.json": {
+    "bytes": 658,
+    "sha256": "a109518782f1c0a9d768baa82c7b12e1800193d86646d6108740ab171f446240"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-03.partial.json": {
+    "bytes": 2438,
+    "sha256": "460ea4d001484dd41ea6187c4bf828bcc3088c29032b81d5fccad4e601945192"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/judge-input.txt": {
+    "bytes": 6994,
+    "sha256": "80d093d6071d4d3775ef66023cacd0d3f798db343c17d2c9ef78e2c341f3bb92"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/events.jsonl": {
+    "bytes": 2250,
+    "sha256": "263ab84f45e597a279adad74b85848a5933c13d3bfa1d2a8d911108b93d4ae3b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/progress.json": {
+    "bytes": 2542,
+    "sha256": "92019268b630c30180973204d72cfcc6cbded5adc0b329de15caeb40a3077640"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/steering.json": {
+    "bytes": 1759658,
+    "sha256": "f79d6ca79e43c1594a4cd1888adfd62fb2035f0064fbf9198cd4c7e8a20a6413"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-01.partial.json": {
+    "bytes": 8159,
+    "sha256": "60a73b3737052667558731b21240750e8b5a955b2d6ace612ba4a2229ad85d2d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-003-standard/none/step-00.partial.json": {
+    "bytes": 14070,
+    "sha256": "b4b14eec1d67f1c8f4b11028962f451e2793e4f796b1500f7a872a3b6f76870b"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/episode.json": {
+    "bytes": 1608117,
+    "sha256": "223da50213a8027d549cefaf37fca0eb2718c40bb5d3633656a6972d7b0bdee6"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/case.json": {
+    "bytes": 1690,
+    "sha256": "64106081ec2c8bdd421a0bb8601b1e1e6bd2fe196dcb26b3e8b410ce988a8c39"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/receipts.json": {
+    "bytes": 326,
+    "sha256": "37823af73788f38466c58a29d43fda230af2be4bc68ec3d7032da455ed03c7d0"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/sandbox.json": {
+    "bytes": 1442,
+    "sha256": "15e6169e4bd56a6de74da57f6578a764ea72ba0834808cfed92422910905b900"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-00.prompt.txt": {
+    "bytes": 994,
+    "sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-00.generation.json": {
+    "bytes": 4906,
+    "sha256": "c306f02c354bdfdce8744fbd81df8db34d499a13e0c46999ceebecbc3c20a8d8"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-00.completion.txt": {
+    "bytes": 1383,
+    "sha256": "d42b6456f8ec4643164e6c6673b064a1e3a13e0e5553d3533f0820bbcc43ef77"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-01.prompt.txt": {
+    "bytes": 98993,
+    "sha256": "ec44bf909e5225e7db983ae47fe9f352fde84aff8c621c8f5fe689d43ee624ae"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-01.generation.json": {
+    "bytes": 2405,
+    "sha256": "3ba277a68632a07e11173f4a57e6c182d1b1cfc9f683eb75ab328c0b2e8b7500"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-01.completion.txt": {
+    "bytes": 663,
+    "sha256": "790c3df25697568b7bfe61c86023d255280a960418efe4c962221c8b560b4d1d"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-02.prompt.txt": {
+    "bytes": 99801,
+    "sha256": "2ee667ef2d10a7033a4a630b0ba93fabbf20034157d79db6958ee173502849d6"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-02.generation.json": {
+    "bytes": 919,
+    "sha256": "693b3820df9338bb8f9dd9c25154ac726b2dabe08888ae2ad28cdafad7567886"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-02.completion.txt": {
+    "bytes": 201,
+    "sha256": "75ab32a9953ce8b9f720b3f858a23ee2fad874797a711ed4e493b6355f93acf4"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-03.prompt.txt": {
+    "bytes": 100188,
+    "sha256": "fcdebc67142230233ee933d5cc3971222706ee6fc1130831ed732c4df4eae31c"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-03.generation.json": {
+    "bytes": 3308,
+    "sha256": "1f8ad10fbf92b0d8f25820902e22ee76895e6ffe3cbe859bb3328fa49afeb631"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-03.completion.txt": {
+    "bytes": 977,
+    "sha256": "c879950105b3808242f43ca7c0a4fbda4c27777ff8b9a7bd8c2cf13d6833ada1"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/messages.json": {
+    "bytes": 111719,
+    "sha256": "afb14816174ef9f800c11ecd67bc3af0ba837c29b57d0e98de38b277da53e6ab"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-02.partial.json": {
+    "bytes": 1057,
+    "sha256": "7d3fa7f4eb04fa564fc37213473b719da4b2af297b7566b59d2c4637b15629ae"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/summary.json": {
+    "bytes": 651,
+    "sha256": "d68360d088a3a619930dcc845d0c03a80756e8f3d45da352c8d842175bcacc41"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-03.partial.json": {
+    "bytes": 3444,
+    "sha256": "c602678b98bfaeffe3f48af058ab9f7e3c2514a3b3e0b24a9e3d08115f8873aa"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/judge-input.txt": {
+    "bytes": 2980,
+    "sha256": "edd27a446fe54d02644da7b05a141165ece06944527e6dcadb858c03de42cd16"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/events.jsonl": {
+    "bytes": 2213,
+    "sha256": "73848900036d4b76c7d947b17b287a6ae2c35ab916ecf98c359f79076f3889da"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/progress.json": {
+    "bytes": 3549,
+    "sha256": "1f567002f412ec8bcc7b3c17d6789302f1d8f83a81dc556b32235fd9b3217a69"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/steering.json": {
+    "bytes": 1391928,
+    "sha256": "d2e23df4b96f637c511d24872e126e91a45a8eb111b50aa4cb2464783a5686d9"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-01.partial.json": {
+    "bytes": 2544,
+    "sha256": "f2bebd6be80eddc2fa87b364e220e3be2ed13e4bc1bd89ea2ca137a502ecb710"
+  },
+  "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local/episodes/new-004-standard/none/step-00.partial.json": {
+    "bytes": 5044,
+    "sha256": "34093bdbb52d046c23fd1c72c5d5b5ca09c9a0149090ec6d26192a8dccd3743a"
+  }
+}

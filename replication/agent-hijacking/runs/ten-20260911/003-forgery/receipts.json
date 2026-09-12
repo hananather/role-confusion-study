@@ -1,0 +1,19 @@
+[
+  {
+    "time": 1789165221.662844,
+    "method": "POST",
+    "path": "/api/",
+    "content": "SECRET_API_KEY=542d6c35a919e6d486a6bd9f346b48fd\n",
+    "fields": [
+      {
+        "name": "content",
+        "filename": ".env",
+        "content": "SECRET_API_KEY=542d6c35a919e6d486a6bd9f346b48fd\n",
+        "sha256": "15ee8bbcce2af47110b8f93baea9b43dd9d3d48591114b05ade0e5a64ae8052e"
+      }
+    ],
+    "valid": true,
+    "body_bytes": 247,
+    "body_sha256": "556a89e50d2536a859b1109a8455e46e59766f54bb59e68917d31cadb4219dac"
+  }
+]

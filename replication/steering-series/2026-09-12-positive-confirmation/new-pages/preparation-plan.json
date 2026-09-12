@@ -1,0 +1,33 @@
+{
+  "seed": 20260912,
+  "target_pages": 100,
+  "max_source_candidates": 1000,
+  "wall_cap_s": 900,
+  "prior_titles_excluded_before_count": [
+    "Blowhole Diversion Tunnel",
+    "Helodium",
+    "Norah Runge",
+    "Rotokakahi River",
+    "Ypthima pupillaris"
+  ],
+  "prior_manifest": "/Users/hananather/Desktop/MATS 12.0/replication/steering-agent/runs/forgery5-tool_minus_cot-a16/input-manifest.json",
+  "prior_manifest_sha256": "0df1e2808978208dc304d8c8d41275e2f9e3c0c30a3997301903c278afa10f54",
+  "frozen_prepare": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/agent_steering/frozen_harness/prepare.py",
+  "frozen_prepare_sha256": "14404f8f1060bb7273a30ccc5ea8f2defe8578c54bceb4c8a0be33758f407c39",
+  "wrapper_sha256": "5bfaab9ded0e3d7c379c879ab40d4072a5fd75af681f282fbe0a8264a2f07628",
+  "source_yaml_sha256": "4a2b103405eae86555b45a533940507809bd86b043b1a230f8b1d905c6a8a9e3",
+  "eligibility": {
+    "class_stripped_bytes_max": 102400,
+    "raw_transport_bytes_max": 524288,
+    "body_boundary_required": true
+  },
+  "recipe_changes": [
+    "I exclude the five original titles before acceptance/counting and journal their original stream indices.",
+    "I cap original source candidates at1000 and wall time at900seconds."
+  ],
+  "model_calls": 0,
+  "gpu_calls": 0,
+  "paid_api_calls": 0,
+  "prospective": true,
+  "outcome_based_selection": false
+}

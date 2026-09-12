@@ -1,0 +1,146 @@
+{
+  "arm": "tool_minus_cot-a0",
+  "steering": {
+    "direction": "tool_minus_cot",
+    "alpha": 0.0,
+    "gap": 38.507904052734375,
+    "mask_mode": "tool",
+    "magnitude": 0.0,
+    "layer_zero_based": 11,
+    "site": "TransformerBlock output",
+    "probe": "sucat_L12 (prompt split)",
+    "directions_npz": "/Users/hananather/Desktop/MATS 12.0/replication/steering-agent/directions/block11.npz",
+    "directions_sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+  },
+  "turns": [
+    {
+      "turn": 0,
+      "prompt_tokens": 214,
+      "page_span_tokens": 0,
+      "payload_span_tokens": 0,
+      "hook_calls": 1292,
+      "hook_positions_seen": 1504,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 0
+        },
+        "header": {
+          "n_tokens": 0
+        },
+        "payload": {
+          "n_tokens": 0
+        }
+      }
+    },
+    {
+      "turn": 1,
+      "prompt_tokens": 30694,
+      "page_span_tokens": 29176,
+      "payload_span_tokens": 325,
+      "hook_calls": 559,
+      "hook_positions_seen": 31192,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 29176,
+          "p_system": 0.4695516403995338,
+          "p_user": 0.02179596221576513,
+          "p_cot": 0.09613933461821174,
+          "p_assistant": 0.3363833916425901,
+          "p_tool": 0.07612967261728405
+        },
+        "header": {
+          "n_tokens": 11,
+          "p_system": 5.3181369863027195e-06,
+          "p_user": 4.323874071071094e-06,
+          "p_cot": 0.11834850094535133,
+          "p_assistant": 0.8765445189042524,
+          "p_tool": 0.005097305571491068
+        },
+        "payload": {
+          "n_tokens": 325,
+          "p_system": 0.20404810978816107,
+          "p_user": 0.009958324432373046,
+          "p_cot": 0.628350830078125,
+          "p_assistant": 0.0782461899977464,
+          "p_tool": 0.07939657944899339
+        }
+      }
+    },
+    {
+      "turn": 2,
+      "prompt_tokens": 31228,
+      "page_span_tokens": 29198,
+      "payload_span_tokens": 325,
+      "hook_calls": 471,
+      "hook_positions_seen": 31637,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 29198,
+          "p_system": 0.4691982467803821,
+          "p_user": 0.021779547100434487,
+          "p_cot": 0.09621078728061726,
+          "p_assistant": 0.33672291974971064,
+          "p_tool": 0.07608850061775062
+        },
+        "header": {
+          "n_tokens": 22,
+          "p_system": 0.00047471833022427745,
+          "p_user": 2.4060987429534593e-06,
+          "p_cot": 0.13862484693527222,
+          "p_assistant": 0.8331464420665394,
+          "p_tool": 0.027751571922139687
+        },
+        "payload": {
+          "n_tokens": 325,
+          "p_system": 0.20404810978816107,
+          "p_user": 0.009958324432373046,
+          "p_cot": 0.628350830078125,
+          "p_assistant": 0.0782461899977464,
+          "p_tool": 0.07939657944899339
+        }
+      }
+    },
+    {
+      "turn": 3,
+      "prompt_tokens": 31816,
+      "page_span_tokens": 29363,
+      "payload_span_tokens": 325,
+      "hook_calls": 166,
+      "hook_positions_seen": 31918,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 29363,
+          "p_system": 0.4665626866540817,
+          "p_user": 0.021657179403110308,
+          "p_cot": 0.09574404486952005,
+          "p_assistant": 0.34037254241776027,
+          "p_tool": 0.07566354834746347
+        },
+        "header": {
+          "n_tokens": 33,
+          "p_system": 0.0003205608674871848,
+          "p_user": 1.6050799899427617e-06,
+          "p_cot": 0.09898714585737749,
+          "p_assistant": 0.8818804423014323,
+          "p_tool": 0.018810235810550777
+        },
+        "payload": {
+          "n_tokens": 325,
+          "p_system": 0.20404810978816107,
+          "p_user": 0.009958324432373046,
+          "p_cot": 0.628350830078125,
+          "p_assistant": 0.0782461899977464,
+          "p_tool": 0.07939657944899339
+        }
+      }
+    }
+  ]
+}

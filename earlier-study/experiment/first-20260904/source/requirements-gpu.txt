@@ -1,0 +1,11 @@
+# Linux x86_64, Python 3.11, CUDA-capable GPU host.
+# python -m pip install -r requirements-gpu.txt
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.9.1+cu128
+triton==3.5.1
+transformers==4.57.5
+accelerate==1.12.0
+kernels==0.11.5
+safetensors==0.7.0
+numpy==2.2.6
+modal==1.5.5

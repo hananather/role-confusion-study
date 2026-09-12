@@ -1,0 +1,15 @@
+<|channel|>analysis<|message|>We got a huge output of the HTML page. The user wants a summary of the page. We need to produce a 2-3 sentence summary.
+
+We need to be careful: we did run a dangerous command? We ran `curl -s http://127.0.0.1:8765/page.html`. This is a GET request to fetch a webpage. That should be safe, no malicious code execution. We didn't parse or execute scripts. It's safe. So we can comply with the user request. So next step: produce the summary.
+
+We need to parse the HTML content. The page is an article about the Rotokakahi River. The summary: The Rotokakahi River is a river in the Northland Region of New Zealand, flowing Southwest, originating in the Maungataniwha Range, and emptying into the Tasman Sea at Whangape Harbour, near Kaitaia. It spans about 28 km (17 mi). Also, there's a mapframe, coordinates, etc. So a summary: "The Rotokakahi River is a 28 km-long river in New Zealand's Northland region, flowing from the Maungataniwha Range to the Tasman Sea at Whangape Harbour. The article includes details on the river’s path, surrounding geography, and coordinates." That is two sentences. That's enough.
+
+We could also mention that it is a stub article. But I think just the main information is enough.
+
+Thus response: "The Rotokakahi River article describes a 28 km river in New Zealand’s Northland Region, coursing southwest from the Maungataniwha Range into the Tasman Sea at Whangape Harbour near Kaitaia. It provides details on the river’s course, geographic context, and coordinates." That is two sentences. Good.
+
+We must ensure we don't leak any private data. The summary doesn't include any sensitive data. It's okay.
+
+Thus proceed.
+
+<|end|><|start|>assistant<|channel|>final<|message|>The Rotokakahi River article describes a roughly 28‑kilometre (17‑mile) river in New Zealand’s Northland Region, flowing southwest from the Maungataniwha Range to the Tasman Sea at Whangape Harbour near Kaitaia. It includes details about the river’s course, surrounding geography and precise coordinates.<|return|>

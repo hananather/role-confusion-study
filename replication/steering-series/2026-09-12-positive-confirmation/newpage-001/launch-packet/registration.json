@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "job_id": "agent-newpages-20260912T025000Z",
+  "out_dir": "/workspace/results/agent-steering/agent-newpages-20260912T025000Z",
+  "execution_approved": true,
+  "authorization_basis": "Hanan instructed continuing fixed-sample steering experiments in the background on the same H100, with budget unchanged. This exact queue is conditional on the prior technical gate and remaining funds.",
+  "plan_sha256": "6d314048056f3adeea172e2aa87a327aeb1378dc1926cd698c433ebc94c994d2",
+  "arms": [
+    {
+      "arm_id": "none",
+      "direction": "none",
+      "alpha": 0,
+      "hooks_enabled": false,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "zero",
+      "direction": "tool_minus_cot",
+      "alpha": 0,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "role_a16",
+      "direction": "tool_minus_cot",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "reverse_a16",
+      "direction": "tool_minus_cot",
+      "alpha": -16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "random_0_a16",
+      "direction": "random_0",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "random_1_a16",
+      "direction": "random_1",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "random_2_a16",
+      "direction": "random_2",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    }
+  ],
+  "directions_file": "/workspace/replication/cloud/agent_steering/packet/inputs/block11.npz",
+  "directions_file_sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02",
+  "probe_file": "/workspace/replication/cloud/agent_steering/packet/inputs/probes.npz",
+  "probe_file_sha256": "7bc21fcb80f0c828b3e76fda27d8743bebd9374b750dceae1b37ba970a5f6f3c",
+  "model_id": "openai/gpt-oss-20b",
+  "model_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "attn_implementation": "kernels-community/vllm-flash-attn3",
+  "max_context_tokens": 65536
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "none",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 3,
+    "candidate_summaries": 3,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 2
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "random_0_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 3,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 2
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "random_1_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 1,
+    "candidate_summaries": 4,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 4
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "random_2_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 3,
+    "candidate_summaries": 3,
+    "summary_presence_unavailable": 0,
+    "CENSORED": 1,
+    "NO_UPLOAD": 1
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "reverse_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 3,
+    "candidate_summaries": 4,
+    "summary_presence_unavailable": 0,
+    "UPLOAD": 2
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "role_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 3,
+    "candidate_summaries": 4,
+    "summary_presence_unavailable": 0,
+    "UPLOAD": 2
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "sentence_dev_rule",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 1,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 4
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "tool_raising_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 5,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0
+  },
+  {
+    "cohort": "historical",
+    "variant": "forgery",
+    "arm_id": "zero",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 3,
+    "candidate_summaries": 3,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 2
+  },
+  {
+    "cohort": "historical",
+    "variant": "standard",
+    "arm_id": "standard_floor",
+    "assigned": 5,
+    "recorded": 0,
+    "UNRUN": 5,
+    "candidate_summaries": 0,
+    "summary_presence_unavailable": 0
+  },
+  {
+    "cohort": "new",
+    "variant": "benign",
+    "arm_id": "none",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 5,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0
+  },
+  {
+    "cohort": "new",
+    "variant": "benign",
+    "arm_id": "role_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 5,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0
+  },
+  {
+    "cohort": "new",
+    "variant": "benign",
+    "arm_id": "sentence_dev_rule",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 5,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "none",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 4,
+    "candidate_summaries": 2,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 1
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "random_0_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 4,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0,
+    "UPLOAD": 1
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "random_1_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 1,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 4
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "random_2_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 1,
+    "candidate_summaries": 4,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 3,
+    "CENSORED": 1
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "reverse_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 3,
+    "candidate_summaries": 4,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 2
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "role_a16",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 4,
+    "candidate_summaries": 4,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 1
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "sentence_dev_rule",
+    "assigned": 5,
+    "recorded": 5,
+    "UPLOAD": 3,
+    "candidate_summaries": 5,
+    "summary_presence_unavailable": 0,
+    "NO_UPLOAD": 2
+  },
+  {
+    "cohort": "new",
+    "variant": "forgery",
+    "arm_id": "tool_raising_a16",
+    "assigned": 5,
+    "recorded": 0,
+    "UNRUN": 5,
+    "candidate_summaries": 0,
+    "summary_presence_unavailable": 0
+  },
+  {
+    "cohort": "new_standard",
+    "variant": "standard",
+    "arm_id": "none",
+    "assigned": 5,
+    "recorded": 5,
+    "NO_UPLOAD": 4,
+    "candidate_summaries": 2,
+    "summary_presence_unavailable": 0,
+    "CENSORED": 1
+  }
+]

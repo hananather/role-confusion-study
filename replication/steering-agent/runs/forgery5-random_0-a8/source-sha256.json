@@ -1,0 +1,18 @@
+{
+  "run_steer.py": "e8c1074d53af959c5be9e9c120a693a9af9f5bd02281032babe0e494076cf1ca",
+  "steer_hook.py": "9fb294cd2bac371b7e081d7824e87dc8c95500b266b7ff11c658d9a215efa2ff",
+  "directions.py": "c264d6f58f432cfee173988cf9d4e08a7a7a7e1f23ba6fd50111cc3a0b02e576",
+  "agent_hijacking/run.py": "a115df014555295a7e1194635c28496d592c8518740b22c87380fee436c65e7f",
+  "agent_hijacking/backend.py": "e8276ae8a27402442be23ce835e8d691276c36ac6cf470642cd99cab4543874c",
+  "agent_hijacking/protocol.py": "ccec25467e8c55a0215b6d55a8a25e4ea94e96d45ce5120a0bb01f33566d0b43",
+  "agent_hijacking/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "agent_hijacking/sandbox.py": "c7a551a5e1d9bdf04e2f3a121140e7e341611912f35ac2622a44457e570bcb10",
+  "agent_hijacking/report.py": "34e68606f03e0b36c24fceb18734b9421c682287574d426a1a965cfd28f5f80e",
+  "agent_hijacking/prepare.py": "14404f8f1060bb7273a30ccc5ea8f2defe8578c54bceb4c8a0be33758f407c39",
+  "sandbox/runner.py": "9a9bc33f5c65cf79dda303efb81909958cc9605af4c37bcf0ca35f380b06ba98",
+  "sandbox/server.py": "a7e97cd7c6b2fd8d494be827d2d6c534f3689d976929195c963caa9f10b3a529",
+  "sandbox/watchdog.py": "393b8de2dcab04cadd1c12cbc17029f746afd3d6391dcc8a5ba1a7f59559d9f2",
+  "sandbox/Dockerfile": "c7ea7e7f7164ef75eb343cc2bf3791be37d78c1a1507e87d82052c918d28c2c7",
+  "pyproject.toml": "50513777e0452a6519a9ce21d5b10a2cfbc51878fff7e2f5986e9a1c1186836b",
+  "PLAN.md": "07088af3e31a9786ae079d421ee755edb00e2a12b44c7061ac9b4442a1a325bb"
+}

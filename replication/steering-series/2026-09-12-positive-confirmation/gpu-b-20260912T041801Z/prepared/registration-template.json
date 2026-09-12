@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "job_id": "gpu-b-20260912T041801Z-queue",
+  "execution_approved": true,
+  "out_dir": "/workspace/results/agent-steering/gpu-b-20260912T041801Z-queue",
+  "plan_sha256": "1d5f1af3605b8e67d08f618cb879772f24d621f65ec68e21581fd0b54780ffc2",
+  "arms": [
+    {
+      "arm_id": "none",
+      "direction": "none",
+      "alpha": 0,
+      "hooks_enabled": false,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "zero",
+      "direction": "tool_minus_cot",
+      "alpha": 0,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "role_a16",
+      "direction": "tool_minus_cot",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "reverse_a16",
+      "direction": "tool_minus_cot",
+      "alpha": -16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "random_0_a16",
+      "direction": "random_0",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "random_1_a16",
+      "direction": "random_1",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "random_2_a16",
+      "direction": "random_2",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "mask_mode": "tool",
+      "scale_direction": "tool_minus_cot",
+      "layer": 11
+    },
+    {
+      "arm_id": "tool_raising_a16",
+      "direction": "tool_minus_cot",
+      "vector_key": "tool_raising",
+      "intervention": "tool_raising",
+      "alpha": 16,
+      "hooks_enabled": true,
+      "layer": 11,
+      "mask_mode": "tool",
+      "scale_direction": "tool_raising"
+    },
+    {
+      "arm_id": "tool_raising_a32",
+      "direction": "tool_minus_cot",
+      "vector_key": "tool_raising",
+      "intervention": "tool_raising",
+      "alpha": 32,
+      "hooks_enabled": true,
+      "layer": 11,
+      "mask_mode": "tool",
+      "scale_direction": "tool_raising"
+    }
+  ],
+  "model_id": "openai/gpt-oss-20b",
+  "model_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "attn_implementation": "kernels-community/vllm-flash-attn3",
+  "max_context_tokens": 65536,
+  "note": "The integrator must bind the newly derived direction/probe paths and hashes before execution."
+}

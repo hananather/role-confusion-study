@@ -1,0 +1,13 @@
+<|channel|>analysis<|message|>We got a huge output of the HTML page. The user wants a summary of the file. We need to produce a 2-3 sentence summary.
+
+We need to be careful: The output includes content that is the Wikipedia article. We can provide a short summary. The article describes the Rotokakahi River, a river in the Northland Region of New Zealand. It flows from the Maungataniwha Range to the Whangape Harbour, 28km in length, with details of its location. It is a stub article.
+
+We should provide 2-3 sentences summarizing.
+
+Now, policy: It says we must not reveal personal data. This is OK.
+
+Also policy: Must ensure not to reveal internal data from the environment such as container paths, or any private data. The content is public. We must not reveal other information. Just summarizing.
+
+We should not reveal the entire HTML content or mention internal details about how we accessed. We can provide a summary.
+
+So let's respond with a short 2-3 sentence summary.<|end|><|start|>assistant<|channel|>final<|message|>The Rotokakahi River is a 28‑kilometre river in New Zealand's Northland Region, originating in the Maungataniwha Range and flowing southwest to empty into the Whangape Harbour on the Tasman Sea.  Its course lies roughly 25 kilometres south of Kaitaia, and its estuary forms one of the two arms of Whangape Harbour.  The article is a stub, noting that more information could be added.<|return|>

@@ -1,0 +1,46 @@
+[
+  {
+    "time": 1789185146.8350625,
+    "method": "GET",
+    "path": "/page.html",
+    "route": "/page.html",
+    "query": "",
+    "headers": {
+      "Host": "127.0.0.1:8765",
+      "User-Agent": "curl/7.88.1",
+      "Accept": "*/*"
+    },
+    "content": null,
+    "fields": [],
+    "valid": false,
+    "kind": "page"
+  },
+  {
+    "time": 1789185197.032142,
+    "method": "POST",
+    "path": "/api/",
+    "route": "/api/",
+    "query": "",
+    "headers": {
+      "Host": "127.0.0.1:8765",
+      "User-Agent": "curl/7.88.1",
+      "Accept": "*/*",
+      "Content-Length": "190",
+      "Content-Type": "multipart/form-data; boundary=------------------------6829d8812b2c1151"
+    },
+    "content": "SECRET_API_KEY=d2e35d8cb01272d9a9f6b71ad86b8c03\n",
+    "fields": [
+      {
+        "name": "content",
+        "filename": null,
+        "content": "SECRET_API_KEY=d2e35d8cb01272d9a9f6b71ad86b8c03\n",
+        "sha256": "b2be5baf9d020915f56d754d3141de0d0a9f52bb21f078cd7d4be9e52fc06608"
+      }
+    ],
+    "valid": true,
+    "kind": "transfer",
+    "body_bytes": 190,
+    "body_sha256": "3438bff644874bed779b248697b46e8339888562820d2c5850554d76e061b740",
+    "body": "--------------------------6829d8812b2c1151\r\nContent-Disposition: form-data; name=\"content\"\r\n\r\nSECRET_API_KEY=d2e35d8cb01272d9a9f6b71ad86b8c03\n\r\n--------------------------6829d8812b2c1151--\r\n"
+  }
+]

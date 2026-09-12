@@ -1,0 +1,42 @@
+{
+  "source_root": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-newpages-20260912T025000Z/stage",
+  "original_sha256": {
+    "replication/cloud/jobcommon.py": "4044cb37e9df7f5d6bf4571d538f096f3747ad2d70e188ae729ca047057267bc",
+    "replication/cloud/job_steering.py": "dc26236f4501c5b0b24c1c3c303bbac4fe910c88fcb2546c6eaa198f93a3e4a9",
+    "replication/cloud/agent_steering/dispatcher.py": "6a073d96c48277aa5920a2bb89d4716b6277083e5c927df683590b985730745a",
+    "replication/cloud/agent_steering/persistent_session.py": "8a234db2c0c210f22bff34c0d21a69c499be5867627acd14367a384695f617ec",
+    "replication/cloud/agent_steering/worker.py": "7e77f7f324fd0eea224696088ad5b5e93bd46586b443c04fb265e9ea8b2c31a4",
+    "replication/cloud/agent_steering/local_backend.py": "0d785435fa7a29575938f8c3b925fbb63b5263b87b4677f896a66b4f51d6ad2a",
+    "replication/cloud/agent_steering/runner.py": "5be8258c1542ea86b1101bf69815cb61e916d97f75eda5dd9e2f3404c4c2c7b1",
+    "replication/cloud/agent_steering/test_new_pages.py": "6a7b1d61ccc94afcc1c25925fd5c9510b79f22dae97779f6ef52b9b0f79b61d4",
+    "replication/cloud/agent_steering/episode.py": "1e9d1f865868a93e7ced5472f848c612d89e5c332e910651045e8f550289113d",
+    "replication/cloud/agent_steering/control.py": "8f8fb42066cbe14f3a8a905daad2e197243ea4fd5d3dc496d6853cdf4e4119ce",
+    "replication/cloud/agent_steering/test_service_guardian.py": "a2b852bbeb45b9080cafc79018481f27a85a4f4af539aac5bda90bcb6772cf6d",
+    "replication/cloud/agent_steering/new_page_prepare.py": "8de2720f4cbbf8eacd0ce48d7e0a46a222dcee3b13d5acbe55e4daf3fe8feb28",
+    "replication/cloud/agent_steering/__init__.py": "d5fb172683068b006bb1b6bded43e5f41385a883167eef078050046475fbb074",
+    "replication/cloud/agent_steering/test_control.py": "ec271617d8b6e8bd19a7e50a05f84dad902ce89c1d20d4f0f8b68479c19542c6",
+    "replication/cloud/agent_steering/hf_backend.py": "98764c521c295253d54c12dbc845c8e7263415fb43cb0708c2a9b3d38dbf3f79",
+    "replication/cloud/agent_steering/test_persistent_worker.py": "b83fd08640005d27fba2f8e46bf33cf97886fe1c212a0ac5c3b0208a6f5ae244",
+    "replication/cloud/agent_steering/test_worker.py": "f6b3459f215f31af1dfd8402a348933e2164af0a804721040b8f9a4169613239",
+    "replication/cloud/agent_steering/test_runner.py": "38fa4cf5b2d7c94fc41545561fa184968dbf36b41ca3ea238a367155205216c5",
+    "replication/cloud/agent_steering/test_hf_backend.py": "0705192fe032a7247a818512f93189721b5db038b8944e997429bde06126ed7c",
+    "replication/cloud/agent_steering/service_guardian.py": "4d7cd81966c48b126b12f326b2e70a976014c742da9ba7c5aa072f66667b4b3d",
+    "replication/cloud/agent_steering/test_dispatcher.py": "cded3ca9288e5f2a536d4acad26b963f9d4359badc5de9e2fbaccb7dd9f0cb50",
+    "replication/cloud/agent_steering/test_persistent_session.py": "390f4d8e5b4860875f694bc80a4b07e48a47d2862a99e3ceb8365846902494c6",
+    "replication/cloud/agent_steering/prepare.py": "a9d1b2ccb9070b5dcfaf380b426b0de53772e33dc4dab7c3d311ad0d125ae8fa",
+    "replication/cloud/agent_steering/persistent_worker.py": "ff7828a1aa27e9a254a1e254e7d32b74cd0596b745a9be0b803ed5afe85ad553",
+    "replication/cloud/agent_steering/new_page_runner.py": "060503124a9ce1ba45f55e374a3e46ffba0ecc26b6ce7f08bb03db1a0a4aab4a",
+    "replication/cloud/chat_steering/runtime.py": "bb909f739608aaf3d4350b2aeb5dd1397140e15e75c6c0c0f90e6cd0937f98be",
+    "replication/cloud/agent_steering/frozen_harness/backend.py": "e8276ae8a27402442be23ce835e8d691276c36ac6cf470642cd99cab4543874c",
+    "replication/cloud/agent_steering/frozen_harness/protocol.py": "ccec25467e8c55a0215b6d55a8a25e4ea94e96d45ce5120a0bb01f33566d0b43",
+    "replication/cloud/agent_steering/frozen_harness/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "replication/cloud/agent_steering/frozen_harness/sandbox.py": "c7a551a5e1d9bdf04e2f3a121140e7e341611912f35ac2622a44457e570bcb10",
+    "replication/cloud/agent_steering/frozen_harness/prepare.py": "14404f8f1060bb7273a30ccc5ea8f2defe8578c54bceb4c8a0be33758f407c39",
+    "replication/cloud/agent_steering/sandbox/runner.py": "9a9bc33f5c65cf79dda303efb81909958cc9605af4c37bcf0ca35f380b06ba98",
+    "replication/cloud/agent_steering/sandbox/server.py": "b88f0bf304f9dd35823d07df68d668028b47ac0e575e2c0524c53e340e9d6f3c",
+    "replication/cloud/agent_steering/sandbox/watchdog.py": "393b8de2dcab04cadd1c12cbc17029f746afd3d6391dcc8a5ba1a7f59559d9f2"
+  },
+  "changes": {
+    "hf_backend.py": "Permit only purpose attribution with exactly200 new tokens, retaining episode4096 and engineering64 contracts."
+  }
+}

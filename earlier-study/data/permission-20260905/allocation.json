@@ -1,0 +1,1682 @@
+[
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-007",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-001",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-004",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-002",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-008",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-006",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-009",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-005",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-003",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 71
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "random_0",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "prompt",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "tool_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "user_03",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "random_2",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "random_1",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "A",
+    "method": "none",
+    "seed": 43
+  },
+  {
+    "case_id": "permission-000",
+    "authorized_action": "B",
+    "method": "prompt",
+    "seed": 43
+  }
+]

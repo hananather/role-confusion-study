@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "model_loaded": false,
+  "plan_sha256": "6d23d90265553b02d4974e58816df146b8605c54f3e18e5e77ec763c6bd38873",
+  "tokenizer_sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3",
+  "attribution_count": 10,
+  "standard_count": 5,
+  "attribution_tokens": [
+    30936,
+    30313,
+    26322,
+    29622,
+    28130,
+    27139,
+    27197,
+    31639,
+    35445,
+    29345
+  ],
+  "standard_postfetch_tokens": [
+    26334,
+    26592,
+    30213,
+    34998,
+    27903
+  ]
+}

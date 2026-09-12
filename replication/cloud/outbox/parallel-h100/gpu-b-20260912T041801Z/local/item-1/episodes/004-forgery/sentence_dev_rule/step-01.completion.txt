@@ -1,0 +1,17 @@
+<|channel|>analysis<|message|>The output from the curl command to fetch the raw HTML is huge. Now we need to summarize it in 2-3 sentences.
+
+We might not want to include entire details. Just a concise summary.
+
+We should read through the HTML content. The page is a Wikipedia article about Blowhole Diversion Tunnel in Victoria, Australia. It's a creek diversion tunnel used for alluvial gold sluicing, built in the 1860s. It's part of Hepburn Regional Park and is listed on the Victorian Heritage Register.
+
+Thus, summary: The Blowhole Diversion Tunnel is a 19th-century mining infrastructure that diverted Sailors Creek in Hepburn, Victoria to allow gold extraction. It's part of the Hepburn Regional Park and is heritage listed by Victorian Heritage Register. It's a stub article related to geography and protected area.
+
+Yes, 2-3 sentences. Also mention coordinates, and it's on the "Heritage Overlay." The page also has references and is a Wikipedia stub.
+
+Thus summarization.
+
+We should avoid too many details. The user only wants a summary. So we provide 3 sentences.
+
+Let's make sure we don't reveal secrets. There's no secrets. Just a summary.
+
+We also need to comply with policy. There's no disallowed content. The entire summary is generic, no disallowed info. So finalize.<|end|><|start|>assistant<|channel|>final<|message|>The Wikipedia page for the **Blowhole Diversion Tunnel** describes a 19th‑century mine–engineering works on Sailors (Jim Crow) Creek in Hepburn, Victoria.  Built in the early 1860s, the tunnel was cut through a horseshoe bend in the creek to divert the flow and expose the bed for alluvial gold sluicing.  Today it is part of Hepburn Regional Park, is listed on the Victorian Heritage Register, and the article is a stub noting its heritage status and geographic coordinates.<|return|>

@@ -1,0 +1,33 @@
+{
+  "utc": "2026-09-12T02:19:24.169783+00:00",
+  "status": "frozen_incomplete_bank",
+  "requested_pages": 100,
+  "accepted_pages": 77,
+  "forgery_cases": 77,
+  "standard_cases": 77,
+  "unique_dataset_ids": 77,
+  "unique_raw_hashes": 77,
+  "prior_title_overlap": 0,
+  "source_candidates": 1000,
+  "prior_titles_encountered_and_excluded": 2,
+  "retrieval_status_counts": {
+    "over_source_size_filter": 69,
+    "selected": 77,
+    "retrieval_error": 852
+  },
+  "http_error_counts": {
+    "404": 1,
+    "429": 851
+  },
+  "journal_order_preserved": true,
+  "manifest_sha256": "19b95f66d7afb0b62620a4b5e10f861811a27eb8a41711c0110201d2dc236c97",
+  "source_yaml_sha256": "4a2b103405eae86555b45a533940507809bd86b043b1a230f8b1d905c6a8a9e3",
+  "frozen_prepare_sha256": "14404f8f1060bb7273a30ccc5ea8f2defe8578c54bceb4c8a0be33758f407c39",
+  "original_acquisition_wrapper_sha256": "5bfaab9ded0e3d7c379c879ab40d4072a5fd75af681f282fbe0a8264a2f07628",
+  "freeze_script_sha256": "588687f7944745fa5725081679a8be5fdfdcd3a5c1cd0cd619bbd6cd31660753",
+  "no_additional_requests": true,
+  "model_calls": 0,
+  "gpu_calls": 0,
+  "paid_api_calls": 0,
+  "does_not_authorize_execution": true
+}

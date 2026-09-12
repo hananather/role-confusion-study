@@ -1,0 +1,117 @@
+{
+  "checked_at": "2026-09-12T05:11:58.242328+00:00",
+  "pods": [
+    {
+      "id": "qe41lkeec7s38m",
+      "name": "gpu-b-20260912T041801Z",
+      "desiredStatus": "RUNNING",
+      "costPerHr": 3.49
+    }
+  ],
+  "account": {
+    "checked_at": "2026-09-12T05:11:56.627802+00:00",
+    "balance_usd": 11.8175721151,
+    "autopay_enabled": false
+  },
+  "gpu_b_remote": {
+    "service/heartbeat.json": {
+      "stage": "serving_queue",
+      "guardian_pid": 1007,
+      "worker_pid": 1008,
+      "expected_pod_id": "qe41lkeec7s38m",
+      "run_id": "gpu-b-20260912T041801Z",
+      "unix_time": 1789189917.4707432,
+      "lease_expires_unix": 1789190070.1357377,
+      "shutdown_at_unix": 1789190719.5790985,
+      "allocation_action": "none"
+    },
+    "model-service/heartbeat.json": {
+      "stage": "waiting_for_job",
+      "pid": 1008,
+      "started_unix": 1789187286.7175329,
+      "progress_unix": 1789189913.3061645,
+      "jobs_finished": 1,
+      "active_job": null,
+      "request_id": null,
+      "allocation_action": "none",
+      "lease_id": "gpu-b-20260912T041801Z",
+      "lease_expires_unix": 1789190070.1357377,
+      "shutdown_at_unix": 1789190719.5790985,
+      "budget_remaining_usd": 0.8050472556995466,
+      "completed": 70,
+      "phase": "generation",
+      "generated_tokens": 1157,
+      "unix_time": 1789189913.555633
+    },
+    "model-service/runtime-heartbeat.json": {
+      "time_utc": "2026-09-12T04:28:18.541321+00:00",
+      "unix_time": 1789187298.5413642,
+      "stage": "loading"
+    },
+    "model-service/job-receipts/gpu-b-20260912T041801Z-queue.json": {
+      "schema_version": 1,
+      "job_id": "gpu-b-20260912T041801Z-queue",
+      "job_file_sha256": "89a74724211e3d1352618cc3e8211d5547e8cf8047cbcabc1537e11fcf1fdd8f",
+      "completed_requests": 70,
+      "finished_unix": 1789189837.116414,
+      "model_closed": false,
+      "model_reused": true,
+      "allocation_action": "none",
+      "status": "job_stopped",
+      "stop_reason": "job_stop",
+      "error": null
+    },
+    "active_pids": {
+      "1007": true,
+      "1008": true
+    },
+    "jobs": [
+      "gpu-b-20260912T041801Z-queue"
+    ]
+  },
+  "gpu_b_finance": {
+    "checked_at_unix": 1789189892.1202824,
+    "error_type": null,
+    "finance": {
+      "account_checked_unix": 1789189890.1327956,
+      "budget_remaining_usd": 0.8050472556995466,
+      "config_sha256": "c428f3bf5990645f2b13255e7a2036418ce2a77bc71c5d1eb046880496cd8368",
+      "consumed_usd": 2.7249527443004533,
+      "credit_available_for_own_pod_usd": 7.756898137968873,
+      "current_allocation_estimated_spend_usd": 2.564952744300453,
+      "incremental_rate_usd_h": 3.4941095890410963,
+      "initial_allowance_usd": 3.65,
+      "last_account": {
+        "autopay_enabled": false,
+        "balance_usd": 12.3950276762
+      },
+      "lease_published_unix": 1789189860.1140482,
+      "own_allowance_remaining_usd": 0.9250472556995466,
+      "peer_obligation_usd": 2.6381259283786402,
+      "pod_id": "qe41lkeec7s38m",
+      "prior_sidecar_spend_usd": 0.16,
+      "provider_checked_unix": 1789189890.1345553,
+      "shared_volume_charged_here": false,
+      "shutdown_at_unix": 1789190719.5790985,
+      "shutdown_reserve_usd": 0.12
+    },
+    "lease": {
+      "approved": true,
+      "budget_remaining_usd": 0.8050472556995466,
+      "expected_pod_id": "qe41lkeec7s38m",
+      "issued_unix": 1789189890.1357377,
+      "lease_expires_unix": 1789190070.1357377,
+      "lease_id": "gpu-b-20260912T041801Z",
+      "pod_id": "qe41lkeec7s38m",
+      "run_id": "gpu-b-20260912T041801Z",
+      "schema_version": 1,
+      "scope": "approved_gpu_b_queue",
+      "shutdown_at_unix": 1789190719.5790985
+    },
+    "live_check_passed": true,
+    "pod_id": "qe41lkeec7s38m",
+    "ready_and_idle_do_not_terminate": true,
+    "state": "retained_standby"
+  },
+  "allocation_action": "none"
+}

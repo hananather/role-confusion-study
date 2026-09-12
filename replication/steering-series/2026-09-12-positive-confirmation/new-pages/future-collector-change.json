@@ -1,0 +1,7 @@
+{
+  "original_wrapper_sha256": "5bfaab9ded0e3d7c379c879ab40d4072a5fd75af681f282fbe0a8264a2f07628",
+  "original_wrapper_copy": "source/acquisition-wrapper-used.py",
+  "future_wrapper_sha256": "66999f876e349528fdc932b67f4b4308e282bd72fd3f04024a149dcc9f17b869",
+  "change": "Future acquisition stops on first HTTP429 and records Retry-After. No rerun performed.",
+  "executed_after_change": false
+}

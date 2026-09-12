@@ -1,0 +1,50 @@
+{
+  "recorded_at": "2026-09-12T05:45:26.013267+00:00",
+  "python": "3.11.8",
+  "numpy": "2.2.2",
+  "source": "frozen private archive desktop tree",
+  "validation_workdir": "role-confusion-study",
+  "source_byte_comparison": {
+    "passed": true,
+    "copied_files": 3744,
+    "failures": []
+  },
+  "saved_evidence": {
+    "command": "python3 scripts/verify_results.py --root .",
+    "passed": true,
+    "indexed_artifacts": 2224,
+    "rows": 110,
+    "recorded": 100,
+    "unrun": 10,
+    "censored": 3,
+    "failures": []
+  },
+  "focused_cpu_tests": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python3 -m unittest replication.cloud.agent_steering.test_hf_backend replication.cloud.parallel_h100.test_tool_raising replication.cloud.parallel_h100.test_closeout -v",
+    "passed": true,
+    "tests_run": 24,
+    "failures": 0,
+    "errors": 0,
+    "warnings": [
+      "RuntimeWarning: divide by zero encountered in matmul",
+      "RuntimeWarning: overflow encountered in matmul",
+      "RuntimeWarning: invalid value encountered in matmul"
+    ],
+    "warning_site": "replication/cloud/agent_steering/test_hf_backend.py:29, fake tensor matrix multiplication during timeout test"
+  },
+  "not_run": [
+    "Model inference or training",
+    "Docker execution",
+    "Provider/API calls",
+    "Complete upstream or local GPU reproduction",
+    "Earlier-study figure and analysis reruns",
+    "Semantic summary-quality grading",
+    "Human code/claim review"
+  ],
+  "new_installs": false,
+  "personal_review_status": "candidate awaits my personal review",
+  "root_document_links": {
+    "checked": 43,
+    "broken": []
+  }
+}

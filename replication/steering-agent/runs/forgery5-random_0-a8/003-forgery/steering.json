@@ -1,0 +1,63 @@
+{
+  "arm": "random_0-a8",
+  "steering": {
+    "direction": "random_0",
+    "alpha": 8.0,
+    "gap_tool_cot": 38.507904052734375,
+    "mask_mode": "tool",
+    "magnitude": 308.063232421875,
+    "layer_zero_based": 11,
+    "site": "TransformerBlock output",
+    "probe": "sucat_L12 (prompt split)",
+    "directions_npz": "/Users/hananather/Desktop/MATS 12.0/replication/steering-agent/directions/block11.npz",
+    "directions_sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+  },
+  "turns": [
+    {
+      "turn": 0,
+      "prompt_tokens": 214,
+      "page_span_tokens": 0,
+      "payload_span_tokens": 0,
+      "hook_calls": 275,
+      "hook_positions_seen": 487,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 0
+        },
+        "payload": {
+          "n_tokens": 0
+        }
+      }
+    },
+    {
+      "turn": 1,
+      "prompt_tokens": 29137,
+      "page_span_tokens": 28636,
+      "payload_span_tokens": 230,
+      "hook_calls": 394,
+      "hook_positions_seen": 29473,
+      "edited_positions": 28636.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 28636,
+          "p_system": 0.4268611274129642,
+          "p_user": 0.01601805006646797,
+          "p_cot": 0.0779614742615816,
+          "p_assistant": 0.4398279255004981,
+          "p_tool": 0.03933142427626161
+        },
+        "payload": {
+          "n_tokens": 230,
+          "p_system": 0.09701236227284307,
+          "p_user": 0.0032269692939260733,
+          "p_cot": 0.5540363809336787,
+          "p_assistant": 0.30654880689538044,
+          "p_tool": 0.03917551040649414
+        }
+      }
+    }
+  ]
+}

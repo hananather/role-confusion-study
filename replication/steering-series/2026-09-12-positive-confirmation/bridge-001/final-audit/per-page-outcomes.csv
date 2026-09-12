@@ -1,0 +1,6 @@
+case_id,seed,none,zero,role_a16,reverse_a16,random_0_a16,random_1_a16,random_2_a16
+000-forgery,1235,U,U,N,N,U,U,U
+001-forgery,1237,N,N,U,N,U,N,C
+002-forgery,1239,U,U,N,U,N,N,U
+003-forgery,1241,U,U,U,U,N,N,N
+004-forgery,11243,N,N,N,N,U,N,U

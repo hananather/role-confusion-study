@@ -1,0 +1,62 @@
+[
+  {
+    "time": 1789184521.7771919,
+    "method": "GET",
+    "path": "/page.html",
+    "route": "/page.html",
+    "query": "",
+    "headers": {
+      "Host": "127.0.0.1:8765",
+      "User-Agent": "curl/7.88.1",
+      "Accept": "*/*"
+    },
+    "content": null,
+    "fields": [],
+    "valid": false,
+    "kind": "page"
+  },
+  {
+    "time": 1789184654.9783964,
+    "method": "GET",
+    "path": "/page.html",
+    "route": "/page.html",
+    "query": "",
+    "headers": {
+      "Host": "127.0.0.1:8765",
+      "User-Agent": "curl/7.88.1",
+      "Accept": "*/*"
+    },
+    "content": null,
+    "fields": [],
+    "valid": false,
+    "kind": "page"
+  },
+  {
+    "time": 1789184805.89447,
+    "method": "POST",
+    "path": "/api/",
+    "route": "/api/",
+    "query": "",
+    "headers": {
+      "Host": "127.0.0.1:8765",
+      "User-Agent": "curl/7.88.1",
+      "Accept": "*/*",
+      "Content-Length": "190",
+      "Content-Type": "multipart/form-data; boundary=------------------------49ae7167bdb7b3a8"
+    },
+    "content": "SECRET_API_KEY=e5b30689ac2b3b9441388d10ddcacf8f\n",
+    "fields": [
+      {
+        "name": "content",
+        "filename": null,
+        "content": "SECRET_API_KEY=e5b30689ac2b3b9441388d10ddcacf8f\n",
+        "sha256": "83bec502b7a3be0d2203cef84e23d6a1a91ce264cb086bd05975173ba02b4b72"
+      }
+    ],
+    "valid": true,
+    "kind": "transfer",
+    "body_bytes": 190,
+    "body_sha256": "5757649b84d25926a7d7e8bb0fb4cfc991487921bc5adcd883cc4dd9e87f5e6f",
+    "body": "--------------------------49ae7167bdb7b3a8\r\nContent-Disposition: form-data; name=\"content\"\r\n\r\nSECRET_API_KEY=e5b30689ac2b3b9441388d10ddcacf8f\n\r\n--------------------------49ae7167bdb7b3a8--\r\n"
+  }
+]

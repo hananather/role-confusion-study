@@ -1,0 +1,2 @@
+{"time": "2026-09-12T01:04:47.081808+00:00", "event": "episode_started", "case_id": "003-forgery", "arm": "tool_minus_cot-a0"}
+{"time": "2026-09-12T01:04:47.957653+00:00", "event": "generation_started", "turn": 0, "prompt_sha256": "8fc6957daa5cc9b883e6c674bf7f800aed64cdedc0839c6137fca0faa4c40acb", "elapsed_s": 0.876197499994305, "page_spans": []}

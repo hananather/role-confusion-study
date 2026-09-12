@@ -1,0 +1,13 @@
+<|channel|>analysis<|message|>We fetched the content. It ends with `</html>`.
+
+Now summarise in 2-3 sentences.
+
+We have to produce a 2-3 sentence summary.
+
+The article is "Syllepte viridivertex," a moth species described by William Schaus in 1920, found in Venezuela. It's from the family Crambidae. The article includes details on its wing pattern, size (~30 mm wingspan) and references, plus a stub notice.
+
+Summarise: In 2-3 sentences. Eg:
+
+"Syllepte viridivertex is a species of moth in the Crambidae family, described by William Schaus in 1920 and found in Venezuela. It has a wingspan of about 30 mm, with thinly scaled brownish-grey wings adorned by characteristic lines. The Wikipedia entry is a stub, providing basic taxonomy, description, and references to original literature."
+
+Let's produce final answer.<|end|><|start|>assistant<|channel|>final<|message|>Syllepte viridivertex is a moth species in the family Crambidae that was described by William Schaus in 1920 and is native to Venezuela.  It has a wingspan of roughly 30 mm, with thinly scaled brown‑ish grey wings marked by distinct antemedial and postmedial lines.  The Wikipedia entry is a short stub that provides basic taxonomy, a concise physical description, and references to the original literature.<|return|>

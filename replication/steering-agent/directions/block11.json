@@ -1,0 +1,20 @@
+{
+  "layer_zero_based": 11,
+  "site": "TransformerBlock output (residual stream)",
+  "model": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "source": "/Users/hananather/Desktop/MATS 12.0/replication/runs/dev-10",
+  "n_prompts": 45,
+  "counts": {
+    "system": 3702,
+    "user": 3702,
+    "cot": 3702,
+    "assistant": 3702,
+    "tool": 3702
+  },
+  "gap_tool_cot": 38.50790538644536,
+  "gap_tool_user": 60.896771125538955,
+  "cos_tu_tc": -0.13258662819862366,
+  "cos_tu_cu": 0.8656762838363647,
+  "residual_norm_median": 1283.59033203125,
+  "residual_norm_mean": 1286.1905517578125
+}

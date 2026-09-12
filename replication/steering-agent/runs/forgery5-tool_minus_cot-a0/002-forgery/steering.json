@@ -1,0 +1,146 @@
+{
+  "arm": "tool_minus_cot-a0",
+  "steering": {
+    "direction": "tool_minus_cot",
+    "alpha": 0.0,
+    "gap": 38.507904052734375,
+    "mask_mode": "tool",
+    "magnitude": 0.0,
+    "layer_zero_based": 11,
+    "site": "TransformerBlock output",
+    "probe": "sucat_L12 (prompt split)",
+    "directions_npz": "/Users/hananather/Desktop/MATS 12.0/replication/steering-agent/directions/block11.npz",
+    "directions_sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+  },
+  "turns": [
+    {
+      "turn": 0,
+      "prompt_tokens": 214,
+      "page_span_tokens": 0,
+      "payload_span_tokens": 0,
+      "hook_calls": 551,
+      "hook_positions_seen": 763,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 0
+        },
+        "header": {
+          "n_tokens": 0
+        },
+        "payload": {
+          "n_tokens": 0
+        }
+      }
+    },
+    {
+      "turn": 1,
+      "prompt_tokens": 26168,
+      "page_span_tokens": 25391,
+      "payload_span_tokens": 225,
+      "hook_calls": 309,
+      "hook_positions_seen": 26424,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 25391,
+          "p_system": 0.47545104406896993,
+          "p_user": 0.02607960681457808,
+          "p_cot": 0.11465363577433726,
+          "p_assistant": 0.3111007776703954,
+          "p_tool": 0.07271494024459348
+        },
+        "header": {
+          "n_tokens": 11,
+          "p_system": 2.4588389351265505e-06,
+          "p_user": 3.0378297114194455e-06,
+          "p_cot": 0.10965412313287909,
+          "p_assistant": 0.8860567266290839,
+          "p_tool": 0.004283749921755357
+        },
+        "payload": {
+          "n_tokens": 225,
+          "p_system": 0.21281514992316564,
+          "p_user": 0.010859133154578255,
+          "p_cot": 0.6438352118598091,
+          "p_assistant": 0.0649179458618164,
+          "p_tool": 0.06757260719935099
+        }
+      }
+    },
+    {
+      "turn": 2,
+      "prompt_tokens": 26460,
+      "page_span_tokens": 25413,
+      "payload_span_tokens": 225,
+      "hook_calls": 943,
+      "hook_positions_seen": 27350,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 25413,
+          "p_system": 0.4750403314940281,
+          "p_user": 0.026057159719765962,
+          "p_cot": 0.11483805817461575,
+          "p_assistant": 0.3113085301281809,
+          "p_tool": 0.07275592525795378
+        },
+        "header": {
+          "n_tokens": 22,
+          "p_system": 0.0012126788387004954,
+          "p_user": 4.704534479639154e-06,
+          "p_cot": 0.14852369915355335,
+          "p_assistant": 0.785216439854015,
+          "p_tool": 0.06504253738305786
+        },
+        "payload": {
+          "n_tokens": 225,
+          "p_system": 0.2128151896554563,
+          "p_user": 0.010859166584389944,
+          "p_cot": 0.6432506137424046,
+          "p_assistant": 0.06546910285949707,
+          "p_tool": 0.06760596341556972
+        }
+      }
+    },
+    {
+      "turn": 3,
+      "prompt_tokens": 27529,
+      "page_span_tokens": 25578,
+      "payload_span_tokens": 225,
+      "hook_calls": 168,
+      "hook_positions_seen": 27642,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 25578,
+          "p_system": 0.47197950072647527,
+          "p_user": 0.02588907768017003,
+          "p_cot": 0.11421781414341298,
+          "p_assistant": 0.3156258667854812,
+          "p_tool": 0.07228774515181821
+        },
+        "header": {
+          "n_tokens": 33,
+          "p_system": 0.0008257214509891734,
+          "p_user": 3.3777084600260285e-06,
+          "p_cot": 0.1371480623881022,
+          "p_assistant": 0.8197832830024488,
+          "p_tool": 0.04223958826200529
+        },
+        "payload": {
+          "n_tokens": 225,
+          "p_system": 0.21281646453258063,
+          "p_user": 0.010859182404650104,
+          "p_cot": 0.6434384155273437,
+          "p_assistant": 0.06525131755405002,
+          "p_tool": 0.06763466888003879
+        }
+      }
+    }
+  ]
+}

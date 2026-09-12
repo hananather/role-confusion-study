@@ -1,0 +1,209 @@
+{
+  "updated_at": "2026-09-12T05:14:31.122618+00:00",
+  "proposed_seven": [
+    {
+      "number": 1,
+      "name": "Paragraph patching",
+      "status": "not_run",
+      "detail": "Code review/preparation only; no run of the proposed comparison."
+    },
+    {
+      "number": 2,
+      "name": "Doubt-point counterfactual",
+      "status": "not_run",
+      "detail": "Code review/preparation only; no run of the proposed comparison."
+    },
+    {
+      "number": 3,
+      "name": "Wrapper manipulation",
+      "status": "not_run",
+      "detail": "Code review/preparation only; no run of the proposed comparison."
+    },
+    {
+      "number": 4,
+      "name": "Who-wrote-it readout",
+      "status": "partially_complete",
+      "detail": "Ten fixed CUDA post-fetch authorship readouts completed under the newly authorized freeform forced-final question; original forty-page study remains incomplete. Preliminary assistant labels: zero page/tool, nine assistant, one ambiguous/other (mentions system policy and background knowledge); no censoring."
+    },
+    {
+      "number": 5,
+      "name": "40-page two-seed dose comparison",
+      "status": "not_run",
+      "detail": "The original forty-page, two-seed, alpha8/16 design is not run. Separate ten-page alpha16 comparison is complete: role6/10, nohook7/10, random1 2/10; two random2 outcomes remain censored."
+    },
+    {
+      "number": 6,
+      "name": "Full-corpus role geometry",
+      "status": "partially_complete",
+      "detail": "All 24 full-corpus probe-site layers completed from saved activations on CPU; full-corpus block-output capture pending."
+    },
+    {
+      "number": 7,
+      "name": "Decision-level vector",
+      "status": "not_run",
+      "detail": "Code review/preparation only; no run of the proposed comparison."
+    }
+  ],
+  "separate_runs": {
+    "strongreject313": {
+      "saved": 313,
+      "completed": 309,
+      "censored": 4,
+      "variant": "base",
+      "steering_applied": false,
+      "forgery_comparison_run": false,
+      "harmfulness_judged": false,
+      "raw_file": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/chat-steering/baseline-retry-20260912T004400Z/results/generations.jsonl",
+      "raw_sha256": "57cd0771d992e246ca7cf481fb11021bf5f82343bc4693cfa73796c71f6c8063"
+    },
+    "cuda_bridge35": {
+      "recorded": 35,
+      "assigned": 35,
+      "status": "completed",
+      "complete_page_blocks": 5,
+      "control_ablations_complete_for_pages": [
+        "000-forgery",
+        "001-forgery",
+        "002-forgery",
+        "003-forgery",
+        "004-forgery"
+      ],
+      "censored": 1
+    },
+    "newpage40": {
+      "status": "completed_audited_synced",
+      "assigned": 40,
+      "pages": 5,
+      "recorded": 40,
+      "engineering_pilot_passed": true,
+      "censored": 1,
+      "completed_at": "2026-09-12T04:39:48.417717Z",
+      "audit_receipt": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/newpage-001/final-audit/receipt.json"
+    },
+    "gpu_a_queue_items5_6": {
+      "readouts_completed": 10,
+      "standard_episodes_completed": 5,
+      "standard_episodes_assigned": 5,
+      "status": "completed_audited_synced",
+      "whole_queue_audit": "passed",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/agent-steering/agent-queue-a-items5-6-20260912/local",
+      "standard_verified_uploads": 0,
+      "standard_resolved_nonuploads": 4,
+      "standard_censored_unresolved": 1,
+      "readout_censored": 0,
+      "audit_receipt": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/final-audit/receipt.json"
+    },
+    "gpu_b_queue_items1_3": {
+      "status": "closed_time_cutoff_synced",
+      "assigned_agent_episodes": 30,
+      "recorded_agent_episodes": 20,
+      "censored": 0,
+      "unrun": 10,
+      "item1_sentence": {
+        "status": "completed",
+        "forgery_assigned": 10,
+        "forgery_recorded": 10,
+        "verified_forgery_uploads": 4,
+        "benign_assigned": 5,
+        "benign_recorded": 5,
+        "benign_verified_uploads": 0,
+        "benign_candidate_summaries": 5,
+        "summary_quality_judged": false
+      },
+      "item2_tool_raising": {
+        "status": "partial_time_cutoff",
+        "assigned": 10,
+        "recorded": 5,
+        "unrun": 5,
+        "recorded_cohort": "historical 000-004",
+        "unrun_case_ids": [
+          "new-000-forgery",
+          "new-001-forgery",
+          "new-002-forgery",
+          "new-003-forgery",
+          "new-004-forgery"
+        ],
+        "verified_uploads_among_recorded": 0,
+        "candidate_summaries": 5,
+        "censored": 0,
+        "gate_prompts": 5,
+        "gate_all_passed": true,
+        "selected_arm": "tool_raising_a16",
+        "doubled_dose_tested": false,
+        "summary_quality_judged": false,
+        "matched_historical_upload_counts": {
+          "none": 3,
+          "old_role_a16": 2,
+          "best_random": 1
+        },
+        "claim_boundary": "Provisional 0/5 on historical pages; one fewer upload than best random. Five assigned new pages are UNRUN, so the ten-page prediction and new-page generalization remain untested."
+      },
+      "item3_historical_standard": {
+        "status": "unrun_time_cutoff",
+        "assigned": 5,
+        "recorded": 0,
+        "unrun": 5,
+        "verified_uploads": null
+      },
+      "closeout": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/closeout-20260912T051046Z/closeout.json",
+      "sync_receipt": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/closeout-20260912T051046Z/sync-and-close-receipt.json",
+      "independent_item2_audit": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/closeout-20260912T051046Z/independent-item2-audit.json"
+    }
+  },
+  "roadmap": {
+    "planned_order_after_registered_batches": null,
+    "remaining_geometry": "Prepare alongside other work; requires full-corpus block-output capture.",
+    "all_seven_planned": true,
+    "all_seven_queued": false,
+    "all_seven_funded": false,
+    "estimated_h100_hours": [
+      15,
+      20
+    ],
+    "estimate_scope": "Original proposed single-continuation design, with one random direction per dose in E5; runtime modes not all timed.",
+    "next_direction_preference": "The one-hour queue is closed with ten UNRUN assignments. Highest next recommendation, conditional on new execution authorization: finish the five fixed new Tool-raising pages before expanding; judge saved summary quality and recognition blind to arm, and calibrate authorship using clean controls. No new run is authorized by this status file.",
+    "original_proposed_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "current_authorized_queue": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/RUN-QUEUE-2026-09-12.md",
+    "authorized_queue_status": "closed_partial_time_cutoff"
+  },
+  "combined_counts": {
+    "recorded_agent_episodes": 100,
+    "uncensored_agent_episodes": 97,
+    "censored_agent_episodes": 3,
+    "separate_authorship_readouts": 10,
+    "unrun_assigned_agent_episodes": 10,
+    "engineering_readouts_in_episode_count": false,
+    "source_closeouts": [
+      "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/newpage-001/final-audit/receipt.json",
+      "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/queue-gpu-a/final-audit/receipt.json",
+      "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/closeout-20260912T051046Z/sync-and-close-receipt.json"
+    ]
+  },
+  "execution_snapshot": {
+    "gpu_a": {
+      "pod_id": "nz1bypfsiv62sc",
+      "status": "terminated_at_user_request",
+      "user_shutdown_at": "2026-09-12T05:11:30+00:00",
+      "verified_at": "2026-09-12T05:11:39.114980+00:00",
+      "verified_404": true,
+      "absent_from_inventory": true,
+      "prior_retention_instruction_superseded": true,
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/steering-series/2026-09-12-positive-confirmation/persistent-session/state/user-shutdown-verification.json"
+    },
+    "gpu_b": {
+      "pod_id": "qe41lkeec7s38m",
+      "last_observed_status": "retained_idle_model_loaded",
+      "observed_at": "2026-09-12T05:11:58.242328+00:00",
+      "recorded_financial_deadline": "2026-09-12T05:25:19.579098+00:00",
+      "source": "/Users/hananather/Desktop/MATS 12.0/replication/cloud/outbox/parallel-h100/gpu-b-20260912T041801Z/closeout-20260912T051046Z/retained-pods-live.json"
+    },
+    "new_provider_check_performed_for_docs": false
+  }
+}

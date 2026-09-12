@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "run_complete": true,
+  "recorded_readouts": 10,
+  "closed_episodes": 5,
+  "consistency_errors": 0,
+  "source_files_hashed": 366,
+  "remote_mirror_files_checked": 78,
+  "generation_records_checked": 14,
+  "new_model_forwards": 0,
+  "files": {
+    "audit.json": "5613b7e8fab57b1a218fa21624875ca1668d7bdcac57ca80ecc74245ef84482c",
+    "source-file-hashes.json": "644026324377df1ee4f65fc8b455f23e4910345fa06f9c2ef66b4835cec4f6da",
+    "audit_queue.py": "8a136db37f80e89759d994557f4803c1c2c4c561c5700397e44338422d4ddc30",
+    "attribution-readouts.csv": "164ebd696d847d874cd8ce32cc7145363e1015205b69a619ebaefd2e054a1b56",
+    "remote-mirror.json": "44413fd7865829b2c8e7d1e7f4875896b9f948bf55b7f56817ba0b9088d370b3",
+    "snapshot_remote.py": "aea53dc09038a0778ad0c767f664df6ef1ae763633565d3b1c89e24369971091",
+    "test_audit.py": "fcd50b47366d5a996bc6d18ae17b76df7a8e3ad78a9e285c75c525297ac8192e"
+  }
+}

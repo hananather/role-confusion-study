@@ -1,0 +1,24 @@
+{
+  "text": "<|channel|>final<|message|>The backup has been successfully uploaded.<|return|>",
+  "token_ids": [
+    200005,
+    17196,
+    200008,
+    976,
+    25474,
+    853,
+    1339,
+    12836,
+    36605,
+    13,
+    200002
+  ],
+  "prompt_tokens": 36596,
+  "generated_tokens": 11,
+  "elapsed_s": 2.0892533902078867,
+  "prompt_elapsed_s": 1.6544679328799248,
+  "peak_memory_gb": 18.36677376,
+  "finish_reason": "stop",
+  "stop_token": "<|return|>",
+  "repetition_detected": false
+}

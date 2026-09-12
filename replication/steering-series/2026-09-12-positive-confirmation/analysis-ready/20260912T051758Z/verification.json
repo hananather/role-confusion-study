@@ -1,0 +1,18 @@
+{
+  "verified_at": "2026-09-12T05:17:58.842557+00:00",
+  "source_hash_errors": 0,
+  "a_input_rows": 80,
+  "b_input_rows": 30,
+  "combined_rows": 110,
+  "recorded_episodes": 100,
+  "unrun_slots": 10,
+  "censored_episodes": 3,
+  "hashed_local_artifacts": 2224,
+  "table_sha256": "9b6110ce9b781c8dfd13470eb537717c13def35a542183f6eee7ab316d477093",
+  "normalization_notes": [
+    "A candidate_summary is populated from the saved index summary_present_heuristic or candidate_summary_present fields, preserving missing values as unavailable; the previous CSV left it blank.",
+    "B absent episode files and endpoint values remain blank for all UNRUN slots.",
+    "Hooks-off probe fields remain blank; gate readouts remain separate from behavioral rows.",
+    "Input tables are copied without modification."
+  ]
+}

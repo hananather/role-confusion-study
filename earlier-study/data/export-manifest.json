@@ -1,0 +1,303 @@
+{
+  "description": "I preserve the original scientific records privately. This manifest identifies every public source copy and its exact transformations; prompts, model outputs, outcomes, token IDs and scored-token probabilities are unchanged.",
+  "excluded": "Full preparation corpus and input bundle; operational logs, runtime/deployment/billing state; private application material and drafting reviews.",
+  "files": [
+    {
+      "source": "results/first-20260904/allocation.json",
+      "public": "data/first-20260904/allocation.json",
+      "source_sha256": "3fd0156d0e3f5a57181b2f7c548befe914ad4f6a5cfe7e48264550b2b7d58ae3",
+      "public_sha256": "3fd0156d0e3f5a57181b2f7c548befe914ad4f6a5cfe7e48264550b2b7d58ae3",
+      "source_bytes": 189962,
+      "public_bytes": 189962,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/cases.json",
+      "public": "data/first-20260904/cases.json",
+      "source_sha256": "0f0326809a11a219a13d9d35b5d3bfbe94943cbc7a7fe29c632b67c2c119ed7e",
+      "public_sha256": "0f0326809a11a219a13d9d35b5d3bfbe94943cbc7a7fe29c632b67c2c119ed7e",
+      "source_bytes": 598031,
+      "public_bytes": 598031,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/adjudications.json",
+      "public": "data/first-20260904/adjudications.json",
+      "source_sha256": "da063527fcabdcba0351f101e9b9c8d614883422152a75ab3af770e20f2657cd",
+      "public_sha256": "0620fe821ac345b8baf8576c3d45230feabbefdde919b785ced4817927021148",
+      "source_bytes": 7708,
+      "public_bytes": 6838,
+      "transformation": "JSON serialization; reviewer metadata omitted. Decisions, reasons, episode hashes and review timestamps unchanged.",
+      "removed_json_pointers": [
+        "/reviewer (each of 16 decisions)"
+      ]
+    },
+    {
+      "source": "results/first-20260904/episodes.jsonl",
+      "public": "data/first-20260904/episodes.jsonl.gz",
+      "source_sha256": "b6f75511316ffafd57bbaf39aef193a6294c3d5d3140998294d650713f550078",
+      "public_sha256": "fdb5041d927580c0a7ca8097cb6914792ea70e1d22755ad4f0cc7d712aea720a",
+      "source_bytes": 79121924,
+      "public_bytes": 20214180,
+      "transformation": "gzip only; decompressed bytes identical",
+      "decompressed_sha256": "b6f75511316ffafd57bbaf39aef193a6294c3d5d3140998294d650713f550078"
+    },
+    {
+      "source": "results/first-20260904/model-metadata.json",
+      "public": "experiment/first-20260904/model-metadata.json",
+      "source_sha256": "04001800367ce13e2ed218cd0da19eae1cfa389ab0e1da9f34921fb1535c3ece",
+      "public_sha256": "83b89674481d10c5be3e1863e89376b6789aac586fa4deb60eeb7c748ad56ffd",
+      "source_bytes": 431774,
+      "public_bytes": 427397,
+      "transformation": "JSON serialization; listed fields omitted",
+      "removed_json_pointers": [
+        "/hf_home",
+        "/hf_modules_cache",
+        "/triton_cache",
+        "/loaded_kernel_files"
+      ]
+    },
+    {
+      "source": "results/first-20260904/config.json",
+      "public": "experiment/first-20260904/config.json",
+      "source_sha256": "a7262e7c57dd4335217642077387b406e3550756d46f251cfcef622aee2eb8f7",
+      "public_sha256": "d5cac4916faec0639570dd892cdb49b06849105ec2f872076d43dd67a16e616c",
+      "source_bytes": 1954997,
+      "public_bytes": 157296,
+      "transformation": "JSON serialization; listed fields omitted",
+      "removed_json_pointers": [
+        "/wall_seconds",
+        "/inputs/corpus",
+        "/inputs/calibration/carrier_text"
+      ]
+    },
+    {
+      "source": "results/first-20260904/source/experiment.py",
+      "public": "experiment/first-20260904/source/experiment.py",
+      "source_sha256": "3da7c4d227c763213b0729d77fd4d186f8435be109fa5eb07468ae42ad90dc6e",
+      "public_sha256": "3da7c4d227c763213b0729d77fd4d186f8435be109fa5eb07468ae42ad90dc6e",
+      "source_bytes": 20641,
+      "public_bytes": 20641,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/source/model.py",
+      "public": "experiment/first-20260904/source/model.py",
+      "source_sha256": "144913a15f0f29eec484b0df0db72ca6d0aa4aa840500863a600d1a50e32ff3f",
+      "public_sha256": "144913a15f0f29eec484b0df0db72ca6d0aa4aa840500863a600d1a50e32ff3f",
+      "source_bytes": 26488,
+      "public_bytes": 26488,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/source/prepare.py",
+      "public": "experiment/first-20260904/source/prepare.py",
+      "source_sha256": "498ce5e052beb275e35f6a14ae51c32842e86054eef1440e0e07e4b4dbd48edc",
+      "public_sha256": "498ce5e052beb275e35f6a14ae51c32842e86054eef1440e0e07e4b4dbd48edc",
+      "source_bytes": 10381,
+      "public_bytes": 10381,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/source/requirements-gpu.txt",
+      "public": "experiment/first-20260904/source/requirements-gpu.txt",
+      "source_sha256": "e0ec4faae9cac23e19019167c3d52c258470ba66b1f9f88e8e44f78afc70bdc9",
+      "public_sha256": "e0ec4faae9cac23e19019167c3d52c258470ba66b1f9f88e8e44f78afc70bdc9",
+      "source_bytes": 291,
+      "public_bytes": 291,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/source/run.py",
+      "public": "experiment/first-20260904/source/run.py",
+      "source_sha256": "1358e12939fa941252383d4a8d713a9cfa68bb8b1dddcea087aaf2f08a33f7cb",
+      "public_sha256": "1358e12939fa941252383d4a8d713a9cfa68bb8b1dddcea087aaf2f08a33f7cb",
+      "source_bytes": 10105,
+      "public_bytes": 10105,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/source/sandbox.py",
+      "public": "experiment/first-20260904/source/sandbox.py",
+      "source_sha256": "1a830a25e7213e9c7dee62a94168a5fee363566760bfe08b35487784bb938663",
+      "public_sha256": "1a830a25e7213e9c7dee62a94168a5fee363566760bfe08b35487784bb938663",
+      "source_bytes": 9282,
+      "public_bytes": 9282,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/allocation.json",
+      "public": "data/permission-20260905/allocation.json",
+      "source_sha256": "b9dcbd3af36808c1bed3674598eb982b6e62faa816234756ee9f04c684b968b9",
+      "public_sha256": "b9dcbd3af36808c1bed3674598eb982b6e62faa816234756ee9f04c684b968b9",
+      "source_bytes": 31323,
+      "public_bytes": 31323,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/cases.json",
+      "public": "data/permission-20260905/cases.json",
+      "source_sha256": "94af8326d7fa5d66ff36869b1f03cf997d0cd392031a7fc4ad3c94cd47986417",
+      "public_sha256": "94af8326d7fa5d66ff36869b1f03cf997d0cd392031a7fc4ad3c94cd47986417",
+      "source_bytes": 97604,
+      "public_bytes": 97604,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/protocol-manifest.json",
+      "public": "data/permission-20260905/protocol-manifest.json",
+      "source_sha256": "453fb2165209029cd43ea106a56cc50d9d0d3920768e5dbd0cb3d1d824ed29f8",
+      "public_sha256": "453fb2165209029cd43ea106a56cc50d9d0d3920768e5dbd0cb3d1d824ed29f8",
+      "source_bytes": 48613,
+      "public_bytes": 48613,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/episodes.jsonl",
+      "public": "data/permission-20260905/episodes.jsonl.gz",
+      "source_sha256": "ef725be4c975fee98dd75d6b9416a37b249bc294c5c2e3ad46a3d9e63d495e35",
+      "public_sha256": "d22deff39b4bd9c343a53d36dcf262f6b09a99b4218a1c819b10e7f5b7a6bd72",
+      "source_bytes": 13762222,
+      "public_bytes": 2118472,
+      "transformation": "JSON serialization; listed fields omitted",
+      "decompressed_sha256": "133821b97db56224b62ff41dcfb3ebdef8626a2b06599f97e2244bde5f28bead",
+      "removed_json_pointers": [
+        "/sandbox_id (each of 149 records)"
+      ]
+    },
+    {
+      "source": "results/permission-20260905/model-metadata.json",
+      "public": "experiment/permission-20260905/model-metadata.json",
+      "source_sha256": "010cc4b7e7e9c827fb91c76fed6811b52a1d3da404c924588f84acd76738632d",
+      "public_sha256": "5b3a757032fb39c7496a69c56be300236a6d2ac0edbf0403734cd2006f3ee6c9",
+      "source_bytes": 557506,
+      "public_bytes": 548546,
+      "transformation": "JSON serialization; listed fields omitted",
+      "removed_json_pointers": [
+        "/asset_origin/source_directory",
+        "/hf_home",
+        "/hf_modules_cache",
+        "/triton_cache",
+        "/loaded_kernel_files",
+        "/asset_origin/metadata/hf_home",
+        "/asset_origin/metadata/hf_modules_cache",
+        "/asset_origin/metadata/triton_cache",
+        "/asset_origin/metadata/loaded_kernel_files"
+      ]
+    },
+    {
+      "source": "results/permission-20260905/config.json",
+      "public": "experiment/permission-20260905/config.json",
+      "source_sha256": "191a00088c2ac9a57169b68423c9f3730c366007cc8abf7eb5b2789b408ae534",
+      "public_sha256": "4b8cb37993eb00d0abb73b122d04fa852597426edc9ffc594bc63050a7fd426b",
+      "source_bytes": 2007630,
+      "public_bytes": 209873,
+      "transformation": "JSON serialization; listed fields omitted",
+      "removed_json_pointers": [
+        "/assets_source",
+        "/wall_seconds",
+        "/inputs/corpus",
+        "/inputs/calibration/carrier_text"
+      ]
+    },
+    {
+      "source": "results/permission-20260905/source/experiment.py",
+      "public": "experiment/permission-20260905/source/experiment.py",
+      "source_sha256": "3da7c4d227c763213b0729d77fd4d186f8435be109fa5eb07468ae42ad90dc6e",
+      "public_sha256": "3da7c4d227c763213b0729d77fd4d186f8435be109fa5eb07468ae42ad90dc6e",
+      "source_bytes": 20641,
+      "public_bytes": 20641,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/source/model.py",
+      "public": "experiment/permission-20260905/source/model.py",
+      "source_sha256": "717310f1ddc42646845fa3457328e70cf47aa2510c4ad228ff50ceaf76a5d3f5",
+      "public_sha256": "717310f1ddc42646845fa3457328e70cf47aa2510c4ad228ff50ceaf76a5d3f5",
+      "source_bytes": 30408,
+      "public_bytes": 30408,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/source/permission.py",
+      "public": "experiment/permission-20260905/source/permission.py",
+      "source_sha256": "e9d1df9dba0b3bec51019454f8be35e789349cb1df9e818a75ddbb4e62dcfa0f",
+      "public_sha256": "e9d1df9dba0b3bec51019454f8be35e789349cb1df9e818a75ddbb4e62dcfa0f",
+      "source_bytes": 11788,
+      "public_bytes": 11788,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/source/prepare.py",
+      "public": "experiment/permission-20260905/source/prepare.py",
+      "source_sha256": "498ce5e052beb275e35f6a14ae51c32842e86054eef1440e0e07e4b4dbd48edc",
+      "public_sha256": "498ce5e052beb275e35f6a14ae51c32842e86054eef1440e0e07e4b4dbd48edc",
+      "source_bytes": 10381,
+      "public_bytes": 10381,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/source/requirements-gpu.txt",
+      "public": "experiment/permission-20260905/source/requirements-gpu.txt",
+      "source_sha256": "e0ec4faae9cac23e19019167c3d52c258470ba66b1f9f88e8e44f78afc70bdc9",
+      "public_sha256": "e0ec4faae9cac23e19019167c3d52c258470ba66b1f9f88e8e44f78afc70bdc9",
+      "source_bytes": 291,
+      "public_bytes": 291,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/source/run.py",
+      "public": "experiment/permission-20260905/source/run.py",
+      "source_sha256": "08879d1bbb876870392b90d639cdbcc79272bf9f71ac240cfc8834ce7a5715ba",
+      "public_sha256": "08879d1bbb876870392b90d639cdbcc79272bf9f71ac240cfc8834ce7a5715ba",
+      "source_bytes": 11706,
+      "public_bytes": 11706,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/permission-20260905/source/sandbox.py",
+      "public": "experiment/permission-20260905/source/sandbox.py",
+      "source_sha256": "c8521d85932dfc41a48ac9696513b55bca2f33c914fec7005a5d972455f5f53c",
+      "public_sha256": "c8521d85932dfc41a48ac9696513b55bca2f33c914fec7005a5d972455f5f53c",
+      "source_bytes": 13696,
+      "public_bytes": 13696,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "results/first-20260904/model-assets.npz",
+      "public": "experiment/model-assets.npz",
+      "source_sha256": "cef4bdf4f0aa33dddef5b1a1b6373eeaecbd45243be8707665a9c4452333fa98",
+      "public_sha256": "cef4bdf4f0aa33dddef5b1a1b6373eeaecbd45243be8707665a9c4452333fa98",
+      "source_bytes": 129000,
+      "public_bytes": 129000,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "LICENSE.md",
+      "public": "LICENSE.md",
+      "source_sha256": "8793aa4141de4b16b6fdd5f7eb3d30e78ccd6fcb13292202f11a9050c0da7f5d",
+      "public_sha256": "8793aa4141de4b16b6fdd5f7eb3d30e78ccd6fcb13292202f11a9050c0da7f5d",
+      "source_bytes": 1022,
+      "public_bytes": 1022,
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source": "analyze.py",
+      "public": "analyze.py",
+      "source_sha256": "e32aa33930947a44453b5e7b6cffe71f2cc90d137ca637d408b0c54b01b8df8d",
+      "public_sha256": "84025f6102c626e6d05da2d46223a81959ec97eeb7b1fffba83a9d1bb50b3e04",
+      "source_bytes": 67644,
+      "public_bytes": 52886,
+      "transformation": "CPU reproduction adaptation: gzip loading; public data paths and output paths; no duplicate generated source files. Figures also clarify direct intervention scope and local-classifier terminology. Computation unchanged. I validate adjudication evidence without requiring omitted reviewer metadata. I removed unused cross-run scope and command-order comparison code and its --reference option; analysis of the two included snapshots is unchanged."
+    },
+    {
+      "source": "figures.py",
+      "public": "figures.py",
+      "source_sha256": "b4cc079b3ed1789129954ec71abd0a273d664ddd4ea60d5d3f656a4509639a0d",
+      "public_sha256": "c7554c7020e374c5051ab2e2e8e971ffe2cf9f9618d2ad50e7de347313e28fae",
+      "source_bytes": 19445,
+      "public_bytes": 17892,
+      "transformation": "I adapted paths for the compressed public data and redesigned the two figures around the fixed-page comparison and a computed case example. Existing score and paired-behavior reductions are unchanged. The redundant behavioral chart is omitted; all method rows, log-ratio and nonce contrasts remain in the CSVs."
+    }
+  ]
+}

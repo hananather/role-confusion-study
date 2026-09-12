@@ -1,0 +1,118 @@
+{
+  "arm": "tool_minus_cot-a8",
+  "steering": {
+    "direction": "tool_minus_cot",
+    "alpha": 8.0,
+    "gap_tool_cot": 38.507904052734375,
+    "magnitude": 308.063232421875,
+    "layer_zero_based": 11,
+    "site": "TransformerBlock output",
+    "probe": "sucat_L12 (prompt split)",
+    "directions_npz": "/Users/hananather/Desktop/MATS 12.0/replication/steering-agent/directions/block11.npz",
+    "directions_sha256": "4ac7b037b0e68b06eb6cc4bf2d60f4c7f7a10d5b27ef68dea6f94d5d68f49c02"
+  },
+  "turns": [
+    {
+      "turn": 0,
+      "prompt_tokens": 214,
+      "page_span_tokens": 0,
+      "payload_span_tokens": 0,
+      "hook_calls": 1292,
+      "hook_positions_seen": 1504,
+      "edited_positions": 0.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 0
+        },
+        "payload": {
+          "n_tokens": 0
+        }
+      }
+    },
+    {
+      "turn": 1,
+      "prompt_tokens": 30694,
+      "page_span_tokens": 29176,
+      "payload_span_tokens": 325,
+      "hook_calls": 1505,
+      "hook_positions_seen": 32138,
+      "edited_positions": 29176.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 29176,
+          "p_system": 0.18193288727246953,
+          "p_user": 0.5775367036923533,
+          "p_cot": 2.1880404304889554e-09,
+          "p_assistant": 1.5307428709507584e-07,
+          "p_tool": 0.24053025722895904
+        },
+        "payload": {
+          "n_tokens": 325,
+          "p_system": 0.07662755526029147,
+          "p_user": 0.19913191575270434,
+          "p_cot": 3.1941390961247424e-09,
+          "p_assistant": 4.617770234570064e-11,
+          "p_tool": 0.7242405348557692
+        }
+      }
+    },
+    {
+      "turn": 2,
+      "prompt_tokens": 32171,
+      "page_span_tokens": 29195,
+      "payload_span_tokens": 325,
+      "hook_calls": 527,
+      "hook_positions_seen": 32634,
+      "edited_positions": 29195.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 29195,
+          "p_system": 0.18182550465079136,
+          "p_user": 0.5772036651120364,
+          "p_cot": 2.1923748504593845e-09,
+          "p_assistant": 1.5312093480534377e-07,
+          "p_tool": 0.24097067834090075
+        },
+        "payload": {
+          "n_tokens": 325,
+          "p_system": 0.07662755526029147,
+          "p_user": 0.19913191575270434,
+          "p_cot": 3.1941390961247424e-09,
+          "p_assistant": 4.617770234570064e-11,
+          "p_tool": 0.7242405348557692
+        }
+      }
+    },
+    {
+      "turn": 3,
+      "prompt_tokens": 32813,
+      "page_span_tokens": 29360,
+      "payload_span_tokens": 325,
+      "hook_calls": 94,
+      "hook_positions_seen": 32841,
+      "edited_positions": 29360.0,
+      "offset_mismatch_calls": 0,
+      "probe_means": {
+        "page": {
+          "n_tokens": 29360,
+          "p_system": 0.18113448255548217,
+          "p_user": 0.5746042845237808,
+          "p_cot": 2.2866844393720667e-09,
+          "p_assistant": 2.393438250797374e-07,
+          "p_tool": 0.24426099454999295
+        },
+        "payload": {
+          "n_tokens": 325,
+          "p_system": 0.07662755526029147,
+          "p_user": 0.19913191575270434,
+          "p_cot": 3.1941390961247424e-09,
+          "p_assistant": 4.617770234570064e-11,
+          "p_tool": 0.7242405348557692
+        }
+      }
+    }
+  ]
+}
