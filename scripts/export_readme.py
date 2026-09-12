@@ -45,6 +45,47 @@ def render_image(object_id, images):
     return '![' + escape(alt) + '](' + quote(path, safe='/._-~') + ')'
 
 
+def render_table(table, tab, images):
+    """I preserve an unmerged table, using its first row as the Markdown header."""
+    rows, columns = table.get('tableRows'), table.get('columns')
+    if (not isinstance(rows, list) or not rows
+            or not isinstance(columns, int) or columns < 1
+            or table.get('rows') != len(rows)):
+        raise ValueError('I need a nonempty rectangular table with recorded dimensions.')
+    rendered_rows, source = [], []
+    count = 0
+    for row in rows:
+        cells = row.get('tableCells')
+        if not isinstance(cells, list) or len(cells) != columns:
+            raise ValueError('I cannot preserve a table with missing or merged cells.')
+        rendered_cells = []
+        for cell in cells:
+            style = cell.get('tableCellStyle', {})
+            if style.get('rowSpan', 1) != 1 or style.get('columnSpan', 1) != 1:
+                raise ValueError('I cannot preserve merged table cells in Markdown.')
+            content = cell.get('content')
+            if not isinstance(content, list) or len(content) != 1:
+                raise ValueError('I support one paragraph per table cell.')
+            node = content[0]
+            if set(node) - {'startIndex', 'endIndex'} != {'paragraph'}:
+                raise ValueError('I cannot preserve nested tables or other cell elements.')
+            paragraph = node['paragraph']
+            named_style = paragraph.get('paragraphStyle', {}).get('namedStyleType', 'NORMAL_TEXT')
+            if paragraph.get('bullet') or named_style != 'NORMAL_TEXT':
+                raise ValueError('I cannot preserve lists or headings inside a table cell.')
+            if any('pageBreak' in element for element in paragraph.get('elements', [])):
+                raise ValueError('I cannot preserve page breaks inside a table cell.')
+            cell_tab = {**tab, 'body': {'content': content}}
+            text, plain, paragraphs = convert({'tabs': [cell_tab]}, images=images,
+                                               tab_id=tab['tabId'])
+            rendered_cells.append(text.strip().replace('|', '\\|').replace('\n', ' <br> '))
+            source.append(plain)
+            count += paragraphs
+        rendered_rows.append('| ' + ' | '.join(rendered_cells) + ' |')
+    rendered_rows.insert(1, '| ' + ' | '.join(['---'] * columns) + ' |')
+    return '\n'.join(rendered_rows), ''.join(source), count
+
+
 def convert(doc, main_only=False, images=None, tab_id='t.0'):
     """I return Markdown, original text runs and the number of exported paragraphs."""
     matches = [tab for tab in doc.get('tabs', []) if tab.get('tabId') == tab_id]
@@ -69,6 +110,12 @@ def convert(doc, main_only=False, images=None, tab_id='t.0'):
     for node in body['content']:
         content_keys = set(node) - {'startIndex', 'endIndex'}
         if content_keys == {'sectionBreak'}:
+            continue
+        if content_keys == {'table'}:
+            rendered, plain, paragraphs = render_table(node['table'], tab, images)
+            blocks.append(rendered)
+            source.append(plain)
+            count += paragraphs
             continue
         if content_keys != {'paragraph'}:
             raise ValueError(f'I cannot preserve document elements: {sorted(content_keys)}.')

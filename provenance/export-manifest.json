@@ -818,8 +818,8 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 37211,
-      "sha256": "5b6559d3fd4682de13da69668af0d06592dc531c6723edad29af2ebbfa6a548b"
+      "bytes": 36755,
+      "sha256": "bc234a09b66e24f1b0ef9282a0b0ffca9fdfdf74708c55118e6892d4ffe7b6a7"
     },
     "docs/README.md": {
       "archive_path": null,
@@ -2181,22 +2181,22 @@
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 2404,
-      "sha256": "9e07dba8cf15b4dbc3adc77ea7cc9c28269048bc68bf95ab6830ee05c424a871"
+      "bytes": 2888,
+      "sha256": "de9b50578c274d161fc1c1b9d7bcbb07d61ac14f2a5fc2fa879bae4a77f755cc"
     },
     "provenance/google-doc-readme/document-text.txt": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 33540,
-      "sha256": "a77aa4c82740038e19d43dfc588e03768d5c341cefce82500700aff820d7e7c1"
+      "bytes": 33033,
+      "sha256": "6c3366c68f451cc1b0846d1f737cb86ef51c11578240f438843075dccb3cb104"
     },
     "provenance/google-doc-readme/document.json": {
       "archive_path": null,
       "category": "repository documentation",
       "modified": true,
-      "bytes": 696444,
-      "sha256": "faeb6ae70b81fae5f934e1ae0f2ea9fe11b3fcf9bc68eec7bd288e4d8d19b51b"
+      "bytes": 669474,
+      "sha256": "2f337ec7b11c5b55b1ee7607195f51e31f93f253cdf7784c64990673594b61e5"
     },
     "provenance/google-doc-readme/images.json": {
       "archive_path": null,
@@ -97370,9 +97370,9 @@
     "scripts/export_readme.py": {
       "archive_path": null,
       "category": "repository documentation",
-      "modified": false,
-      "bytes": 10155,
-      "sha256": "0846d45fa52d6e943e6c9000218701af6159d0da5dee428c6173e36221e47181"
+      "modified": true,
+      "bytes": 12798,
+      "sha256": "8cc35df973a1018c383882f19e070fed89ee17360838c6b132e33e575e28113f"
     },
     "scripts/verify_export.py": {
       "archive_path": null,
@@ -97391,7 +97391,7 @@
   },
   "manifest_scope": "All review-package files except this manifest itself; the Git commit identifies the manifest. Git internals and interpreter caches are excluded.",
   "file_count_excluding_manifest": 12146,
-  "bytes_excluding_manifest": 1532619105,
+  "bytes_excluding_manifest": 1532594299,
   "source_repository_commit": "cd9c9b30b6f342c7033ebd55d252176a94ef3666",
   "expansion": {
     "captured_at": "2026-09-12T06:51:11.706263+00:00",
@@ -97576,7 +97576,7 @@
       "private application and provider-operation records outside selected scientific trees"
     ]
   },
-  "updated_at": "2026-09-12T08:58:25.123972+00:00",
+  "updated_at": "2026-09-12T09:10:56.939287+00:00",
   "cleanup": {
     "record": "provenance/cleanup.json",
     "previous_commit": "83d7f0b14d17e3f3d08489c7627e716190b78a60",
